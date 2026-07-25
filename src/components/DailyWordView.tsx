@@ -7,14 +7,12 @@ interface DailyWordViewProps {
   entries: VocabularyEntry[];
   bookmarkedIds: string[];
   onToggleBookmark: (id: string) => void;
-  onSelectTerm: (term: string) => void;
 }
 
 export const DailyWordView: React.FC<DailyWordViewProps> = ({
   entries,
   bookmarkedIds,
   onToggleBookmark,
-  onSelectTerm,
 }) => {
   const todayIndex = new Date().getDate() % (entries.length || 1);
   const [featuredIndex, setFeaturedIndex] = useState(todayIndex);
@@ -61,7 +59,6 @@ export const DailyWordView: React.FC<DailyWordViewProps> = ({
         entry={featuredEntry}
         isBookmarked={isBookmarked}
         onToggleBookmark={onToggleBookmark}
-        onSelectTerm={onSelectTerm}
       />
     </div>
   );
