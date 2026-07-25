@@ -24,7 +24,12 @@ export default function App() {
   const [bookmarkedIds, setBookmarkedIds] = useState<string[]>(() => {
     try {
       const saved = localStorage.getItem('pulamai_bookmarks');
-      return saved ? JSON.parse(saved) : [];
+      const parsed = saved ? JSON.parse(saved) : [];
+      if (Array.isArray(parsed)) {
+        // Filter out any IDs that might no longer exist in the Lexicon
+        return parsed.filter(id => LEXICON_DATA.some(entry => entry.id === id));
+      }
+      return [];
     } catch {
       return [];
     }
