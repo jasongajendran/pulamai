@@ -22797,4 +22797,510 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "synonyms": ["vindication of God"],
     "antonyms": []
   }
+  ,
+  {
+    "id": "prologue",
+    "word": "Prologue",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature"],
+    "englishDefinition": "A separate introductory section of a literary or musical work.",
+    "tamilDefinition": "முன்னுரை; ஒரு இலக்கிய அல்லது இசைப் படைப்பின் அறிமுகப் பகுதி.",
+    "literaryContext": {
+      "english": "The prologue sets the stage for the tragic events that follow.",
+      "tamil": "முன்னுரையானது பின்வரும் சோக நிகழ்வுகளுக்கான களத்தை அமைக்கிறது.",
+      "sourceNote": "Literary Analysis"
+    },
+    "formalSpeechContext": {
+      "english": "In my prologue, I would like to outline the main themes of today's discussion.",
+      "tamil": "எனது முன்னுரையில், இன்றைய விவாதத்தின் முக்கிய கருப்பொருள்களை கோடிட்டுக் காட்ட விரும்புகிறேன்.",
+      "sourceNote": "Opening Remarks"
+    },
+    "synonyms": ["introduction", "preface", "prelude"],
+    "antonyms": ["epilogue", "conclusion"]
+  },
+  {
+    "id": "premise",
+    "word": "Premise",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Philosophy", "Formal Speech"],
+    "englishDefinition": "A previous statement or proposition from which another is inferred or follows as a conclusion.",
+    "tamilDefinition": "அடிப்படைத் தத்துவம் அல்லது முற்கோள்; ஒரு முடிவுக்கு வர அடிப்படையாக அமையும் கருத்து.",
+    "literaryContext": {
+      "english": "The entire novel is built on the premise that human nature is inherently flawed.",
+      "tamil": "மனித இயல்பு அடிப்படையில் குறைபாடுடையது என்ற முற்கோளின் அடிப்படையிலேயே முழு நாவலும் கட்டமைக்கப்பட்டுள்ளது.",
+      "sourceNote": "Critical Essay"
+    },
+    "formalSpeechContext": {
+      "english": "We must first accept the premise that economic stability is essential for social progress.",
+      "tamil": "சமூக முன்னேற்றத்திற்கு பொருளாதார ஸ்திரத்தன்மை அவசியம் என்ற அடிப்படைத் தத்துவத்தை நாம் முதலில் ஏற்க வேண்டும்.",
+      "sourceNote": "Policy Debate"
+    },
+    "synonyms": ["proposition", "assumption", "thesis"],
+    "antonyms": []
+  },
+  {
+    "id": "mandate",
+    "word": "Mandate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Politics", "Ethics & Society"],
+    "englishDefinition": "An official order or commission to do something; the authority to carry out a policy.",
+    "tamilDefinition": "அதிகாரபூர்வ ஆணை அல்லது மக்கள் ஆணை.",
+    "literaryContext": {
+      "english": "The king issued a strict mandate requiring all citizens to pay the new tribute.",
+      "tamil": "புதிய கப்பத்தை அனைத்து குடிமக்களும் செலுத்த வேண்டும் என்று அரசர் கடுமையான ஆணையைப் பிறப்பித்தார்.",
+      "sourceNote": "Historical Narrative"
+    },
+    "formalSpeechContext": {
+      "english": "The newly elected government claimed a clear mandate for its reform agenda.",
+      "tamil": "புதிதாகத் தேர்ந்தெடுக்கப்பட்ட அரசாங்கம் தனது சீர்திருத்தத் திட்டங்களுக்கு தெளிவான மக்கள் ஆணை இருப்பதாகக் கூறியது.",
+      "sourceNote": "Political Address"
+    },
+    "synonyms": ["directive", "decree", "authorization"],
+    "antonyms": ["veto", "refusal"]
+  },
+  {
+    "id": "hypothesis_2",
+    "word": "Hypothesis",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Science", "Philosophy"],
+    "englishDefinition": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+    "tamilDefinition": "கருதுகோள்; மேலதிக ஆய்விற்கான தொடக்கப் புள்ளியாக அமையும் ஒரு உத்தேச விளக்கம்.",
+    "literaryContext": {
+      "english": "The detective formed a bold hypothesis regarding the true identity of the culprit.",
+      "tamil": "குற்றவாளியின் உண்மையான அடையாளம் குறித்து துப்பறிவாளர் ஒரு துணிச்சலான கருதுகோளை உருவாக்கினார்.",
+      "sourceNote": "Mystery Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "Our initial hypothesis was disproven by the results of the comprehensive study.",
+      "tamil": "விரிவான ஆய்வின் முடிவுகளால் எங்களது ஆரம்பக் கருதுகோள் தவறானது என நிரூபிக்கப்பட்டது.",
+      "sourceNote": "Scientific Presentation"
+    },
+    "synonyms": ["theory", "supposition", "postulate"],
+    "antonyms": ["fact", "proof"]
+  },
+  {
+    "id": "articulate_2",
+    "word": "Articulate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Formal Speech", "Poetics & Rhetoric"],
+    "englishDefinition": "Express (an idea or feeling) fluently and coherently.",
+    "tamilDefinition": "தெளிவாக எடுத்துரைத்தல்; ஒரு கருத்தை அல்லது உணர்வை சரளமாகவும் கோர்வையாகவும் வெளிப்படுத்துதல்.",
+    "literaryContext": {
+      "english": "She struggled to articulate the deep sorrow that weighed heavily upon her heart.",
+      "tamil": "தன் இதயத்தை அழுத்திக் கொண்டிருந்த ஆழ்ந்த துயரத்தைத் தெளிவாக எடுத்துரைக்க அவள் போராடினாள்.",
+      "sourceNote": "Literary Character Study"
+    },
+    "formalSpeechContext": {
+      "english": "The spokesperson was able to articulate the company's vision with great clarity.",
+      "tamil": "நிறுவனத்தின் தொலைநோக்குப் பார்வையை செய்தித் தொடர்பாளர் மிகுந்த தெளிவுடன் எடுத்துரைத்தார்.",
+      "sourceNote": "Corporate Speech"
+    },
+    "synonyms": ["express", "enunciate", "vocalize"],
+    "antonyms": ["mumble", "obscure"]
+  },
+  {
+    "id": "motif",
+    "word": "Motif",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Arts & Culture", "Literature"],
+    "englishDefinition": "A decorative design or pattern; a distinctive feature or dominant idea in an artistic or literary composition.",
+    "tamilDefinition": "அலங்கார வடிவம் அல்லது மையக்கருத்து; ஒரு கலை அல்லது இலக்கியப் படைப்பில் மீண்டும் மீண்டும் வரும் முக்கிய அம்சம்.",
+    "literaryContext": {
+      "english": "The motif of light and darkness runs throughout the entire epic poem.",
+      "tamil": "ஒளி மற்றும் இருள் என்ற மையக்கருத்து இந்த முழு இதிகாசக் கவிதையிலும் ஊடுருவியுள்ளது.",
+      "sourceNote": "Poetry Analysis"
+    },
+    "formalSpeechContext": {
+      "english": "Traditional weavers often incorporate a floral motif into their intricate designs.",
+      "tamil": "பாரம்பரிய நெசவாளர்கள் பெரும்பாலும் தங்கள் சிக்கலான வடிவமைப்புகளில் ஒரு மலர் வடிவத்தை இணைக்கிறார்கள்.",
+      "sourceNote": "Cultural Exhibition"
+    },
+    "synonyms": ["theme", "pattern", "concept"],
+    "antonyms": []
+  },
+  {
+    "id": "integrity",
+    "word": "Integrity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Ethics & Society", "Philosophy"],
+    "englishDefinition": "The quality of being honest and having strong moral principles.",
+    "tamilDefinition": "நேர்மை மற்றும் அறநெறி; நேர்மையாகவும் வலுவான தார்மீகக் கொள்கைகளைக் கொண்டும் இருக்கும் தன்மை.",
+    "literaryContext": {
+      "english": "He was a man of unquestionable integrity, respected by friends and foes alike.",
+      "tamil": "நண்பர்களாலும் எதிரிகளாலும் ஒருசேர மதிக்கப்படும் சந்தேகத்திற்கு இடமில்லாத நேர்மை கொண்ட மனிதராக அவர் இருந்தார்.",
+      "sourceNote": "Biographical Essay"
+    },
+    "formalSpeechContext": {
+      "english": "We must uphold the integrity of our academic institutions at all costs.",
+      "tamil": "எங்கள் கல்வி நிறுவனங்களின் நேர்மையை நாம் எந்த விலைகொடுத்தும் நிலைநிறுத்த வேண்டும்.",
+      "sourceNote": "Convocation Address"
+    },
+    "synonyms": ["honesty", "probity", "righteousness"],
+    "antonyms": ["dishonesty", "corruption"]
+  },
+  {
+    "id": "allusion",
+    "word": "Allusion",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Poetics & Rhetoric", "Literature"],
+    "englishDefinition": "An expression designed to call something to mind without mentioning it explicitly; an indirect or passing reference.",
+    "tamilDefinition": "மறைமுகக் குறிப்பு; ஒன்றை நேரடியாகக் குறிப்பிடாமல் அதை நினைவூட்டும் வகையில் அமைந்த வெளிப்பாடு.",
+    "literaryContext": {
+      "english": "The poet makes a subtle allusion to classical mythology in the second stanza.",
+      "tamil": "கவிஞர் இரண்டாவது பத்தியில் செவ்வியல் புராணங்களைப் பற்றிய நுட்பமான மறைமுகக் குறிப்பைக் கையாள்கிறார்.",
+      "sourceNote": "Literary Criticism"
+    },
+    "formalSpeechContext": {
+      "english": "His speech contained several allusions to historical events that shaped our nation.",
+      "tamil": "அவரது உரையில் நமது தேசத்தை வடிவமைத்த வரலாற்று நிகழ்வுகள் குறித்த பல மறைமுகக் குறிப்புகள் இடம்பெற்றிருந்தன.",
+      "sourceNote": "Commemorative Speech"
+    },
+    "synonyms": ["reference", "implication", "insinuation"],
+    "antonyms": []
+  },
+  {
+    "id": "doctrine_2",
+    "word": "Doctrine",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Theology & Religion", "Politics"],
+    "englishDefinition": "A belief or set of beliefs held and taught by a Church, political party, or other group.",
+    "tamilDefinition": "கோட்பாடு அல்லது சித்தாந்தம்; ஒரு மதத்தாலோ அல்லது அரசியல் கட்சியாலோ கற்பிக்கப்படும் நம்பிக்கைகள்.",
+    "literaryContext": {
+      "english": "The strict adherence to ancient doctrine often stifled free thought in the community.",
+      "tamil": "பண்டைய கோட்பாடுகளைக் கடுமையாகப் பின்பற்றியமை பெரும்பாலும் அந்தச் சமூகத்தில் சுதந்திரமான சிந்தனையை முடக்கியது.",
+      "sourceNote": "Historical Commentary"
+    },
+    "formalSpeechContext": {
+      "english": "The founding members established a clear doctrine to guide the organization's future endeavors.",
+      "tamil": "நிறுவனத்தின் எதிர்கால முயற்சிகளை வழிநடத்துவதற்கு அதன் நிறுவன உறுப்பினர்கள் ஒரு தெளிவான கோட்பாட்டை உருவாக்கினர்.",
+      "sourceNote": "Organizational Charter"
+    },
+    "synonyms": ["creed", "dogma", "tenet", "principle"],
+    "antonyms": []
+  },
+  {
+    "id": "parable_2",
+    "word": "Parable",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Biblical Studies", "Literature"],
+    "englishDefinition": "A simple story used to illustrate a moral or spiritual lesson, as told by Jesus in the Gospels.",
+    "tamilDefinition": "உவமைக்கதை; தார்மீக அல்லது ஆன்மீகப் பாடங்களை விளக்குவதற்குப் பயன்படுத்தப்படும் எளிய கதை.",
+    "literaryContext": {
+      "english": "The master teacher often used a short parable to convey profound truths to the common people.",
+      "tamil": "தலைசிறந்த போதகர் பெரும்பாலும் சாமானிய மக்களுக்கு ஆழ்ந்த உண்மைகளைத் தெரிவிக்க ஒரு குறுகிய உவமைக்கதையைப் பயன்படுத்தினார்.",
+      "sourceNote": "Theological Study"
+    },
+    "formalSpeechContext": {
+      "english": "Let us reflect on the parable of the sower and its relevance to our own spiritual growth.",
+      "tamil": "விதைப்பவனின் உவமைக்கதையையும், அது நமது சொந்த ஆன்மீக வளர்ச்சிக்கு எவ்வாறு பொருந்துகிறது என்பதையும் நாம் சிந்திப்போம்.",
+      "sourceNote": "Sunday Sermon"
+    },
+    "synonyms": ["allegory", "fable", "moral tale"],
+    "antonyms": []
+  },
+  {
+    "id": "consensus_2",
+    "word": "Consensus",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Politics", "Ethics & Society"],
+    "englishDefinition": "A general agreement.",
+    "tamilDefinition": "ஒருமித்த கருத்து அல்லது பொது ஒப்புதல்.",
+    "literaryContext": {
+      "english": "After hours of heated debate, a fragile consensus finally emerged among the council members.",
+      "tamil": "மணிக்கணக்கான காரசாரமான விவாதத்திற்குப் பிறகு, சபை உறுப்பினர்களிடையே இறுதியாக ஒரு பலவீனமான ஒருமித்த கருத்து உருவானது.",
+      "sourceNote": "Historical Drama"
+    },
+    "formalSpeechContext": {
+      "english": "We must build a broad consensus before implementing these far-reaching educational reforms.",
+      "tamil": "இந்த விரிவான கல்விச் சீர்திருத்தங்களைச் செயல்படுத்துவதற்கு முன் நாம் பரந்த ஒருமித்த கருத்தை உருவாக்க வேண்டும்.",
+      "sourceNote": "Policy Briefing"
+    },
+    "synonyms": ["agreement", "harmony", "unanimity"],
+    "antonyms": ["disagreement", "conflict", "discord"]
+  },
+  {
+    "id": "empirical_2",
+    "word": "Empirical",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": ["Science", "Philosophy"],
+    "englishDefinition": "Based on, concerned with, or verifiable by observation or experience rather than theory or pure logic.",
+    "tamilDefinition": "அனுபவபூர்வமான அல்லது செய்முறை அடிப்படையிலான.",
+    "literaryContext": {
+      "english": "The philosopher argued that empirical evidence is the only reliable source of human knowledge.",
+      "tamil": "அனுபவபூர்வமான சான்றுகள் மட்டுமே மனித அறிவின் ஒரே நம்பகமான ஆதாரம் என்று அந்தத் தத்துவவாதி வாதிட்டார்.",
+      "sourceNote": "Philosophical Treatise"
+    },
+    "formalSpeechContext": {
+      "english": "The new drug was approved only after extensive empirical studies demonstrated its safety.",
+      "tamil": "விரிவான செய்முறை ஆய்வுகள் அதன் பாதுகாப்பை நிரூபித்த பின்னரே புதிய மருந்துக்கு ஒப்புதல் அளிக்கப்பட்டது.",
+      "sourceNote": "Medical Conference"
+    },
+    "synonyms": ["observational", "experiential", "practical"],
+    "antonyms": ["theoretical", "hypothetical"]
+  },
+  {
+    "id": "civic",
+    "word": "Civic",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": ["Politics", "Ethics & Society"],
+    "englishDefinition": "Relating to the duties or activities of people in relation to their town, city, or local area.",
+    "tamilDefinition": "குடிமை அல்லது குடிமக்கள் தொடர்பான; ஒரு நகரம் அல்லது சமூகத்தில் உள்ள மக்களின் கடமைகள் தொடர்பானவை.",
+    "literaryContext": {
+      "english": "The noblewoman possessed a strong sense of civic duty and worked tirelessly for the poor.",
+      "tamil": "அந்த உயர்குடிப் பெண்மணி வலுவான குடிமை உணர்வைக் கொண்டிருந்தார், ஏழைகளுக்காக அயராது உழைத்தார்.",
+      "sourceNote": "Biographical Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "Voting in local elections is an essential civic responsibility for every eligible citizen.",
+      "tamil": "உள்ளாட்சித் தேர்தல்களில் வாக்களிப்பது தகுதியான ஒவ்வொரு குடிமகனுக்கும் அவசியமான ஒரு குடிமைப் பொறுப்பாகும்.",
+      "sourceNote": "Public Awareness Campaign"
+    },
+    "synonyms": ["public", "community", "municipal"],
+    "antonyms": ["private"]
+  },
+  {
+    "id": "epistle_2",
+    "word": "Epistle",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Biblical Studies", "Literature"],
+    "englishDefinition": "A letter, especially a formal or didactic one; a book of the New Testament in the form of a letter from an Apostle.",
+    "tamilDefinition": "நிருபம் அல்லது திருமுகம்; ஒரு முறையான கடிதம், குறிப்பாக வேதாகமத்தில் உள்ள அப்போஸ்தலர்களின் கடிதங்கள்.",
+    "literaryContext": {
+      "english": "He penned a lengthy epistle to his beloved, detailing his travels across the continent.",
+      "tamil": "கண்டம் முழுவதுமான தனது பயணங்களை விவரித்து, அவர் தனது காதலிக்கு ஒரு நீண்ட கடிதத்தை எழுதினார்.",
+      "sourceNote": "Historical Romance"
+    },
+    "formalSpeechContext": {
+      "english": "In this course, we will critically analyze the theological arguments presented in Paul's epistle to the Romans.",
+      "tamil": "இப்பாடநெறியில், ரோமர்களுக்கு எழுதிய பவுலின் நிருபத்தில் முன்வைக்கப்பட்டுள்ள இறையியல் வாதங்களை நாம் விமர்சன ரீதியாக ஆராய்வோம்.",
+      "sourceNote": "Theology Lecture"
+    },
+    "synonyms": ["letter", "missive", "communication"],
+    "antonyms": []
+  }
+  ,
+  {
+    "id": "narrative_2",
+    "word": "Narrative",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature"],
+    "englishDefinition": "A spoken or written account of connected events; a story.",
+    "tamilDefinition": "கதைசொல்லல் அல்லது விவரிப்பு; ஒன்றோடொன்று தொடர்புடைய நிகழ்வுகளின் தொகுப்பு.",
+    "literaryContext": {
+      "english": "The author weaves a compelling narrative that keeps the reader engaged.",
+      "tamil": "ஆசிரியர் ஒரு ஈர்க்கக்கூடிய கதையை பின்னுகிறார், இது வாசகரை ஈடுபாட்டுடன் வைத்திருக்கிறது.",
+      "sourceNote": "Literary Review"
+    },
+    "formalSpeechContext": {
+      "english": "We must carefully construct a narrative that highlights our company's journey.",
+      "tamil": "நமது நிறுவனத்தின் பயணத்தை சிறப்பித்துக் காட்டும் ஒரு விவரிப்பை நாம் கவனமாக உருவாக்க வேண்டும்.",
+      "sourceNote": "Business Strategy Meeting"
+    },
+    "synonyms": ["story", "tale", "account"],
+    "antonyms": []
+  },
+  {
+    "id": "concept",
+    "word": "Concept",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Philosophy", "Science"],
+    "englishDefinition": "An abstract idea; a general notion.",
+    "tamilDefinition": "கருத்துரு அல்லது கோட்பாடு; ஒரு பொதுவான எண்ணம்.",
+    "literaryContext": {
+      "english": "The poet explored the abstract concept of eternity through simple imagery.",
+      "tamil": "கவிஞர் நித்தியம் என்ற அருவமான கருத்துருவை எளிய உருவகங்கள் மூலம் ஆராய்ந்தார்.",
+      "sourceNote": "Poetry Analysis"
+    },
+    "formalSpeechContext": {
+      "english": "Before proceeding, we need to clarify the core concept of this philosophical argument.",
+      "tamil": "தொடர்வதற்கு முன், இந்தத் தத்துவ வாதத்தின் முக்கிய கருத்துருவை நாம் தெளிவுபடுத்த வேண்டும்.",
+      "sourceNote": "Academic Lecture"
+    },
+    "synonyms": ["idea", "notion", "theory"],
+    "antonyms": []
+  },
+  {
+    "id": "policy",
+    "word": "Policy",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Politics", "Ethics & Society"],
+    "englishDefinition": "A course or principle of action adopted or proposed by an organization or individual.",
+    "tamilDefinition": "கொள்கை; ஒரு நிறுவனம் அல்லது தனிநபரால் ஏற்றுக்கொள்ளப்பட்ட அல்லது முன்மொழியப்பட்ட செயல் முறை.",
+    "literaryContext": {
+      "english": "The new king's policy brought unprecedented prosperity to the realm.",
+      "tamil": "புதிய அரசரின் கொள்கையானது ராஜ்ஜியத்திற்கு முன் எப்போதும் இல்லாத செழிப்பைக் கொண்டுவந்தது.",
+      "sourceNote": "Historical Chronicle"
+    },
+    "formalSpeechContext": {
+      "english": "The committee will review our environmental policy to ensure it meets current standards.",
+      "tamil": "சுற்றுச்சூழல் கொள்கையானது தற்போதைய தரநிலைகளைப் பூர்த்தி செய்கிறதா என்பதை உறுதிப்படுத்த குழு அதை மதிப்பாய்வு செய்யும்.",
+      "sourceNote": "Corporate Meeting"
+    },
+    "synonyms": ["strategy", "approach", "guideline"],
+    "antonyms": []
+  },
+  {
+    "id": "observation_2",
+    "word": "Observation",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Science", "Philosophy"],
+    "englishDefinition": "The action or process of observing something or someone carefully or in order to gain information.",
+    "tamilDefinition": "உற்றுநோக்கல் அல்லது கவனிப்பு; தகவலைப் பெறுவதற்காக ஒன்றைக் கவனமாகப் பார்க்கும் செயல்.",
+    "literaryContext": {
+      "english": "Through keen observation of nature, the author found inspiration for his stories.",
+      "tamil": "இயற்கையைக் கூர்மையாக உற்றுநோக்கியதன் மூலம், ஆசிரியர் தனது கதைகளுக்கான உத்வேகத்தைக் கண்டார்.",
+      "sourceNote": "Author's Memoir"
+    },
+    "formalSpeechContext": {
+      "english": "Scientific observation is the first step in formulating a valid hypothesis.",
+      "tamil": "விஞ்ஞான ரீதியான உற்றுநோக்கலே சரியான கருதுகோளை உருவாக்குவதற்கான முதல் படியாகும்.",
+      "sourceNote": "Science Symposium"
+    },
+    "synonyms": ["examination", "inspection", "scrutiny"],
+    "antonyms": []
+  },
+  {
+    "id": "orator",
+    "word": "Orator",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Formal Speech", "Poetics & Rhetoric"],
+    "englishDefinition": "A public speaker, especially one who is eloquent or skilled.",
+    "tamilDefinition": "சொற்பொழிவாளர்; பொதுவெளியில் பேசும் நபர், குறிப்பாக திறமையான பேச்சாளர்.",
+    "literaryContext": {
+      "english": "The legendary orator captivated the crowd with his passionate words.",
+      "tamil": "அந்த புகழ்பெற்ற சொற்பொழிவாளர் தனது உணர்ச்சிமிக்க வார்த்தைகளால் கூட்டத்தை வசீகரித்தார்.",
+      "sourceNote": "Historical Account"
+    },
+    "formalSpeechContext": {
+      "english": "As an accomplished orator, she was invited to deliver the keynote address.",
+      "tamil": "ஒரு திறமையான சொற்பொழிவாளராக, அவர் சிறப்புரையாற்ற அழைக்கப்பட்டார்.",
+      "sourceNote": "Conference Introduction"
+    },
+    "synonyms": ["speaker", "rhetorician", "lecturer"],
+    "antonyms": []
+  },
+  {
+    "id": "heritage_2",
+    "word": "Heritage",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Arts & Culture", "Ethics & Society"],
+    "englishDefinition": "Property that is or may be inherited; an inheritance; valued objects and qualities passed down from previous generations.",
+    "tamilDefinition": "பாரம்பரியம் அல்லது மரபுச்செல்வம்; முந்தைய தலைமுறையினரிடமிருந்து பெறப்பட்ட மதிப்புமிக்க பண்புகள் மற்றும் பொருட்கள்.",
+    "literaryContext": {
+      "english": "The old ruins stand as a silent testament to the rich heritage of the region.",
+      "tamil": "பழைய இடிபாடுகள் இப்பகுதியின் வளமான பாரம்பரியத்திற்கு மௌன சாட்சியாக நிற்கின்றன.",
+      "sourceNote": "Travelogue"
+    },
+    "formalSpeechContext": {
+      "english": "It is our collective duty to preserve this cultural heritage for future generations.",
+      "tamil": "இந்த கலாச்சாரப் பாரம்பரியத்தை எதிர்கால சந்ததியினருக்காகப் பாதுகாப்பது நமது கூட்டுப் பொறுப்பாகும்.",
+      "sourceNote": "UNESCO Address"
+    },
+    "synonyms": ["inheritance", "legacy", "tradition"],
+    "antonyms": []
+  },
+  {
+    "id": "virtue",
+    "word": "Virtue",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Ethics & Society", "Philosophy", "Theology & Religion"],
+    "englishDefinition": "Behavior showing high moral standards.",
+    "tamilDefinition": "அறம் அல்லது நற்பண்பு; உயர்ந்த தார்மீகத் தரங்களைக் காட்டும் நடத்தை.",
+    "literaryContext": {
+      "english": "In classic literature, virtue is often rewarded while vice is punished.",
+      "tamil": "செவ்வியல் இலக்கியங்களில், பெரும்பாலும் அறத்திற்குப் பரிசளிக்கப்படுகிறது, அதேசமயம் தீமைக்குத் தண்டனை வழங்கப்படுகிறது.",
+      "sourceNote": "Literary Review"
+    },
+    "formalSpeechContext": {
+      "english": "Patience is a virtue that every true leader must cultivate.",
+      "tamil": "பொறுமை என்பது ஒவ்வொரு உண்மையான தலைவரும் வளர்த்துக் கொள்ள வேண்டிய ஒரு நற்பண்பாகும்.",
+      "sourceNote": "Leadership Seminar"
+    },
+    "synonyms": ["goodness", "morality", "integrity"],
+    "antonyms": ["vice", "iniquity"]
+  },
+  {
+    "id": "metaphor",
+    "word": "Metaphor",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Poetics & Rhetoric", "Literature"],
+    "englishDefinition": "A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable.",
+    "tamilDefinition": "உருவகம்; ஒரு பொருளை அல்லது செயலை விவரிக்க, நேரடியாகப் பொருந்தாத வேறொரு வார்த்தையைப் பயன்படுத்தும் அணி இலக்கணம்.",
+    "literaryContext": {
+      "english": "The poem uses the ocean as a metaphor for the vastness of the human soul.",
+      "tamil": "இந்தக் கவிதை மனித ஆன்மாவின் பரந்த தன்மைக்கு கடலை ஒரு உருவகமாகப் பயன்படுத்துகிறது.",
+      "sourceNote": "Poetry Critique"
+    },
+    "formalSpeechContext": {
+      "english": "The speaker employed a powerful metaphor to explain the complexities of the economy.",
+      "tamil": "பொருளாதாரத்தின் சிக்கல்களை விளக்க பேச்சாளர் ஒரு வலுவான உருவகத்தைப் பயன்படுத்தினார்.",
+      "sourceNote": "Economic Forum"
+    },
+    "synonyms": ["analogy", "symbol", "figure of speech"],
+    "antonyms": []
+  },
+  {
+    "id": "sacred",
+    "word": "Sacred",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": ["Theology & Religion", "Arts & Culture"],
+    "englishDefinition": "Connected with God or a god or dedicated to a religious purpose and so deserving veneration.",
+    "tamilDefinition": "புனிதமான; இறைவனுடன் தொடர்புடைய அல்லது ஒரு மத நோக்கத்திற்காக அர்ப்பணிக்கப்பட்ட.",
+    "literaryContext": {
+      "english": "They entered the ancient forest, treating it as a sacred grove of the gods.",
+      "tamil": "அவர்கள் அந்தக் காட்டைத் தெய்வங்களின் புனிதமான தோப்பாகக் கருதி உள்ளே நுழைந்தனர்.",
+      "sourceNote": "Fantasy Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "The right to free expression is considered a sacred democratic principle.",
+      "tamil": "சுதந்திரமாக கருத்துத் தெரிவிக்கும் உரிமை ஒரு புனிதமான ஜனநாயகக் கொள்கையாகக் கருதப்படுகிறது.",
+      "sourceNote": "Political Speech"
+    },
+    "synonyms": ["holy", "divine", "hallowed"],
+    "antonyms": ["secular", "profane"]
+  },
+  {
+    "id": "scripture_2",
+    "word": "Scripture",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Biblical Studies", "Theology & Religion"],
+    "englishDefinition": "The sacred writings of Christianity or another religion.",
+    "tamilDefinition": "வேதநூல் அல்லது திருமுறை; கிறிஸ்தவத்தின் அல்லது பிற மதத்தின் புனித எழுத்துக்கள்.",
+    "literaryContext": {
+      "english": "The scholar spent his life translating ancient scripture into modern languages.",
+      "tamil": "பண்டைய வேதநூல்களை நவீன மொழிகளில் மொழிபெயர்ப்பதிலேயே அந்த அறிஞர் தன் வாழ்நாளைக் கழித்தார்.",
+      "sourceNote": "Historical Biography"
+    },
+    "formalSpeechContext": {
+      "english": "Our understanding of these events is heavily influenced by the texts found in scripture.",
+      "tamil": "இந்த நிகழ்வுகளைப் பற்றிய நமது புரிதல் வேதத்தில் உள்ள உரைகளால் பெரிதும் பாதிக்கப்பட்டுள்ளது.",
+      "sourceNote": "Theology Lecture"
+    },
+    "synonyms": ["holy book", "sacred text", "bible"],
+    "antonyms": []
+  }
 ];

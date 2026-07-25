@@ -24,9 +24,9 @@ export default function App() {
   const [bookmarkedIds, setBookmarkedIds] = useState<string[]>(() => {
     try {
       const saved = localStorage.getItem('pulamai_bookmarks');
-      return saved ? JSON.parse(saved) : ['abstruse', 'cogent', 'eloquent'];
+      return saved ? JSON.parse(saved) : [];
     } catch {
-      return ['abstruse', 'cogent', 'eloquent'];
+      return [];
     }
   });
 
@@ -79,7 +79,7 @@ export default function App() {
 
   // Filtered Lexicon Dataset
   const filteredEntries = useMemo(() => {
-    return LEXICON_DATA.filter((entry) => {
+    const entries = LEXICON_DATA.filter((entry) => {
       // Letter filter
       if (selectedLetter && entry.word.charAt(0).toUpperCase() !== selectedLetter) {
         return false;
@@ -112,6 +112,8 @@ export default function App() {
 
       return true;
     });
+
+    return entries.sort((a, b) => a.word.localeCompare(b.word));
   }, [searchQuery, selectedLetter, selectedTag]);
 
   const handleClearAllFilters = () => {
