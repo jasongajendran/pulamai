@@ -1,13 +1,11 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { LEXICON_DATA } from './data/lexiconData';
 import { VocabularyEntry, CategoryTag } from './types';
-import { generateDerivedEntry } from './utils/fallbackLookup';
 import { Header } from './components/Header';
 import { BottomNavigation } from './components/BottomNavigation';
 import { AZSelector } from './components/AZSelector';
 import { FilterBar } from './components/FilterBar';
 import { VocabularyCard } from './components/VocabularyCard';
-import { TermDetailModal } from './components/TermDetailModal';
 import { FlashcardsView } from './components/FlashcardsView';
 import { QuizView } from './components/QuizView';
 import { BookmarksView } from './components/BookmarksView';
@@ -65,17 +63,18 @@ export default function App() {
     );
 
     if (found) {
-      setModalEntry(found);
-    } else {
-      const derived = generateDerivedEntry(term);
-      setModalEntry(derived);
+      // If we want to navigate to it or highlight it, we could.
+      // But user says "No modal window on clicks", so we just clear filters to show it if it exists.
+      setSearchQuery(found.word);
+      setSelectedLetter(found.word.charAt(0).toUpperCase());
+      setSelectedTag(null);
     }
   };
 
   // Letter Counts mapping for A-Z Selector
   const letterCounts = useMemo(() => {
     const counts: Record<string, number> = {};
-    LEXICON_DATA.forEach((entry) => {
+    LEXICON_DATA.filter(e => !e.hidden).forEach((entry) => {
       const firstChar = entry.word.charAt(0).toUpperCase();
       counts[firstChar] = (counts[firstChar] || 0) + 1;
     });
@@ -85,6 +84,9 @@ export default function App() {
   // Filtered Lexicon Dataset
   const filteredEntries = useMemo(() => {
     const entries = LEXICON_DATA.filter((entry) => {
+      // Hidden filter
+      if (entry.hidden) return false;
+
       // Letter filter
       if (selectedLetter && entry.word.charAt(0).toUpperCase() !== selectedLetter) {
         return false;
@@ -166,32 +168,25 @@ export default function App() {
                     entry={entry}
                     isBookmarked={bookmarkedIds.includes(entry.id)}
                     onToggleBookmark={toggleBookmark}
-                    onSelectTerm={handleSelectTerm}
                   />
                 ))}
               </div>
             ) : (
               /* Fallback when term not in core dataset */
               <div className="bg-[#0f0f0f] rounded-xl border border-stone-800 shadow-md p-6 text-center space-y-4 my-6">
-                <AlertCircle className="w-10 h-10 text-teal-400 mx-auto" />
-                <h3 className="text-lg font-serif font-bold text-stone-200">
-                  No match found in primary lexicon
+                <AlertCircle className="w-10 h-10 text-stone-700 mx-auto" />
+                <h3 className="text-lg font-serif font-bold text-stone-400">
+                  No results found
                 </h3>
-                <p className="text-stone-400 text-xs max-w-sm mx-auto leading-relaxed">
-                  Click below to view a detailed English-Tamil explanation for "{searchQuery}".
+                <p className="text-stone-500 text-xs max-w-sm mx-auto leading-relaxed">
+                  The word "{searchQuery}" is not in our primary lexicon.
                 </p>
-                <div className="flex flex-wrap justify-center gap-2 pt-1.5">
-                  <button
-                    onClick={() => handleSelectTerm(searchQuery)}
-                    className="px-4 py-2 bg-teal-300 text-stone-950 rounded-lg text-xs font-bold hover:bg-teal-200 shadow-sm cursor-pointer min-h-[38px]"
-                  >
-                    View explanation for "{searchQuery}"
-                  </button>
+                <div className="flex justify-center pt-1.5">
                   <button
                     onClick={handleClearAllFilters}
                     className="px-4 py-2 bg-stone-950 text-stone-300 border border-stone-850 hover:bg-stone-900 rounded-lg text-xs font-semibold transition-colors cursor-pointer min-h-[38px]"
                   >
-                    Clear all filters
+                    Clear Search
                   </button>
                 </div>
               </div>
@@ -214,7 +209,6 @@ export default function App() {
             allEntries={LEXICON_DATA}
             bookmarkedIds={bookmarkedIds}
             onToggleBookmark={toggleBookmark}
-            onSelectTerm={handleSelectTerm}
             onClearAllBookmarks={handleClearAllBookmarks}
           />
         )}
@@ -224,19 +218,9 @@ export default function App() {
             entries={LEXICON_DATA}
             bookmarkedIds={bookmarkedIds}
             onToggleBookmark={toggleBookmark}
-            onSelectTerm={handleSelectTerm}
           />
         )}
       </main>
-
-      {/* Modal Overlay for Synonyms / Antonyms / Term Lookups */}
-      <TermDetailModal
-        entry={modalEntry}
-        onClose={() => setModalEntry(null)}
-        isBookmarked={modalEntry ? bookmarkedIds.includes(modalEntry.id) : false}
-        onToggleBookmark={toggleBookmark}
-        onSelectTerm={handleSelectTerm}
-      />
 
       {/* Footer */}
       <footer className="bg-[#080808] text-stone-400 border-t border-stone-900 py-6 px-4 text-center mt-8 pb-28">

@@ -32,6 +32,7 @@ export interface VocabularyEntry {
   formalSpeechContext: ContextExample; // சொற்பொழிவு / உரையாடல் பயன்பாடு
   synonyms: string[];
   antonyms: string[];
+  hidden?: boolean;
 }
 
 export interface QuizQuestion {

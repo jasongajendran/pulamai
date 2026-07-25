@@ -7,7 +7,6 @@ interface BookmarksViewProps {
   allEntries: VocabularyEntry[];
   bookmarkedIds: string[];
   onToggleBookmark: (id: string) => void;
-  onSelectTerm: (term: string) => void;
   onClearAllBookmarks: () => void;
 }
 
@@ -15,7 +14,6 @@ export const BookmarksView: React.FC<BookmarksViewProps> = ({
   allEntries,
   bookmarkedIds,
   onToggleBookmark,
-  onSelectTerm,
   onClearAllBookmarks,
 }) => {
   const [copied, setCopied] = useState(false);
@@ -93,7 +91,6 @@ export const BookmarksView: React.FC<BookmarksViewProps> = ({
             entry={entry}
             isBookmarked={true}
             onToggleBookmark={onToggleBookmark}
-            onSelectTerm={onSelectTerm}
           />
         ))}
       </div>

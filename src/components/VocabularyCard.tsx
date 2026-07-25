@@ -1,12 +1,11 @@
 import React, { useState } from 'react';
-import { Volume2, Bookmark, BookmarkCheck, ExternalLink, ChevronDown, ChevronUp } from 'lucide-react';
+import { Volume2, Bookmark, BookmarkCheck, ChevronDown, ChevronUp } from 'lucide-react';
 import { VocabularyEntry } from '../types';
 
 interface VocabularyCardProps {
   entry: VocabularyEntry;
   isBookmarked: boolean;
   onToggleBookmark: (id: string) => void;
-  onSelectTerm: (term: string) => void;
   defaultExpanded?: boolean;
 }
 
@@ -131,7 +130,6 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
   entry,
   isBookmarked,
   onToggleBookmark,
-  onSelectTerm,
   defaultExpanded = false,
 }) => {
   const [playingItem, setPlayingItem] = useState<string | null>(null);
@@ -259,15 +257,12 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
             <span className="font-serif font-bold text-emerald-400/80 shrink-0">SYN:</span>
             <div className="flex flex-wrap gap-1">
               {entry.synonyms.map((syn) => (
-                <button
+                <span
                   key={syn}
-                  onClick={() => onSelectTerm(syn)}
-                  className="inline-flex items-center text-[10px] bg-emerald-950/30 text-emerald-300/90 border border-emerald-900/40 px-1.5 py-0.2 rounded font-medium hover:bg-emerald-950/80 transition-colors cursor-pointer"
-                  title={`Lookup ${syn}`}
+                  className="inline-flex items-center text-[10px] bg-emerald-950/30 text-emerald-300/90 border border-emerald-900/40 px-1.5 py-0.2 rounded font-medium"
                 >
-                  <span>{syn}</span>
-                  <ExternalLink className="w-2 h-2 ml-0.5 opacity-50" />
-                </button>
+                  {syn}
+                </span>
               ))}
             </div>
           </div>
@@ -277,15 +272,12 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
             <span className="font-serif font-bold text-rose-400/80 shrink-0">ANT:</span>
             <div className="flex flex-wrap gap-1">
               {entry.antonyms.map((ant) => (
-                <button
+                <span
                   key={ant}
-                  onClick={() => onSelectTerm(ant)}
-                  className="inline-flex items-center text-[10px] bg-rose-950/30 text-rose-300/90 border border-rose-900/40 px-1.5 py-0.2 rounded font-medium hover:bg-rose-950/80 transition-colors cursor-pointer"
-                  title={`Lookup ${ant}`}
+                  className="inline-flex items-center text-[10px] bg-rose-950/30 text-rose-300/90 border border-rose-900/40 px-1.5 py-0.2 rounded font-medium"
                 >
-                  <span>{ant}</span>
-                  <ExternalLink className="w-2 h-2 ml-0.5 opacity-50" />
-                </button>
+                  {ant}
+                </span>
               ))}
             </div>
           </div>
