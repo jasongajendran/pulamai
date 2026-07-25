@@ -145,6 +145,8 @@ export default function App() {
             <FilterBar
               searchQuery={searchQuery}
               setSearchQuery={setSearchQuery}
+              selectedTag={selectedTag}
+              setSelectedTag={setSelectedTag}
               onClearAll={handleClearAllFilters}
             />
 

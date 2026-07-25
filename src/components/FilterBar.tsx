@@ -1,15 +1,33 @@
 import React from 'react';
-import { Search, X } from 'lucide-react';
+import { Search, X, Filter } from 'lucide-react';
+import { CategoryTag } from '../types';
+
+const CATEGORIES: CategoryTag[] = [
+  'Literature',
+  'Philosophy',
+  'Politics',
+  'Science',
+  'Formal Speech',
+  'Arts & Culture',
+  'Ethics & Society',
+  'Poetics & Rhetoric',
+  'Theology & Religion',
+  'Biblical Studies'
+];
 
 interface FilterBarProps {
   searchQuery: string;
   setSearchQuery: (query: string) => void;
+  selectedTag: CategoryTag | null;
+  setSelectedTag: (tag: CategoryTag | null) => void;
   onClearAll: () => void;
 }
 
 export const FilterBar: React.FC<FilterBarProps> = ({
   searchQuery,
   setSearchQuery,
+  selectedTag,
+  setSelectedTag,
   onClearAll,
 }) => {
   return (
@@ -36,6 +54,26 @@ export const FilterBar: React.FC<FilterBarProps> = ({
               <X className="w-3.5 h-3.5" />
             </button>
           )}
+        </div>
+      </div>
+      
+      {/* Category Filters */}
+      <div className="flex items-center gap-2 mt-3 overflow-x-auto pb-1 scrollbar-hide">
+        <Filter className="w-3.5 h-3.5 text-stone-500 shrink-0" />
+        <div className="flex gap-2">
+          {CATEGORIES.map((tag) => (
+            <button
+              key={tag}
+              onClick={() => setSelectedTag(selectedTag === tag ? null : tag)}
+              className={`px-3 py-1 rounded-full text-xs font-medium whitespace-nowrap transition-colors cursor-pointer ${
+                selectedTag === tag
+                  ? 'bg-teal-500/20 text-teal-300 border border-teal-500/50'
+                  : 'bg-stone-900 text-stone-400 border border-stone-800 hover:bg-stone-800 hover:text-stone-300'
+              }`}
+            >
+              {tag}
+            </button>
+          ))}
         </div>
       </div>
     </div>

@@ -8,7 +8,9 @@ export type CategoryTag =
   | 'Formal Speech'
   | 'Arts & Culture'
   | 'Ethics & Society'
-  | 'Poetics & Rhetoric';
+  | 'Poetics & Rhetoric'
+  | 'Theology & Religion'
+  | 'Biblical Studies';
 
 export interface ContextExample {
   english: string;

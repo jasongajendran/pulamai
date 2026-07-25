@@ -22544,4 +22544,257 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     ],
     "antonyms": []
   }
+  ,
+  {
+    "id": "eschatology",
+    "word": "Eschatology",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": ["Theology & Religion", "Biblical Studies"],
+    "englishDefinition": "The part of theology concerned with death, judgment, and the final destiny of the soul and of humankind.",
+    "tamilDefinition": "இறுதிக்கால இயல்; உலக முடிவும் மனித குலத்தின் இறுதி விதியும் பற்றிய இறையியல் ஆய்வு.",
+    "literaryContext": {
+      "english": "The prophet's visions were filled with complex eschatology regarding the end of days.",
+      "tamil": "தீர்க்கதரிசியின் தரிசனங்கள் உலக முடிவு குறித்த சிக்கலான இறுதிக்கால இயலால் நிறைந்திருந்தன.",
+      "sourceNote": "Theological Commentary"
+    },
+    "formalSpeechContext": {
+      "english": "In this seminar, we will examine the eschatology presented in the Book of Revelation.",
+      "tamil": "இக்கருத்தரங்கில், வெளிப்படுத்தின விசேஷத்தில் கூறப்பட்டுள்ள இறுதிக்கால இயலை நாம் ஆராய்வோம்.",
+      "sourceNote": "Biblical Studies Lecture"
+    },
+    "synonyms": ["end times theology", "final destiny"],
+    "antonyms": []
+  },
+  {
+    "id": "soteriology",
+    "word": "Soteriology",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": ["Theology & Religion", "Biblical Studies"],
+    "englishDefinition": "The doctrine of salvation, especially as effected by Jesus Christ.",
+    "tamilDefinition": "இரட்சிப்பியல்; இயேசு கிறிஸ்துவின் மூலமான மீட்பு மற்றும் இரட்சிப்பு குறித்த கோட்பாடு.",
+    "literaryContext": {
+      "english": "His sermon on grace delved deeply into Pauline soteriology.",
+      "tamil": "கிருபையைக் குறித்த அவரது பிரசங்கம் பவுலின் இரட்சிப்பியலை ஆழமாக ஆராய்ந்தது.",
+      "sourceNote": "Theological Treatise"
+    },
+    "formalSpeechContext": {
+      "english": "Understanding Christian soteriology is crucial for fully grasping the concept of divine grace.",
+      "tamil": "தெய்வீக கிருபையின் கருத்தை முழுமையாகப் புரிந்து கொள்ள கிறிஸ்தவ இரட்சிப்பியலைப் புரிந்துகொள்வது மிக முக்கியம்.",
+      "sourceNote": "Seminary Address"
+    },
+    "synonyms": ["doctrine of salvation", "redemption theology"],
+    "antonyms": []
+  },
+  {
+    "id": "exegesis",
+    "word": "Exegesis",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": ["Biblical Studies", "Poetics & Rhetoric"],
+    "englishDefinition": "Critical explanation or interpretation of a text, especially of scripture.",
+    "tamilDefinition": "வேதவிளக்கவுரை; ஒரு நூலின், குறிப்பாக வேதத்தின் ஆழமான மற்றும் விமர்சனப் பகுப்பாய்வு.",
+    "literaryContext": {
+      "english": "The scholar's exegesis of the ancient manuscript revealed new layers of meaning.",
+      "tamil": "பண்டைய கையெழுத்துப் பிரதியின் மீதான அந்த அறிஞரின் வேதவிளக்கவுரை புதிய அர்த்தங்களைத் திறந்தது.",
+      "sourceNote": "Academic Journal"
+    },
+    "formalSpeechContext": {
+      "english": "Proper biblical exegesis requires an understanding of the historical and cultural context.",
+      "tamil": "முறையான வேதவிளக்கவுரைக்கு வரலாற்று மற்றும் கலாச்சாரச் சூழலைப் பற்றிய புரிதல் அவசியமாகும்.",
+      "sourceNote": "Theological Symposium"
+    },
+    "synonyms": ["interpretation", "explanation", "analysis", "exposition"],
+    "antonyms": []
+  },
+  {
+    "id": "hermeneutics",
+    "word": "Hermeneutics",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": ["Biblical Studies", "Philosophy"],
+    "englishDefinition": "The branch of knowledge that deals with interpretation, especially of the Bible or literary texts.",
+    "tamilDefinition": "விளக்கவியல்; வேதங்களை அல்லது இலக்கியங்களை விளக்கும் மற்றும் வியாக்கியானம் செய்யும் துறை.",
+    "literaryContext": {
+      "english": "Through the lens of modern hermeneutics, the parables take on a surprisingly contemporary relevance.",
+      "tamil": "நவீன விளக்கவியலின் பார்வையில், உவமைகள் ஆச்சரியப்படத்தக்க வகையில் தற்காலத்திற்குப் பொருத்தமானதாக மாறுகின்றன.",
+      "sourceNote": "Literary Criticism"
+    },
+    "formalSpeechContext": {
+      "english": "The course on biblical hermeneutics trains students to accurately interpret scripture.",
+      "tamil": "வேத விளக்கவியல் பாடநெறி, வேதத்தை துல்லியமாக வியாக்கியானம் செய்ய மாணவர்களுக்குப் பயிற்சி அளிக்கிறது.",
+      "sourceNote": "University Syllabus"
+    },
+    "synonyms": ["interpretation methodology", "exegetics"],
+    "antonyms": []
+  },
+  {
+    "id": "epiphany",
+    "word": "Epiphany",
+    "partOfSpeech": "noun",
+    "difficulty": "Literary",
+    "tags": ["Theology & Religion", "Literature"],
+    "englishDefinition": "A manifestation of a divine or supernatural being; a moment of sudden revelation or insight.",
+    "tamilDefinition": "தெய்வீக வெளிப்பாடு அல்லது திடீர் ஞானோதயம்.",
+    "literaryContext": {
+      "english": "The ascetic experienced a profound epiphany while meditating in the wilderness.",
+      "tamil": "வனாந்தரத்தில் தியானம் செய்யும் போது அந்தத் துறவி ஒரு ஆழமான தெய்வ வெளிப்பாட்டை உணர்ந்தார்.",
+      "sourceNote": "Spiritual Memoir"
+    },
+    "formalSpeechContext": {
+      "english": "The festival of Epiphany celebrates the revelation of Christ to the Gentiles.",
+      "tamil": "எபிபானி பெருவிழாவானது புறஜாதியினருக்குக் கிறிஸ்து வெளிப்படுத்தப்பட்டதைக் கொண்டாடுகிறது.",
+      "sourceNote": "Religious Homily"
+    },
+    "synonyms": ["revelation", "realization", "vision", "manifestation"],
+    "antonyms": []
+  },
+  {
+    "id": "sanctification",
+    "word": "Sanctification",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": ["Theology & Religion", "Ethics & Society"],
+    "englishDefinition": "The act or process of acquiring sanctity, of being made or becoming holy.",
+    "tamilDefinition": "பரிசுத்தமாக்கப்படுதல்; ஒருவரை அல்லது ஒன்றை புனிதமாக்கும் செயல்.",
+    "literaryContext": {
+      "english": "The believer's journey of sanctification is marked by continuous spiritual refinement.",
+      "tamil": "விசுவாசியின் பரிசுத்தமாக்கப்படும் பயணமானது தொடர்ச்சியான ஆன்மீக சுத்திகரிப்பால் குறிக்கப்படுகிறது.",
+      "sourceNote": "Christian Devotional"
+    },
+    "formalSpeechContext": {
+      "english": "Sanctification is not merely an event, but a lifelong process of moral and spiritual transformation.",
+      "tamil": "பரிசுத்தமாக்கப்படுதல் என்பது ஒரு நிகழ்வு மட்டுமல்ல, தார்மீக மற்றும் ஆன்மீக மாற்றத்தின் வாழ்நாள் முழுவதுமான செயல்முறையாகும்.",
+      "sourceNote": "Theology Conference"
+    },
+    "synonyms": ["purification", "consecration", "holiness"],
+    "antonyms": ["defilement", "desecration"]
+  },
+  {
+    "id": "providence",
+    "word": "Providence",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Theology & Religion", "Philosophy"],
+    "englishDefinition": "The protective care of God or of nature as a spiritual power.",
+    "tamilDefinition": "தெய்வீகப் பராமரிப்பு அல்லது இறைவனின் வழிநடத்துதல்.",
+    "literaryContext": {
+      "english": "They trusted in divine providence to guide them safely through the treacherous storm.",
+      "tamil": "அந்தக் கொடிய புயலில் தங்களைப் பாதுகாப்பாக வழிநடத்த அவர்கள் தெய்வீகப் பராமரிப்பை நம்பியிருந்தனர்.",
+      "sourceNote": "Historical Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "We attribute the miraculous rescue solely to the workings of a benevolent providence.",
+      "tamil": "அற்புதமான மீட்பிற்கு முற்றுமுழுதாக ஒரு கருணையுள்ள இறைப்பராமரிப்பின் செயல்களே காரணம் என்று நாங்கள் கூறுகிறோம்.",
+      "sourceNote": "Public Thanksgiving Speech"
+    },
+    "synonyms": ["divine guidance", "fate", "destiny", "predestination"],
+    "antonyms": []
+  },
+  {
+    "id": "apostasy",
+    "word": "Apostasy",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": ["Theology & Religion", "Ethics & Society"],
+    "englishDefinition": "The formal disaffiliation from, abandonment of, or renunciation of a religion by a person.",
+    "tamilDefinition": "மதத்துரோகம் அல்லது விசுவாச துரோகம்; ஒரு மதத்தையோ அல்லது கொள்கையையோ கைவிடுதல்.",
+    "literaryContext": {
+      "english": "His apostasy shocked the conservative community and led to his exile.",
+      "tamil": "அவருடைய விசுவாச துரோகம் அந்தப் பழமைவாத சமூகத்தை அதிர்ச்சிக்குள்ளாக்கி, அவரை நாடுகடத்த வழிவகுத்தது.",
+      "sourceNote": "Historical Novel"
+    },
+    "formalSpeechContext": {
+      "english": "The council debated the penalties for apostasy in the context of religious freedom.",
+      "tamil": "மதச் சுதந்திரத்தின் பின்னணியில் மதத்துரோகத்திற்கான தண்டனைகள் குறித்து சபை விவாதித்தது.",
+      "sourceNote": "Interfaith Symposium"
+    },
+    "synonyms": ["renunciation", "defection", "heresy", "treachery"],
+    "antonyms": ["fidelity", "loyalty", "orthodoxy"]
+  },
+  {
+    "id": "propitiation",
+    "word": "Propitiation",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": ["Theology & Religion", "Biblical Studies"],
+    "englishDefinition": "The action of propitiating or appeasing a god, spirit, or person; an atoning sacrifice.",
+    "tamilDefinition": "கிருபாதார பலி அல்லது சமாதானப் பலி; இறைவனின் கோபத்தைத் தணிக்கும் செயல்.",
+    "literaryContext": {
+      "english": "Ancient cultures offered sacrifices as a propitiation to the gods for a bountiful harvest.",
+      "tamil": "பண்டைய கலாச்சாரங்கள் தாராளமான விளைச்சலுக்காக தெய்வங்களுக்கு ஒரு சமாதானப் பலியாகக் காணிக்கைகளைச் செலுத்தின.",
+      "sourceNote": "Anthropological Survey"
+    },
+    "formalSpeechContext": {
+      "english": "In theological terms, Christ's death is viewed as the ultimate propitiation for human sin.",
+      "tamil": "இறையியல் அடிப்படையில், கிறிஸ்துவின் மரணமானது மனித பாவத்திற்கான உன்னத கிருபாதார பலியாகக் கருதப்படுகிறது.",
+      "sourceNote": "Theological Discourse"
+    },
+    "synonyms": ["atonement", "appeasement", "expiation", "conciliation"],
+    "antonyms": ["provocation", "offense"]
+  },
+  {
+    "id": "transfiguration",
+    "word": "Transfiguration",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": ["Theology & Religion", "Literature"],
+    "englishDefinition": "A complete change of form or appearance into a more beautiful or spiritual state.",
+    "tamilDefinition": "மறுரூபமாக்குதல் அல்லது மகிமைப்படுத்துதல்; ஒரு அழகான அல்லது ஆன்மீக நிலைக்கு முற்றிலுமாக மாறும் செயல்.",
+    "literaryContext": {
+      "english": "The poet described the transfiguration of the mundane landscape at sunrise.",
+      "tamil": "சூரியோதயத்தின் போது சாதாரண நிலப்பரப்பு மறுரூபமாவதைக் கவிஞர் விவரித்தார்.",
+      "sourceNote": "Poetry Anthology"
+    },
+    "formalSpeechContext": {
+      "english": "The Feast of the Transfiguration celebrates the revelation of Christ's divine glory.",
+      "tamil": "மறுரூபப் பெருவிழாவானது கிறிஸ்துவின் தெய்வீக மகிமையின் வெளிப்பாட்டைக் கொண்டாடுகிறது.",
+      "sourceNote": "Liturgical Calendar Guide"
+    },
+    "synonyms": ["metamorphosis", "transformation", "mutation", "alteration"],
+    "antonyms": []
+  },
+  {
+    "id": "apologetics",
+    "word": "Apologetics",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": ["Theology & Religion", "Philosophy", "Formal Speech"],
+    "englishDefinition": "Reasoned arguments or writings in justification of something, typically a theory or religious doctrine.",
+    "tamilDefinition": "தற்காப்பு வாதம் அல்லது தற்காப்பியல்; ஒரு மதம் அல்லது கோட்பாட்டை நியாயப்படுத்தும் பகுத்தறிவுபூர்வமான வாதங்கள்.",
+    "literaryContext": {
+      "english": "His brilliant apologetics defended the core tenets of the faith against modern skepticism.",
+      "tamil": "அவரது சிறப்பான தற்காப்பு வாதம் நவீன சந்தேகவாதத்திற்கு எதிராக விசுவாசத்தின் அடிப்படைக் கொள்கைகளைப் பாதுகாத்தது.",
+      "sourceNote": "Theological Review"
+    },
+    "formalSpeechContext": {
+      "english": "Christian apologetics aims to provide a rational foundation for religious belief.",
+      "tamil": "கிறிஸ்தவ தற்காப்பியல் மத நம்பிக்கைக்கு ஒரு பகுத்தறிவு அடிப்படையை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது.",
+      "sourceNote": "Philosophy of Religion Lecture"
+    },
+    "synonyms": ["defense", "justification", "vindication"],
+    "antonyms": []
+  },
+  {
+    "id": "theodicy",
+    "word": "Theodicy",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": ["Philosophy", "Theology & Religion"],
+    "englishDefinition": "The vindication of divine goodness and providence in view of the existence of evil.",
+    "tamilDefinition": "இறைநியாயவாதம்; உலகில் தீமை இருப்பதன் மத்தியில் இறைவனின் நன்மையையும் நீதியையும் நியாயப்படுத்தும் கோட்பாடு.",
+    "literaryContext": {
+      "english": "The author constructed a compelling theodicy to answer the age-old problem of suffering.",
+      "tamil": "பண்டைய காலத் துன்பப் பிரச்சனைக்கு பதிலளிக்க ஆசிரியர் ஒரு வலிமையான இறைநியாயவாதத்தை உருவாக்கினார்.",
+      "sourceNote": "Philosophical Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Any comprehensive theological system must eventually address the complex issue of theodicy.",
+      "tamil": "எந்தவொரு விரிவான இறையியல் அமைப்பும் இறுதியில் இறைநியாயவாதம் என்ற சிக்கலான சிக்கலைத் தீர்க்க வேண்டும்.",
+      "sourceNote": "Theology Seminar"
+    },
+    "synonyms": ["vindication of God"],
+    "antonyms": []
+  }
 ];
