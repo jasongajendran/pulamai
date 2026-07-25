@@ -238,13 +238,17 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
 
       {/* Main Body */}
       <div className="p-4 space-y-3">
-        {/* Definition Block - clean and minimal */}
-        <div className="space-y-1.5 bg-[#141414] p-3 rounded-xl border border-stone-900">
+        {/* Definition Block - with subtle highlights as requested */}
+        <div className="space-y-3 bg-[#141414] p-4 rounded-xl border border-stone-900">
           <p className="text-stone-200 text-[14px] sm:text-base leading-relaxed font-sans font-medium">
-            {entry.englishDefinition}
+            <span className="bg-teal-500/8 text-teal-100/95 border-b border-teal-500/20 px-1.5 py-0.5 rounded-sm decoration-teal-500/30">
+              {entry.englishDefinition}
+            </span>
           </p>
-          <p className="text-stone-100 text-base sm:text-lg font-serif font-semibold leading-relaxed pt-1.5 border-t border-stone-850">
-            {entry.tamilDefinition}
+          <p className="text-stone-100 text-base sm:text-lg font-serif font-semibold leading-relaxed pt-3 border-t border-stone-850">
+            <span className="bg-amber-500/8 text-amber-100/95 border-b border-amber-500/20 px-1.5 py-0.5 rounded-sm decoration-amber-500/30">
+              {entry.tamilDefinition}
+            </span>
           </p>
         </div>
 
