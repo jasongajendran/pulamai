@@ -10,7 +10,9 @@ export type CategoryTag =
   | 'Ethics & Society'
   | 'Poetics & Rhetoric'
   | 'Theology & Religion'
-  | 'Biblical Studies';
+  | 'Biblical Studies'
+  | 'Intermediate'
+  | 'General';
 
 export interface ContextExample {
   english: string;

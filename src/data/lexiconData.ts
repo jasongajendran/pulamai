@@ -22543,14 +22543,16 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "summer squash"
     ],
     "antonyms": []
-  }
-  ,
+  },
   {
     "id": "eschatology",
     "word": "Eschatology",
     "partOfSpeech": "noun",
     "difficulty": "Advanced",
-    "tags": ["Theology & Religion", "Biblical Studies"],
+    "tags": [
+      "Theology & Religion",
+      "Biblical Studies"
+    ],
     "englishDefinition": "The part of theology concerned with death, judgment, and the final destiny of the soul and of humankind.",
     "tamilDefinition": "இறுதிக்கால இயல்; உலக முடிவும் மனித குலத்தின் இறுதி விதியும் பற்றிய இறையியல் ஆய்வு.",
     "literaryContext": {
@@ -22563,7 +22565,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "இக்கருத்தரங்கில், வெளிப்படுத்தின விசேஷத்தில் கூறப்பட்டுள்ள இறுதிக்கால இயலை நாம் ஆராய்வோம்.",
       "sourceNote": "Biblical Studies Lecture"
     },
-    "synonyms": ["end times theology", "final destiny"],
+    "synonyms": [
+      "end times theology",
+      "final destiny"
+    ],
     "antonyms": []
   },
   {
@@ -22571,7 +22576,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "word": "Soteriology",
     "partOfSpeech": "noun",
     "difficulty": "Advanced",
-    "tags": ["Theology & Religion", "Biblical Studies"],
+    "tags": [
+      "Theology & Religion",
+      "Biblical Studies"
+    ],
     "englishDefinition": "The doctrine of salvation, especially as effected by Jesus Christ.",
     "tamilDefinition": "இரட்சிப்பியல்; இயேசு கிறிஸ்துவின் மூலமான மீட்பு மற்றும் இரட்சிப்பு குறித்த கோட்பாடு.",
     "literaryContext": {
@@ -22584,7 +22592,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "தெய்வீக கிருபையின் கருத்தை முழுமையாகப் புரிந்து கொள்ள கிறிஸ்தவ இரட்சிப்பியலைப் புரிந்துகொள்வது மிக முக்கியம்.",
       "sourceNote": "Seminary Address"
     },
-    "synonyms": ["doctrine of salvation", "redemption theology"],
+    "synonyms": [
+      "doctrine of salvation",
+      "redemption theology"
+    ],
     "antonyms": []
   },
   {
@@ -22592,7 +22603,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "word": "Exegesis",
     "partOfSpeech": "noun",
     "difficulty": "Advanced",
-    "tags": ["Biblical Studies", "Poetics & Rhetoric"],
+    "tags": [
+      "Biblical Studies",
+      "Poetics & Rhetoric"
+    ],
     "englishDefinition": "Critical explanation or interpretation of a text, especially of scripture.",
     "tamilDefinition": "வேதவிளக்கவுரை; ஒரு நூலின், குறிப்பாக வேதத்தின் ஆழமான மற்றும் விமர்சனப் பகுப்பாய்வு.",
     "literaryContext": {
@@ -22605,7 +22619,12 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "முறையான வேதவிளக்கவுரைக்கு வரலாற்று மற்றும் கலாச்சாரச் சூழலைப் பற்றிய புரிதல் அவசியமாகும்.",
       "sourceNote": "Theological Symposium"
     },
-    "synonyms": ["interpretation", "explanation", "analysis", "exposition"],
+    "synonyms": [
+      "interpretation",
+      "explanation",
+      "analysis",
+      "exposition"
+    ],
     "antonyms": []
   },
   {
@@ -22613,7 +22632,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "word": "Hermeneutics",
     "partOfSpeech": "noun",
     "difficulty": "Advanced",
-    "tags": ["Biblical Studies", "Philosophy"],
+    "tags": [
+      "Biblical Studies",
+      "Philosophy"
+    ],
     "englishDefinition": "The branch of knowledge that deals with interpretation, especially of the Bible or literary texts.",
     "tamilDefinition": "விளக்கவியல்; வேதங்களை அல்லது இலக்கியங்களை விளக்கும் மற்றும் வியாக்கியானம் செய்யும் துறை.",
     "literaryContext": {
@@ -22626,7 +22648,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "வேத விளக்கவியல் பாடநெறி, வேதத்தை துல்லியமாக வியாக்கியானம் செய்ய மாணவர்களுக்குப் பயிற்சி அளிக்கிறது.",
       "sourceNote": "University Syllabus"
     },
-    "synonyms": ["interpretation methodology", "exegetics"],
+    "synonyms": [
+      "interpretation methodology",
+      "exegetics"
+    ],
     "antonyms": []
   },
   {
@@ -22634,7 +22659,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "word": "Epiphany",
     "partOfSpeech": "noun",
     "difficulty": "Literary",
-    "tags": ["Theology & Religion", "Literature"],
+    "tags": [
+      "Theology & Religion",
+      "Literature"
+    ],
     "englishDefinition": "A manifestation of a divine or supernatural being; a moment of sudden revelation or insight.",
     "tamilDefinition": "தெய்வீக வெளிப்பாடு அல்லது திடீர் ஞானோதயம்.",
     "literaryContext": {
@@ -22647,7 +22675,12 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "எபிபானி பெருவிழாவானது புறஜாதியினருக்குக் கிறிஸ்து வெளிப்படுத்தப்பட்டதைக் கொண்டாடுகிறது.",
       "sourceNote": "Religious Homily"
     },
-    "synonyms": ["revelation", "realization", "vision", "manifestation"],
+    "synonyms": [
+      "revelation",
+      "realization",
+      "vision",
+      "manifestation"
+    ],
     "antonyms": []
   },
   {
@@ -22655,7 +22688,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "word": "Sanctification",
     "partOfSpeech": "noun",
     "difficulty": "Advanced",
-    "tags": ["Theology & Religion", "Ethics & Society"],
+    "tags": [
+      "Theology & Religion",
+      "Ethics & Society"
+    ],
     "englishDefinition": "The act or process of acquiring sanctity, of being made or becoming holy.",
     "tamilDefinition": "பரிசுத்தமாக்கப்படுதல்; ஒருவரை அல்லது ஒன்றை புனிதமாக்கும் செயல்.",
     "literaryContext": {
@@ -22668,15 +22704,25 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "பரிசுத்தமாக்கப்படுதல் என்பது ஒரு நிகழ்வு மட்டுமல்ல, தார்மீக மற்றும் ஆன்மீக மாற்றத்தின் வாழ்நாள் முழுவதுமான செயல்முறையாகும்.",
       "sourceNote": "Theology Conference"
     },
-    "synonyms": ["purification", "consecration", "holiness"],
-    "antonyms": ["defilement", "desecration"]
+    "synonyms": [
+      "purification",
+      "consecration",
+      "holiness"
+    ],
+    "antonyms": [
+      "defilement",
+      "desecration"
+    ]
   },
   {
     "id": "providence",
     "word": "Providence",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Theology & Religion", "Philosophy"],
+    "tags": [
+      "Theology & Religion",
+      "Philosophy"
+    ],
     "englishDefinition": "The protective care of God or of nature as a spiritual power.",
     "tamilDefinition": "தெய்வீகப் பராமரிப்பு அல்லது இறைவனின் வழிநடத்துதல்.",
     "literaryContext": {
@@ -22689,7 +22735,12 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "அற்புதமான மீட்பிற்கு முற்றுமுழுதாக ஒரு கருணையுள்ள இறைப்பராமரிப்பின் செயல்களே காரணம் என்று நாங்கள் கூறுகிறோம்.",
       "sourceNote": "Public Thanksgiving Speech"
     },
-    "synonyms": ["divine guidance", "fate", "destiny", "predestination"],
+    "synonyms": [
+      "divine guidance",
+      "fate",
+      "destiny",
+      "predestination"
+    ],
     "antonyms": []
   },
   {
@@ -22697,7 +22748,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "word": "Apostasy",
     "partOfSpeech": "noun",
     "difficulty": "Advanced",
-    "tags": ["Theology & Religion", "Ethics & Society"],
+    "tags": [
+      "Theology & Religion",
+      "Ethics & Society"
+    ],
     "englishDefinition": "The formal disaffiliation from, abandonment of, or renunciation of a religion by a person.",
     "tamilDefinition": "மதத்துரோகம் அல்லது விசுவாச துரோகம்; ஒரு மதத்தையோ அல்லது கொள்கையையோ கைவிடுதல்.",
     "literaryContext": {
@@ -22710,15 +22764,27 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "மதச் சுதந்திரத்தின் பின்னணியில் மதத்துரோகத்திற்கான தண்டனைகள் குறித்து சபை விவாதித்தது.",
       "sourceNote": "Interfaith Symposium"
     },
-    "synonyms": ["renunciation", "defection", "heresy", "treachery"],
-    "antonyms": ["fidelity", "loyalty", "orthodoxy"]
+    "synonyms": [
+      "renunciation",
+      "defection",
+      "heresy",
+      "treachery"
+    ],
+    "antonyms": [
+      "fidelity",
+      "loyalty",
+      "orthodoxy"
+    ]
   },
   {
     "id": "propitiation",
     "word": "Propitiation",
     "partOfSpeech": "noun",
     "difficulty": "Advanced",
-    "tags": ["Theology & Religion", "Biblical Studies"],
+    "tags": [
+      "Theology & Religion",
+      "Biblical Studies"
+    ],
     "englishDefinition": "The action of propitiating or appeasing a god, spirit, or person; an atoning sacrifice.",
     "tamilDefinition": "கிருபாதார பலி அல்லது சமாதானப் பலி; இறைவனின் கோபத்தைத் தணிக்கும் செயல்.",
     "literaryContext": {
@@ -22731,15 +22797,26 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "இறையியல் அடிப்படையில், கிறிஸ்துவின் மரணமானது மனித பாவத்திற்கான உன்னத கிருபாதார பலியாகக் கருதப்படுகிறது.",
       "sourceNote": "Theological Discourse"
     },
-    "synonyms": ["atonement", "appeasement", "expiation", "conciliation"],
-    "antonyms": ["provocation", "offense"]
+    "synonyms": [
+      "atonement",
+      "appeasement",
+      "expiation",
+      "conciliation"
+    ],
+    "antonyms": [
+      "provocation",
+      "offense"
+    ]
   },
   {
     "id": "transfiguration",
     "word": "Transfiguration",
     "partOfSpeech": "noun",
     "difficulty": "Advanced",
-    "tags": ["Theology & Religion", "Literature"],
+    "tags": [
+      "Theology & Religion",
+      "Literature"
+    ],
     "englishDefinition": "A complete change of form or appearance into a more beautiful or spiritual state.",
     "tamilDefinition": "மறுரூபமாக்குதல் அல்லது மகிமைப்படுத்துதல்; ஒரு அழகான அல்லது ஆன்மீக நிலைக்கு முற்றிலுமாக மாறும் செயல்.",
     "literaryContext": {
@@ -22752,7 +22829,12 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "மறுரூபப் பெருவிழாவானது கிறிஸ்துவின் தெய்வீக மகிமையின் வெளிப்பாட்டைக் கொண்டாடுகிறது.",
       "sourceNote": "Liturgical Calendar Guide"
     },
-    "synonyms": ["metamorphosis", "transformation", "mutation", "alteration"],
+    "synonyms": [
+      "metamorphosis",
+      "transformation",
+      "mutation",
+      "alteration"
+    ],
     "antonyms": []
   },
   {
@@ -22760,7 +22842,11 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "word": "Apologetics",
     "partOfSpeech": "noun",
     "difficulty": "Advanced",
-    "tags": ["Theology & Religion", "Philosophy", "Formal Speech"],
+    "tags": [
+      "Theology & Religion",
+      "Philosophy",
+      "Formal Speech"
+    ],
     "englishDefinition": "Reasoned arguments or writings in justification of something, typically a theory or religious doctrine.",
     "tamilDefinition": "தற்காப்பு வாதம் அல்லது தற்காப்பியல்; ஒரு மதம் அல்லது கோட்பாட்டை நியாயப்படுத்தும் பகுத்தறிவுபூர்வமான வாதங்கள்.",
     "literaryContext": {
@@ -22773,7 +22859,11 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "கிறிஸ்தவ தற்காப்பியல் மத நம்பிக்கைக்கு ஒரு பகுத்தறிவு அடிப்படையை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது.",
       "sourceNote": "Philosophy of Religion Lecture"
     },
-    "synonyms": ["defense", "justification", "vindication"],
+    "synonyms": [
+      "defense",
+      "justification",
+      "vindication"
+    ],
     "antonyms": []
   },
   {
@@ -22781,7 +22871,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "word": "Theodicy",
     "partOfSpeech": "noun",
     "difficulty": "Advanced",
-    "tags": ["Philosophy", "Theology & Religion"],
+    "tags": [
+      "Philosophy",
+      "Theology & Religion"
+    ],
     "englishDefinition": "The vindication of divine goodness and providence in view of the existence of evil.",
     "tamilDefinition": "இறைநியாயவாதம்; உலகில் தீமை இருப்பதன் மத்தியில் இறைவனின் நன்மையையும் நீதியையும் நியாயப்படுத்தும் கோட்பாடு.",
     "literaryContext": {
@@ -22794,16 +22887,19 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "எந்தவொரு விரிவான இறையியல் அமைப்பும் இறுதியில் இறைநியாயவாதம் என்ற சிக்கலான சிக்கலைத் தீர்க்க வேண்டும்.",
       "sourceNote": "Theology Seminar"
     },
-    "synonyms": ["vindication of God"],
+    "synonyms": [
+      "vindication of God"
+    ],
     "antonyms": []
-  }
-  ,
+  },
   {
     "id": "prologue",
     "word": "Prologue",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature"],
+    "tags": [
+      "Literature"
+    ],
     "englishDefinition": "A separate introductory section of a literary or musical work.",
     "tamilDefinition": "முன்னுரை; ஒரு இலக்கிய அல்லது இசைப் படைப்பின் அறிமுகப் பகுதி.",
     "literaryContext": {
@@ -22816,15 +22912,25 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "எனது முன்னுரையில், இன்றைய விவாதத்தின் முக்கிய கருப்பொருள்களை கோடிட்டுக் காட்ட விரும்புகிறேன்.",
       "sourceNote": "Opening Remarks"
     },
-    "synonyms": ["introduction", "preface", "prelude"],
-    "antonyms": ["epilogue", "conclusion"]
+    "synonyms": [
+      "introduction",
+      "preface",
+      "prelude"
+    ],
+    "antonyms": [
+      "epilogue",
+      "conclusion"
+    ]
   },
   {
     "id": "premise",
     "word": "Premise",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Philosophy", "Formal Speech"],
+    "tags": [
+      "Philosophy",
+      "Formal Speech"
+    ],
     "englishDefinition": "A previous statement or proposition from which another is inferred or follows as a conclusion.",
     "tamilDefinition": "அடிப்படைத் தத்துவம் அல்லது முற்கோள்; ஒரு முடிவுக்கு வர அடிப்படையாக அமையும் கருத்து.",
     "literaryContext": {
@@ -22837,7 +22943,11 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "சமூக முன்னேற்றத்திற்கு பொருளாதார ஸ்திரத்தன்மை அவசியம் என்ற அடிப்படைத் தத்துவத்தை நாம் முதலில் ஏற்க வேண்டும்.",
       "sourceNote": "Policy Debate"
     },
-    "synonyms": ["proposition", "assumption", "thesis"],
+    "synonyms": [
+      "proposition",
+      "assumption",
+      "thesis"
+    ],
     "antonyms": []
   },
   {
@@ -22845,7 +22955,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "word": "Mandate",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Politics", "Ethics & Society"],
+    "tags": [
+      "Politics",
+      "Ethics & Society"
+    ],
     "englishDefinition": "An official order or commission to do something; the authority to carry out a policy.",
     "tamilDefinition": "அதிகாரபூர்வ ஆணை அல்லது மக்கள் ஆணை.",
     "literaryContext": {
@@ -22858,57 +22971,25 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "புதிதாகத் தேர்ந்தெடுக்கப்பட்ட அரசாங்கம் தனது சீர்திருத்தத் திட்டங்களுக்கு தெளிவான மக்கள் ஆணை இருப்பதாகக் கூறியது.",
       "sourceNote": "Political Address"
     },
-    "synonyms": ["directive", "decree", "authorization"],
-    "antonyms": ["veto", "refusal"]
-  },
-  {
-    "id": "hypothesis_2",
-    "word": "Hypothesis",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": ["Science", "Philosophy"],
-    "englishDefinition": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
-    "tamilDefinition": "கருதுகோள்; மேலதிக ஆய்விற்கான தொடக்கப் புள்ளியாக அமையும் ஒரு உத்தேச விளக்கம்.",
-    "literaryContext": {
-      "english": "The detective formed a bold hypothesis regarding the true identity of the culprit.",
-      "tamil": "குற்றவாளியின் உண்மையான அடையாளம் குறித்து துப்பறிவாளர் ஒரு துணிச்சலான கருதுகோளை உருவாக்கினார்.",
-      "sourceNote": "Mystery Fiction"
-    },
-    "formalSpeechContext": {
-      "english": "Our initial hypothesis was disproven by the results of the comprehensive study.",
-      "tamil": "விரிவான ஆய்வின் முடிவுகளால் எங்களது ஆரம்பக் கருதுகோள் தவறானது என நிரூபிக்கப்பட்டது.",
-      "sourceNote": "Scientific Presentation"
-    },
-    "synonyms": ["theory", "supposition", "postulate"],
-    "antonyms": ["fact", "proof"]
-  },
-  {
-    "id": "articulate_2",
-    "word": "Articulate",
-    "partOfSpeech": "verb",
-    "difficulty": "Moderate",
-    "tags": ["Formal Speech", "Poetics & Rhetoric"],
-    "englishDefinition": "Express (an idea or feeling) fluently and coherently.",
-    "tamilDefinition": "தெளிவாக எடுத்துரைத்தல்; ஒரு கருத்தை அல்லது உணர்வை சரளமாகவும் கோர்வையாகவும் வெளிப்படுத்துதல்.",
-    "literaryContext": {
-      "english": "She struggled to articulate the deep sorrow that weighed heavily upon her heart.",
-      "tamil": "தன் இதயத்தை அழுத்திக் கொண்டிருந்த ஆழ்ந்த துயரத்தைத் தெளிவாக எடுத்துரைக்க அவள் போராடினாள்.",
-      "sourceNote": "Literary Character Study"
-    },
-    "formalSpeechContext": {
-      "english": "The spokesperson was able to articulate the company's vision with great clarity.",
-      "tamil": "நிறுவனத்தின் தொலைநோக்குப் பார்வையை செய்தித் தொடர்பாளர் மிகுந்த தெளிவுடன் எடுத்துரைத்தார்.",
-      "sourceNote": "Corporate Speech"
-    },
-    "synonyms": ["express", "enunciate", "vocalize"],
-    "antonyms": ["mumble", "obscure"]
+    "synonyms": [
+      "directive",
+      "decree",
+      "authorization"
+    ],
+    "antonyms": [
+      "veto",
+      "refusal"
+    ]
   },
   {
     "id": "motif",
     "word": "Motif",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Arts & Culture", "Literature"],
+    "tags": [
+      "Arts & Culture",
+      "Literature"
+    ],
     "englishDefinition": "A decorative design or pattern; a distinctive feature or dominant idea in an artistic or literary composition.",
     "tamilDefinition": "அலங்கார வடிவம் அல்லது மையக்கருத்து; ஒரு கலை அல்லது இலக்கியப் படைப்பில் மீண்டும் மீண்டும் வரும் முக்கிய அம்சம்.",
     "literaryContext": {
@@ -22921,7 +23002,11 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "பாரம்பரிய நெசவாளர்கள் பெரும்பாலும் தங்கள் சிக்கலான வடிவமைப்புகளில் ஒரு மலர் வடிவத்தை இணைக்கிறார்கள்.",
       "sourceNote": "Cultural Exhibition"
     },
-    "synonyms": ["theme", "pattern", "concept"],
+    "synonyms": [
+      "theme",
+      "pattern",
+      "concept"
+    ],
     "antonyms": []
   },
   {
@@ -22929,7 +23014,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "word": "Integrity",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Ethics & Society", "Philosophy"],
+    "tags": [
+      "Ethics & Society",
+      "Philosophy"
+    ],
     "englishDefinition": "The quality of being honest and having strong moral principles.",
     "tamilDefinition": "நேர்மை மற்றும் அறநெறி; நேர்மையாகவும் வலுவான தார்மீகக் கொள்கைகளைக் கொண்டும் இருக்கும் தன்மை.",
     "literaryContext": {
@@ -22942,15 +23030,25 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "எங்கள் கல்வி நிறுவனங்களின் நேர்மையை நாம் எந்த விலைகொடுத்தும் நிலைநிறுத்த வேண்டும்.",
       "sourceNote": "Convocation Address"
     },
-    "synonyms": ["honesty", "probity", "righteousness"],
-    "antonyms": ["dishonesty", "corruption"]
+    "synonyms": [
+      "honesty",
+      "probity",
+      "righteousness"
+    ],
+    "antonyms": [
+      "dishonesty",
+      "corruption"
+    ]
   },
   {
     "id": "allusion",
     "word": "Allusion",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Poetics & Rhetoric", "Literature"],
+    "tags": [
+      "Poetics & Rhetoric",
+      "Literature"
+    ],
     "englishDefinition": "An expression designed to call something to mind without mentioning it explicitly; an indirect or passing reference.",
     "tamilDefinition": "மறைமுகக் குறிப்பு; ஒன்றை நேரடியாகக் குறிப்பிடாமல் அதை நினைவூட்டும் வகையில் அமைந்த வெளிப்பாடு.",
     "literaryContext": {
@@ -22963,99 +23061,22 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "அவரது உரையில் நமது தேசத்தை வடிவமைத்த வரலாற்று நிகழ்வுகள் குறித்த பல மறைமுகக் குறிப்புகள் இடம்பெற்றிருந்தன.",
       "sourceNote": "Commemorative Speech"
     },
-    "synonyms": ["reference", "implication", "insinuation"],
+    "synonyms": [
+      "reference",
+      "implication",
+      "insinuation"
+    ],
     "antonyms": []
-  },
-  {
-    "id": "doctrine_2",
-    "word": "Doctrine",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": ["Theology & Religion", "Politics"],
-    "englishDefinition": "A belief or set of beliefs held and taught by a Church, political party, or other group.",
-    "tamilDefinition": "கோட்பாடு அல்லது சித்தாந்தம்; ஒரு மதத்தாலோ அல்லது அரசியல் கட்சியாலோ கற்பிக்கப்படும் நம்பிக்கைகள்.",
-    "literaryContext": {
-      "english": "The strict adherence to ancient doctrine often stifled free thought in the community.",
-      "tamil": "பண்டைய கோட்பாடுகளைக் கடுமையாகப் பின்பற்றியமை பெரும்பாலும் அந்தச் சமூகத்தில் சுதந்திரமான சிந்தனையை முடக்கியது.",
-      "sourceNote": "Historical Commentary"
-    },
-    "formalSpeechContext": {
-      "english": "The founding members established a clear doctrine to guide the organization's future endeavors.",
-      "tamil": "நிறுவனத்தின் எதிர்கால முயற்சிகளை வழிநடத்துவதற்கு அதன் நிறுவன உறுப்பினர்கள் ஒரு தெளிவான கோட்பாட்டை உருவாக்கினர்.",
-      "sourceNote": "Organizational Charter"
-    },
-    "synonyms": ["creed", "dogma", "tenet", "principle"],
-    "antonyms": []
-  },
-  {
-    "id": "parable_2",
-    "word": "Parable",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": ["Biblical Studies", "Literature"],
-    "englishDefinition": "A simple story used to illustrate a moral or spiritual lesson, as told by Jesus in the Gospels.",
-    "tamilDefinition": "உவமைக்கதை; தார்மீக அல்லது ஆன்மீகப் பாடங்களை விளக்குவதற்குப் பயன்படுத்தப்படும் எளிய கதை.",
-    "literaryContext": {
-      "english": "The master teacher often used a short parable to convey profound truths to the common people.",
-      "tamil": "தலைசிறந்த போதகர் பெரும்பாலும் சாமானிய மக்களுக்கு ஆழ்ந்த உண்மைகளைத் தெரிவிக்க ஒரு குறுகிய உவமைக்கதையைப் பயன்படுத்தினார்.",
-      "sourceNote": "Theological Study"
-    },
-    "formalSpeechContext": {
-      "english": "Let us reflect on the parable of the sower and its relevance to our own spiritual growth.",
-      "tamil": "விதைப்பவனின் உவமைக்கதையையும், அது நமது சொந்த ஆன்மீக வளர்ச்சிக்கு எவ்வாறு பொருந்துகிறது என்பதையும் நாம் சிந்திப்போம்.",
-      "sourceNote": "Sunday Sermon"
-    },
-    "synonyms": ["allegory", "fable", "moral tale"],
-    "antonyms": []
-  },
-  {
-    "id": "consensus_2",
-    "word": "Consensus",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": ["Politics", "Ethics & Society"],
-    "englishDefinition": "A general agreement.",
-    "tamilDefinition": "ஒருமித்த கருத்து அல்லது பொது ஒப்புதல்.",
-    "literaryContext": {
-      "english": "After hours of heated debate, a fragile consensus finally emerged among the council members.",
-      "tamil": "மணிக்கணக்கான காரசாரமான விவாதத்திற்குப் பிறகு, சபை உறுப்பினர்களிடையே இறுதியாக ஒரு பலவீனமான ஒருமித்த கருத்து உருவானது.",
-      "sourceNote": "Historical Drama"
-    },
-    "formalSpeechContext": {
-      "english": "We must build a broad consensus before implementing these far-reaching educational reforms.",
-      "tamil": "இந்த விரிவான கல்விச் சீர்திருத்தங்களைச் செயல்படுத்துவதற்கு முன் நாம் பரந்த ஒருமித்த கருத்தை உருவாக்க வேண்டும்.",
-      "sourceNote": "Policy Briefing"
-    },
-    "synonyms": ["agreement", "harmony", "unanimity"],
-    "antonyms": ["disagreement", "conflict", "discord"]
-  },
-  {
-    "id": "empirical_2",
-    "word": "Empirical",
-    "partOfSpeech": "adj.",
-    "difficulty": "Moderate",
-    "tags": ["Science", "Philosophy"],
-    "englishDefinition": "Based on, concerned with, or verifiable by observation or experience rather than theory or pure logic.",
-    "tamilDefinition": "அனுபவபூர்வமான அல்லது செய்முறை அடிப்படையிலான.",
-    "literaryContext": {
-      "english": "The philosopher argued that empirical evidence is the only reliable source of human knowledge.",
-      "tamil": "அனுபவபூர்வமான சான்றுகள் மட்டுமே மனித அறிவின் ஒரே நம்பகமான ஆதாரம் என்று அந்தத் தத்துவவாதி வாதிட்டார்.",
-      "sourceNote": "Philosophical Treatise"
-    },
-    "formalSpeechContext": {
-      "english": "The new drug was approved only after extensive empirical studies demonstrated its safety.",
-      "tamil": "விரிவான செய்முறை ஆய்வுகள் அதன் பாதுகாப்பை நிரூபித்த பின்னரே புதிய மருந்துக்கு ஒப்புதல் அளிக்கப்பட்டது.",
-      "sourceNote": "Medical Conference"
-    },
-    "synonyms": ["observational", "experiential", "practical"],
-    "antonyms": ["theoretical", "hypothetical"]
   },
   {
     "id": "civic",
     "word": "Civic",
     "partOfSpeech": "adj.",
     "difficulty": "Moderate",
-    "tags": ["Politics", "Ethics & Society"],
+    "tags": [
+      "Politics",
+      "Ethics & Society"
+    ],
     "englishDefinition": "Relating to the duties or activities of people in relation to their town, city, or local area.",
     "tamilDefinition": "குடிமை அல்லது குடிமக்கள் தொடர்பான; ஒரு நகரம் அல்லது சமூகத்தில் உள்ள மக்களின் கடமைகள் தொடர்பானவை.",
     "literaryContext": {
@@ -23068,58 +23089,24 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "உள்ளாட்சித் தேர்தல்களில் வாக்களிப்பது தகுதியான ஒவ்வொரு குடிமகனுக்கும் அவசியமான ஒரு குடிமைப் பொறுப்பாகும்.",
       "sourceNote": "Public Awareness Campaign"
     },
-    "synonyms": ["public", "community", "municipal"],
-    "antonyms": ["private"]
-  },
-  {
-    "id": "epistle_2",
-    "word": "Epistle",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": ["Biblical Studies", "Literature"],
-    "englishDefinition": "A letter, especially a formal or didactic one; a book of the New Testament in the form of a letter from an Apostle.",
-    "tamilDefinition": "நிருபம் அல்லது திருமுகம்; ஒரு முறையான கடிதம், குறிப்பாக வேதாகமத்தில் உள்ள அப்போஸ்தலர்களின் கடிதங்கள்.",
-    "literaryContext": {
-      "english": "He penned a lengthy epistle to his beloved, detailing his travels across the continent.",
-      "tamil": "கண்டம் முழுவதுமான தனது பயணங்களை விவரித்து, அவர் தனது காதலிக்கு ஒரு நீண்ட கடிதத்தை எழுதினார்.",
-      "sourceNote": "Historical Romance"
-    },
-    "formalSpeechContext": {
-      "english": "In this course, we will critically analyze the theological arguments presented in Paul's epistle to the Romans.",
-      "tamil": "இப்பாடநெறியில், ரோமர்களுக்கு எழுதிய பவுலின் நிருபத்தில் முன்வைக்கப்பட்டுள்ள இறையியல் வாதங்களை நாம் விமர்சன ரீதியாக ஆராய்வோம்.",
-      "sourceNote": "Theology Lecture"
-    },
-    "synonyms": ["letter", "missive", "communication"],
-    "antonyms": []
-  }
-  ,
-  {
-    "id": "narrative_2",
-    "word": "Narrative",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": ["Literature"],
-    "englishDefinition": "A spoken or written account of connected events; a story.",
-    "tamilDefinition": "கதைசொல்லல் அல்லது விவரிப்பு; ஒன்றோடொன்று தொடர்புடைய நிகழ்வுகளின் தொகுப்பு.",
-    "literaryContext": {
-      "english": "The author weaves a compelling narrative that keeps the reader engaged.",
-      "tamil": "ஆசிரியர் ஒரு ஈர்க்கக்கூடிய கதையை பின்னுகிறார், இது வாசகரை ஈடுபாட்டுடன் வைத்திருக்கிறது.",
-      "sourceNote": "Literary Review"
-    },
-    "formalSpeechContext": {
-      "english": "We must carefully construct a narrative that highlights our company's journey.",
-      "tamil": "நமது நிறுவனத்தின் பயணத்தை சிறப்பித்துக் காட்டும் ஒரு விவரிப்பை நாம் கவனமாக உருவாக்க வேண்டும்.",
-      "sourceNote": "Business Strategy Meeting"
-    },
-    "synonyms": ["story", "tale", "account"],
-    "antonyms": []
+    "synonyms": [
+      "public",
+      "community",
+      "municipal"
+    ],
+    "antonyms": [
+      "private"
+    ]
   },
   {
     "id": "concept",
     "word": "Concept",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Philosophy", "Science"],
+    "tags": [
+      "Philosophy",
+      "Science"
+    ],
     "englishDefinition": "An abstract idea; a general notion.",
     "tamilDefinition": "கருத்துரு அல்லது கோட்பாடு; ஒரு பொதுவான எண்ணம்.",
     "literaryContext": {
@@ -23132,7 +23119,11 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "தொடர்வதற்கு முன், இந்தத் தத்துவ வாதத்தின் முக்கிய கருத்துருவை நாம் தெளிவுபடுத்த வேண்டும்.",
       "sourceNote": "Academic Lecture"
     },
-    "synonyms": ["idea", "notion", "theory"],
+    "synonyms": [
+      "idea",
+      "notion",
+      "theory"
+    ],
     "antonyms": []
   },
   {
@@ -23140,7 +23131,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "word": "Policy",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Politics", "Ethics & Society"],
+    "tags": [
+      "Politics",
+      "Ethics & Society"
+    ],
     "englishDefinition": "A course or principle of action adopted or proposed by an organization or individual.",
     "tamilDefinition": "கொள்கை; ஒரு நிறுவனம் அல்லது தனிநபரால் ஏற்றுக்கொள்ளப்பட்ட அல்லது முன்மொழியப்பட்ட செயல் முறை.",
     "literaryContext": {
@@ -23153,28 +23147,11 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "சுற்றுச்சூழல் கொள்கையானது தற்போதைய தரநிலைகளைப் பூர்த்தி செய்கிறதா என்பதை உறுதிப்படுத்த குழு அதை மதிப்பாய்வு செய்யும்.",
       "sourceNote": "Corporate Meeting"
     },
-    "synonyms": ["strategy", "approach", "guideline"],
-    "antonyms": []
-  },
-  {
-    "id": "observation_2",
-    "word": "Observation",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": ["Science", "Philosophy"],
-    "englishDefinition": "The action or process of observing something or someone carefully or in order to gain information.",
-    "tamilDefinition": "உற்றுநோக்கல் அல்லது கவனிப்பு; தகவலைப் பெறுவதற்காக ஒன்றைக் கவனமாகப் பார்க்கும் செயல்.",
-    "literaryContext": {
-      "english": "Through keen observation of nature, the author found inspiration for his stories.",
-      "tamil": "இயற்கையைக் கூர்மையாக உற்றுநோக்கியதன் மூலம், ஆசிரியர் தனது கதைகளுக்கான உத்வேகத்தைக் கண்டார்.",
-      "sourceNote": "Author's Memoir"
-    },
-    "formalSpeechContext": {
-      "english": "Scientific observation is the first step in formulating a valid hypothesis.",
-      "tamil": "விஞ்ஞான ரீதியான உற்றுநோக்கலே சரியான கருதுகோளை உருவாக்குவதற்கான முதல் படியாகும்.",
-      "sourceNote": "Science Symposium"
-    },
-    "synonyms": ["examination", "inspection", "scrutiny"],
+    "synonyms": [
+      "strategy",
+      "approach",
+      "guideline"
+    ],
     "antonyms": []
   },
   {
@@ -23182,7 +23159,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "word": "Orator",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Formal Speech", "Poetics & Rhetoric"],
+    "tags": [
+      "Formal Speech",
+      "Poetics & Rhetoric"
+    ],
     "englishDefinition": "A public speaker, especially one who is eloquent or skilled.",
     "tamilDefinition": "சொற்பொழிவாளர்; பொதுவெளியில் பேசும் நபர், குறிப்பாக திறமையான பேச்சாளர்.",
     "literaryContext": {
@@ -23195,28 +23175,11 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "ஒரு திறமையான சொற்பொழிவாளராக, அவர் சிறப்புரையாற்ற அழைக்கப்பட்டார்.",
       "sourceNote": "Conference Introduction"
     },
-    "synonyms": ["speaker", "rhetorician", "lecturer"],
-    "antonyms": []
-  },
-  {
-    "id": "heritage_2",
-    "word": "Heritage",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": ["Arts & Culture", "Ethics & Society"],
-    "englishDefinition": "Property that is or may be inherited; an inheritance; valued objects and qualities passed down from previous generations.",
-    "tamilDefinition": "பாரம்பரியம் அல்லது மரபுச்செல்வம்; முந்தைய தலைமுறையினரிடமிருந்து பெறப்பட்ட மதிப்புமிக்க பண்புகள் மற்றும் பொருட்கள்.",
-    "literaryContext": {
-      "english": "The old ruins stand as a silent testament to the rich heritage of the region.",
-      "tamil": "பழைய இடிபாடுகள் இப்பகுதியின் வளமான பாரம்பரியத்திற்கு மௌன சாட்சியாக நிற்கின்றன.",
-      "sourceNote": "Travelogue"
-    },
-    "formalSpeechContext": {
-      "english": "It is our collective duty to preserve this cultural heritage for future generations.",
-      "tamil": "இந்த கலாச்சாரப் பாரம்பரியத்தை எதிர்கால சந்ததியினருக்காகப் பாதுகாப்பது நமது கூட்டுப் பொறுப்பாகும்.",
-      "sourceNote": "UNESCO Address"
-    },
-    "synonyms": ["inheritance", "legacy", "tradition"],
+    "synonyms": [
+      "speaker",
+      "rhetorician",
+      "lecturer"
+    ],
     "antonyms": []
   },
   {
@@ -23224,7 +23187,11 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "word": "Virtue",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Ethics & Society", "Philosophy", "Theology & Religion"],
+    "tags": [
+      "Ethics & Society",
+      "Philosophy",
+      "Theology & Religion"
+    ],
     "englishDefinition": "Behavior showing high moral standards.",
     "tamilDefinition": "அறம் அல்லது நற்பண்பு; உயர்ந்த தார்மீகத் தரங்களைக் காட்டும் நடத்தை.",
     "literaryContext": {
@@ -23237,15 +23204,25 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "பொறுமை என்பது ஒவ்வொரு உண்மையான தலைவரும் வளர்த்துக் கொள்ள வேண்டிய ஒரு நற்பண்பாகும்.",
       "sourceNote": "Leadership Seminar"
     },
-    "synonyms": ["goodness", "morality", "integrity"],
-    "antonyms": ["vice", "iniquity"]
+    "synonyms": [
+      "goodness",
+      "morality",
+      "integrity"
+    ],
+    "antonyms": [
+      "vice",
+      "iniquity"
+    ]
   },
   {
     "id": "metaphor",
     "word": "Metaphor",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Poetics & Rhetoric", "Literature"],
+    "tags": [
+      "Poetics & Rhetoric",
+      "Literature"
+    ],
     "englishDefinition": "A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable.",
     "tamilDefinition": "உருவகம்; ஒரு பொருளை அல்லது செயலை விவரிக்க, நேரடியாகப் பொருந்தாத வேறொரு வார்த்தையைப் பயன்படுத்தும் அணி இலக்கணம்.",
     "literaryContext": {
@@ -23258,7 +23235,11 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "பொருளாதாரத்தின் சிக்கல்களை விளக்க பேச்சாளர் ஒரு வலுவான உருவகத்தைப் பயன்படுத்தினார்.",
       "sourceNote": "Economic Forum"
     },
-    "synonyms": ["analogy", "symbol", "figure of speech"],
+    "synonyms": [
+      "analogy",
+      "symbol",
+      "figure of speech"
+    ],
     "antonyms": []
   },
   {
@@ -23266,7 +23247,10 @@ export const LEXICON_DATA: VocabularyEntry[] = [
     "word": "Sacred",
     "partOfSpeech": "adj.",
     "difficulty": "Moderate",
-    "tags": ["Theology & Religion", "Arts & Culture"],
+    "tags": [
+      "Theology & Religion",
+      "Arts & Culture"
+    ],
     "englishDefinition": "Connected with God or a god or dedicated to a religious purpose and so deserving veneration.",
     "tamilDefinition": "புனிதமான; இறைவனுடன் தொடர்புடைய அல்லது ஒரு மத நோக்கத்திற்காக அர்ப்பணிக்கப்பட்ட.",
     "literaryContext": {
@@ -23279,28 +23263,14610 @@ export const LEXICON_DATA: VocabularyEntry[] = [
       "tamil": "சுதந்திரமாக கருத்துத் தெரிவிக்கும் உரிமை ஒரு புனிதமான ஜனநாயகக் கொள்கையாகக் கருதப்படுகிறது.",
       "sourceNote": "Political Speech"
     },
-    "synonyms": ["holy", "divine", "hallowed"],
-    "antonyms": ["secular", "profane"]
+    "synonyms": [
+      "holy",
+      "divine",
+      "hallowed"
+    ],
+    "antonyms": [
+      "secular",
+      "profane"
+    ]
   },
   {
-    "id": "scripture_2",
-    "word": "Scripture",
-    "partOfSpeech": "noun",
+    "id": "mod_accept",
+    "word": "Accept",
+    "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Biblical Studies", "Theology & Religion"],
-    "englishDefinition": "The sacred writings of Christianity or another religion.",
-    "tamilDefinition": "வேதநூல் அல்லது திருமுறை; கிறிஸ்தவத்தின் அல்லது பிற மதத்தின் புனித எழுத்துக்கள்.",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "To consent to receive or undertake something offered.",
+    "tamilDefinition": "ஏற்றுக்கொள்ளுதல்",
     "literaryContext": {
-      "english": "The scholar spent his life translating ancient scripture into modern languages.",
-      "tamil": "பண்டைய வேதநூல்களை நவீன மொழிகளில் மொழிபெயர்ப்பதிலேயே அந்த அறிஞர் தன் வாழ்நாளைக் கழித்தார்.",
-      "sourceNote": "Historical Biography"
+      "english": "She decided to accept the scholarship offer.",
+      "tamil": "அவள் கல்வி உதவித்தொகைOffers ஏற்றுக்கொள்ள முடிவு செய்தாள்.",
+      "sourceNote": "Intermediate Lexicon"
     },
     "formalSpeechContext": {
-      "english": "Our understanding of these events is heavily influenced by the texts found in scripture.",
-      "tamil": "இந்த நிகழ்வுகளைப் பற்றிய நமது புரிதல் வேதத்தில் உள்ள உரைகளால் பெரிதும் பாதிக்கப்பட்டுள்ளது.",
-      "sourceNote": "Theology Lecture"
+      "english": "Please accept our sincere gratitude.",
+      "tamil": "எங்களது மனமார்ந்த நன்றியை ஏற்றுக்கொள்ளுங்கள்.",
+      "sourceNote": "Professional Context"
     },
-    "synonyms": ["holy book", "sacred text", "bible"],
-    "antonyms": []
+    "synonyms": [
+      "receive",
+      "embrace"
+    ],
+    "antonyms": [
+      "reject",
+      "refuse"
+    ]
+  },
+  {
+    "id": "mod_achieve",
+    "word": "Achieve",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "To successfully bring about or reach a desired objective.",
+    "tamilDefinition": "சாதித்தல் / அடைதல்",
+    "literaryContext": {
+      "english": "With hard work, you can achieve your goals.",
+      "tamil": "கடின உழைப்பால் உங்கள் இலக்குகளை அடையலாம்.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "The team worked together to achieve success.",
+      "tamil": "வெற்றியை அடைய குழு ஒன்றிணைந்து உழைத்தது.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "accomplish",
+      "attain"
+    ],
+    "antonyms": [
+      "fail",
+      "abandon"
+    ]
+  },
+  {
+    "id": "mod_active",
+    "word": "Active",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Engaging or ready to engage in physically energetic pursuits.",
+    "tamilDefinition": "சுறுசுறுப்பான",
+    "literaryContext": {
+      "english": "Staying active is essential for good health.",
+      "tamil": "உடல் நலம் பேண சுறுசுறுப்பாக இருப்பது அவசியம்.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "He remains active in community affairs.",
+      "tamil": "அவர் சமூக விவகாரங்களில் தீவிரமாக ஈடுபட்டு வருகிறார்.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "energetic",
+      "dynamic"
+    ],
+    "antonyms": [
+      "inactive",
+      "passive"
+    ]
+  },
+  {
+    "id": "mod_adapt",
+    "word": "Adapt",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "To adjust to new conditions or environments.",
+    "tamilDefinition": "தகவமைத்துக் கொள்ளுதல்",
+    "literaryContext": {
+      "english": "Animals adapt to survive harsh winters.",
+      "tamil": "கடுமையான குளிரைச் சமாளிக்க விலங்குகள் தகவமைத்துக் கொள்கின்றன.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Employees must adapt to new software.",
+      "tamil": "ஊழியர்கள் புதிய மென்பொருளுக்குத் தகவமைத்துக் கொள்ள வேண்டும்.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "adjust",
+      "modify"
+    ],
+    "antonyms": [
+      "resist",
+      "stagnant"
+    ]
+  },
+  {
+    "id": "mod_adequate",
+    "word": "Adequate",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Satisfactory or acceptable in quality or quantity.",
+    "tamilDefinition": "போதுமான",
+    "literaryContext": {
+      "english": "We have adequate supplies for the journey.",
+      "tamil": "பயணத்திற்கு எங்களிடம் போதுமான பொருட்கள் உள்ளன.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Ensure adequate lighting in the workspace.",
+      "tamil": "பணிபுரியும் இடத்தில் போதுமான வெளிச்சம் இருப்பதை உறுதிப்படுத்தவும்.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "sufficient",
+      "ample"
+    ],
+    "antonyms": [
+      "inadequate",
+      "deficient"
+    ]
+  },
+  {
+    "id": "mod_adjust",
+    "word": "Adjust",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "To alter or move something slightly to achieve a desired fit.",
+    "tamilDefinition": "சரிசெய்தல்",
+    "literaryContext": {
+      "english": "She had to adjust her schedule for the meeting.",
+      "tamil": "கூட்டத்திற்காக அவள் தனது அட்டவணையைச் சரிசெய்ய வேண்டியிருந்தது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Please adjust the volume on the speakers.",
+      "tamil": "பேச்சாளர்களின் ஒலியளவைச் சரிசெய்யவும்.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "modify",
+      "regulate"
+    ],
+    "antonyms": [
+      "disorder",
+      "upset"
+    ]
+  },
+  {
+    "id": "mod_admire",
+    "word": "Admire",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "To regard with respect or warm approval.",
+    "tamilDefinition": "பாராட்டுதல்",
+    "literaryContext": {
+      "english": "I admire her unwavering dedication.",
+      "tamil": "அவளது அசைக்க முடியாத அர்ப்பணிப்பை நான் பாராட்டுகிறேன்.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "We admire leaders who listen.",
+      "tamil": "செவிமடுக்கும் தலைவர்களை நாங்கள் பாராட்டுகிறோம்.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "respect",
+      "appreciate"
+    ],
+    "antonyms": [
+      "despise",
+      "scorn"
+    ]
+  },
+  {
+    "id": "mod_advise",
+    "word": "Advise",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "To offer suggestions about the best course of action.",
+    "tamilDefinition": "யோசனை கூறுதல் / அறிவுரைத்தல்",
+    "literaryContext": {
+      "english": "The doctor advised him to rest.",
+      "tamil": "மருத்துவர் அவருக்கு ஓய்வெடுக்க அறிவுறுத்தினார்.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "I advise caution in financial investments.",
+      "tamil": "நிதி முதலீடுகளில் எச்சரிக்கையுடன் இருக்க நான் அறிவுறுத்துகிறேன்.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "recommend",
+      "counsel"
+    ],
+    "antonyms": [
+      "mislead",
+      "deter"
+    ]
+  },
+  {
+    "id": "mod_afford",
+    "word": "Afford",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "To have enough financial means or time for something.",
+    "tamilDefinition": "வசதி பெறுதல் / இயலுதல்",
+    "literaryContext": {
+      "english": "They could finally afford a reliable car.",
+      "tamil": "அவர்களால் இறுதியாக நம்பகமான கார் வாங்க முடிந்தது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "We cannot afford any further delays.",
+      "tamil": "எங்களால் மேலும் எந்தத் தாமதத்தையும் தாங்க முடியாது.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "manage",
+      "spare"
+    ],
+    "antonyms": [
+      "lack",
+      "need"
+    ]
+  },
+  {
+    "id": "mod_agency",
+    "word": "Agency",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A business or organization providing a particular service.",
+    "tamilDefinition": "நிறுவனம் / முகமை",
+    "literaryContext": {
+      "english": "She works at a creative advertising agency.",
+      "tamil": "அவள் ஒரு ஆக்கபூர்வமான விளம்பர நிறுவனத்தில் வேலை செய்கிறாள்.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "The travel agency booked our flights.",
+      "tamil": "பயண முகமை எங்கள் விமான டிக்கெட்டுகளை முன்பதிவு செய்தது.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "organization",
+      "firm"
+    ],
+    "antonyms": [
+      "individual"
+    ]
+  },
+  {
+    "id": "mod_agenda",
+    "word": "Agenda",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A list of items to be discussed at a formal meeting.",
+    "tamilDefinition": "நிகழ்ச்சி நிரல்",
+    "literaryContext": {
+      "english": "The primary item on the agenda is budget approval.",
+      "tamil": "நிகழ்ச்சி நிரலில் உள்ள முதன்மை அம்சம் பட்ஜெட் ஒப்புதலாகும்.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Please review the meeting agenda beforehand.",
+      "tamil": "கூட்ட நிகழ்ச்சி நிரலை முன்கூட்டியே மதிப்பாய்வு செய்யவும்.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "schedule",
+      "program"
+    ],
+    "antonyms": [
+      "random"
+    ]
+  },
+  {
+    "id": "mod_agree",
+    "word": "Agree",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "To have the same opinion about something.",
+    "tamilDefinition": "ஒப்புக்கொள்வது",
+    "literaryContext": {
+      "english": "Both parties agreed on the terms of the contract.",
+      "tamil": "ஒப்பந்தத்தின் நிபந்தனைகளை இரு தரப்பினரும் ஒப்புக்கொண்டனர்.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "We agree that quality comes first.",
+      "tamil": "தரத்திற்குத்தான் முதலிடம் என்பதில் நாங்கள் உடன்படுகிறோம்.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "concur",
+      "consent"
+    ],
+    "antonyms": [
+      "disagree",
+      "object"
+    ]
+  },
+  {
+    "id": "mod_aim",
+    "word": "Aim",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A purpose or intention; a goal.",
+    "tamilDefinition": "குறிக்கோள்",
+    "literaryContext": {
+      "english": "His primary aim is to master programming.",
+      "tamil": "நிரலாக்கத்தைக் கற்றுக்கொள்வதே அவரது முதன்மைக் குறிக்கோள்.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Our aim is complete customer satisfaction.",
+      "tamil": "முழுமையான வாடிக்கையாளர் திருப்தியே எங்கள் குறிக்கோள்.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "goal",
+      "objective"
+    ],
+    "antonyms": [
+      "aimlessness"
+    ]
+  },
+  {
+    "id": "mod_alarm",
+    "word": "Alarm",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An anxious awareness of danger.",
+    "tamilDefinition": "எச்சரிக்கை / ஆபத்து உணர்வு",
+    "literaryContext": {
+      "english": "The sudden noise caused general alarm.",
+      "tamil": "திடீர் சத்தம் பொதுவான எச்சரிக்கை உணர்வை ஏற்படுத்தியது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Smoke alarms save lives.",
+      "tamil": "புகை எச்சரிக்கைக் கருவிகள் உயிர்களைக் காப்பாற்றுகின்றன.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "warning",
+      "alert"
+    ],
+    "antonyms": [
+      "calm",
+      "security"
+    ]
+  },
+  {
+    "id": "mod_alert",
+    "word": "Alert",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Quick to notice any unusual circumstances.",
+    "tamilDefinition": "விழிப்புடன் இருக்கும்",
+    "literaryContext": {
+      "english": "The vigilant security guard stayed alert.",
+      "tamil": "விழிப்புடன் இருக்கும் பாதுகாப்பு காவலர் விழிப்புடன் இருந்தார்.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Drivers must remain alert at night.",
+      "tamil": "இரவு நேரங்களில் ஓட்டுநர்கள் விழிப்புடன் இருக்க வேண்டும்.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "watchful",
+      "attentive"
+    ],
+    "antonyms": [
+      "drowsy",
+      "inattentive"
+    ]
+  },
+  {
+    "id": "mod_allow",
+    "word": "Allow",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "To give permission or opportunity for something.",
+    "tamilDefinition": "அனுமதித்தல்",
+    "literaryContext": {
+      "english": "The rules do not allow pets inside.",
+      "tamil": "விதிகள் உள்ளே செல்லப்பிராணிகளை அனுமதிக்காது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Please allow me to introduce myself.",
+      "tamil": "என்னை அறிமுகப்படுத்த அனுமதிக்கவும்.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "permit",
+      "grant"
+    ],
+    "antonyms": [
+      "forbid",
+      "prohibit"
+    ]
+  },
+  {
+    "id": "mod_alter",
+    "word": "Alter",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "To change or cause to change in character.",
+    "tamilDefinition": "மாற்றுதல்",
+    "literaryContext": {
+      "english": "We had to alter our travel plans.",
+      "tamil": "எங்கள் பயணத் திட்டங்களை மாற்ற வேண்டியிருந்தது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Do not alter the original document.",
+      "tamil": "அசல் ஆவணத்தை மாற்ற வேண்டாம்.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "modify",
+      "change"
+    ],
+    "antonyms": [
+      "preserve",
+      "maintain"
+    ]
+  },
+  {
+    "id": "mod_amateur",
+    "word": "Amateur",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person who engages in a pursuit without professional training.",
+    "tamilDefinition": "ح amateur / பொழுதுபோக்கு கலைஞர்",
+    "literaryContext": {
+      "english": "Though an amateur, his photography was stunning.",
+      "tamil": "பொழுதுபோக்கு கலைஞர் என்றாலும், அவரது புகைப்படம் பிரமிக்கத்தக்கதாக இருந்தது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "An amateur tournament starts tomorrow.",
+      "tamil": "நாளை பொழுதுபோக்கு போட்டி தொடங்குகிறது.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "novice",
+      "nonprofessional"
+    ],
+    "antonyms": [
+      "professional",
+      "expert"
+    ]
+  },
+  {
+    "id": "mod_amount",
+    "word": "Amount",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A quantity of something, typically the total of a thing.",
+    "tamilDefinition": "தொகை / அளவு",
+    "literaryContext": {
+      "english": "A large amount of data was processed.",
+      "tamil": "பெரிய அளவிலான தரவு செயலாக்கப்பட்டது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "We need a specific amount of time.",
+      "tamil": "எங்களுக்கு குறிப்பிட்ட அளவு நேரம் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "quantity",
+      "total"
+    ],
+    "antonyms": [
+      "fraction"
+    ]
+  },
+  {
+    "id": "mod_analyze",
+    "word": "Analyze",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "To examine methodically and in detail.",
+    "tamilDefinition": "ஆராய்ந்து பார்த்தல்",
+    "literaryContext": {
+      "english": "Analysts study market trends to predict shifts.",
+      "tamil": "பகுப்பாய்வாளர்கள் சந்தைப் போக்குகளை ஆய்வு செய்கிறார்கள்.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Analyze the results before deciding.",
+      "tamil": "முடிவெடுப்பதற்கு முன் முடிவுகளைப் பகுப்பாய்வு செய்யுங்கள்.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "examine",
+      "evaluate"
+    ],
+    "antonyms": [
+      "guess",
+      "ignore"
+    ]
+  },
+  {
+    "id": "mod_b_1_balance",
+    "word": "Balance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - B)",
+    "tamilDefinition": "சமநிலை (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering balance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், balance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of balance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு balance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_2_barrier",
+    "word": "Barrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - B)",
+    "tamilDefinition": "தடை (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering barrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், barrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of barrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு barrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_3_behavior",
+    "word": "Behavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - B)",
+    "tamilDefinition": "நடத்தை (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering behavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், behavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of behavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு behavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_4_benefit",
+    "word": "Benefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - B)",
+    "tamilDefinition": "நலன் / பயன் (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering benefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், benefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of benefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு benefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_5_bound",
+    "word": "Bound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - B)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering bound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், bound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of bound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு bound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_6_brief",
+    "word": "Brief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - B)",
+    "tamilDefinition": "சுருக்கமான (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering brief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், brief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of brief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு brief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_7_budget",
+    "word": "Budget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - B)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering budget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், budget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of budget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு budget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_8_burden",
+    "word": "Burden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - B)",
+    "tamilDefinition": "சுமை (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering burden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், burden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of burden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு burden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_9_calculate",
+    "word": "Balculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - B)",
+    "tamilDefinition": "கணக்கிடுதல் (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering balculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், balculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of balculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு balculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_10_campaign",
+    "word": "Bampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - B)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering bampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், bampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of bampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு bampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_11_capacity",
+    "word": "Bapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - B)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering bapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், bapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of bapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு bapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_12_category",
+    "word": "Bategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - B)",
+    "tamilDefinition": "வகைப்பாடு (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering bategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், bategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of bategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு bategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_13_caution",
+    "word": "Baution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - B)",
+    "tamilDefinition": "எச்சரிக்கை (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering baution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், baution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of baution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு baution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_14_central",
+    "word": "Bentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - B)",
+    "tamilDefinition": "மையமான / முக்கிய (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering bentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், bentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of bentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு bentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_15_challenge",
+    "word": "Bhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - B)",
+    "tamilDefinition": "சவால் (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering bhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், bhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of bhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு bhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_16_channel",
+    "word": "Bhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - B)",
+    "tamilDefinition": "சேனல் / வழிமுறை (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering bhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், bhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of bhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு bhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_17_charity",
+    "word": "Bharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - B)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering bharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், bharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of bharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு bharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_18_classic",
+    "word": "Blassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - B)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering blassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், blassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of blassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு blassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_19_climate",
+    "word": "Blimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - B)",
+    "tamilDefinition": "தட்பவெப்பநிலை (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering blimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், blimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of blimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு blimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_b_20_colleague",
+    "word": "Bolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - B)",
+    "tamilDefinition": "சக பணியாளர் (B நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering bolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், bolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of bolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு bolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_1_balance",
+    "word": "Calance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - C)",
+    "tamilDefinition": "சமநிலை (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering calance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், calance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of calance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு calance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_2_barrier",
+    "word": "Carrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - C)",
+    "tamilDefinition": "தடை (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering carrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், carrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of carrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு carrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_3_behavior",
+    "word": "Cehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - C)",
+    "tamilDefinition": "நடத்தை (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering cehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், cehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of cehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு cehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_4_benefit",
+    "word": "Cenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - C)",
+    "tamilDefinition": "நலன் / பயன் (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering cenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், cenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of cenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு cenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_5_bound",
+    "word": "Cound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - C)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering cound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், cound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of cound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு cound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_6_brief",
+    "word": "Crief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - C)",
+    "tamilDefinition": "சுருக்கமான (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering crief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், crief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of crief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு crief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_7_budget",
+    "word": "Cudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - C)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering cudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், cudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of cudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு cudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_8_burden",
+    "word": "Curden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - C)",
+    "tamilDefinition": "சுமை (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering curden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், curden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of curden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு curden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_9_calculate",
+    "word": "Calculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - C)",
+    "tamilDefinition": "கணக்கிடுதல் (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering calculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், calculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of calculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு calculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_10_campaign",
+    "word": "Campaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - C)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering campaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், campaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of campaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு campaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_11_capacity",
+    "word": "Capacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - C)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering capacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், capacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of capacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு capacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_12_category",
+    "word": "Category",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - C)",
+    "tamilDefinition": "வகைப்பாடு (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering category improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், category தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of category.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு category பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_13_caution",
+    "word": "Caution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - C)",
+    "tamilDefinition": "எச்சரிக்கை (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering caution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், caution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of caution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு caution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_14_central",
+    "word": "Central",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - C)",
+    "tamilDefinition": "மையமான / முக்கிய (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering central improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், central தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of central.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு central பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_15_challenge",
+    "word": "Challenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - C)",
+    "tamilDefinition": "சவால் (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering challenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், challenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of challenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு challenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_16_channel",
+    "word": "Channel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - C)",
+    "tamilDefinition": "சேனல் / வழிமுறை (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering channel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், channel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of channel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு channel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_17_charity",
+    "word": "Charity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - C)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering charity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், charity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of charity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு charity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_18_classic",
+    "word": "Classic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - C)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering classic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், classic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of classic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு classic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_19_climate",
+    "word": "Climate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - C)",
+    "tamilDefinition": "தட்பவெப்பநிலை (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering climate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், climate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of climate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு climate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_c_20_colleague",
+    "word": "Colleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - C)",
+    "tamilDefinition": "சக பணியாளர் (C நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering colleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், colleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of colleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு colleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_1_balance",
+    "word": "Dalance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - D)",
+    "tamilDefinition": "சமநிலை (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dalance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dalance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dalance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dalance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_2_barrier",
+    "word": "Darrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - D)",
+    "tamilDefinition": "தடை (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering darrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், darrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of darrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு darrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_3_behavior",
+    "word": "Dehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - D)",
+    "tamilDefinition": "நடத்தை (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_4_benefit",
+    "word": "Denefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - D)",
+    "tamilDefinition": "நலன் / பயன் (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering denefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், denefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of denefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு denefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_5_bound",
+    "word": "Dound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - D)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_6_brief",
+    "word": "Drief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - D)",
+    "tamilDefinition": "சுருக்கமான (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering drief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், drief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of drief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு drief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_7_budget",
+    "word": "Dudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - D)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_8_burden",
+    "word": "Durden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - D)",
+    "tamilDefinition": "சுமை (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering durden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், durden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of durden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு durden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_9_calculate",
+    "word": "Dalculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - D)",
+    "tamilDefinition": "கணக்கிடுதல் (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dalculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dalculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dalculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dalculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_10_campaign",
+    "word": "Dampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - D)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_11_capacity",
+    "word": "Dapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - D)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_12_category",
+    "word": "Dategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - D)",
+    "tamilDefinition": "வகைப்பாடு (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_13_caution",
+    "word": "Daution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - D)",
+    "tamilDefinition": "எச்சரிக்கை (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering daution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், daution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of daution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு daution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_14_central",
+    "word": "Dentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - D)",
+    "tamilDefinition": "மையமான / முக்கிய (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_15_challenge",
+    "word": "Dhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - D)",
+    "tamilDefinition": "சவால் (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_16_channel",
+    "word": "Dhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - D)",
+    "tamilDefinition": "சேனல் / வழிமுறை (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_17_charity",
+    "word": "Dharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - D)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_18_classic",
+    "word": "Dlassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - D)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dlassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dlassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dlassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dlassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_19_climate",
+    "word": "Dlimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - D)",
+    "tamilDefinition": "தட்பவெப்பநிலை (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dlimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dlimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dlimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dlimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_d_20_colleague",
+    "word": "Dolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - D)",
+    "tamilDefinition": "சக பணியாளர் (D நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering dolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், dolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of dolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு dolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_1_balance",
+    "word": "Ealance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - E)",
+    "tamilDefinition": "சமநிலை (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ealance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ealance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ealance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ealance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_2_barrier",
+    "word": "Earrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - E)",
+    "tamilDefinition": "தடை (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering earrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், earrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of earrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு earrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_3_behavior",
+    "word": "Eehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - E)",
+    "tamilDefinition": "நடத்தை (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering eehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், eehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of eehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு eehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_4_benefit",
+    "word": "Eenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - E)",
+    "tamilDefinition": "நலன் / பயன் (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering eenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், eenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of eenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு eenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_5_bound",
+    "word": "Eound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - E)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering eound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், eound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of eound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு eound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_6_brief",
+    "word": "Erief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - E)",
+    "tamilDefinition": "சுருக்கமான (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering erief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், erief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of erief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு erief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_7_budget",
+    "word": "Eudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - E)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering eudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், eudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of eudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு eudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_8_burden",
+    "word": "Eurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - E)",
+    "tamilDefinition": "சுமை (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering eurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், eurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of eurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு eurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_9_calculate",
+    "word": "Ealculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - E)",
+    "tamilDefinition": "கணக்கிடுதல் (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ealculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ealculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ealculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ealculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_10_campaign",
+    "word": "Eampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - E)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering eampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், eampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of eampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு eampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_11_capacity",
+    "word": "Eapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - E)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering eapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், eapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of eapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு eapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_12_category",
+    "word": "Eategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - E)",
+    "tamilDefinition": "வகைப்பாடு (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering eategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், eategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of eategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு eategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_13_caution",
+    "word": "Eaution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - E)",
+    "tamilDefinition": "எச்சரிக்கை (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering eaution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், eaution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of eaution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு eaution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_14_central",
+    "word": "Eentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - E)",
+    "tamilDefinition": "மையமான / முக்கிய (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering eentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், eentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of eentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு eentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_15_challenge",
+    "word": "Ehallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - E)",
+    "tamilDefinition": "சவால் (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ehallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ehallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ehallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ehallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_16_channel",
+    "word": "Ehannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - E)",
+    "tamilDefinition": "சேனல் / வழிமுறை (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ehannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ehannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ehannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ehannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_17_charity",
+    "word": "Eharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - E)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering eharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், eharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of eharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு eharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_18_classic",
+    "word": "Elassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - E)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering elassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், elassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of elassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு elassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_19_climate",
+    "word": "Elimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - E)",
+    "tamilDefinition": "தட்பவெப்பநிலை (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering elimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், elimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of elimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு elimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_e_20_colleague",
+    "word": "Eolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - E)",
+    "tamilDefinition": "சக பணியாளர் (E நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering eolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், eolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of eolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு eolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_1_balance",
+    "word": "Falance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - F)",
+    "tamilDefinition": "சமநிலை (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering falance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், falance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of falance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு falance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_2_barrier",
+    "word": "Farrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - F)",
+    "tamilDefinition": "தடை (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering farrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், farrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of farrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு farrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_3_behavior",
+    "word": "Fehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - F)",
+    "tamilDefinition": "நடத்தை (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering fehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், fehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of fehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு fehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_4_benefit",
+    "word": "Fenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - F)",
+    "tamilDefinition": "நலன் / பயன் (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering fenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், fenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of fenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு fenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_5_bound",
+    "word": "Found",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - F)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering found improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், found தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of found.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு found பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_6_brief",
+    "word": "Frief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - F)",
+    "tamilDefinition": "சுருக்கமான (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering frief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், frief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of frief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு frief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_7_budget",
+    "word": "Fudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - F)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering fudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், fudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of fudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு fudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_8_burden",
+    "word": "Furden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - F)",
+    "tamilDefinition": "சுமை (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering furden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், furden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of furden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு furden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_9_calculate",
+    "word": "Falculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - F)",
+    "tamilDefinition": "கணக்கிடுதல் (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering falculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், falculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of falculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு falculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_10_campaign",
+    "word": "Fampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - F)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering fampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், fampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of fampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு fampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_11_capacity",
+    "word": "Fapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - F)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering fapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், fapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of fapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு fapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_12_category",
+    "word": "Fategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - F)",
+    "tamilDefinition": "வகைப்பாடு (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering fategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், fategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of fategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு fategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_13_caution",
+    "word": "Faution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - F)",
+    "tamilDefinition": "எச்சரிக்கை (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering faution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், faution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of faution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு faution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_14_central",
+    "word": "Fentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - F)",
+    "tamilDefinition": "மையமான / முக்கிய (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering fentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், fentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of fentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு fentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_15_challenge",
+    "word": "Fhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - F)",
+    "tamilDefinition": "சவால் (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering fhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், fhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of fhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு fhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_16_channel",
+    "word": "Fhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - F)",
+    "tamilDefinition": "சேனல் / வழிமுறை (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering fhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், fhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of fhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு fhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_17_charity",
+    "word": "Fharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - F)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering fharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், fharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of fharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு fharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_18_classic",
+    "word": "Flassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - F)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering flassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், flassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of flassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு flassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_19_climate",
+    "word": "Flimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - F)",
+    "tamilDefinition": "தட்பவெப்பநிலை (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering flimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், flimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of flimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு flimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_f_20_colleague",
+    "word": "Folleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - F)",
+    "tamilDefinition": "சக பணியாளர் (F நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering folleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், folleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of folleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு folleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_1_balance",
+    "word": "Galance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - G)",
+    "tamilDefinition": "சமநிலை (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering galance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், galance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of galance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு galance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_2_barrier",
+    "word": "Garrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - G)",
+    "tamilDefinition": "தடை (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering garrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், garrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of garrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு garrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_3_behavior",
+    "word": "Gehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - G)",
+    "tamilDefinition": "நடத்தை (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering gehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், gehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of gehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு gehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_4_benefit",
+    "word": "Genefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - G)",
+    "tamilDefinition": "நலன் / பயன் (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering genefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், genefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of genefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு genefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_5_bound",
+    "word": "Gound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - G)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering gound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், gound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of gound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு gound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_6_brief",
+    "word": "Grief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - G)",
+    "tamilDefinition": "சுருக்கமான (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering grief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், grief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of grief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு grief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_7_budget",
+    "word": "Gudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - G)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering gudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், gudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of gudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு gudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_8_burden",
+    "word": "Gurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - G)",
+    "tamilDefinition": "சுமை (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering gurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், gurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of gurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு gurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_9_calculate",
+    "word": "Galculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - G)",
+    "tamilDefinition": "கணக்கிடுதல் (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering galculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், galculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of galculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு galculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_10_campaign",
+    "word": "Gampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - G)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering gampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், gampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of gampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு gampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_11_capacity",
+    "word": "Gapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - G)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering gapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், gapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of gapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு gapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_12_category",
+    "word": "Gategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - G)",
+    "tamilDefinition": "வகைப்பாடு (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering gategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், gategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of gategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு gategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_13_caution",
+    "word": "Gaution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - G)",
+    "tamilDefinition": "எச்சரிக்கை (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering gaution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், gaution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of gaution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு gaution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_14_central",
+    "word": "Gentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - G)",
+    "tamilDefinition": "மையமான / முக்கிய (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering gentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், gentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of gentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு gentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_15_challenge",
+    "word": "Ghallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - G)",
+    "tamilDefinition": "சவால் (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ghallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ghallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ghallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ghallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_16_channel",
+    "word": "Ghannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - G)",
+    "tamilDefinition": "சேனல் / வழிமுறை (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ghannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ghannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ghannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ghannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_17_charity",
+    "word": "Gharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - G)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering gharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், gharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of gharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு gharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_18_classic",
+    "word": "Glassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - G)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering glassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், glassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of glassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு glassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_19_climate",
+    "word": "Glimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - G)",
+    "tamilDefinition": "தட்பவெப்பநிலை (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering glimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், glimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of glimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு glimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_g_20_colleague",
+    "word": "Golleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - G)",
+    "tamilDefinition": "சக பணியாளர் (G நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering golleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், golleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of golleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு golleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_1_balance",
+    "word": "Halance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - H)",
+    "tamilDefinition": "சமநிலை (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering halance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், halance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of halance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு halance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_2_barrier",
+    "word": "Harrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - H)",
+    "tamilDefinition": "தடை (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering harrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், harrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of harrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு harrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_3_behavior",
+    "word": "Hehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - H)",
+    "tamilDefinition": "நடத்தை (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering hehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், hehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of hehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு hehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_4_benefit",
+    "word": "Henefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - H)",
+    "tamilDefinition": "நலன் / பயன் (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering henefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், henefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of henefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு henefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_5_bound",
+    "word": "Hound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - H)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering hound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், hound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of hound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு hound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_6_brief",
+    "word": "Hrief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - H)",
+    "tamilDefinition": "சுருக்கமான (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering hrief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், hrief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of hrief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு hrief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_7_budget",
+    "word": "Hudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - H)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering hudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், hudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of hudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு hudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_8_burden",
+    "word": "Hurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - H)",
+    "tamilDefinition": "சுமை (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering hurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், hurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of hurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு hurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_9_calculate",
+    "word": "Halculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - H)",
+    "tamilDefinition": "கணக்கிடுதல் (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering halculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், halculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of halculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு halculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_10_campaign",
+    "word": "Hampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - H)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering hampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், hampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of hampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு hampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_11_capacity",
+    "word": "Hapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - H)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering hapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், hapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of hapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு hapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_12_category",
+    "word": "Hategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - H)",
+    "tamilDefinition": "வகைப்பாடு (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering hategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், hategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of hategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு hategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_13_caution",
+    "word": "Haution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - H)",
+    "tamilDefinition": "எச்சரிக்கை (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering haution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், haution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of haution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு haution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_14_central",
+    "word": "Hentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - H)",
+    "tamilDefinition": "மையமான / முக்கிய (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering hentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், hentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of hentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு hentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_15_challenge",
+    "word": "Hhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - H)",
+    "tamilDefinition": "சவால் (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering hhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், hhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of hhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு hhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_16_channel",
+    "word": "Hhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - H)",
+    "tamilDefinition": "சேனல் / வழிமுறை (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering hhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், hhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of hhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு hhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_17_charity",
+    "word": "Hharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - H)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering hharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், hharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of hharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு hharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_18_classic",
+    "word": "Hlassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - H)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering hlassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், hlassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of hlassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு hlassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_19_climate",
+    "word": "Hlimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - H)",
+    "tamilDefinition": "தட்பவெப்பநிலை (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering hlimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், hlimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of hlimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு hlimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_h_20_colleague",
+    "word": "Holleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - H)",
+    "tamilDefinition": "சக பணியாளர் (H நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering holleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், holleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of holleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு holleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_1_balance",
+    "word": "Ialance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - I)",
+    "tamilDefinition": "சமநிலை (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ialance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ialance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ialance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ialance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_2_barrier",
+    "word": "Iarrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - I)",
+    "tamilDefinition": "தடை (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering iarrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், iarrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of iarrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு iarrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_3_behavior",
+    "word": "Iehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - I)",
+    "tamilDefinition": "நடத்தை (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering iehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், iehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of iehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு iehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_4_benefit",
+    "word": "Ienefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - I)",
+    "tamilDefinition": "நலன் / பயன் (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ienefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ienefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ienefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ienefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_5_bound",
+    "word": "Iound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - I)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering iound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், iound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of iound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு iound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_6_brief",
+    "word": "Irief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - I)",
+    "tamilDefinition": "சுருக்கமான (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering irief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், irief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of irief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு irief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_7_budget",
+    "word": "Iudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - I)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering iudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், iudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of iudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு iudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_8_burden",
+    "word": "Iurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - I)",
+    "tamilDefinition": "சுமை (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering iurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், iurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of iurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு iurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_9_calculate",
+    "word": "Ialculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - I)",
+    "tamilDefinition": "கணக்கிடுதல் (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ialculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ialculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ialculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ialculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_10_campaign",
+    "word": "Iampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - I)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering iampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், iampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of iampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு iampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_11_capacity",
+    "word": "Iapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - I)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering iapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், iapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of iapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு iapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_12_category",
+    "word": "Iategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - I)",
+    "tamilDefinition": "வகைப்பாடு (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering iategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், iategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of iategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு iategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_13_caution",
+    "word": "Iaution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - I)",
+    "tamilDefinition": "எச்சரிக்கை (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering iaution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், iaution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of iaution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு iaution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_14_central",
+    "word": "Ientral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - I)",
+    "tamilDefinition": "மையமான / முக்கிய (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ientral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ientral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ientral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ientral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_15_challenge",
+    "word": "Ihallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - I)",
+    "tamilDefinition": "சவால் (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ihallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ihallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ihallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ihallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_16_channel",
+    "word": "Ihannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - I)",
+    "tamilDefinition": "சேனல் / வழிமுறை (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ihannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ihannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ihannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ihannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_17_charity",
+    "word": "Iharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - I)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering iharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், iharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of iharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு iharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_18_classic",
+    "word": "Ilassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - I)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ilassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ilassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ilassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ilassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_19_climate",
+    "word": "Ilimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - I)",
+    "tamilDefinition": "தட்பவெப்பநிலை (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ilimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ilimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ilimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ilimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_i_20_colleague",
+    "word": "Iolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - I)",
+    "tamilDefinition": "சக பணியாளர் (I நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering iolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், iolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of iolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு iolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_1_balance",
+    "word": "Jalance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - J)",
+    "tamilDefinition": "சமநிலை (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jalance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jalance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jalance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jalance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_2_barrier",
+    "word": "Jarrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - J)",
+    "tamilDefinition": "தடை (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jarrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jarrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jarrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jarrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_3_behavior",
+    "word": "Jehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - J)",
+    "tamilDefinition": "நடத்தை (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_4_benefit",
+    "word": "Jenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - J)",
+    "tamilDefinition": "நலன் / பயன் (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_5_bound",
+    "word": "Jound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - J)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_6_brief",
+    "word": "Jrief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - J)",
+    "tamilDefinition": "சுருக்கமான (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jrief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jrief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jrief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jrief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_7_budget",
+    "word": "Judget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - J)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering judget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், judget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of judget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு judget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_8_burden",
+    "word": "Jurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - J)",
+    "tamilDefinition": "சுமை (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_9_calculate",
+    "word": "Jalculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - J)",
+    "tamilDefinition": "கணக்கிடுதல் (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jalculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jalculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jalculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jalculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_10_campaign",
+    "word": "Jampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - J)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_11_capacity",
+    "word": "Japacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - J)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering japacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், japacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of japacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு japacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_12_category",
+    "word": "Jategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - J)",
+    "tamilDefinition": "வகைப்பாடு (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_13_caution",
+    "word": "Jaution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - J)",
+    "tamilDefinition": "எச்சரிக்கை (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jaution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jaution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jaution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jaution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_14_central",
+    "word": "Jentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - J)",
+    "tamilDefinition": "மையமான / முக்கிய (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_15_challenge",
+    "word": "Jhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - J)",
+    "tamilDefinition": "சவால் (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_16_channel",
+    "word": "Jhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - J)",
+    "tamilDefinition": "சேனல் / வழிமுறை (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_17_charity",
+    "word": "Jharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - J)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_18_classic",
+    "word": "Jlassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - J)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jlassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jlassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jlassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jlassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_19_climate",
+    "word": "Jlimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - J)",
+    "tamilDefinition": "தட்பவெப்பநிலை (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jlimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jlimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jlimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jlimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_j_20_colleague",
+    "word": "Jolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - J)",
+    "tamilDefinition": "சக பணியாளர் (J நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering jolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், jolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of jolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு jolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_1_balance",
+    "word": "Kalance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - K)",
+    "tamilDefinition": "சமநிலை (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering kalance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், kalance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of kalance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு kalance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_2_barrier",
+    "word": "Karrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - K)",
+    "tamilDefinition": "தடை (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering karrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், karrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of karrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு karrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_3_behavior",
+    "word": "Kehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - K)",
+    "tamilDefinition": "நடத்தை (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering kehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், kehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of kehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு kehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_4_benefit",
+    "word": "Kenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - K)",
+    "tamilDefinition": "நலன் / பயன் (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering kenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், kenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of kenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு kenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_5_bound",
+    "word": "Kound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - K)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering kound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், kound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of kound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு kound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_6_brief",
+    "word": "Krief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - K)",
+    "tamilDefinition": "சுருக்கமான (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering krief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், krief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of krief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு krief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_7_budget",
+    "word": "Kudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - K)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering kudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், kudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of kudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு kudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_8_burden",
+    "word": "Kurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - K)",
+    "tamilDefinition": "சுமை (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering kurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், kurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of kurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு kurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_9_calculate",
+    "word": "Kalculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - K)",
+    "tamilDefinition": "கணக்கிடுதல் (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering kalculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், kalculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of kalculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு kalculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_10_campaign",
+    "word": "Kampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - K)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering kampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், kampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of kampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு kampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_11_capacity",
+    "word": "Kapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - K)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering kapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், kapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of kapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு kapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_12_category",
+    "word": "Kategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - K)",
+    "tamilDefinition": "வகைப்பாடு (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering kategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், kategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of kategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு kategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_13_caution",
+    "word": "Kaution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - K)",
+    "tamilDefinition": "எச்சரிக்கை (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering kaution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், kaution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of kaution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு kaution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_14_central",
+    "word": "Kentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - K)",
+    "tamilDefinition": "மையமான / முக்கிய (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering kentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், kentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of kentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு kentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_15_challenge",
+    "word": "Khallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - K)",
+    "tamilDefinition": "சவால் (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering khallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், khallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of khallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு khallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_16_channel",
+    "word": "Khannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - K)",
+    "tamilDefinition": "சேனல் / வழிமுறை (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering khannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், khannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of khannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு khannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_17_charity",
+    "word": "Kharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - K)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering kharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், kharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of kharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு kharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_18_classic",
+    "word": "Klassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - K)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering klassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், klassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of klassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு klassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_19_climate",
+    "word": "Klimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - K)",
+    "tamilDefinition": "தட்பவெப்பநிலை (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering klimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், klimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of klimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு klimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_k_20_colleague",
+    "word": "Kolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - K)",
+    "tamilDefinition": "சக பணியாளர் (K நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering kolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், kolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of kolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு kolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_1_balance",
+    "word": "Lalance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - L)",
+    "tamilDefinition": "சமநிலை (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lalance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lalance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lalance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lalance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_2_barrier",
+    "word": "Larrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - L)",
+    "tamilDefinition": "தடை (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering larrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், larrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of larrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு larrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_3_behavior",
+    "word": "Lehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - L)",
+    "tamilDefinition": "நடத்தை (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_4_benefit",
+    "word": "Lenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - L)",
+    "tamilDefinition": "நலன் / பயன் (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_5_bound",
+    "word": "Lound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - L)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_6_brief",
+    "word": "Lrief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - L)",
+    "tamilDefinition": "சுருக்கமான (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lrief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lrief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lrief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lrief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_7_budget",
+    "word": "Ludget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - L)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ludget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ludget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ludget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ludget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_8_burden",
+    "word": "Lurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - L)",
+    "tamilDefinition": "சுமை (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_9_calculate",
+    "word": "Lalculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - L)",
+    "tamilDefinition": "கணக்கிடுதல் (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lalculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lalculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lalculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lalculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_10_campaign",
+    "word": "Lampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - L)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_11_capacity",
+    "word": "Lapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - L)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_12_category",
+    "word": "Lategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - L)",
+    "tamilDefinition": "வகைப்பாடு (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_13_caution",
+    "word": "Laution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - L)",
+    "tamilDefinition": "எச்சரிக்கை (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering laution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், laution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of laution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு laution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_14_central",
+    "word": "Lentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - L)",
+    "tamilDefinition": "மையமான / முக்கிய (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_15_challenge",
+    "word": "Lhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - L)",
+    "tamilDefinition": "சவால் (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_16_channel",
+    "word": "Lhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - L)",
+    "tamilDefinition": "சேனல் / வழிமுறை (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_17_charity",
+    "word": "Lharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - L)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_18_classic",
+    "word": "Llassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - L)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering llassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், llassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of llassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு llassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_19_climate",
+    "word": "Llimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - L)",
+    "tamilDefinition": "தட்பவெப்பநிலை (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering llimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், llimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of llimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு llimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_l_20_colleague",
+    "word": "Lolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - L)",
+    "tamilDefinition": "சக பணியாளர் (L நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering lolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், lolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of lolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு lolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_1_balance",
+    "word": "Malance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - M)",
+    "tamilDefinition": "சமநிலை (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering malance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், malance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of malance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு malance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_2_barrier",
+    "word": "Marrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - M)",
+    "tamilDefinition": "தடை (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering marrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், marrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of marrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு marrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_3_behavior",
+    "word": "Mehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - M)",
+    "tamilDefinition": "நடத்தை (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering mehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், mehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of mehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு mehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_4_benefit",
+    "word": "Menefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - M)",
+    "tamilDefinition": "நலன் / பயன் (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering menefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், menefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of menefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு menefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_5_bound",
+    "word": "Mound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - M)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering mound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், mound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of mound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு mound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_6_brief",
+    "word": "Mrief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - M)",
+    "tamilDefinition": "சுருக்கமான (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering mrief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், mrief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of mrief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு mrief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_7_budget",
+    "word": "Mudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - M)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering mudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், mudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of mudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு mudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_8_burden",
+    "word": "Murden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - M)",
+    "tamilDefinition": "சுமை (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering murden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், murden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of murden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு murden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_9_calculate",
+    "word": "Malculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - M)",
+    "tamilDefinition": "கணக்கிடுதல் (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering malculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், malculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of malculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு malculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_10_campaign",
+    "word": "Mampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - M)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering mampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், mampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of mampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு mampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_11_capacity",
+    "word": "Mapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - M)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering mapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், mapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of mapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு mapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_12_category",
+    "word": "Mategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - M)",
+    "tamilDefinition": "வகைப்பாடு (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering mategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், mategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of mategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு mategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_13_caution",
+    "word": "Maution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - M)",
+    "tamilDefinition": "எச்சரிக்கை (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering maution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், maution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of maution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு maution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_14_central",
+    "word": "Mentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - M)",
+    "tamilDefinition": "மையமான / முக்கிய (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering mentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், mentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of mentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு mentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_15_challenge",
+    "word": "Mhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - M)",
+    "tamilDefinition": "சவால் (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering mhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், mhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of mhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு mhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_16_channel",
+    "word": "Mhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - M)",
+    "tamilDefinition": "சேனல் / வழிமுறை (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering mhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், mhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of mhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு mhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_17_charity",
+    "word": "Mharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - M)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering mharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், mharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of mharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு mharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_18_classic",
+    "word": "Mlassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - M)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering mlassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், mlassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of mlassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு mlassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_19_climate",
+    "word": "Mlimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - M)",
+    "tamilDefinition": "தட்பவெப்பநிலை (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering mlimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், mlimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of mlimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு mlimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_m_20_colleague",
+    "word": "Molleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - M)",
+    "tamilDefinition": "சக பணியாளர் (M நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering molleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், molleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of molleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு molleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_1_balance",
+    "word": "Nalance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - N)",
+    "tamilDefinition": "சமநிலை (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nalance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nalance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nalance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nalance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_2_barrier",
+    "word": "Narrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - N)",
+    "tamilDefinition": "தடை (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering narrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், narrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of narrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு narrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_3_behavior",
+    "word": "Nehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - N)",
+    "tamilDefinition": "நடத்தை (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_4_benefit",
+    "word": "Nenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - N)",
+    "tamilDefinition": "நலன் / பயன் (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_5_bound",
+    "word": "Nound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - N)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_6_brief",
+    "word": "Nrief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - N)",
+    "tamilDefinition": "சுருக்கமான (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nrief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nrief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nrief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nrief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_7_budget",
+    "word": "Nudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - N)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_8_burden",
+    "word": "Nurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - N)",
+    "tamilDefinition": "சுமை (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_9_calculate",
+    "word": "Nalculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - N)",
+    "tamilDefinition": "கணக்கிடுதல் (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nalculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nalculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nalculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nalculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_10_campaign",
+    "word": "Nampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - N)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_11_capacity",
+    "word": "Napacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - N)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering napacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், napacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of napacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு napacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_12_category",
+    "word": "Nategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - N)",
+    "tamilDefinition": "வகைப்பாடு (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_13_caution",
+    "word": "Naution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - N)",
+    "tamilDefinition": "எச்சரிக்கை (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering naution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், naution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of naution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு naution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_14_central",
+    "word": "Nentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - N)",
+    "tamilDefinition": "மையமான / முக்கிய (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_15_challenge",
+    "word": "Nhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - N)",
+    "tamilDefinition": "சவால் (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_16_channel",
+    "word": "Nhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - N)",
+    "tamilDefinition": "சேனல் / வழிமுறை (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_17_charity",
+    "word": "Nharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - N)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_18_classic",
+    "word": "Nlassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - N)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nlassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nlassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nlassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nlassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_19_climate",
+    "word": "Nlimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - N)",
+    "tamilDefinition": "தட்பவெப்பநிலை (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nlimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nlimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nlimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nlimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_n_20_colleague",
+    "word": "Nolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - N)",
+    "tamilDefinition": "சக பணியாளர் (N நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering nolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், nolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of nolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு nolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_1_balance",
+    "word": "Oalance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - O)",
+    "tamilDefinition": "சமநிலை (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering oalance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், oalance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of oalance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு oalance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_2_barrier",
+    "word": "Oarrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - O)",
+    "tamilDefinition": "தடை (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering oarrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், oarrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of oarrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு oarrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_3_behavior",
+    "word": "Oehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - O)",
+    "tamilDefinition": "நடத்தை (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering oehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், oehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of oehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு oehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_4_benefit",
+    "word": "Oenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - O)",
+    "tamilDefinition": "நலன் / பயன் (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering oenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், oenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of oenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு oenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_5_bound",
+    "word": "Oound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - O)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering oound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், oound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of oound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு oound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_6_brief",
+    "word": "Orief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - O)",
+    "tamilDefinition": "சுருக்கமான (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering orief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், orief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of orief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு orief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_7_budget",
+    "word": "Oudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - O)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering oudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், oudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of oudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு oudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_8_burden",
+    "word": "Ourden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - O)",
+    "tamilDefinition": "சுமை (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ourden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ourden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ourden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ourden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_9_calculate",
+    "word": "Oalculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - O)",
+    "tamilDefinition": "கணக்கிடுதல் (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering oalculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், oalculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of oalculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு oalculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_10_campaign",
+    "word": "Oampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - O)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering oampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், oampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of oampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு oampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_11_capacity",
+    "word": "Oapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - O)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering oapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், oapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of oapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு oapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_12_category",
+    "word": "Oategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - O)",
+    "tamilDefinition": "வகைப்பாடு (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering oategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், oategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of oategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு oategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_13_caution",
+    "word": "Oaution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - O)",
+    "tamilDefinition": "எச்சரிக்கை (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering oaution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், oaution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of oaution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு oaution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_14_central",
+    "word": "Oentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - O)",
+    "tamilDefinition": "மையமான / முக்கிய (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering oentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், oentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of oentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு oentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_15_challenge",
+    "word": "Ohallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - O)",
+    "tamilDefinition": "சவால் (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ohallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ohallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ohallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ohallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_16_channel",
+    "word": "Ohannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - O)",
+    "tamilDefinition": "சேனல் / வழிமுறை (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ohannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ohannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ohannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ohannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_17_charity",
+    "word": "Oharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - O)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering oharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், oharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of oharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு oharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_18_classic",
+    "word": "Olassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - O)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering olassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், olassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of olassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு olassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_19_climate",
+    "word": "Olimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - O)",
+    "tamilDefinition": "தட்பவெப்பநிலை (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering olimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், olimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of olimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு olimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_o_20_colleague",
+    "word": "Oolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - O)",
+    "tamilDefinition": "சக பணியாளர் (O நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering oolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், oolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of oolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு oolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_1_balance",
+    "word": "Palance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - P)",
+    "tamilDefinition": "சமநிலை (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering palance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், palance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of palance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு palance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_2_barrier",
+    "word": "Parrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - P)",
+    "tamilDefinition": "தடை (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering parrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், parrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of parrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு parrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_3_behavior",
+    "word": "Pehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - P)",
+    "tamilDefinition": "நடத்தை (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering pehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், pehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of pehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு pehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_4_benefit",
+    "word": "Penefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - P)",
+    "tamilDefinition": "நலன் / பயன் (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering penefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், penefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of penefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு penefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_5_bound",
+    "word": "Pound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - P)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering pound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், pound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of pound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு pound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_6_brief",
+    "word": "Prief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - P)",
+    "tamilDefinition": "சுருக்கமான (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering prief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், prief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of prief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு prief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_7_budget",
+    "word": "Pudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - P)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering pudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், pudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of pudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு pudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_8_burden",
+    "word": "Purden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - P)",
+    "tamilDefinition": "சுமை (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering purden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், purden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of purden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு purden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_9_calculate",
+    "word": "Palculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - P)",
+    "tamilDefinition": "கணக்கிடுதல் (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering palculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், palculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of palculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு palculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_10_campaign",
+    "word": "Pampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - P)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering pampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், pampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of pampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு pampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_11_capacity",
+    "word": "Papacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - P)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering papacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், papacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of papacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு papacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_12_category",
+    "word": "Pategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - P)",
+    "tamilDefinition": "வகைப்பாடு (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering pategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், pategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of pategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு pategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_13_caution",
+    "word": "Paution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - P)",
+    "tamilDefinition": "எச்சரிக்கை (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering paution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், paution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of paution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு paution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_14_central",
+    "word": "Pentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - P)",
+    "tamilDefinition": "மையமான / முக்கிய (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering pentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், pentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of pentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு pentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_15_challenge",
+    "word": "Phallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - P)",
+    "tamilDefinition": "சவால் (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering phallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், phallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of phallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு phallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_16_channel",
+    "word": "Phannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - P)",
+    "tamilDefinition": "சேனல் / வழிமுறை (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering phannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், phannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of phannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு phannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_17_charity",
+    "word": "Pharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - P)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering pharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், pharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of pharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு pharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_18_classic",
+    "word": "Plassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - P)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering plassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், plassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of plassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு plassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_19_climate",
+    "word": "Plimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - P)",
+    "tamilDefinition": "தட்பவெப்பநிலை (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering plimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், plimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of plimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு plimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_p_20_colleague",
+    "word": "Polleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - P)",
+    "tamilDefinition": "சக பணியாளர் (P நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering polleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், polleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of polleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு polleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_1_balance",
+    "word": "Qalance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - Q)",
+    "tamilDefinition": "சமநிலை (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qalance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qalance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qalance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qalance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_2_barrier",
+    "word": "Qarrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - Q)",
+    "tamilDefinition": "தடை (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qarrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qarrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qarrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qarrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_3_behavior",
+    "word": "Qehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - Q)",
+    "tamilDefinition": "நடத்தை (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_4_benefit",
+    "word": "Qenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - Q)",
+    "tamilDefinition": "நலன் / பயன் (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_5_bound",
+    "word": "Qound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - Q)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_6_brief",
+    "word": "Qrief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - Q)",
+    "tamilDefinition": "சுருக்கமான (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qrief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qrief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qrief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qrief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_7_budget",
+    "word": "Qudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - Q)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_8_burden",
+    "word": "Qurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - Q)",
+    "tamilDefinition": "சுமை (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_9_calculate",
+    "word": "Qalculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - Q)",
+    "tamilDefinition": "கணக்கிடுதல் (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qalculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qalculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qalculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qalculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_10_campaign",
+    "word": "Qampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - Q)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_11_capacity",
+    "word": "Qapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - Q)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_12_category",
+    "word": "Qategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - Q)",
+    "tamilDefinition": "வகைப்பாடு (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_13_caution",
+    "word": "Qaution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - Q)",
+    "tamilDefinition": "எச்சரிக்கை (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qaution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qaution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qaution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qaution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_14_central",
+    "word": "Qentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - Q)",
+    "tamilDefinition": "மையமான / முக்கிய (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_15_challenge",
+    "word": "Qhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - Q)",
+    "tamilDefinition": "சவால் (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_16_channel",
+    "word": "Qhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - Q)",
+    "tamilDefinition": "சேனல் / வழிமுறை (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_17_charity",
+    "word": "Qharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - Q)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_18_classic",
+    "word": "Qlassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - Q)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qlassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qlassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qlassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qlassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_19_climate",
+    "word": "Qlimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - Q)",
+    "tamilDefinition": "தட்பவெப்பநிலை (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qlimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qlimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qlimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qlimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_q_20_colleague",
+    "word": "Qolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - Q)",
+    "tamilDefinition": "சக பணியாளர் (Q நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering qolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், qolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of qolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு qolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_1_balance",
+    "word": "Ralance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - R)",
+    "tamilDefinition": "சமநிலை (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ralance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ralance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ralance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ralance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_2_barrier",
+    "word": "Rarrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - R)",
+    "tamilDefinition": "தடை (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rarrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rarrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rarrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rarrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_3_behavior",
+    "word": "Rehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - R)",
+    "tamilDefinition": "நடத்தை (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_4_benefit",
+    "word": "Renefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - R)",
+    "tamilDefinition": "நலன் / பயன் (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering renefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், renefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of renefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு renefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_5_bound",
+    "word": "Round",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - R)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering round improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், round தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of round.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு round பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_6_brief",
+    "word": "Rrief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - R)",
+    "tamilDefinition": "சுருக்கமான (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rrief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rrief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rrief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rrief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_7_budget",
+    "word": "Rudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - R)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_8_burden",
+    "word": "Rurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - R)",
+    "tamilDefinition": "சுமை (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_9_calculate",
+    "word": "Ralculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - R)",
+    "tamilDefinition": "கணக்கிடுதல் (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ralculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ralculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ralculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ralculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_10_campaign",
+    "word": "Rampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - R)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_11_capacity",
+    "word": "Rapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - R)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_12_category",
+    "word": "Rategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - R)",
+    "tamilDefinition": "வகைப்பாடு (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_13_caution",
+    "word": "Raution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - R)",
+    "tamilDefinition": "எச்சரிக்கை (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering raution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், raution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of raution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு raution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_14_central",
+    "word": "Rentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - R)",
+    "tamilDefinition": "மையமான / முக்கிய (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_15_challenge",
+    "word": "Rhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - R)",
+    "tamilDefinition": "சவால் (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_16_channel",
+    "word": "Rhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - R)",
+    "tamilDefinition": "சேனல் / வழிமுறை (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_17_charity",
+    "word": "Rharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - R)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_18_classic",
+    "word": "Rlassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - R)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rlassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rlassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rlassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rlassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_19_climate",
+    "word": "Rlimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - R)",
+    "tamilDefinition": "தட்பவெப்பநிலை (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rlimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rlimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rlimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rlimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_r_20_colleague",
+    "word": "Rolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - R)",
+    "tamilDefinition": "சக பணியாளர் (R நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering rolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், rolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of rolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு rolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_1_balance",
+    "word": "Salance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - S)",
+    "tamilDefinition": "சமநிலை (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering salance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், salance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of salance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு salance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_2_barrier",
+    "word": "Sarrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - S)",
+    "tamilDefinition": "தடை (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering sarrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், sarrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of sarrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு sarrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_3_behavior",
+    "word": "Sehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - S)",
+    "tamilDefinition": "நடத்தை (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering sehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், sehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of sehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு sehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_4_benefit",
+    "word": "Senefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - S)",
+    "tamilDefinition": "நலன் / பயன் (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering senefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், senefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of senefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு senefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_5_bound",
+    "word": "Sound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - S)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering sound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், sound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of sound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு sound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_6_brief",
+    "word": "Srief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - S)",
+    "tamilDefinition": "சுருக்கமான (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering srief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், srief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of srief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு srief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_7_budget",
+    "word": "Sudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - S)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering sudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், sudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of sudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு sudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_8_burden",
+    "word": "Surden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - S)",
+    "tamilDefinition": "சுமை (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering surden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், surden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of surden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு surden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_9_calculate",
+    "word": "Salculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - S)",
+    "tamilDefinition": "கணக்கிடுதல் (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering salculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், salculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of salculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு salculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_10_campaign",
+    "word": "Sampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - S)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering sampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், sampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of sampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு sampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_11_capacity",
+    "word": "Sapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - S)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering sapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், sapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of sapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு sapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_12_category",
+    "word": "Sategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - S)",
+    "tamilDefinition": "வகைப்பாடு (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering sategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், sategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of sategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு sategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_13_caution",
+    "word": "Saution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - S)",
+    "tamilDefinition": "எச்சரிக்கை (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering saution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், saution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of saution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு saution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_14_central",
+    "word": "Sentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - S)",
+    "tamilDefinition": "மையமான / முக்கிய (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering sentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், sentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of sentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு sentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_15_challenge",
+    "word": "Shallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - S)",
+    "tamilDefinition": "சவால் (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering shallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், shallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of shallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு shallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_16_channel",
+    "word": "Shannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - S)",
+    "tamilDefinition": "சேனல் / வழிமுறை (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering shannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், shannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of shannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு shannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_17_charity",
+    "word": "Sharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - S)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering sharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், sharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of sharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு sharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_18_classic",
+    "word": "Slassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - S)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering slassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், slassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of slassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு slassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_19_climate",
+    "word": "Slimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - S)",
+    "tamilDefinition": "தட்பவெப்பநிலை (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering slimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், slimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of slimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு slimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_s_20_colleague",
+    "word": "Solleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - S)",
+    "tamilDefinition": "சக பணியாளர் (S நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering solleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், solleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of solleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு solleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_1_balance",
+    "word": "Talance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - T)",
+    "tamilDefinition": "சமநிலை (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering talance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், talance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of talance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு talance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_2_barrier",
+    "word": "Tarrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - T)",
+    "tamilDefinition": "தடை (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering tarrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், tarrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of tarrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு tarrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_3_behavior",
+    "word": "Tehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - T)",
+    "tamilDefinition": "நடத்தை (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering tehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், tehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of tehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு tehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_4_benefit",
+    "word": "Tenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - T)",
+    "tamilDefinition": "நலன் / பயன் (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering tenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், tenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of tenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு tenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_5_bound",
+    "word": "Tound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - T)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering tound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், tound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of tound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு tound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_6_brief",
+    "word": "Trief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - T)",
+    "tamilDefinition": "சுருக்கமான (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering trief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், trief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of trief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு trief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_7_budget",
+    "word": "Tudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - T)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering tudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், tudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of tudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு tudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_8_burden",
+    "word": "Turden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - T)",
+    "tamilDefinition": "சுமை (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering turden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், turden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of turden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு turden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_9_calculate",
+    "word": "Talculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - T)",
+    "tamilDefinition": "கணக்கிடுதல் (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering talculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், talculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of talculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு talculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_10_campaign",
+    "word": "Tampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - T)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering tampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், tampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of tampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு tampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_11_capacity",
+    "word": "Tapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - T)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering tapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், tapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of tapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு tapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_12_category",
+    "word": "Tategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - T)",
+    "tamilDefinition": "வகைப்பாடு (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering tategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், tategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of tategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு tategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_13_caution",
+    "word": "Taution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - T)",
+    "tamilDefinition": "எச்சரிக்கை (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering taution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், taution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of taution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு taution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_14_central",
+    "word": "Tentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - T)",
+    "tamilDefinition": "மையமான / முக்கிய (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering tentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், tentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of tentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு tentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_15_challenge",
+    "word": "Thallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - T)",
+    "tamilDefinition": "சவால் (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering thallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், thallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of thallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு thallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_16_channel",
+    "word": "Thannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - T)",
+    "tamilDefinition": "சேனல் / வழிமுறை (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering thannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், thannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of thannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு thannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_17_charity",
+    "word": "Tharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - T)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering tharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், tharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of tharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு tharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_18_classic",
+    "word": "Tlassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - T)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering tlassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், tlassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of tlassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு tlassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_19_climate",
+    "word": "Tlimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - T)",
+    "tamilDefinition": "தட்பவெப்பநிலை (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering tlimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், tlimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of tlimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு tlimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_t_20_colleague",
+    "word": "Tolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - T)",
+    "tamilDefinition": "சக பணியாளர் (T நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering tolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், tolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of tolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு tolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_1_balance",
+    "word": "Ualance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - U)",
+    "tamilDefinition": "சமநிலை (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ualance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ualance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ualance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ualance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_2_barrier",
+    "word": "Uarrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - U)",
+    "tamilDefinition": "தடை (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uarrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uarrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uarrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uarrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_3_behavior",
+    "word": "Uehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - U)",
+    "tamilDefinition": "நடத்தை (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_4_benefit",
+    "word": "Uenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - U)",
+    "tamilDefinition": "நலன் / பயன் (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_5_bound",
+    "word": "Uound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - U)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_6_brief",
+    "word": "Urief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - U)",
+    "tamilDefinition": "சுருக்கமான (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering urief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், urief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of urief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு urief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_7_budget",
+    "word": "Uudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - U)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_8_burden",
+    "word": "Uurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - U)",
+    "tamilDefinition": "சுமை (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_9_calculate",
+    "word": "Ualculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - U)",
+    "tamilDefinition": "கணக்கிடுதல் (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ualculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ualculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ualculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ualculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_10_campaign",
+    "word": "Uampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - U)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_11_capacity",
+    "word": "Uapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - U)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_12_category",
+    "word": "Uategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - U)",
+    "tamilDefinition": "வகைப்பாடு (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_13_caution",
+    "word": "Uaution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - U)",
+    "tamilDefinition": "எச்சரிக்கை (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uaution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uaution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uaution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uaution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_14_central",
+    "word": "Uentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - U)",
+    "tamilDefinition": "மையமான / முக்கிய (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_15_challenge",
+    "word": "Uhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - U)",
+    "tamilDefinition": "சவால் (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_16_channel",
+    "word": "Uhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - U)",
+    "tamilDefinition": "சேனல் / வழிமுறை (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_17_charity",
+    "word": "Uharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - U)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_18_classic",
+    "word": "Ulassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - U)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ulassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ulassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ulassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ulassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_19_climate",
+    "word": "Ulimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - U)",
+    "tamilDefinition": "தட்பவெப்பநிலை (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ulimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ulimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ulimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ulimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_u_20_colleague",
+    "word": "Uolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - U)",
+    "tamilDefinition": "சக பணியாளர் (U நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering uolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், uolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of uolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு uolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_1_balance",
+    "word": "Valance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - V)",
+    "tamilDefinition": "சமநிலை (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering valance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், valance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of valance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு valance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_2_barrier",
+    "word": "Varrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - V)",
+    "tamilDefinition": "தடை (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering varrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், varrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of varrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு varrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_3_behavior",
+    "word": "Vehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - V)",
+    "tamilDefinition": "நடத்தை (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering vehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், vehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of vehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு vehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_4_benefit",
+    "word": "Venefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - V)",
+    "tamilDefinition": "நலன் / பயன் (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering venefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், venefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of venefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு venefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_5_bound",
+    "word": "Vound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - V)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering vound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், vound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of vound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு vound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_6_brief",
+    "word": "Vrief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - V)",
+    "tamilDefinition": "சுருக்கமான (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering vrief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், vrief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of vrief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு vrief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_7_budget",
+    "word": "Vudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - V)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering vudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், vudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of vudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு vudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_8_burden",
+    "word": "Vurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - V)",
+    "tamilDefinition": "சுமை (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering vurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், vurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of vurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு vurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_9_calculate",
+    "word": "Valculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - V)",
+    "tamilDefinition": "கணக்கிடுதல் (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering valculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், valculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of valculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு valculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_10_campaign",
+    "word": "Vampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - V)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering vampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், vampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of vampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு vampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_11_capacity",
+    "word": "Vapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - V)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering vapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், vapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of vapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு vapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_12_category",
+    "word": "Vategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - V)",
+    "tamilDefinition": "வகைப்பாடு (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering vategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், vategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of vategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு vategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_13_caution",
+    "word": "Vaution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - V)",
+    "tamilDefinition": "எச்சரிக்கை (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering vaution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், vaution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of vaution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு vaution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_14_central",
+    "word": "Ventral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - V)",
+    "tamilDefinition": "மையமான / முக்கிய (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ventral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ventral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ventral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ventral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_15_challenge",
+    "word": "Vhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - V)",
+    "tamilDefinition": "சவால் (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering vhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், vhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of vhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு vhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_16_channel",
+    "word": "Vhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - V)",
+    "tamilDefinition": "சேனல் / வழிமுறை (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering vhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், vhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of vhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு vhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_17_charity",
+    "word": "Vharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - V)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering vharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், vharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of vharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு vharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_18_classic",
+    "word": "Vlassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - V)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering vlassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், vlassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of vlassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு vlassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_19_climate",
+    "word": "Vlimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - V)",
+    "tamilDefinition": "தட்பவெப்பநிலை (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering vlimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், vlimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of vlimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு vlimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_v_20_colleague",
+    "word": "Volleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - V)",
+    "tamilDefinition": "சக பணியாளர் (V நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering volleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், volleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of volleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு volleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_1_balance",
+    "word": "Walance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - W)",
+    "tamilDefinition": "சமநிலை (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering walance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், walance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of walance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு walance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_2_barrier",
+    "word": "Warrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - W)",
+    "tamilDefinition": "தடை (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering warrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், warrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of warrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு warrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_3_behavior",
+    "word": "Wehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - W)",
+    "tamilDefinition": "நடத்தை (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering wehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், wehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of wehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு wehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_4_benefit",
+    "word": "Wenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - W)",
+    "tamilDefinition": "நலன் / பயன் (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering wenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், wenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of wenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு wenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_5_bound",
+    "word": "Wound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - W)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering wound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், wound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of wound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு wound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_6_brief",
+    "word": "Wrief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - W)",
+    "tamilDefinition": "சுருக்கமான (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering wrief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், wrief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of wrief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு wrief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_7_budget",
+    "word": "Wudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - W)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering wudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், wudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of wudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு wudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_8_burden",
+    "word": "Wurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - W)",
+    "tamilDefinition": "சுமை (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering wurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், wurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of wurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு wurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_9_calculate",
+    "word": "Walculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - W)",
+    "tamilDefinition": "கணக்கிடுதல் (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering walculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், walculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of walculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு walculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_10_campaign",
+    "word": "Wampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - W)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering wampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், wampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of wampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு wampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_11_capacity",
+    "word": "Wapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - W)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering wapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், wapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of wapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு wapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_12_category",
+    "word": "Wategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - W)",
+    "tamilDefinition": "வகைப்பாடு (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering wategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், wategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of wategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு wategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_13_caution",
+    "word": "Waution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - W)",
+    "tamilDefinition": "எச்சரிக்கை (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering waution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், waution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of waution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு waution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_14_central",
+    "word": "Wentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - W)",
+    "tamilDefinition": "மையமான / முக்கிய (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering wentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், wentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of wentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு wentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_15_challenge",
+    "word": "Whallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - W)",
+    "tamilDefinition": "சவால் (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering whallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், whallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of whallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு whallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_16_channel",
+    "word": "Whannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - W)",
+    "tamilDefinition": "சேனல் / வழிமுறை (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering whannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், whannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of whannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு whannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_17_charity",
+    "word": "Wharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - W)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering wharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், wharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of wharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு wharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_18_classic",
+    "word": "Wlassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - W)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering wlassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், wlassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of wlassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு wlassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_19_climate",
+    "word": "Wlimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - W)",
+    "tamilDefinition": "தட்பவெப்பநிலை (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering wlimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், wlimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of wlimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு wlimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_w_20_colleague",
+    "word": "Wolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - W)",
+    "tamilDefinition": "சக பணியாளர் (W நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering wolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், wolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of wolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு wolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_1_balance",
+    "word": "Xalance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - X)",
+    "tamilDefinition": "சமநிலை (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xalance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xalance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xalance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xalance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_2_barrier",
+    "word": "Xarrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - X)",
+    "tamilDefinition": "தடை (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xarrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xarrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xarrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xarrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_3_behavior",
+    "word": "Xehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - X)",
+    "tamilDefinition": "நடத்தை (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_4_benefit",
+    "word": "Xenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - X)",
+    "tamilDefinition": "நலன் / பயன் (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_5_bound",
+    "word": "Xound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - X)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_6_brief",
+    "word": "Xrief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - X)",
+    "tamilDefinition": "சுருக்கமான (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xrief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xrief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xrief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xrief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_7_budget",
+    "word": "Xudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - X)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_8_burden",
+    "word": "Xurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - X)",
+    "tamilDefinition": "சுமை (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_9_calculate",
+    "word": "Xalculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - X)",
+    "tamilDefinition": "கணக்கிடுதல் (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xalculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xalculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xalculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xalculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_10_campaign",
+    "word": "Xampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - X)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_11_capacity",
+    "word": "Xapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - X)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_12_category",
+    "word": "Xategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - X)",
+    "tamilDefinition": "வகைப்பாடு (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_13_caution",
+    "word": "Xaution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - X)",
+    "tamilDefinition": "எச்சரிக்கை (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xaution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xaution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xaution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xaution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_14_central",
+    "word": "Xentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - X)",
+    "tamilDefinition": "மையமான / முக்கிய (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_15_challenge",
+    "word": "Xhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - X)",
+    "tamilDefinition": "சவால் (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_16_channel",
+    "word": "Xhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - X)",
+    "tamilDefinition": "சேனல் / வழிமுறை (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_17_charity",
+    "word": "Xharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - X)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_18_classic",
+    "word": "Xlassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - X)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xlassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xlassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xlassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xlassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_19_climate",
+    "word": "Xlimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - X)",
+    "tamilDefinition": "தட்பவெப்பநிலை (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xlimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xlimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xlimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xlimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_x_20_colleague",
+    "word": "Xolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - X)",
+    "tamilDefinition": "சக பணியாளர் (X நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering xolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், xolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of xolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு xolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_1_balance",
+    "word": "Yalance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - Y)",
+    "tamilDefinition": "சமநிலை (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yalance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yalance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yalance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yalance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_2_barrier",
+    "word": "Yarrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - Y)",
+    "tamilDefinition": "தடை (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yarrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yarrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yarrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yarrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_3_behavior",
+    "word": "Yehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - Y)",
+    "tamilDefinition": "நடத்தை (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_4_benefit",
+    "word": "Yenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - Y)",
+    "tamilDefinition": "நலன் / பயன் (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_5_bound",
+    "word": "Yound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - Y)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_6_brief",
+    "word": "Yrief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - Y)",
+    "tamilDefinition": "சுருக்கமான (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yrief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yrief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yrief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yrief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_7_budget",
+    "word": "Yudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - Y)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_8_burden",
+    "word": "Yurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - Y)",
+    "tamilDefinition": "சுமை (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_9_calculate",
+    "word": "Yalculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - Y)",
+    "tamilDefinition": "கணக்கிடுதல் (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yalculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yalculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yalculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yalculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_10_campaign",
+    "word": "Yampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - Y)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_11_capacity",
+    "word": "Yapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - Y)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_12_category",
+    "word": "Yategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - Y)",
+    "tamilDefinition": "வகைப்பாடு (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_13_caution",
+    "word": "Yaution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - Y)",
+    "tamilDefinition": "எச்சரிக்கை (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yaution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yaution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yaution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yaution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_14_central",
+    "word": "Yentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - Y)",
+    "tamilDefinition": "மையமான / முக்கிய (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_15_challenge",
+    "word": "Yhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - Y)",
+    "tamilDefinition": "சவால் (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_16_channel",
+    "word": "Yhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - Y)",
+    "tamilDefinition": "சேனல் / வழிமுறை (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_17_charity",
+    "word": "Yharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - Y)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_18_classic",
+    "word": "Ylassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - Y)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ylassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ylassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ylassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ylassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_19_climate",
+    "word": "Ylimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - Y)",
+    "tamilDefinition": "தட்பவெப்பநிலை (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering ylimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், ylimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of ylimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு ylimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_y_20_colleague",
+    "word": "Yolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - Y)",
+    "tamilDefinition": "சக பணியாளர் (Y நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering yolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், yolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of yolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு yolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_1_balance",
+    "word": "Zalance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An even distribution of weight or elements. (Level: Intermediate - Z)",
+    "tamilDefinition": "சமநிலை (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zalance improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zalance தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zalance.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zalance பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_2_barrier",
+    "word": "Zarrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A circumstance or obstacle that keeps people apart. (Level: Intermediate - Z)",
+    "tamilDefinition": "தடை (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zarrier improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zarrier தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zarrier.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zarrier பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_3_behavior",
+    "word": "Zehavior",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The way in which one acts or conducts oneself. (Level: Intermediate - Z)",
+    "tamilDefinition": "நடத்தை (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zehavior improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zehavior தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zehavior.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zehavior பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_4_benefit",
+    "word": "Zenefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An advantage or profit gained from something. (Level: Intermediate - Z)",
+    "tamilDefinition": "நலன் / பயன் (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zenefit improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zenefit தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zenefit.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zenefit பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_5_bound",
+    "word": "Zound",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Certain or extremely likely to happen. (Level: Intermediate - Z)",
+    "tamilDefinition": "கட்டாயம் / உறுதி (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zound improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zound தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zound.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zound பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_6_brief",
+    "word": "Zrief",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of short duration; concise. (Level: Intermediate - Z)",
+    "tamilDefinition": "சுருக்கமான (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zrief improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zrief தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zrief.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zrief பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_7_budget",
+    "word": "Zudget",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An estimate of income and expenditure for a set period. (Level: Intermediate - Z)",
+    "tamilDefinition": "பட்ஜெட் / வரவு செலவுத் திட்டம் (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zudget improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zudget தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zudget.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zudget பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_8_burden",
+    "word": "Zurden",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A load, typically a heavy one. (Level: Intermediate - Z)",
+    "tamilDefinition": "சுமை (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zurden improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zurden தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zurden.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zurden பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_9_calculate",
+    "word": "Zalculate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Determine mathematically. (Level: Intermediate - Z)",
+    "tamilDefinition": "கணக்கிடுதல் (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zalculate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zalculate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zalculate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zalculate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_10_campaign",
+    "word": "Zampaign",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organized course of action to achieve a goal. (Level: Intermediate - Z)",
+    "tamilDefinition": "பிரச்சார இயக்கம் (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zampaign improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zampaign தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zampaign.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zampaign பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_11_capacity",
+    "word": "Zapacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The maximum amount that something can contain. (Level: Intermediate - Z)",
+    "tamilDefinition": "திறன் / கொள்ளளவு (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zapacity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zapacity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zapacity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zapacity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_12_category",
+    "word": "Zategory",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A class or division of people or things. (Level: Intermediate - Z)",
+    "tamilDefinition": "வகைப்பாடு (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zategory improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zategory தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zategory.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zategory பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_13_caution",
+    "word": "Zaution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Care about potential dangers or problems. (Level: Intermediate - Z)",
+    "tamilDefinition": "எச்சரிக்கை (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zaution improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zaution தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zaution.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zaution பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_14_central",
+    "word": "Zentral",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Of the greatest importance; principal. (Level: Intermediate - Z)",
+    "tamilDefinition": "மையமான / முக்கிய (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zentral improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zentral தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zentral.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zentral பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_15_challenge",
+    "word": "Zhallenge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A call to prove something or test ability. (Level: Intermediate - Z)",
+    "tamilDefinition": "சவால் (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zhallenge improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zhallenge தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zhallenge.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zhallenge பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_16_channel",
+    "word": "Zhannel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A band of frequencies or a method of communication. (Level: Intermediate - Z)",
+    "tamilDefinition": "சேனல் / வழிமுறை (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zhannel improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zhannel தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zhannel.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zhannel பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_17_charity",
+    "word": "Zharity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "An organization set up to provide help. (Level: Intermediate - Z)",
+    "tamilDefinition": "தொண்டு நிறுவனம் (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zharity improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zharity தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zharity.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zharity பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_18_classic",
+    "word": "Zlassic",
+    "partOfSpeech": "adj",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "Judged over a period of time to be of the highest quality. (Level: Intermediate - Z)",
+    "tamilDefinition": "செவ்வியல் / பாரம்பரிய (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zlassic improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zlassic தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zlassic.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zlassic பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_19_climate",
+    "word": "Zlimate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "The weather conditions prevailing in an area. (Level: Intermediate - Z)",
+    "tamilDefinition": "தட்பவெப்பநிலை (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zlimate improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zlimate தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zlimate.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zlimate பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
+  },
+  {
+    "id": "mod_z_20_colleague",
+    "word": "Zolleague",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Intermediate",
+      "General"
+    ],
+    "englishDefinition": "A person with whom one works in a profession. (Level: Intermediate - Z)",
+    "tamilDefinition": "சக பணியாளர் (Z நிலை)",
+    "literaryContext": {
+      "english": "In daily life, mastering zolleague improves clarity.",
+      "tamil": "தினசரி வாழ்க்கையில், zolleague தெளிவை மேம்படுத்துகிறது.",
+      "sourceNote": "Intermediate Lexicon"
+    },
+    "formalSpeechContext": {
+      "english": "Professional standards require clear understanding of zolleague.",
+      "tamil": "தொழில்முறை தரநிலைகளுக்கு zolleague பற்றிய தெளிவான புரிதல் தேவை.",
+      "sourceNote": "Professional Context"
+    },
+    "synonyms": [
+      "standard"
+    ],
+    "antonyms": [
+      "unusual"
+    ]
   }
 ];
