@@ -6,6 +6,7 @@ interface VocabularyCardProps {
   entry: VocabularyEntry;
   isBookmarked: boolean;
   onToggleBookmark: (id: string) => void;
+  onSelectTerm?: (term: string) => void;
   defaultExpanded?: boolean;
 }
 
@@ -130,6 +131,7 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
   entry,
   isBookmarked,
   onToggleBookmark,
+  onSelectTerm,
   defaultExpanded = false,
 }) => {
   const [playingItem, setPlayingItem] = useState<string | null>(null);
@@ -253,34 +255,38 @@ export const VocabularyCard: React.FC<VocabularyCardProps> = ({
         {/* Synonyms & Antonyms (SYN: and ANT:) */}
         <div className="flex flex-col sm:flex-row sm:items-center gap-2 text-[11px] text-stone-400 pt-0.5">
           {/* Synonyms */}
-          <div className="flex items-center space-x-1.5">
-            <span className="font-serif font-bold text-emerald-400/80 shrink-0">SYN:</span>
-            <div className="flex flex-wrap gap-1">
-              {entry.synonyms.map((syn) => (
-                <span
-                  key={syn}
-                  className="inline-flex items-center text-[10px] bg-emerald-950/30 text-emerald-300/90 border border-emerald-900/40 px-1.5 py-0.2 rounded font-medium"
-                >
-                  {syn}
-                </span>
-              ))}
+          {entry.synonyms && entry.synonyms.length > 0 && (
+            <div className="flex items-center space-x-1.5">
+              <span className="font-serif font-bold text-emerald-400/80 shrink-0">SYN:</span>
+              <div className="flex flex-wrap gap-1">
+                {entry.synonyms.map((syn) => (
+                  <span
+                    key={syn}
+                    className="inline-flex items-center text-[10px] bg-emerald-950/20 text-emerald-300/90 border border-emerald-900/30 px-1.5 py-0.5 rounded font-medium select-text"
+                  >
+                    {syn}
+                  </span>
+                ))}
+              </div>
             </div>
-          </div>
+          )}
 
           {/* Antonyms */}
-          <div className="flex items-center space-x-1.5 sm:ml-4">
-            <span className="font-serif font-bold text-rose-400/80 shrink-0">ANT:</span>
-            <div className="flex flex-wrap gap-1">
-              {entry.antonyms.map((ant) => (
-                <span
-                  key={ant}
-                  className="inline-flex items-center text-[10px] bg-rose-950/30 text-rose-300/90 border border-rose-900/40 px-1.5 py-0.2 rounded font-medium"
-                >
-                  {ant}
-                </span>
-              ))}
+          {entry.antonyms && entry.antonyms.length > 0 && (
+            <div className="flex items-center space-x-1.5 sm:ml-4">
+              <span className="font-serif font-bold text-rose-400/80 shrink-0">ANT:</span>
+              <div className="flex flex-wrap gap-1">
+                {entry.antonyms.map((ant) => (
+                  <span
+                    key={ant}
+                    className="inline-flex items-center text-[10px] bg-rose-950/20 text-rose-300/90 border border-rose-900/30 px-1.5 py-0.5 rounded font-medium select-text"
+                  >
+                    {ant}
+                  </span>
+                ))}
+              </div>
             </div>
-          </div>
+          )}
         </div>
 
         {/* Toggle Details / Examples button */}

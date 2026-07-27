@@ -1,0 +1,883 @@
+import { VocabularyEntry } from "../../types";
+
+export const dataR: VocabularyEntry[] = [
+  {
+    "id": "recalcitrant",
+    "word": "recalcitrant",
+    "partOfSpeech": "adjective",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Politics"
+    ],
+    "englishDefinition": "Having an obstinately uncooperative attitude toward authority or discipline.",
+    "tamilDefinition": "கீழ்ப்படியாத, பிடிவாதமான",
+    "literaryContext": {
+      "english": "The recalcitrant spirit of the youth challenged the age-old oppressive traditions.",
+      "tamil": "இளைஞர்களின் கீழ்ப்படியாத ஆன்மா காலங்காலமான ஒடுக்குமுறை மரங்களை சவாலுக்கு உட்படுத்தியது.",
+      "sourceNote": "Modern sociological literature"
+    },
+    "formalSpeechContext": {
+      "english": "We must find diplomatic ways to engage with recalcitrant factions in the region.",
+      "tamil": "இந்தப் பகுதியில் உள்ள கீழ்ப்படியாத குழுக்களுடன் உரையாட நாம் தூதரக வழிகளைக் கண்டுபிடிக்க வேண்டும்.",
+      "sourceNote": "Political discourse"
+    },
+    "synonyms": [
+      "defiant",
+      "obstinate",
+      "intractable"
+    ],
+    "antonyms": [
+      "compliant",
+      "amenable",
+      "obedient"
+    ]
+  },
+  {
+    "id": "reconciliation",
+    "word": "reconciliation",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society",
+      "Politics"
+    ],
+    "englishDefinition": "The restoration of friendly relations after an estrangement or conflict.",
+    "tamilDefinition": "நல்லிணக்கம், சமரசம்",
+    "literaryContext": {
+      "english": "True peace can only be achieved through genuine forgiveness and reconciliation.",
+      "tamil": "உண்மையான அமைதியை உண்மையான மன்னிப்பு மற்றும் நல்லிணக்கத்தின் மூலமே அடைய முடியும்.",
+      "sourceNote": "Philosophical writings"
+    },
+    "formalSpeechContext": {
+      "english": "The committee worked tirelessly to foster reconciliation between the two communities.",
+      "tamil": "இரு சமூகங்களுக்கும் இடையே நல்லிணக்கத்தை வளர்க்க குழு அயராது உழைத்தது.",
+      "sourceNote": "Official governmental statement"
+    },
+    "synonyms": [
+      "harmony",
+      "appeasement",
+      "rapprochement"
+    ],
+    "antonyms": [
+      "strife",
+      "alienation",
+      "conflict"
+    ]
+  },
+  {
+    "id": "rectitude",
+    "word": "Rectitude",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Morally correct behavior or thinking; righteousness, honesty, and strict adherence to ethical principles.",
+    "tamilDefinition": "ஒழுக்கம், நேர்மை, நீதிநெறி தவறுமை",
+    "literaryContext": {
+      "english": "He was a man of unyielding moral rectitude, highly respected by his peers and community elders.",
+      "sourceNote": "Historical fiction and biographical prose",
+      "tamil": "அவர் எவ்விதத்திலும் தளராத ஒழுக்க நெறி கொண்ட மனிதர், சக ஊழியர்களாலும் சமூகப் பெரியோர்களாலும் பெரிதும் மதிக்கப்பட்டவர்."
+    },
+    "formalSpeechContext": {
+      "english": "Public service requires unwavering professional rectitude and personal integrity.",
+      "sourceNote": "Civic leadership addresses and oath ceremonies",
+      "tamil": "பொதுச்சேவைக்கு அசைக்க முடியாத தொழில்முறை நேர்மையும் தனிநபர் ஒழுக்கமும் அவசியமாகும்."
+    },
+    "synonyms": [
+      "integrity",
+      "righteousness",
+      "probity"
+    ],
+    "antonyms": [
+      "corruption",
+      "immorality",
+      "dishonesty"
+    ]
+  },
+  {
+    "id": "recuperation",
+    "word": "recuperation",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Science",
+      "Formal Speech"
+    ],
+    "englishDefinition": "The recovery of health and strength over a period of time after illness or exertion.",
+    "tamilDefinition": "உடல் நலம் தேறுதல், மீட்சி",
+    "literaryContext": {
+      "english": "In the quiet serenity of the hills, she found the ideal environment for her recuperation.",
+      "tamil": "மலைகளின் அமைதியான சூழலில், தன் உடல் நலம் தேறுவதற்கான சிறந்த சூழலைக் கண்டறிந்தாள்.",
+      "sourceNote": "Biographical literature"
+    },
+    "formalSpeechContext": {
+      "english": "Adequate rest is vital for the patient's swift recuperation.",
+      "tamil": "நோயாளியின் விரைவான உடல் நலம் தேறுதலுக்கு போதுமான ஓய்வு அவசியமாகும்.",
+      "sourceNote": "Medical bulletin"
+    },
+    "synonyms": [
+      "recovery",
+      "healing",
+      "restoration"
+    ],
+    "antonyms": [
+      "deterioration",
+      "decline"
+    ]
+  },
+  {
+    "id": "redemption",
+    "word": "redemption",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Literature"
+    ],
+    "englishDefinition": "The action of saving or being saved from sin, error, or evil; deliverance.",
+    "tamilDefinition": "மீட்பு, பாவ விமோசனம்",
+    "literaryContext": {
+      "english": "His life journey was a profound quest for redemption through acts of selfless love.",
+      "tamil": "அவரது வாழ்க்கை பயணம் சுயநலமற்ற அன்புச் செயல்களின் மூலம் மீட்புத் தேடும் ஆழமான தேடலாகும்.",
+      "sourceNote": "Classic literature"
+    },
+    "formalSpeechContext": {
+      "english": "Every individual deserves a second chance at redemption and rehabilitation.",
+      "tamil": "ஒவ்வொரு தனிநபரும் மீட்பு மற்றும் மறுவாழ்வுக்கான இரண்டாவது வாய்ப்பிற்கு தகுதியானவரே.",
+      "sourceNote": "Human rights address"
+    },
+    "synonyms": [
+      "salvation",
+      "deliverance",
+      "atonement"
+    ],
+    "antonyms": [
+      "damnation",
+      "perdition"
+    ]
+  },
+  {
+    "id": "redundant",
+    "word": "redundant",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": [
+      "Formal Speech",
+      "Science"
+    ],
+    "englishDefinition": "Not or no longer needed or useful; superfluous.",
+    "tamilDefinition": "தேவையற்ற, உபரியான",
+    "literaryContext": {
+      "english": "In the digital age, many traditional manufacturing roles have become redundant.",
+      "tamil": "டிஜிட்டல் யுகத்தில், பல பாரம்பரிய உற்பத்திப் பணிகள் தேவையற்றதாகிவிட்டன.",
+      "sourceNote": "Economic essay"
+    },
+    "formalSpeechContext": {
+      "english": "Please ensure your report is concise and does not contain redundant information.",
+      "tamil": "உங்கள் அறிக்கை சுருக்கமாகவும், தேவையற்ற தகவல்கள் இல்லாமலும் இருப்பதை உறுதி செய்யவும்.",
+      "sourceNote": "Corporate communication"
+    },
+    "synonyms": [
+      "superfluous",
+      "unnecessary",
+      "excessive"
+    ],
+    "antonyms": [
+      "essential",
+      "necessary",
+      "indispensable"
+    ]
+  },
+  {
+    "id": "refuge",
+    "word": "refuge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society",
+      "Literature"
+    ],
+    "englishDefinition": "The state of being safe from pursuit, danger, or trouble.",
+    "tamilDefinition": "புகலிடம், பாதுகாப்பு",
+    "literaryContext": {
+      "english": "The ancient temple offered sanctuary and refuge to all weary travelers.",
+      "tamil": "பண்டைய கோவில் சோர்வடைந்த அனைத்து பயணிகளுக்கும் புகலிடமும் பாதுகாப்பும் அளித்தது.",
+      "sourceNote": "Historical fiction"
+    },
+    "formalSpeechContext": {
+      "english": "International law obligates nations to provide refuge to those fleeing persecution.",
+      "tamil": "துன்புறுத்தல்களிலிருந்து தப்பியோடுபவர்களுக்கு புகலிடம் வழங்குமாறு நாடுகளை சர்வதேச சட்டம் கடமைப்படுத்துகிறது.",
+      "sourceNote": "Legal treatise"
+    },
+    "synonyms": [
+      "sanctuary",
+      "shelter",
+      "haven"
+    ],
+    "antonyms": [
+      "exposure",
+      "danger"
+    ]
+  },
+  {
+    "id": "regenerate",
+    "word": "regenerate",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ],
+    "englishDefinition": "To bring into new and better life; to reform morally or spiritually.",
+    "tamilDefinition": "மறுசீரமை, புதுப்பி",
+    "literaryContext": {
+      "english": "The monsoon rains help the parched forest to regenerate its lush green cover.",
+      "tamil": " பருவமழை காய்ந்த காடு தனது பசுமையான போர்வையைப் புதுப்பிக்க உதவுகிறது.",
+      "sourceNote": "Nature writing"
+    },
+    "formalSpeechContext": {
+      "english": "Urban planning strategies must focus on how to regenerate declining industrial cities.",
+      "tamil": "நகர்ப்புற திட்டமிடல் உத்திகள் வீழ்ச்சியடைந்து வரும் தொழில்துறை நகரங்களை எவ்வாறு புதுப்பிப்பது என்பதில் கவனம் செலுத்த வேண்டும்.",
+      "sourceNote": "Policy speech"
+    },
+    "synonyms": [
+      "revive",
+      "renew",
+      "rejuvenate"
+    ],
+    "antonyms": [
+      "destroy",
+      "ruin",
+      "decay"
+    ]
+  },
+  {
+    "id": "rejuvenate",
+    "word": "rejuvenate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Science",
+      "Formal Speech"
+    ],
+    "englishDefinition": "To make someone or something look or feel younger, fresher, or more lively.",
+    "tamilDefinition": "இளம்மை ஊட்டு, புத்துணர்ச்சி அளி",
+    "literaryContext": {
+      "english": "A gentle walk in the morning breeze can rejuvenate both body and soul.",
+      "tamil": "காலைக் காற்றில் ஒரு மெதுவான நடை உடல் மற்றும் ஆன்மா இரண்டிற்கும் புத்துணர்ச்சி அளிக்கும்.",
+      "sourceNote": "Wellness essays"
+    },
+    "formalSpeechContext": {
+      "english": "The board hopes the new leadership will rejuvenate the struggling corporation.",
+      "tamil": "புதிய தலைமை போராடும் நிறுவனத்திற்கு புத்துணர்ச்சி அளிக்கும் என்று வாரியம் நம்புகிறது.",
+      "sourceNote": "Business meeting"
+    },
+    "synonyms": [
+      "revitalize",
+      "refresh",
+      "restore"
+    ],
+    "antonyms": [
+      "exhaust",
+      "fatigue",
+      "weary"
+    ]
+  },
+  {
+    "id": "relentless",
+    "word": "relentless",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": [
+      "Literature",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Unceasingly intense; constant and unwavering.",
+    "tamilDefinition": "விடாமுயற்சியான, தளராத",
+    "literaryContext": {
+      "english": "The relentless march of time leaves its indelible mark upon all things mortal.",
+      "tamil": "காலத்தின் தளராத நடை அனைத்து அழிவுபடும் பொருட்களின் மீதும் தனது அழியாத முத்திரையைப் பதிக்கிறது.",
+      "sourceNote": "Poetic prose"
+    },
+    "formalSpeechContext": {
+      "english": "Through relentless hard work, the team accomplished the impossible deadline.",
+      "tamil": "விடாமுயற்சியான கடின உழைப்பின் மூலம், அந்த குழு முடியாத காலக்கெடுவை எட்டியது.",
+      "sourceNote": "Project review"
+    },
+    "synonyms": [
+      "unyielding",
+      "persistent",
+      "unceasing"
+    ],
+    "antonyms": [
+      "yielding",
+      "merciful",
+      "intermittent"
+    ]
+  },
+  {
+    "id": "relevance",
+    "word": "relevance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Formal Speech",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "The quality or state of being closely connected or appropriate.",
+    "tamilDefinition": "பொருத்தம், தொடர்பு",
+    "literaryContext": {
+      "english": "Classical literature retains profound relevance in understanding modern human emotions.",
+      "tamil": "செவ்விலக்கியங்கள் நவீன மனித உணர்வுகளைப் புரிந்துகொள்வதில் ஆழமான பொருத்தத்தைத் ধরে வைத்திருக்கின்றன.",
+      "sourceNote": "Literary criticism"
+    },
+    "formalSpeechContext": {
+      "english": "The speaker demonstrated the practical relevance of the research findings.",
+      "tamil": "பேச்சாளர் ஆராய்ச்சி முடிவுகளின் நடைமுறைப் பொருத்தத்தை விளக்கினார்.",
+      "sourceNote": "Academic conference"
+    },
+    "synonyms": [
+      "applicability",
+      "pertinency",
+      "connection"
+    ],
+    "antonyms": [
+      "irrelevance",
+      "inappropriateness"
+    ]
+  },
+  {
+    "id": "remorse",
+    "word": "remorse",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society",
+      "Philosophy"
+    ],
+    "englishDefinition": "Deep regret or guilt for a wrong committed.",
+    "tamilDefinition": "மனவருத்தம், குற்ற உணர்வு",
+    "literaryContext": {
+      "english": "He looked back at his past transgressions with profound remorse and sorrow.",
+      "tamil": "அவர் தனது கடந்த கால மீறல்களை ஆழமான மனவருத்தத்துடனும் சோகத்துடனும் திரும்பிப் பார்த்தார்.",
+      "sourceNote": "Psychological novel"
+    },
+    "formalSpeechContext": {
+      "english": "The accused showed genuine remorse for his actions during the court hearing.",
+      "tamil": "நீதிமன்ற விசாரணையின் போது குற்றம் சாட்டப்பட்டவர் தனது செயல்களுக்காக உண்மையான குற்ற உணர்வை வெளிப்படுத்தினார்.",
+      "sourceNote": "Legal proceedings"
+    },
+    "synonyms": [
+      "contrition",
+      "penitence",
+      "guilt"
+    ],
+    "antonyms": [
+      "remorselessness",
+      "shamelessness"
+    ]
+  },
+  {
+    "id": "renaissance",
+    "word": "renaissance",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Arts & Culture"
+    ],
+    "englishDefinition": "A revival of or renewed interest in something.",
+    "tamilDefinition": "மறுமலர்ச்சி",
+    "literaryContext": {
+      "english": "The city experienced a cultural renaissance, with arts and literature flourishing once again.",
+      "tamil": "கலைகளும் இலக்கியமும் மீண்டும் தழைத்தோங்க, அந்த நகரம் ஒரு கலாச்சார மறுமலர்ச்சியைக் கண்டது.",
+      "sourceNote": "Historical essay"
+    },
+    "formalSpeechContext": {
+      "english": "We are witnessing a technological renaissance that is transforming every aspect of society.",
+      "tamil": "சமூகத்தின் ஒவ்வொரு அம்சத்தையும் மாற்றிவரும் ஒரு தொழில்நுட்ப மறுமலர்ச்சிக்கு நாம் சாட்சியாக இருக்கிறோம்.",
+      "sourceNote": "Keynote speech"
+    },
+    "synonyms": [
+      "revival",
+      "resurgence",
+      "rebirth"
+    ],
+    "antonyms": [
+      "stagnation",
+      "decline"
+    ]
+  },
+  {
+    "id": "renounce",
+    "word": "renounce",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society",
+      "Philosophy"
+    ],
+    "englishDefinition": "To formally declare one's abandonment of a claim, right, or possession.",
+    "tamilDefinition": "துற, கைவிடு",
+    "literaryContext": {
+      "english": "The wise sage chose to renounce all worldly wealth to seek inner enlightenment.",
+      "tamil": "புத்திசாலி முனிவர் உள் ஞானத்தைத் தேட அனைத்து உலக செல்வங்களையும் துறக்கத் தேர்ந்தெடுத்தார்.",
+      "sourceNote": "Spiritual narrative"
+    },
+    "formalSpeechContext": {
+      "english": "Leaders must publicly renounce violence to establish sustainable peace.",
+      "tamil": "நிலையான அமைதியை நிறுவ தலைவர்கள் வன்முறையை வெளிப்படையாகக் கைவிட வேண்டும்.",
+      "sourceNote": "Political declaration"
+    },
+    "synonyms": [
+      "forsake",
+      "relinquish",
+      "abjure"
+    ],
+    "antonyms": [
+      "claim",
+      "accept",
+      "adopt"
+    ]
+  },
+  {
+    "id": "resilience",
+    "word": "resilience",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society",
+      "Science"
+    ],
+    "englishDefinition": "The capacity to recover quickly from difficulties; toughness.",
+    "tamilDefinition": "தாங்கும் திறன், மீள்திறன்",
+    "literaryContext": {
+      "english": "The quiet resilience of the villagers helped them rebuild their homes after the devastating storm.",
+      "tamil": "கிராம மக்களின் அமைதியான மீள்திறன், அழிவுகரமான புயலுக்குப் பிறகு தங்கள் வீடுகளை மீண்டும் கட்டியெழுப்ப உதவியது.",
+      "sourceNote": "Contemporary narrative"
+    },
+    "formalSpeechContext": {
+      "english": "Our economic resilience depends on diversifying our industrial base.",
+      "tamil": "எங்கள் பொருளாதார மீள்திறன் எங்கள் தொழில்துறை தளத்தைப் பல்வகைப்படுத்துவதைப் பொறுத்தது.",
+      "sourceNote": "Economic address"
+    },
+    "synonyms": [
+      "flexibility",
+      "hardiness",
+      "adaptability"
+    ],
+    "antonyms": [
+      "fragility",
+      "vulnerability",
+      "weakness"
+    ]
+  },
+  {
+    "id": "resolute",
+    "word": "resolute",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": [
+      "Formal Speech",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Admirably purposeful, determined, and unwavering.",
+    "tamilDefinition": "உறுதியான, தளராத",
+    "literaryContext": {
+      "english": "With a resolute gaze, she stepped forward to face the unknown challenges.",
+      "tamil": "உறுதியான பார்வையுடன், அறியப்படாத சவால்களை எதிர்கொள்ள அவள் முன்னேறினாள்.",
+      "sourceNote": "Epic literature"
+    },
+    "formalSpeechContext": {
+      "english": "We remain resolute in our commitment to environmental sustainability.",
+      "tamil": "சுற்றுச்சூழல் நிலைத்தன்மைக்கான எங்கள் அர்ப்பணிப்பில் நாங்கள் உறுதியாக இருக்கிறோம்.",
+      "sourceNote": "Government policy statement"
+    },
+    "synonyms": [
+      "determined",
+      "steadfast",
+      "firm"
+    ],
+    "antonyms": [
+      "irresolute",
+      "wavering",
+      "undecided"
+    ]
+  },
+  {
+    "id": "resonance",
+    "word": "Resonance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Formal Speech",
+      "Arts & Culture"
+    ],
+    "englishDefinition": "The quality in a sound or a work of art of being deep, full, and reverberating, or the ability to evoke deep emotional associations.",
+    "tamilDefinition": "எதிரொலிப்பு, ஆழ்ந்த உணர்வுகளைத் தூண்டும் தன்மை",
+    "literaryContext": {
+      "english": "The classic novel maintained a quiet resonance with readers across several generations.",
+      "sourceNote": "Literary criticism and cultural essays",
+      "tamil": "அந்தச் செவ்வியல் நாவல் பல தலைமுறை வாசகர்களுடன் அமைதியான எதிரொலிப்பைக் கொண்டிருந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "Her closing remarks on community welfare found profound resonance among the senior audience members.",
+      "sourceNote": "Public lectures and civic speeches",
+      "tamil": "சமூக நலன் குறித்த அவரது நிறைவுரையானது முதிய பார்வையாளர்கள் மத்தியில் ஆழ்ந்த எதிரொலிப்பைக் கண்டது."
+    },
+    "synonyms": [
+      "reverberation",
+      "vibration",
+      "significance"
+    ],
+    "antonyms": [
+      "dullness",
+      "weakness"
+    ]
+  },
+  {
+    "id": "resounding",
+    "word": "resounding",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": [
+      "Formal Speech",
+      "Arts & Culture"
+    ],
+    "englishDefinition": "Unmistakable; pronounced and emphatic.",
+    "tamilDefinition": "ஒலிமிக்க, பிரம்மாண்டமான (வெற்றி)",
+    "literaryContext": {
+      "english": "Their performance was met with a resounding applause from the enchanted audience.",
+      "tamil": "அவர்களின் செயல்திறன் மயக்கப்பட்ட பார்வையாளர்களின் பிரம்மாண்டமான கைதட்டல்களுடன் வரவேற்கப்பட்டது.",
+      "sourceNote": "Theatrical review"
+    },
+    "formalSpeechContext": {
+      "english": "The policy change was a resounding success among the local communities.",
+      "tamil": "கொள்கை மாற்றம் உள்ளூர் சமூகங்கள் மத்தியில் ஒரு மிகப்பெரிய வெற்றியாக இருந்தது.",
+      "sourceNote": "Public administration report"
+    },
+    "synonyms": [
+      "emphatic",
+      "decisive",
+      "ringing"
+    ],
+    "antonyms": [
+      "faltering",
+      "weak"
+    ]
+  },
+  {
+    "id": "respect",
+    "word": "respect",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society",
+      "Formal Speech"
+    ],
+    "englishDefinition": "A feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements.",
+    "tamilDefinition": "மரியாதை, மதிப்பு",
+    "literaryContext": {
+      "english": "True respect is earned through consistent kindness and integrity, not demanded by authority.",
+      "tamil": "உண்மையான மரியாதை அதிகாரத்தால் கோரப்படுவதில்லை, மாறாக நிலையான கனிவு மற்றும் நேர்மை மூலம் ஈட்டப்படுகிறது.",
+      "sourceNote": "Moral philosophy"
+    },
+    "formalSpeechContext": {
+      "english": "We must foster an environment of mutual respect in the workplace.",
+      "tamil": "பணியிடத்தில் பரஸ்பர மரியாதைக்குரிய சூழலை நாம் வளர்க்க வேண்டும்.",
+      "sourceNote": "Corporate guidelines"
+    },
+    "synonyms": [
+      "esteem",
+      "regard",
+      "admiration"
+    ],
+    "antonyms": [
+      "disrespect",
+      "contempt"
+    ]
+  },
+  {
+    "id": "restoration",
+    "word": "restoration",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture"
+    ],
+    "englishDefinition": "The action of returning something to a former owner, place, or condition.",
+    "tamilDefinition": "மீட்டமைத்தல், சீரமைப்பு",
+    "literaryContext": {
+      "english": "The meticulous restoration of the ancient manuscript revealed lost poetry of the era.",
+      "tamil": "பண்டைய கையெழுத்துப் பிரதியை நுணுக்கமாக மீட்டமைத்தது அந்தக் காலத்து இழந்த கவிதைகளை வெளிப்படுத்தியது.",
+      "sourceNote": "Historical research"
+    },
+    "formalSpeechContext": {
+      "english": "The government announced funds for the restoration of historical monuments.",
+      "tamil": "வரலாற்றுச் சின்னங்களை சீரமைக்க அரசு நிதி ஒதுக்கீடு செய்யப்பட்டுள்ளதாக அறிவித்தது.",
+      "sourceNote": "Cultural ministry statement"
+    },
+    "synonyms": [
+      "renovation",
+      "reinstatement",
+      "repair"
+    ],
+    "antonyms": [
+      "demolition",
+      "ruin"
+    ]
+  },
+  {
+    "id": "resurrection",
+    "word": "resurrection",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Literature"
+    ],
+    "englishDefinition": "The action or fact of rising from the dead or returning to life.",
+    "tamilDefinition": "உயிர்த்தெழுதல், மீள் உருவாக்கம்",
+    "literaryContext": {
+      "english": "Spring symbolizes the magnificent resurrection of nature after the barren winter.",
+      "tamil": "வசந்த காலம் மலட்டு குளிர்காலத்திற்குப் பிறகு இயற்கையின் பிரம்மாண்டமான உயிர்த்தெழுதலைக் குறிக்கிறது.",
+      "sourceNote": "Poetic literature"
+    },
+    "formalSpeechContext": {
+      "english": "The economic resurrection of the nation required bold and innovative fiscal reforms.",
+      "tamil": "நாட்டின் பொருளாதார மறுமலர்ச்சிக்கு தைரியமான மற்றும் புதுமையான நிதி சீர்திருத்தங்கள் தேவைப்பட்டன.",
+      "sourceNote": "Economic analysis"
+    },
+    "synonyms": [
+      "revival",
+      "renaissance",
+      "renewal"
+    ],
+    "antonyms": [
+      "death",
+      "extinction"
+    ]
+  },
+  {
+    "id": "retrospection",
+    "word": "Retrospection",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "The action or process of surveying or reviewing past times or events, often bringing a sense of nostalgia or reflection for older generations.",
+    "tamilDefinition": "கடந்த கால நிகழ்வுகளைத் திரும்பிப் பார்த்தல் அல்லது நினைவுகூர்தல்",
+    "literaryContext": {
+      "english": "In his later years, his poetry was heavily colored by a deep and contemplative retrospection.",
+      "sourceNote": "Autobiographical reflections and memoirs",
+      "tamil": "அவரது பிற்காலக் கவிதைகள் ஆழ்ந்த மற்றும் சிந்தனைக்குரிய கடந்த கால நினைவுகளால் பெரிதும் வண்ணம் பெற்றிருந்தன."
+    },
+    "formalSpeechContext": {
+      "english": "A retrospection of our organization's history reveals remarkable resilience through changing times.",
+      "sourceNote": "Anniversary keynotes and organizational addresses",
+      "tamil": "எங்கள் அமைப்பின் வரலாற்றைத் திரும்பிப் பார்ப்பது மாறுபட்ட காலங்களிலும் குறிப்பிடத்தக்க மீண்டெழும் தன்மையை வெளிப்படுத்துகிறது."
+    },
+    "synonyms": [
+      "reflection",
+      "reminiscence",
+      "review"
+    ],
+    "antonyms": [
+      "anticipation",
+      "forethought"
+    ]
+  },
+  {
+    "id": "revelation",
+    "word": "revelation",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Philosophy",
+      "Literature"
+    ],
+    "englishDefinition": "A surprising and previously unknown fact, especially one that is made known in a dramatic way.",
+    "tamilDefinition": "வெளிப்பாடு, பேருண்மை",
+    "literaryContext": {
+      "english": "Her diary entries came as a revelation, exposing the inner depths of her troubled mind.",
+      "tamil": "அவளது டைரி குறிப்புகள் ஒரு வெளிப்பாடாக வந்தன, அவரது தொந்தரவுக்குள்ளான மனதின் உள் ஆழங்களை வெளிப்படுத்தின.",
+      "sourceNote": "Biographical critique"
+    },
+    "formalSpeechContext": {
+      "english": "The investigative report brought to light startling revelations about corporate corruption.",
+      "tamil": "புலனாய்வு அறிக்கை கார்ப்பரேட் ஊழல் பற்றிய திடுக்கிடும் வெளிப்பாடுகளை வெளிச்சத்திற்கு கொண்டு வந்தது.",
+      "sourceNote": "Journalistic address"
+    },
+    "synonyms": [
+      "disclosure",
+      "divulgation",
+      "epiphany"
+    ],
+    "antonyms": [
+      "concealment",
+      "suppression"
+    ]
+  },
+  {
+    "id": "reverence",
+    "word": "reverence",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Deep respect for someone or something.",
+    "tamilDefinition": "பேராதரவு, பக்தி, மிகுந்த மரியாதை",
+    "literaryContext": {
+      "english": "The ancient forests were treated with profound reverence by the indigenous people.",
+      "tamil": "பண்டைய காடுகள் பழங்குடி மக்களால் ஆழ்ந்த பக்தியுடனும் மரியாதையுடனும் நடத்தப்பட்டன.",
+      "sourceNote": "Ethical essays"
+    },
+    "formalSpeechContext": {
+      "english": "We hold our cultural heritage in high reverence.",
+      "tamil": "எங்கள் கலாச்சார பாரம்பரியத்தை நாங்கள் மிகுந்த மரியாதையுடன் போற்றுகிறோம்.",
+      "sourceNote": "Cultural heritage speech"
+    },
+    "synonyms": [
+      "awe",
+      "veneration",
+      "adoration"
+    ],
+    "antonyms": [
+      "disrespect",
+      "scorn"
+    ]
+  },
+  {
+    "id": "revitalize",
+    "word": "revitalize",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Science",
+      "Formal Speech"
+    ],
+    "englishDefinition": "To imbue something with new life and vitality.",
+    "tamilDefinition": "புத்துயிர் ஊட்டு, ஊக்கப்படுத்து",
+    "literaryContext": {
+      "english": "Innovative teaching methods can revitalize traditional classroom learning.",
+      "tamil": "புத்தாக்க கற்பித்தல் முறைகள் பாரம்பரிய வகுப்பறை கற்றலுக்கு புத்துயிர் அளிக்கலாம்.",
+      "sourceNote": "Educational literature"
+    },
+    "formalSpeechContext": {
+      "english": "The new initiatives are designed to revitalize local small businesses.",
+      "tamil": "புதிய திட்டங்கள் உள்ளூர் சிறு வணிகங்களுக்கு புத்துயிர் ஊட்டும் வகையில் வடிவமைக்கப்பட்டுள்ளன.",
+      "sourceNote": "Municipal council speech"
+    },
+    "synonyms": [
+      "energize",
+      "refresh",
+      "resuscitate"
+    ],
+    "antonyms": [
+      "deaden",
+      "depress"
+    ]
+  },
+  {
+    "id": "righteous",
+    "word": "righteous",
+    "partOfSpeech": "adjective",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Morally right or justifiable; virtuous.",
+    "tamilDefinition": "நீதியுள்ள, அறநெறி சார்ந்த",
+    "literaryContext": {
+      "english": "Her righteous indignation gave her the courage to stand up against injustice.",
+      "tamil": "அவளது நியாயமான கோபம் அநீதிக்கு எதிராக நிமிர்ந்து நிற்க தைரியத்தை அளித்தது.",
+      "sourceNote": "Classic novel"
+    },
+    "formalSpeechContext": {
+      "english": "A just society must always protect the rights of the poor and defend righteous causes.",
+      "tamil": "நீதியான சமுதமம் எப்போதும் ஏழைகளின் உரிமைகளைப் பாதுகாத்து, நீதியான நோக்கங்களை ஆதரிக்க வேண்டும்.",
+      "sourceNote": "Human rights address"
+    },
+    "synonyms": [
+      "virtuous",
+      "upright",
+      "ethical"
+    ],
+    "antonyms": [
+      "wicked",
+      "unjust",
+      "immoral"
+    ]
+  },
+  {
+    "id": "rigorous",
+    "word": "rigorous",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": [
+      "Science",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Extremely thorough, exhaustive, or accurate.",
+    "tamilDefinition": "கடுமையான, நுணுக்கமான",
+    "literaryContext": {
+      "english": "Only through rigorous self-discipline can one master the intricate arts.",
+      "tamil": "கடுமையான சுயக் கட்டுப்பாட்டின் மூலமே ஒருவரால் நுணுக்கமான கலைகளில் தேர்ச்சி பெற முடியும்.",
+      "sourceNote": "Artistic memoirs"
+    },
+    "formalSpeechContext": {
+      "english": "All pharmaceutical products undergo rigorous testing before public release.",
+      "tamil": "அனைத்து மருந்துப் பொருட்களும் பொதுமக்களுக்கு வெளியிடுவதற்கு முன்பு கடுமையான சோதனைக்கு உட்படுத்தப்படுகின்றன.",
+      "sourceNote": "Scientific briefing"
+    },
+    "synonyms": [
+      "thorough",
+      "meticulous",
+      "stringent"
+    ],
+    "antonyms": [
+      "lax",
+      "superficial",
+      "careless"
+    ]
+  },
+  {
+    "id": "rudimentary",
+    "word": "rudimentary",
+    "partOfSpeech": "adjective",
+    "difficulty": "Advanced",
+    "tags": [
+      "Science",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Involving or limited to basic principles; very imperfectly developed.",
+    "tamilDefinition": "தொடக்கநிலை, அடிப்படையான",
+    "literaryContext": {
+      "english": "They lived in a remote cabin with only rudimentary amenities.",
+      "tamil": "அவர்கள் மிக எளிய வசதிகளுடன் ஒரு தொலைதூர குடிசையில் வசித்தனர்.",
+      "sourceNote": "Adventure literature"
+    },
+    "formalSpeechContext": {
+      "english": "Even a rudimentary understanding of coding is valuable in today's job market.",
+      "tamil": "இன்றைய வேலைவாய்ப்பு சந்தையில் குறியீட்டு முறையைப் பற்றிய ஒரு தொடக்கநிலை புரிதல் கூட மதிப்புமிக்கது.",
+      "sourceNote": "Educational seminar"
+    },
+    "synonyms": [
+      "basic",
+      "elementary",
+      "fundamental"
+    ],
+    "antonyms": [
+      "advanced",
+      "developed",
+      "sophisticated"
+    ]
+  }
+];
