@@ -22,8 +22,15 @@ export const dataK: VocabularyEntry[] = [
       "tamil": "ஆன்ம தெய்வத்தின் பண்பாட்டு முக்கியத்துவத்தைப் புரிந்துகொள்வது மானுடவியலுக்கு மிகவும் அவசியமானது.",
       "sourceNote": "Used in an academic or formal speech context."
     },
-    "synonyms": [],
-    "antonyms": []
+    "synonyms": [
+      "spirit deity",
+      "sacred figure",
+      "ancestral spirit"
+    ],
+    "antonyms": [
+      "mortal human",
+      "secular image"
+    ]
   },
   {
     "id": "kaleidophone",
@@ -46,8 +53,14 @@ export const dataK: VocabularyEntry[] = [
       "tamil": "இந்த வரலாற்றுச் சிறப்புமிக்க கருவி இயற்பியலையும் அழகியலையும் இணைப்பதைக் காட்டுகிறது.",
       "sourceNote": "Used in a formal lecture setting."
     },
-    "synonyms": [],
-    "antonyms": []
+    "synonyms": [
+      "optical acoustic device",
+      "sound indicator"
+    ],
+    "antonyms": [
+      "silent instrument",
+      "non-visual wave device"
+    ]
   },
   {
     "id": "kaleidoscopic",
@@ -101,8 +114,14 @@ export const dataK: VocabularyEntry[] = [
       "tamil": "படமெடுக்கும் தொழில்நுட்பத்தின் முன்னேற்றம் மனித மரபணு வரைபடத்தை மிகத் துல்லியமாக அறிய உதவுகிறது.",
       "sourceNote": "Used in a formal scientific address."
     },
-    "synonyms": [],
-    "antonyms": []
+    "synonyms": [
+      "chromosome map",
+      "genomic profile"
+    ],
+    "antonyms": [
+      "phenotype",
+      "non-genetic trait"
+    ]
   },
   {
     "id": "keen",
@@ -807,6 +826,141 @@ export const dataK: VocabularyEntry[] = [
       "disgrace",
       "infamy",
       "censure"
+    ]
+  },
+  {
+    "id": "knowledge_inter_1",
+    "word": "Knowledge",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Information, skills, and understanding gained through experience or education.",
+    "tamilDefinition": "அறிவு, தகவல்.",
+    "literaryContext": {
+      "english": "Reading books expands your knowledge of the world.",
+      "tamil": "புத்தகங்களை வாசிப்பது உலகம் பற்றிய உங்கள் அறிவை விரிவுபடுத்துகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Reading books expands your knowledge of the world.",
+      "tamil": "புத்தகங்களை வாசிப்பது உலகம் பற்றிய உங்கள் அறிவை விரிவுபடுத்துகிறது."
+    },
+    "synonyms": [
+      "understanding",
+      "wisdom",
+      "learning"
+    ],
+    "antonyms": [
+      "ignorance",
+      "illiteracy",
+      "unawareness"
+    ]
+  },
+  {
+    "id": "keen_inter_2",
+    "word": "Keen",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having or showing eagerness or enthusiasm; sharp.",
+    "tamilDefinition": "ஆர்வமுள்ள, கூர்மையான.",
+    "literaryContext": {
+      "english": "She has a keen interest in environmental science.",
+      "tamil": "அவளுக்கு சுற்றுச்சூழல் அறிவியலில் மிகுந்த ஆர்வம் உள்ளது."
+    },
+    "formalSpeechContext": {
+      "english": "She has a keen interest in environmental science.",
+      "tamil": "அவளுக்கு சுற்றுச்சூழல் அறிவியலில் மிகுந்த ஆர்வம் உள்ளது."
+    },
+    "synonyms": [
+      "eager",
+      "sharp",
+      "astute"
+    ],
+    "antonyms": [
+      "indifferent",
+      "dull",
+      "apathetic"
+    ]
+  },
+  {
+    "id": "kindness_inter_3",
+    "word": "Kindness",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The quality of being friendly, generous, and considerate.",
+    "tamilDefinition": "கருணை, தயவு.",
+    "literaryContext": {
+      "english": "A simple act of kindness can brighten someone day.",
+      "tamil": "ஒரு எளிய கருணை செயல் ஒருவரின் நாளைப் பிரகாசமாக்கும்."
+    },
+    "formalSpeechContext": {
+      "english": "A simple act of kindness can brighten someone day.",
+      "tamil": "ஒரு எளிய கருணை செயல் ஒருவரின் நாளைப் பிரகாசமாக்கும்."
+    },
+    "synonyms": [
+      "compassion",
+      "goodness",
+      "generosity"
+    ],
+    "antonyms": [
+      "cruelty",
+      "meanness",
+      "harshness"
+    ]
+  },
+  {
+    "id": "kinship_inter_4",
+    "word": "Kinship",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Blood relationship or a sharing of characteristics or origins.",
+    "tamilDefinition": "உறவுமுறை, பிணைப்பு.",
+    "literaryContext": {
+      "english": "They felt a deep sense of kinship despite meeting for the first time.",
+      "tamil": "முதல்முறை சந்தித்த போதிலும் அவர்கள் ஆழமான பிணைப்பை உணர்ந்தனர்."
+    },
+    "formalSpeechContext": {
+      "english": "They felt a deep sense of kinship despite meeting for the first time.",
+      "tamil": "முதல்முறை சந்தித்த போதிலும் அவர்கள் ஆழமான பிணைப்பை உணர்ந்தனர்."
+    },
+    "synonyms": [
+      "affinity",
+      "bond",
+      "relationship"
+    ],
+    "antonyms": [
+      "alienation",
+      "estrangement",
+      "distance"
+    ]
+  },
+  {
+    "id": "keynote_inter_5",
+    "word": "Keynote",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A prevailing tone or central theme of a speech or conference.",
+    "tamilDefinition": "முக்கிய கருத்து, தலைமை உரை.",
+    "literaryContext": {
+      "english": "The speaker delivered an inspiring keynote address.",
+      "tamil": "பேச்சாளர் ஒரு எழுச்சியூட்டும் தலைமை உரையை வழங்கினார்."
+    },
+    "formalSpeechContext": {
+      "english": "The speaker delivered an inspiring keynote address.",
+      "tamil": "பேச்சாளர் ஒரு எழுச்சியூட்டும் தலைமை உரையை வழங்கினார்."
+    },
+    "synonyms": [
+      "theme",
+      "gist",
+      "core idea"
+    ],
+    "antonyms": [
+      "minor detail",
+      "side issue",
+      "tangent"
     ]
   }
 ];

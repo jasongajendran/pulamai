@@ -895,11 +895,13 @@ export const dataP: VocabularyEntry[] = [
     },
     "synonyms": [
       "divine guidance",
-      "fate",
-      "destiny",
-      "predestination"
+      "foresight",
+      "prudence"
     ],
-    "antonyms": []
+    "antonyms": [
+      "improvidence",
+      "carelessness"
+    ]
   },
   {
     "id": "propitiation",
@@ -987,9 +989,12 @@ export const dataP: VocabularyEntry[] = [
     "synonyms": [
       "proposition",
       "assumption",
-      "thesis"
+      "hypothesis"
     ],
-    "antonyms": []
+    "antonyms": [
+      "conclusion",
+      "deduction"
+    ]
   },
   {
     "id": "parable_2",
@@ -1017,7 +1022,10 @@ export const dataP: VocabularyEntry[] = [
       "fable",
       "moral tale"
     ],
-    "antonyms": []
+    "antonyms": [
+      "historical fact",
+      "literal record"
+    ]
   },
   {
     "id": "policy",
@@ -1041,10 +1049,148 @@ export const dataP: VocabularyEntry[] = [
       "sourceNote": "Corporate Meeting"
     },
     "synonyms": [
+      "protocol",
       "strategy",
-      "approach",
-      "guideline"
+      "guidelines"
     ],
-    "antonyms": []
+    "antonyms": [
+      "arbitrariness",
+      "lawlessness"
+    ]
+  },
+  {
+    "id": "precise_inter_1",
+    "word": "Precise",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Marked by exactness and accuracy of expression or detail.",
+    "tamilDefinition": "துல்லியமான, சரியான.",
+    "literaryContext": {
+      "english": "The surgeon made precise cuts during the operation.",
+      "tamil": "அறுவை சிகிச்சையின் போது மருத்துவர் துல்லியமான வெட்டுகளைச் செய்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "The surgeon made precise cuts during the operation.",
+      "tamil": "அறுவை சிகிச்சையின் போது மருத்துவர் துல்லியமான வெட்டுகளைச் செய்தார்."
+    },
+    "synonyms": [
+      "exact",
+      "accurate",
+      "meticulous"
+    ],
+    "antonyms": [
+      "imprecise",
+      "vague",
+      "inaccurate"
+    ]
+  },
+  {
+    "id": "promote_inter_2",
+    "word": "Promote",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To support or actively encourage the cause of.",
+    "tamilDefinition": "ஊக்குவித்தல், முன்னேற்றுதல்.",
+    "literaryContext": {
+      "english": "Regular exercise helps promote cardiovascular health.",
+      "tamil": "வழக்கமான உடற்பயிற்சி இதய ஆரோக்கியத்தை ஊக்குவிக்க உதவுகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Regular exercise helps promote cardiovascular health.",
+      "tamil": "வழக்கமான உடற்பயிற்சி இதய ஆரோக்கியத்தை ஊக்குவிக்க உதவுகிறது."
+    },
+    "synonyms": [
+      "encourage",
+      "advance",
+      "foster"
+    ],
+    "antonyms": [
+      "hinder",
+      "demote",
+      "suppress"
+    ]
+  },
+  {
+    "id": "prompt_inter_3",
+    "word": "Prompt",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Done without delay; immediate.",
+    "tamilDefinition": "உடனடி, காலதாமதமற்ற.",
+    "literaryContext": {
+      "english": "Your prompt reply to our inquiry is greatly appreciated.",
+      "tamil": "எங்கள் விசாரணைக்கு உங்கள் உடனடி பதில் மிகவும் பாராட்டத்தக்கது."
+    },
+    "formalSpeechContext": {
+      "english": "Your prompt reply to our inquiry is greatly appreciated.",
+      "tamil": "எங்கள் விசாரணைக்கு உங்கள் உடனடி பதில் மிகவும் பாராட்டத்தக்கது."
+    },
+    "synonyms": [
+      "immediate",
+      "swift",
+      "punctual"
+    ],
+    "antonyms": [
+      "delayed",
+      "tardy",
+      "slow"
+    ]
+  },
+  {
+    "id": "patience_inter_4",
+    "word": "Patience",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The capacity to accept or tolerate delay or trouble.",
+    "tamilDefinition": "பொறுமை, சகிப்புத்தன்மை.",
+    "literaryContext": {
+      "english": "Teaching young children requires immense patience.",
+      "tamil": "இளம் குழந்தைகளுக்குக் கற்பிப்பதற்கு மிகுந்த பொறுமை தேவை."
+    },
+    "formalSpeechContext": {
+      "english": "Teaching young children requires immense patience.",
+      "tamil": "இளம் குழந்தைகளுக்குக் கற்பிப்பதற்கு மிகுந்த பொறுமை தேவை."
+    },
+    "synonyms": [
+      "forbearance",
+      "tolerance",
+      "endurance"
+    ],
+    "antonyms": [
+      "impatience",
+      "intolerance",
+      "agitation"
+    ]
+  },
+  {
+    "id": "prospective_inter_5",
+    "word": "Prospective",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Expected or likely to happen or become in the future.",
+    "tamilDefinition": "எதிர்கால, வரவிருக்கும்.",
+    "literaryContext": {
+      "english": "The college welcomed prospective students to the campus.",
+      "tamil": "கல்லூரி வரவிருக்கும் மாணவர்களை வளாகத்திற்கு வரவேற்றது."
+    },
+    "formalSpeechContext": {
+      "english": "The college welcomed prospective students to the campus.",
+      "tamil": "கல்லூரி வரவிருக்கும் மாணவர்களை வளாகத்திற்கு வரவேற்றது."
+    },
+    "synonyms": [
+      "future",
+      "potential",
+      "forthcoming"
+    ],
+    "antonyms": [
+      "past",
+      "former",
+      "previous"
+    ]
   }
 ];

@@ -892,7 +892,10 @@ export const dataS: VocabularyEntry[] = [
       "doctrine of salvation",
       "redemption theology"
     ],
-    "antonyms": []
+    "antonyms": [
+      "doctrine of damnation",
+      "perdition study"
+    ]
   },
   {
     "id": "sanctification",
@@ -978,10 +981,148 @@ export const dataS: VocabularyEntry[] = [
       "sourceNote": "Theology Lecture"
     },
     "synonyms": [
-      "holy book",
       "sacred text",
-      "bible"
+      "holy writing",
+      "gospel"
     ],
-    "antonyms": []
+    "antonyms": [
+      "secular writing",
+      "profane literature"
+    ]
+  },
+  {
+    "id": "subtle_inter_1",
+    "word": "Subtle",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "So delicate or precise as to be difficult to analyze or describe.",
+    "tamilDefinition": "நுட்பமான, மறைமுகமான.",
+    "literaryContext": {
+      "english": "There was a subtle change in his tone of voice.",
+      "tamil": "அவரது குரல் தொனியில் ஒரு நுட்பமான மாற்றம் இருந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "There was a subtle change in his tone of voice.",
+      "tamil": "அவரது குரல் தொனியில் ஒரு நுட்பமான மாற்றம் இருந்தது."
+    },
+    "synonyms": [
+      "delicate",
+      "discreet",
+      "nuanced"
+    ],
+    "antonyms": [
+      "obvious",
+      "blatant",
+      "harsh"
+    ]
+  },
+  {
+    "id": "secure_inter_2",
+    "word": "Secure",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Fixed or fastened so as not to give way or become loose.",
+    "tamilDefinition": "பாதுகாப்பான, நிலையான.",
+    "literaryContext": {
+      "english": "Ensure the ladder is secure before climbing.",
+      "tamil": "ஏறுவதற்கு முன் ஏணி பாதுகாப்பாக உள்ளதா என்பதை உறுதிப்படுத்தவும்."
+    },
+    "formalSpeechContext": {
+      "english": "Ensure the ladder is secure before climbing.",
+      "tamil": "ஏறுவதற்கு முன் ஏணி பாதுகாப்பாக உள்ளதா என்பதை உறுதிப்படுத்தவும்."
+    },
+    "synonyms": [
+      "safe",
+      "stable",
+      "protected"
+    ],
+    "antonyms": [
+      "insecure",
+      "unsafe",
+      "vulnerable"
+    ]
+  },
+  {
+    "id": "sincere_inter_3",
+    "word": "Sincere",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Free from pretense or deceit; proceeding from genuine feelings.",
+    "tamilDefinition": "உண்மையான, நேர்மையான.",
+    "literaryContext": {
+      "english": "He offered a sincere apology for his mistake.",
+      "tamil": "அவர் தன் தவறுக்கு உண்மையான மன்னிப்பு கேட்டார்."
+    },
+    "formalSpeechContext": {
+      "english": "He offered a sincere apology for his mistake.",
+      "tamil": "அவர் தன் தவறுக்கு உண்மையான மன்னிப்பு கேட்டார்."
+    },
+    "synonyms": [
+      "genuine",
+      "honest",
+      "heartfelt"
+    ],
+    "antonyms": [
+      "insincere",
+      "fake",
+      "deceitful"
+    ]
+  },
+  {
+    "id": "solution_inter_4",
+    "word": "Solution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A means of solving a problem or dealing with a difficult situation.",
+    "tamilDefinition": "தீர்வு.",
+    "literaryContext": {
+      "english": "Teamwork helped us find a practical solution to the crisis.",
+      "tamil": "குழுப்பணி நெருக்கடிக்கு ஒரு நடைமுறைத் தீர்வைக் கண்டறிய நமக்கு உதவியது."
+    },
+    "formalSpeechContext": {
+      "english": "Teamwork helped us find a practical solution to the crisis.",
+      "tamil": "குழுப்பணி நெருக்கடிக்கு ஒரு நடைமுறைத் தீர்வைக் கண்டறிய நமக்கு உதவியது."
+    },
+    "synonyms": [
+      "resolution",
+      "answer",
+      "remedy"
+    ],
+    "antonyms": [
+      "problem",
+      "complication",
+      "dilemma"
+    ]
+  },
+  {
+    "id": "structural_inter_5",
+    "word": "Structural",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Relating to the arrangement of parts in a complex entity.",
+    "tamilDefinition": "கட்டமைப்பு சார்ந்த.",
+    "literaryContext": {
+      "english": "Engineers assessed the structural integrity of the bridge.",
+      "tamil": "பொறியாளர்கள் பாலத்தின் கட்டமைப்பு நிலையை மதிப்பீடு செய்தனர்."
+    },
+    "formalSpeechContext": {
+      "english": "Engineers assessed the structural integrity of the bridge.",
+      "tamil": "பொறியாளர்கள் பாலத்தின் கட்டமைப்பு நிலையை மதிப்பீடு செய்தனர்."
+    },
+    "synonyms": [
+      "architectural",
+      "organizational",
+      "systemic"
+    ],
+    "antonyms": [
+      "superficial",
+      "surface",
+      "external"
+    ]
   }
 ];

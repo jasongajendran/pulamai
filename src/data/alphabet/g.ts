@@ -889,5 +889,140 @@ export const dataG: VocabularyEntry[] = [
       "skeptical",
       "suspicious"
     ]
+  },
+  {
+    "id": "genuine_inter_1",
+    "word": "Genuine",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Truly what something is said to be; authentic.",
+    "tamilDefinition": "உண்மையான, போலி இல்லாத.",
+    "literaryContext": {
+      "english": "Her genuine kindness warmed everyone heart.",
+      "tamil": "அவளது உண்மையான இரக்கம் அனைவரின் இதயத்தையும் நெகிழ வைத்தது."
+    },
+    "formalSpeechContext": {
+      "english": "Her genuine kindness warmed everyone heart.",
+      "tamil": "அவளது உண்மையான இரக்கம் அனைவரின் இதயத்தையும் நெகிழ வைத்தது."
+    },
+    "synonyms": [
+      "authentic",
+      "real",
+      "sincere"
+    ],
+    "antonyms": [
+      "fake",
+      "insincere",
+      "bogus"
+    ]
+  },
+  {
+    "id": "gentle_inter_2",
+    "word": "Gentle",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Mild and kindly in manner or character.",
+    "tamilDefinition": "மென்மையான, கனிவான.",
+    "literaryContext": {
+      "english": "A gentle breeze cooled the warm summer afternoon.",
+      "tamil": "ஒரு மென்மையான தென்றல் வெப்பமான கோடை பிற்பகலைக் குளிரச்செய்தது."
+    },
+    "formalSpeechContext": {
+      "english": "A gentle breeze cooled the warm summer afternoon.",
+      "tamil": "ஒரு மென்மையான தென்றல் வெப்பமான கோடை பிற்பகலைக் குளிரச்செய்தது."
+    },
+    "synonyms": [
+      "mild",
+      "tender",
+      "soft"
+    ],
+    "antonyms": [
+      "harsh",
+      "rough",
+      "severe"
+    ]
+  },
+  {
+    "id": "global_inter_3",
+    "word": "Global",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Relating to the whole world; worldwide.",
+    "tamilDefinition": "உலகளாவிய, அகில உலக.",
+    "literaryContext": {
+      "english": "Climate change is a global challenge requiring collective action.",
+      "tamil": "பருவநிலை மாற்றம் என்பது கூட்டு நடவடிக்கை தேவைப்படும் ஒரு உலகளாவிய சவாலாகும்."
+    },
+    "formalSpeechContext": {
+      "english": "Climate change is a global challenge requiring collective action.",
+      "tamil": "பருவநிலை மாற்றம் என்பது கூட்டு நடவடிக்கை தேவைப்படும் ஒரு உலகளாவிய சவாலாகும்."
+    },
+    "synonyms": [
+      "worldwide",
+      "universal",
+      "international"
+    ],
+    "antonyms": [
+      "local",
+      "regional",
+      "national"
+    ]
+  },
+  {
+    "id": "grasp_inter_4",
+    "word": "Grasp",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To seize and hold firmly; to comprehend fully.",
+    "tamilDefinition": "இறுக்கமாகப் பிடித்தல் அல்லது முழுமையாகப் புரிந்து கொள்ளுதல்.",
+    "literaryContext": {
+      "english": "It took a moment to grasp the meaning of his lecture.",
+      "tamil": "அவரது சொற்பொழிவின் அர்த்தத்தைப் புரிந்து கொள்ள சிறிது நேரம் பிடித்தது."
+    },
+    "formalSpeechContext": {
+      "english": "It took a moment to grasp the meaning of his lecture.",
+      "tamil": "அவரது சொற்பொழிவின் அர்த்தத்தைப் புரிந்து கொள்ள சிறிது நேரம் பிடித்தது."
+    },
+    "synonyms": [
+      "comprehend",
+      "clutched",
+      "understand"
+    ],
+    "antonyms": [
+      "misunderstand",
+      "release",
+      "loose"
+    ]
+  },
+  {
+    "id": "guidance_inter_5",
+    "word": "Guidance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Advice or information aimed at resolving a problem.",
+    "tamilDefinition": "வழிகாட்டல், ஆலோசனை.",
+    "literaryContext": {
+      "english": "Students seek guidance from mentors before choosing careers.",
+      "tamil": "மாணவர்கள் தொழில்களைத் தேர்ந்தெடுப்பதற்கு முன் வழிகாட்டிகளிடம் வழிகாட்டல் பெறுகிறார்கள்."
+    },
+    "formalSpeechContext": {
+      "english": "Students seek guidance from mentors before choosing careers.",
+      "tamil": "மாணவர்கள் தொழில்களைத் தேர்ந்தெடுப்பதற்கு முன் வழிகாட்டிகளிடம் வழிகாட்டல் பெறுகிறார்கள்."
+    },
+    "synonyms": [
+      "advice",
+      "counsel",
+      "direction"
+    ],
+    "antonyms": [
+      "misdirection",
+      "neglect",
+      "ignorance"
+    ]
   }
 ];

@@ -879,5 +879,140 @@ export const dataR: VocabularyEntry[] = [
       "developed",
       "sophisticated"
     ]
+  },
+  {
+    "id": "rational_inter_1",
+    "word": "Rational",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Based on or in accordance with reason or logic.",
+    "tamilDefinition": "பகுத்தறிவுள்ள, நியாயமான.",
+    "literaryContext": {
+      "english": "Stay calm and try to make a rational decision.",
+      "tamil": "அமைதியாக இருந்து ஒரு பகுத்தறிவுள்ள முடிவை எடுக்க முயலுங்கள்."
+    },
+    "formalSpeechContext": {
+      "english": "Stay calm and try to make a rational decision.",
+      "tamil": "அமைதியாக இருந்து ஒரு பகுத்தறிவுள்ள முடிவை எடுக்க முயலுங்கள்."
+    },
+    "synonyms": [
+      "logical",
+      "reasonable",
+      "sensible"
+    ],
+    "antonyms": [
+      "irrational",
+      "unreasonable",
+      "foolish"
+    ]
+  },
+  {
+    "id": "robust_inter_2",
+    "word": "Robust",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Strong and healthy; vigorous.",
+    "tamilDefinition": "உறுதியான, வலுவான.",
+    "literaryContext": {
+      "english": "The company developed a robust security framework.",
+      "tamil": "நிறுவனம் ஒரு வலுவான பாதுகாப்பு அமைப்பை உருவாக்கியது."
+    },
+    "formalSpeechContext": {
+      "english": "The company developed a robust security framework.",
+      "tamil": "நிறுவனம் ஒரு வலுவான பாதுகாப்பு அமைப்பை உருவாக்கியது."
+    },
+    "synonyms": [
+      "sturdy",
+      "strong",
+      "resilient"
+    ],
+    "antonyms": [
+      "weak",
+      "fragile",
+      "delicate"
+    ]
+  },
+  {
+    "id": "reliable_inter_3",
+    "word": "Reliable",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Consistently good in quality or performance; able to be trusted.",
+    "tamilDefinition": "நம்பகமான.",
+    "literaryContext": {
+      "english": "He is a reliable friend who always keeps his word.",
+      "tamil": "அவர் எப்போதும் தன் வார்த்தையைக் காப்பாற்றும் ஒரு நம்பகமான நண்பர்."
+    },
+    "formalSpeechContext": {
+      "english": "He is a reliable friend who always keeps his word.",
+      "tamil": "அவர் எப்போதும் தன் வார்த்தையைக் காப்பாற்றும் ஒரு நம்பகமான நண்பர்."
+    },
+    "synonyms": [
+      "trustworthy",
+      "dependable",
+      "steadfast"
+    ],
+    "antonyms": [
+      "unreliable",
+      "undependable",
+      "fickle"
+    ]
+  },
+  {
+    "id": "refine_inter_4",
+    "word": "Refine",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To improve by making small changes.",
+    "tamilDefinition": "செம்மைப்படுத்துதல், மெருகூட்டுதல்.",
+    "literaryContext": {
+      "english": "The author spent months refining the manuscript.",
+      "tamil": "ஆசிரியர் கையெழுத்துப் பிரதியை மெருகூட்ட பல மாதங்கள் செலவிட்டார்."
+    },
+    "formalSpeechContext": {
+      "english": "The author spent months refining the manuscript.",
+      "tamil": "ஆசிரியர் கையெழுத்துப் பிரதியை மெருகூட்ட பல மாதங்கள் செலவிட்டார்."
+    },
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "antonyms": [
+      "spoil",
+      "ruin",
+      "degrade"
+    ]
+  },
+  {
+    "id": "resilient_inter_5",
+    "word": "Resilient",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Able to withstand or recover quickly from difficult conditions.",
+    "tamilDefinition": "மீண்டு வரக்கூடிய, மனஉறுதி கொண்ட.",
+    "literaryContext": {
+      "english": "The local community proved resilient after the severe storm.",
+      "tamil": "கடுமையான புயலுக்குப் பிறகு உள்ளூர் சமூகம் மனஉறுதியுடன் மீண்டு வந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The local community proved resilient after the severe storm.",
+      "tamil": "கடுமையான புயலுக்குப் பிறகு உள்ளூர் சமூகம் மனஉறுதியுடன் மீண்டு வந்தது."
+    },
+    "synonyms": [
+      "adaptable",
+      "tough",
+      "buoyant"
+    ],
+    "antonyms": [
+      "vulnerable",
+      "fragile",
+      "sensitive"
+    ]
   }
 ];

@@ -487,11 +487,14 @@ export const dataQ: VocabularyEntry[] = [
       "sourceNote": "Environmental council meeting"
     },
     "synonyms": [
-      "mine",
-      "pit",
-      "excavation"
+      "prey",
+      "target",
+      "excavation pit"
     ],
-    "antonyms": []
+    "antonyms": [
+      "predator",
+      "filled ground"
+    ]
   },
   {
     "id": "quartet",
@@ -544,9 +547,13 @@ export const dataQ: VocabularyEntry[] = [
       "sourceNote": "Astronomy convention"
     },
     "synonyms": [
-      "quasi-stellar object"
+      "quasi-stellar object",
+      "cosmic beacon"
     ],
-    "antonyms": []
+    "antonyms": [
+      "black hole",
+      "dark matter"
+    ]
   },
   {
     "id": "queer",
@@ -766,6 +773,141 @@ export const dataQ: VocabularyEntry[] = [
     "antonyms": [
       "answer",
       "solution"
+    ]
+  },
+  {
+    "id": "qualify_inter_1",
+    "word": "Qualify",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Be entitled to a particular benefit or privilege.",
+    "tamilDefinition": "தகுதி பெறுதல்.",
+    "literaryContext": {
+      "english": "She worked hard to qualify for the national team.",
+      "tamil": "தேசிய அணியில் தகுதி பெற அவள் கடினமாக உழைத்தாள்."
+    },
+    "formalSpeechContext": {
+      "english": "She worked hard to qualify for the national team.",
+      "tamil": "தேசிய அணியில் தகுதி பெற அவள் கடினமாக உழைத்தாள்."
+    },
+    "synonyms": [
+      "entitle",
+      "certify",
+      "fit"
+    ],
+    "antonyms": [
+      "disqualify",
+      "incapacitate",
+      "invalidate"
+    ]
+  },
+  {
+    "id": "quest_inter_2",
+    "word": "Quest",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A long or arduous search for something.",
+    "tamilDefinition": "தேடல், சாதனைப் பயணம்.",
+    "literaryContext": {
+      "english": "The knight set out on a quest to find the lost relic.",
+      "tamil": "வீரன் இழந்த சின்னத்தைக் கண்டுபிடிக்க ஒரு தேடலில் புறப்பட்டான்."
+    },
+    "formalSpeechContext": {
+      "english": "The knight set out on a quest to find the lost relic.",
+      "tamil": "வீரன் இழந்த சின்னத்தைக் கண்டுபிடிக்க ஒரு தேடலில் புறப்பட்டான்."
+    },
+    "synonyms": [
+      "search",
+      "pursuit",
+      "expedition"
+    ],
+    "antonyms": [
+      "retreat",
+      "abandonment",
+      "surrender"
+    ]
+  },
+  {
+    "id": "quaint_inter_3",
+    "word": "Quaint",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Attractively unusual or old-fashioned.",
+    "tamilDefinition": "விசித்திரமான மற்றும் அழகான.",
+    "literaryContext": {
+      "english": "The village had quaint stone cottages with thatched roofs.",
+      "tamil": "கிராமத்தில் வைக்கோல் கூரைகளுடன் கூடிய அழகான கல் வீடுகள் இருந்தன."
+    },
+    "formalSpeechContext": {
+      "english": "The village had quaint stone cottages with thatched roofs.",
+      "tamil": "கிராமத்தில் வைக்கோல் கூரைகளுடன் கூடிய அழகான கல் வீடுகள் இருந்தன."
+    },
+    "synonyms": [
+      "charming",
+      "picturesque",
+      "old-world"
+    ],
+    "antonyms": [
+      "modern",
+      "ordinary",
+      "ugly"
+    ]
+  },
+  {
+    "id": "query_inter_4",
+    "word": "Query",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A question, especially one addressed to an official.",
+    "tamilDefinition": "கேள்வி, ஐயம்.",
+    "literaryContext": {
+      "english": "Please contact customer support if you have any query.",
+      "tamil": "உங்களுக்கு ஏதேனும் ஐயம் இருந்தால் வாடிக்கையாளர் ஆதரவைத் தொடர்பு கொள்ளவும்."
+    },
+    "formalSpeechContext": {
+      "english": "Please contact customer support if you have any query.",
+      "tamil": "உங்களுக்கு ஏதேனும் ஐயம் இருந்தால் வாடிக்கையாளர் ஆதரவைத் தொடர்பு கொள்ளவும்."
+    },
+    "synonyms": [
+      "question",
+      "inquiry",
+      "doubt"
+    ],
+    "antonyms": [
+      "answer",
+      "response",
+      "certainty"
+    ]
+  },
+  {
+    "id": "quota_inter_5",
+    "word": "Quota",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A fixed share of something that a person or group is entitled to receive.",
+    "tamilDefinition": "பங்கீடு, ஒதுக்கீடு.",
+    "literaryContext": {
+      "english": "The factory met its production quota ahead of schedule.",
+      "tamil": "தொழிற்சாலை அட்டவணைக்கு முன்னதாகவே அதன் உற்பத்தி ஒதுக்கீட்டை எட்டியது."
+    },
+    "formalSpeechContext": {
+      "english": "The factory met its production quota ahead of schedule.",
+      "tamil": "தொழிற்சாலை அட்டவணைக்கு முன்னதாகவே அதன் உற்பத்தி ஒதுக்கீட்டை எட்டியது."
+    },
+    "synonyms": [
+      "allocation",
+      "share",
+      "ration"
+    ],
+    "antonyms": [
+      "unlimited amount",
+      "whole",
+      "total"
     ]
   }
 ];

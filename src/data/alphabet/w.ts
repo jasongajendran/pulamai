@@ -149,9 +149,12 @@ export const dataW: VocabularyEntry[] = [
     "synonyms": [
       "closet",
       "armoire",
-      "cupboard"
+      "clothing collection"
     ],
-    "antonyms": []
+    "antonyms": [
+      "bareness",
+      "nudity"
+    ]
   },
   {
     "id": "warmth",
@@ -877,6 +880,141 @@ export const dataW: VocabularyEntry[] = [
     "antonyms": [
       "cheerful",
       "contented"
+    ]
+  },
+  {
+    "id": "wisdom_inter_1",
+    "word": "Wisdom",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The quality of having experience, knowledge, and good judgment.",
+    "tamilDefinition": "ஞானம், விவேகம்.",
+    "literaryContext": {
+      "english": "The old scholar shared his wisdom with the young students.",
+      "tamil": "முதிய அறிஞர் தன் ஞானத்தை இளம் மாணவர்களுடன் பகிர்ந்து கொண்டார்."
+    },
+    "formalSpeechContext": {
+      "english": "The old scholar shared his wisdom with the young students.",
+      "tamil": "முதிய அறிஞர் தன் ஞானத்தை இளம் மாணவர்களுடன் பகிர்ந்து கொண்டார்."
+    },
+    "synonyms": [
+      "sagacity",
+      "discernment",
+      "insight"
+    ],
+    "antonyms": [
+      "folly",
+      "foolishness",
+      "ignorance"
+    ]
+  },
+  {
+    "id": "worthy_inter_2",
+    "word": "Worthy",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having adequate worth or value; deserving.",
+    "tamilDefinition": "தகுதியான, மதிப்புள்ள.",
+    "literaryContext": {
+      "english": "The charity is a worthy cause to support.",
+      "tamil": "அந்த தொண்டு நிறுவனம் ஆதரவளிக்கத் தகுதியான ஒன்றாகும்."
+    },
+    "formalSpeechContext": {
+      "english": "The charity is a worthy cause to support.",
+      "tamil": "அந்த தொண்டு நிறுவனம் ஆதரவளிக்கத் தகுதியான ஒன்றாகும்."
+    },
+    "synonyms": [
+      "deserving",
+      "meritorious",
+      "commendable"
+    ],
+    "antonyms": [
+      "unworthy",
+      "undeserving",
+      "worthless"
+    ]
+  },
+  {
+    "id": "widespread_inter_3",
+    "word": "Widespread",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Found or distributed over a large area or number of people.",
+    "tamilDefinition": "பரவலான.",
+    "literaryContext": {
+      "english": "There is widespread interest in green technology.",
+      "tamil": "பசுமைத் தொழில்நுட்பத்தில் பரவலான ஆர்வம் உள்ளது."
+    },
+    "formalSpeechContext": {
+      "english": "There is widespread interest in green technology.",
+      "tamil": "பசுமைத் தொழில்நுட்பத்தில் பரவலான ஆர்வம் உள்ளது."
+    },
+    "synonyms": [
+      "extensive",
+      "prevalent",
+      "pervasive"
+    ],
+    "antonyms": [
+      "limited",
+      "rare",
+      "localized"
+    ]
+  },
+  {
+    "id": "witness_inter_4",
+    "word": "Witness",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To see an event, typically a crime or accident, take place.",
+    "tamilDefinition": "நேரில் பார்த்தல், சாட்சியாக இருத்தல்.",
+    "literaryContext": {
+      "english": "Many people gathered to witness the solar eclipse.",
+      "tamil": "சூரிய கிரகணத்தை நேரில் காண பல மக்கள் கூடியிருந்தனர்."
+    },
+    "formalSpeechContext": {
+      "english": "Many people gathered to witness the solar eclipse.",
+      "tamil": "சூரிய கிரகணத்தை நேரில் காண பல மக்கள் கூடியிருந்தனர்."
+    },
+    "synonyms": [
+      "observe",
+      "behold",
+      "see"
+    ],
+    "antonyms": [
+      "overlook",
+      "miss",
+      "ignore"
+    ]
+  },
+  {
+    "id": "withdraw_inter_5",
+    "word": "Withdraw",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To remove or take away something from a particular place.",
+    "tamilDefinition": "திரும்பப் பெறுதல்.",
+    "literaryContext": {
+      "english": "He decided to withdraw his proposal after hearing the feedback.",
+      "tamil": "கருத்தைக் கேட்ட பிறகு தனது முன்மொழிவைத் திரும்பப் பெற முடிவு செய்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "He decided to withdraw his proposal after hearing the feedback.",
+      "tamil": "கருத்தைக் கேட்ட பிறகு தனது முன்மொழிவைத் திரும்பப் பெற முடிவு செய்தார்."
+    },
+    "synonyms": [
+      "retract",
+      "remove",
+      "extract"
+    ],
+    "antonyms": [
+      "deposit",
+      "advance",
+      "insert"
     ]
   }
 ];

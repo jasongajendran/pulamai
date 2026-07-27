@@ -748,5 +748,140 @@ export const dataY: VocabularyEntry[] = [
       "sophisticate",
       "urbanite"
     ]
+  },
+  {
+    "id": "yield_inter_1",
+    "word": "Yield",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To produce or provide a natural, agricultural, or industrial product.",
+    "tamilDefinition": "விளைச்சல் அளித்தல், வழிவிடுதல்.",
+    "literaryContext": {
+      "english": "Fertile soil will yield a rich harvest.",
+      "tamil": "வளமான மண் செழிப்பான அறுவடையைத் தரும்."
+    },
+    "formalSpeechContext": {
+      "english": "Fertile soil will yield a rich harvest.",
+      "tamil": "வளமான மண் செழிப்பான அறுவடையைத் தரும்."
+    },
+    "synonyms": [
+      "produce",
+      "generate",
+      "provide"
+    ],
+    "antonyms": [
+      "withhold",
+      "resist",
+      "deny"
+    ]
+  },
+  {
+    "id": "yearn_inter_2",
+    "word": "Yearn",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To have an intense feeling of longing for something.",
+    "tamilDefinition": "ஏங்குதல், வாஞ்சுதல்.",
+    "literaryContext": {
+      "english": "The traveler yearned to return home after months abroad.",
+      "tamil": "வெளிநாட்டில் பல மாதங்களுக்குப் பிறகு பயணி வீட்டிற்குத் திரும்ப ஏங்கினார்."
+    },
+    "formalSpeechContext": {
+      "english": "The traveler yearned to return home after months abroad.",
+      "tamil": "வெளிநாட்டில் பல மாதங்களுக்குப் பிறகு பயணி வீட்டிற்குத் திரும்ப ஏங்கினார்."
+    },
+    "synonyms": [
+      "long",
+      "crave",
+      "desire"
+    ],
+    "antonyms": [
+      "dislike",
+      "repel",
+      "despise"
+    ]
+  },
+  {
+    "id": "youthful_inter_3",
+    "word": "Youthful",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having the qualities of youth; lively and energetic.",
+    "tamilDefinition": "இளமையான, சுறுசுறுப்பான.",
+    "literaryContext": {
+      "english": "Her cheerful smile gave her a youthful appearance.",
+      "tamil": "அவளுடைய புன்னகை அவளுக்கு ஒரு இளமையான தோற்றத்தைக் கொடுத்தது."
+    },
+    "formalSpeechContext": {
+      "english": "Her cheerful smile gave her a youthful appearance.",
+      "tamil": "அவளுடைய புன்னகை அவளுக்கு ஒரு இளமையான தோற்றத்தைக் கொடுத்தது."
+    },
+    "synonyms": [
+      "young",
+      "vibrant",
+      "fresh"
+    ],
+    "antonyms": [
+      "elderly",
+      "aged",
+      "frail"
+    ]
+  },
+  {
+    "id": "yielding_inter_4",
+    "word": "Yielding",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Compliant or flexible; giving way under pressure.",
+    "tamilDefinition": "இணக்கமான, வளையும்.",
+    "literaryContext": {
+      "english": "The mattress provided a soft, yielding surface.",
+      "tamil": "மெத்தை ஒரு மென்மையான, வளையும் மேற்பரப்பை வழங்கியது."
+    },
+    "formalSpeechContext": {
+      "english": "The mattress provided a soft, yielding surface.",
+      "tamil": "மெத்தை ஒரு மென்மையான, வளையும் மேற்பரப்பை வழங்கியது."
+    },
+    "synonyms": [
+      "pliant",
+      "flexible",
+      "submissive"
+    ],
+    "antonyms": [
+      "rigid",
+      "stubborn",
+      "unyielding"
+    ]
+  },
+  {
+    "id": "yonder_inter_5",
+    "word": "Yonder",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "At or in that place; over there.",
+    "tamilDefinition": "அங்கே இருக்கும், அப்புறம் உள்ள.",
+    "literaryContext": {
+      "english": "Look at yonder hills glistening in the sunlight.",
+      "tamil": "சூரிய ஒளியில் மின்னும் அங்கே உள்ள மலைகளைப் பாருங்கள்."
+    },
+    "formalSpeechContext": {
+      "english": "Look at yonder hills glistening in the sunlight.",
+      "tamil": "சூரிய ஒளியில் மின்னும் அங்கே உள்ள மலைகளைப் பாருங்கள்."
+    },
+    "synonyms": [
+      "distant",
+      "farther",
+      "away"
+    ],
+    "antonyms": [
+      "nearby",
+      "close",
+      "here"
+    ]
   }
 ];

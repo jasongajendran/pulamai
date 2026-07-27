@@ -916,11 +916,14 @@ export const dataO: VocabularyEntry[] = [
       "sourceNote": "Science Symposium"
     },
     "synonyms": [
-      "examination",
-      "inspection",
-      "scrutiny"
+      "scrutiny",
+      "monitoring",
+      "examination"
     ],
-    "antonyms": []
+    "antonyms": [
+      "disregard",
+      "inattention"
+    ]
   },
   {
     "id": "orator",
@@ -945,9 +948,147 @@ export const dataO: VocabularyEntry[] = [
     },
     "synonyms": [
       "speaker",
-      "rhetorician",
-      "lecturer"
+      "lecturer",
+      "rhetorician"
     ],
-    "antonyms": []
+    "antonyms": [
+      "listener",
+      "mute person"
+    ]
+  },
+  {
+    "id": "optimal_inter_1",
+    "word": "Optimal",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Best or most favorable; optimum.",
+    "tamilDefinition": "மிகவும் உகந்த, சிறந்த.",
+    "literaryContext": {
+      "english": "Proper nutrition ensures optimal brain performance.",
+      "tamil": "சரியான ஊட்டச்சத்து சிறந்த மூளை செயல்பாட்டை உறுதி செய்கிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Proper nutrition ensures optimal brain performance.",
+      "tamil": "சரியான ஊட்டச்சத்து சிறந்த மூளை செயல்பாட்டை உறுதி செய்கிறது."
+    },
+    "synonyms": [
+      "ideal",
+      "best",
+      "favorable"
+    ],
+    "antonyms": [
+      "worst",
+      "poorest",
+      "unfavorable"
+    ]
+  },
+  {
+    "id": "obvious_inter_2",
+    "word": "Obvious",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Easily perceived or understood; clear, self-evident.",
+    "tamilDefinition": "வெளிப்படையான, தெளிவான.",
+    "literaryContext": {
+      "english": "The answer to the riddle was obvious once explained.",
+      "tamil": "விளக்கியவுடன் புதிருக்கு விடை வெளிப்படையாகத் தெரிந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The answer to the riddle was obvious once explained.",
+      "tamil": "விளக்கியவுடன் புதிருக்கு விடை வெளிப்படையாகத் தெரிந்தது."
+    },
+    "synonyms": [
+      "clear",
+      "apparent",
+      "evident"
+    ],
+    "antonyms": [
+      "hidden",
+      "obscure",
+      "unclear"
+    ]
+  },
+  {
+    "id": "outcome_inter_3",
+    "word": "Outcome",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The way a thing turns out; a consequence.",
+    "tamilDefinition": "விளைவு, முடிவு.",
+    "literaryContext": {
+      "english": "We are awaiting the final outcome of the election.",
+      "tamil": "தேர்தலின் இறுதி விளைவுக்காக நாங்கள் காத்திருக்கிறோம்."
+    },
+    "formalSpeechContext": {
+      "english": "We are awaiting the final outcome of the election.",
+      "tamil": "தேர்தலின் இறுதி விளைவுக்காக நாங்கள் காத்திருக்கிறோம்."
+    },
+    "synonyms": [
+      "result",
+      "consequence",
+      "effect"
+    ],
+    "antonyms": [
+      "cause",
+      "origin",
+      "beginning"
+    ]
+  },
+  {
+    "id": "obstacle_inter_4",
+    "word": "Obstacle",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A thing that blocks one way or prevents progress.",
+    "tamilDefinition": "தடை, இடையூறு.",
+    "literaryContext": {
+      "english": "Perseverance helped her overcome every obstacle.",
+      "tamil": "மனஉறுதி அவளுக்கு ஒவ்வொரு தடையையும் கடக்க உதவியது."
+    },
+    "formalSpeechContext": {
+      "english": "Perseverance helped her overcome every obstacle.",
+      "tamil": "மனஉறுதி அவளுக்கு ஒவ்வொரு தடையையும் கடக்க உதவியது."
+    },
+    "synonyms": [
+      "barrier",
+      "hurdle",
+      "impediment"
+    ],
+    "antonyms": [
+      "advantage",
+      "aid",
+      "assistance"
+    ]
+  },
+  {
+    "id": "outline_inter_5",
+    "word": "Outline",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A general description or summary of something.",
+    "tamilDefinition": "சுருக்கக் குறிப்பு, வெளிப்புறக் கோடு.",
+    "literaryContext": {
+      "english": "She prepared a brief outline of her thesis chapter.",
+      "tamil": "அவள் தன் ஆய்வேட்டின் அத்தியாயத்தின் சுருக்கக் குறிப்பைத் தயாரித்தாள்."
+    },
+    "formalSpeechContext": {
+      "english": "She prepared a brief outline of her thesis chapter.",
+      "tamil": "அவள் தன் ஆய்வேட்டின் அத்தியாயத்தின் சுருக்கக் குறிப்பைத் தயாரித்தாள்."
+    },
+    "synonyms": [
+      "summary",
+      "draft",
+      "overview"
+    ],
+    "antonyms": [
+      "detail",
+      "elaboration",
+      "full text"
+    ]
   }
 ];

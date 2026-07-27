@@ -885,5 +885,140 @@ export const dataL: VocabularyEntry[] = [
       "nobody",
       "amateur"
     ]
+  },
+  {
+    "id": "logical_inter_1",
+    "word": "Logical",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Of or according to the rules of logic or formal reasoning.",
+    "tamilDefinition": "தருக்க ரீதியான, நியாயமான.",
+    "literaryContext": {
+      "english": "His argument presented a logical solution to the puzzle.",
+      "tamil": "அவரது வாதம் புதிருக்கு ஒரு தருக்க ரீதியான தீர்வை வழங்கியது."
+    },
+    "formalSpeechContext": {
+      "english": "His argument presented a logical solution to the puzzle.",
+      "tamil": "அவரது வாதம் புதிருக்கு ஒரு தருக்க ரீதியான தீர்வை வழங்கியது."
+    },
+    "synonyms": [
+      "rational",
+      "reasonable",
+      "coherent"
+    ],
+    "antonyms": [
+      "illogical",
+      "irrational",
+      "unreasonable"
+    ]
+  },
+  {
+    "id": "loyalty_inter_2",
+    "word": "Loyalty",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The quality of being loyal; faithfulness to commitments.",
+    "tamilDefinition": "விசுவாசம், விசுவாசத்தன்மை.",
+    "literaryContext": {
+      "english": "Her loyalty to her team earned everyone respect.",
+      "tamil": "அவளது அணிக்கு அவளது விசுவாசம் அனைவரின் மரியாதையையும் பெற்றது."
+    },
+    "formalSpeechContext": {
+      "english": "Her loyalty to her team earned everyone respect.",
+      "tamil": "அவளது அணிக்கு அவளது விசுவாசம் அனைவரின் மரியாதையையும் பெற்றது."
+    },
+    "synonyms": [
+      "fidelity",
+      "allegiance",
+      "devotion"
+    ],
+    "antonyms": [
+      "disloyalty",
+      "treachery",
+      "betrayal"
+    ]
+  },
+  {
+    "id": "leisure_inter_3",
+    "word": "Leisure",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Use of free time for enjoyment.",
+    "tamilDefinition": "ஓய்வு நேரம், ஓய்வு.",
+    "literaryContext": {
+      "english": "He enjoys playing chess in his leisure hours.",
+      "tamil": "அவர் தனது ஓய்வு நேரத்தில் சதுரங்கம் விளையாடுவதை ரசிக்கிறார்."
+    },
+    "formalSpeechContext": {
+      "english": "He enjoys playing chess in his leisure hours.",
+      "tamil": "அவர் தனது ஓய்வு நேரத்தில் சதுரங்கம் விளையாடுவதை ரசிக்கிறார்."
+    },
+    "synonyms": [
+      "free time",
+      "recreation",
+      "relaxation"
+    ],
+    "antonyms": [
+      "work",
+      "labor",
+      "drudgery"
+    ]
+  },
+  {
+    "id": "limitless_inter_4",
+    "word": "Limitless",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Without end or limit; boundless.",
+    "tamilDefinition": "எல்லையற்ற, அளவற்ற.",
+    "literaryContext": {
+      "english": "Human imagination holds limitless possibilities.",
+      "tamil": "மனித கற்பனை எல்லைற்ற சாத்தியங்களைக் கொண்டுள்ளது."
+    },
+    "formalSpeechContext": {
+      "english": "Human imagination holds limitless possibilities.",
+      "tamil": "மனித கற்பனை எல்லைற்ற சாத்தியங்களைக் கொண்டுள்ளது."
+    },
+    "synonyms": [
+      "boundless",
+      "infinite",
+      "unlimited"
+    ],
+    "antonyms": [
+      "limited",
+      "restricted",
+      "finite"
+    ]
+  },
+  {
+    "id": "lucid_inter_5",
+    "word": "Lucid",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Expressed clearly; easy to understand.",
+    "tamilDefinition": "தெளிவான, எளிதில் புரியக்கூடிய.",
+    "literaryContext": {
+      "english": "The author gave a lucid explanation of complex quantum mechanics.",
+      "tamil": "ஆசிரியர் சிக்கலான குவாண்டம் இயக்கவியலைத் தெளிவாக விளக்கி கூறினார்."
+    },
+    "formalSpeechContext": {
+      "english": "The author gave a lucid explanation of complex quantum mechanics.",
+      "tamil": "ஆசிரியர் சிக்கலான குவாண்டம் இயக்கவியலைத் தெளிவாக விளக்கி கூறினார்."
+    },
+    "synonyms": [
+      "clear",
+      "intelligible",
+      "comprehensible"
+    ],
+    "antonyms": [
+      "confusing",
+      "unclear",
+      "obscure"
+    ]
   }
 ];

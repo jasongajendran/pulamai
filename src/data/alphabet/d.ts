@@ -323,10 +323,11 @@ export const dataD: VocabularyEntry[] = [
     },
     "synonyms": [
       "population statistics",
-      "census study",
-      "population analysis"
+      "census studies"
     ],
-    "antonyms": []
+    "antonyms": [
+      "individual case study"
+    ]
   },
   {
     "id": "deputize",
@@ -384,9 +385,11 @@ export const dataD: VocabularyEntry[] = [
     },
     "synonyms": [
       "skin medicine",
-      "dermatological science"
+      "cutaneous medicine"
     ],
-    "antonyms": []
+    "antonyms": [
+      "internal medicine"
+    ]
   },
   {
     "id": "devout",
@@ -542,10 +545,12 @@ export const dataD: VocabularyEntry[] = [
     },
     "synonyms": [
       "nutrition science",
-      "dietary science",
-      "nutritional therapy"
+      "dietary management"
     ],
-    "antonyms": []
+    "antonyms": [
+      "malnutrition",
+      "unguided diet"
+    ]
   },
   {
     "id": "dilettante",
@@ -929,11 +934,148 @@ export const dataD: VocabularyEntry[] = [
       "sourceNote": "Organizational Charter"
     },
     "synonyms": [
-      "creed",
       "dogma",
       "tenet",
-      "principle"
+      "creed"
     ],
-    "antonyms": []
+    "antonyms": [
+      "heresy",
+      "skepticism"
+    ]
+  },
+  {
+    "id": "durable_inter_1",
+    "word": "Durable",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Able to withstand wear, pressure, or damage.",
+    "tamilDefinition": "நீண்ட காலம் உழைக்கும், உறுதியான.",
+    "literaryContext": {
+      "english": "The boots are made from durable leather.",
+      "tamil": "இந்த பூட்ஸ் உறுதியான தோலால் செய்யப்பட்டது."
+    },
+    "formalSpeechContext": {
+      "english": "The boots are made from durable leather.",
+      "tamil": "இந்த பூட்ஸ் உறுதியான தோலால் செய்யப்பட்டது."
+    },
+    "synonyms": [
+      "sturdy",
+      "robust",
+      "long-lasting"
+    ],
+    "antonyms": [
+      "fragile",
+      "delicate",
+      "flimsy"
+    ]
+  },
+  {
+    "id": "debate_inter_2",
+    "word": "Debate",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A formal discussion on a particular topic in a public meeting.",
+    "tamilDefinition": "விவாதம், பட்டிமன்றம்.",
+    "literaryContext": {
+      "english": "The policy sparked an intense debate in parliament.",
+      "tamil": "இக்கொள்கை பாராளுமன்றத்தில் ஒரு தீவிர விவாதத்தைத் தூண்டியது."
+    },
+    "formalSpeechContext": {
+      "english": "The policy sparked an intense debate in parliament.",
+      "tamil": "இக்கொள்கை பாராளுமன்றத்தில் ஒரு தீவிர விவாதத்தைத் தூண்டியது."
+    },
+    "synonyms": [
+      "discussion",
+      "argument",
+      "deliberation"
+    ],
+    "antonyms": [
+      "agreement",
+      "harmony",
+      "concord"
+    ]
+  },
+  {
+    "id": "decisive_inter_3",
+    "word": "Decisive",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Settling an issue; producing a definite result.",
+    "tamilDefinition": "தீர்க்கமான, தெளிவான முடிவெடுக்கக்கூடிய.",
+    "literaryContext": {
+      "english": "A decisive victory boosted the team morale.",
+      "tamil": "ஒரு தீர்க்கமான வெற்றி அணியின் மனஉறுதியை உயர்த்தியது."
+    },
+    "formalSpeechContext": {
+      "english": "A decisive victory boosted the team morale.",
+      "tamil": "ஒரு தீர்க்கமான வெற்றி அணியின் மனஉறுதியை உயர்த்தியது."
+    },
+    "synonyms": [
+      "conclusive",
+      "determined",
+      "resolute"
+    ],
+    "antonyms": [
+      "indecisive",
+      "hesitant",
+      "uncertain"
+    ]
+  },
+  {
+    "id": "delicate_inter_4",
+    "word": "Delicate",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Easily broken or damaged; fragile.",
+    "tamilDefinition": "மென்மையான, எளிதில் சேதமடையக்கூடிய.",
+    "literaryContext": {
+      "english": "Handle the delicate glass vase with care.",
+      "tamil": "மென்மையான கண்ணாடி சாடியை கவனமாகக் கையாளுங்கள்."
+    },
+    "formalSpeechContext": {
+      "english": "Handle the delicate glass vase with care.",
+      "tamil": "மென்மையான கண்ணாடி சாடியை கவனமாகக் கையாளுங்கள்."
+    },
+    "synonyms": [
+      "fragile",
+      "subtle",
+      "dainty"
+    ],
+    "antonyms": [
+      "robust",
+      "rough",
+      "coarse"
+    ]
+  },
+  {
+    "id": "diverse_inter_5",
+    "word": "Diverse",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Showing a great deal of variety; very different.",
+    "tamilDefinition": "பல்வேறு வகையான, மாறுபட்ட.",
+    "literaryContext": {
+      "english": "The university has a diverse student body.",
+      "tamil": "பல்கலைக்கழகத்தில் பல்வேறு வகையான மாணவர்கள் உள்ளனர்."
+    },
+    "formalSpeechContext": {
+      "english": "The university has a diverse student body.",
+      "tamil": "பல்கலைக்கழகத்தில் பல்வேறு வகையான மாணவர்கள் உள்ளனர்."
+    },
+    "synonyms": [
+      "varied",
+      "assorted",
+      "heterogeneous"
+    ],
+    "antonyms": [
+      "uniform",
+      "similar",
+      "identical"
+    ]
   }
 ];

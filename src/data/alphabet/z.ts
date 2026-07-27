@@ -313,10 +313,13 @@ export const dataZ: VocabularyEntry[] = [
       "sourceNote": "Medical conference."
     },
     "synonyms": [
-      "metal",
-      "mineral supplement"
+      "metallic element",
+      "Zn element"
     ],
-    "antonyms": []
+    "antonyms": [
+      "non-metal",
+      "insulator"
+    ]
   },
   {
     "id": "zing",
@@ -434,10 +437,13 @@ export const dataZ: VocabularyEntry[] = [
       "sourceNote": "Cultural heritage address."
     },
     "synonyms": [
-      "stringed instrument",
-      "psaltery"
+      "dulcimer",
+      "stringed instrument"
     ],
-    "antonyms": []
+    "antonyms": [
+      "percussion drum",
+      "brass horn"
+    ]
   },
   {
     "id": "zodiac",
@@ -461,10 +467,13 @@ export const dataZ: VocabularyEntry[] = [
       "sourceNote": "Cultural history lecture."
     },
     "synonyms": [
-      "celestial sphere",
-      "constellations"
+      "astrological belt",
+      "celestial zone"
     ],
-    "antonyms": []
+    "antonyms": [
+      "terrestrial region",
+      "earth surface"
+    ]
   },
   {
     "id": "zombie",
@@ -519,11 +528,13 @@ export const dataZ: VocabularyEntry[] = [
       "sourceNote": "Geriatric medicine lecture."
     },
     "synonyms": [
-      "zone",
-      "belt",
-      "band"
+      "anatomical band",
+      "belt zone"
     ],
-    "antonyms": []
+    "antonyms": [
+      "core center",
+      "focal point"
+    ]
   },
   {
     "id": "zonal",
@@ -609,12 +620,14 @@ export const dataZ: VocabularyEntry[] = [
       "sourceNote": "Municipal assembly speech."
     },
     "synonyms": [
-      "area",
-      "sector",
       "region",
-      "district"
+      "sector",
+      "domain"
     ],
-    "antonyms": []
+    "antonyms": [
+      "boundaryless expanse",
+      "entire globe"
+    ]
   },
   {
     "id": "zoning",
@@ -638,10 +651,13 @@ export const dataZ: VocabularyEntry[] = [
       "sourceNote": "Urban planning conference."
     },
     "synonyms": [
-      "urban planning",
-      "territorial division"
+      "land-use regulation",
+      "districting"
     ],
-    "antonyms": []
+    "antonyms": [
+      "deregulation",
+      "unzoned land"
+    ]
   },
   {
     "id": "zonked",
@@ -697,10 +713,13 @@ export const dataZ: VocabularyEntry[] = [
       "sourceNote": "Academic convocation speech."
     },
     "synonyms": [
-      "animal science",
-      "natural history"
+      "animal biology",
+      "fauna study"
     ],
-    "antonyms": []
+    "antonyms": [
+      "botany",
+      "flora study"
+    ]
   },
   {
     "id": "zoom",
@@ -785,11 +804,13 @@ export const dataZ: VocabularyEntry[] = [
       "sourceNote": "Scientific symposium."
     },
     "synonyms": [
-      "coral",
-      "sea anemone",
-      "polyps"
+      "plantlike animal",
+      "coral organism"
     ],
-    "antonyms": []
+    "antonyms": [
+      "terrestrial vertebrate",
+      "land mammal"
+    ]
   },
   {
     "id": "zooty",
@@ -847,6 +868,143 @@ export const dataZ: VocabularyEntry[] = [
       "courgette",
       "summer squash"
     ],
-    "antonyms": []
+    "antonyms": [
+      "root crop",
+      "winter grain"
+    ]
+  },
+  {
+    "id": "zeal_inter_1",
+    "word": "Zeal",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Great energy or enthusiasm in pursuit of a cause or objective.",
+    "tamilDefinition": "ஆர்வம், வெறி, உற்சாகம்.",
+    "literaryContext": {
+      "english": "She approached her volunteer work with admirable zeal.",
+      "tamil": "அவள் தன் தன்னார்வப் பணியை பாராட்டுக்குரிய ஆர்வத்துடன் அணுகினாள்."
+    },
+    "formalSpeechContext": {
+      "english": "She approached her volunteer work with admirable zeal.",
+      "tamil": "அவள் தன் தன்னார்வப் பணியை பாராட்டுக்குரிய ஆர்வத்துடன் அணுகினாள்."
+    },
+    "synonyms": [
+      "enthusiasm",
+      "passion",
+      "ardor"
+    ],
+    "antonyms": [
+      "apathy",
+      "indifference",
+      "lethargy"
+    ]
+  },
+  {
+    "id": "zenith_inter_2",
+    "word": "Zenith",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The time at which something is most powerful or successful.",
+    "tamilDefinition": "உச்சகட்டம், சிகரம்.",
+    "literaryContext": {
+      "english": "His artistic career reached its zenith in the late 1990s.",
+      "tamil": "அவரது கலை வாழ்க்கை 1990களின் பிற்பகுதியில் அதன் உச்சகட்டத்தை அடைந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "His artistic career reached its zenith in the late 1990s.",
+      "tamil": "அவரது கலை வாழ்க்கை 1990களின் பிற்பகுதியில் அதன் உச்சகட்டத்தை அடைந்தது."
+    },
+    "synonyms": [
+      "peak",
+      "pinnacle",
+      "summit"
+    ],
+    "antonyms": [
+      "nadir",
+      "bottom",
+      "lowest point"
+    ]
+  },
+  {
+    "id": "zealous_inter_3",
+    "word": "Zealous",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having or showing great energy and passion.",
+    "tamilDefinition": "மிகுந்த ஆர்வமும் பற்றும் கொண்ட.",
+    "literaryContext": {
+      "english": "The zealous young activist rallied support for clean oceans.",
+      "tamil": "ஆர்வமுள்ள இளம் ஆர்வலர் தூய்மையான பெருங்கடல்களுக்கு ஆதரவைத் திரட்டினார்."
+    },
+    "formalSpeechContext": {
+      "english": "The zealous young activist rallied support for clean oceans.",
+      "tamil": "ஆர்வமுள்ள இளம் ஆர்வலர் தூய்மையான பெருங்கடல்களுக்கு ஆதரவைத் திரட்டினார்."
+    },
+    "synonyms": [
+      "passionate",
+      "ardent",
+      "fervent"
+    ],
+    "antonyms": [
+      "apathetic",
+      "unenthusiastic",
+      "indifferent"
+    ]
+  },
+  {
+    "id": "zigzag_inter_4",
+    "word": "Zigzag",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A line or course having abrupt alternate right and left turns.",
+    "tamilDefinition": "வளைந்து நெளிந்து செல்லும் பாதை.",
+    "literaryContext": {
+      "english": "The trail took a steep zigzag up the mountainside.",
+      "tamil": "அந்தப் பாதை மலையின் பக்கவாட்டில் செங்குத்தான வளைந்து நெளிந்து சென்றது."
+    },
+    "formalSpeechContext": {
+      "english": "The trail took a steep zigzag up the mountainside.",
+      "tamil": "அந்தப் பாதை மலையின் பக்கவாட்டில் செங்குத்தான வளைந்து நெளிந்து சென்றது."
+    },
+    "synonyms": [
+      "meander",
+      "crooked line",
+      "turn"
+    ],
+    "antonyms": [
+      "straight line",
+      "direct path"
+    ]
+  },
+  {
+    "id": "zealot_inter_5",
+    "word": "Zealot",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A person who is fanatical and uncompromising in pursuit of their ideals.",
+    "tamilDefinition": "தீவிரமான கொள்கைப் பற்றாளர்.",
+    "literaryContext": {
+      "english": "He was a zealot for environmental conservation.",
+      "tamil": "அவர் சுற்றுச்சூழல் பாதுகாப்பிற்கான தீவிரக் கொள்கைப் பற்றாளராக இருந்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "He was a zealot for environmental conservation.",
+      "tamil": "அவர் சுற்றுச்சூழல் பாதுகாப்பிற்கான தீவிரக் கொள்கைப் பற்றாளராக இருந்தார்."
+    },
+    "synonyms": [
+      "fanatic",
+      "enthusiast",
+      "radical"
+    ],
+    "antonyms": [
+      "moderate",
+      "centrist",
+      "indifferent person"
+    ]
   }
 ];

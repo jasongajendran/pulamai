@@ -922,5 +922,140 @@ export const dataI: VocabularyEntry[] = [
       "dishonesty",
       "corruption"
     ]
+  },
+  {
+    "id": "insight_inter_1",
+    "word": "Insight",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The capacity to gain an accurate and deep intuitive understanding.",
+    "tamilDefinition": "நுண்ணறிவு, ஆழ்ந்த புரிதல்.",
+    "literaryContext": {
+      "english": "The study provided valuable insight into human behavior.",
+      "tamil": "இவ்வாய்வு மனித நடத்தை பற்றிய மதிப்புமிக்க நுண்ணறிவை வழங்கியது."
+    },
+    "formalSpeechContext": {
+      "english": "The study provided valuable insight into human behavior.",
+      "tamil": "இவ்வாய்வு மனித நடத்தை பற்றிய மதிப்புமிக்க நுண்ணறிவை வழங்கியது."
+    },
+    "synonyms": [
+      "understanding",
+      "perception",
+      "discernment"
+    ],
+    "antonyms": [
+      "ignorance",
+      "blindness",
+      "misconception"
+    ]
+  },
+  {
+    "id": "inspire_inter_2",
+    "word": "Inspire",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To fill someone with the urge or ability to do something creative.",
+    "tamilDefinition": "ஊக்கமளித்தல், மன எழுச்சி அளித்தல்.",
+    "literaryContext": {
+      "english": "Her courage inspired others to stand up for their rights.",
+      "tamil": "அவளது தைரியம் மற்றவர்களைத் தங்களது உரிமைகளுக்காகப் போராட ஊக்கப்படுத்தியது."
+    },
+    "formalSpeechContext": {
+      "english": "Her courage inspired others to stand up for their rights.",
+      "tamil": "அவளது தைரியம் மற்றவர்களைத் தங்களது உரிமைகளுக்காகப் போராட ஊக்கப்படுத்தியது."
+    },
+    "synonyms": [
+      "encourage",
+      "motivate",
+      "stimulate"
+    ],
+    "antonyms": [
+      "discourage",
+      "deter",
+      "depress"
+    ]
+  },
+  {
+    "id": "intense_inter_3",
+    "word": "Intense",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Of extreme force, degree, or strength.",
+    "tamilDefinition": "தீவிரமான, மிகச் செறிந்த.",
+    "literaryContext": {
+      "english": "The sun cast intense heat across the desert.",
+      "tamil": "சூரியன் பாலைவனம் முழுவதும் தீவிர வெப்பத்தை வீசியது."
+    },
+    "formalSpeechContext": {
+      "english": "The sun cast intense heat across the desert.",
+      "tamil": "சூரியன் பாலைவனம் முழுவதும் தீவிர வெப்பத்தை வீசியது."
+    },
+    "synonyms": [
+      "extreme",
+      "fierce",
+      "profound"
+    ],
+    "antonyms": [
+      "mild",
+      "moderate",
+      "weak"
+    ]
+  },
+  {
+    "id": "initial_inter_4",
+    "word": "Initial",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Existing or occurring at the beginning.",
+    "tamilDefinition": "ஆரம்ப, தொடக்ககால.",
+    "literaryContext": {
+      "english": "Our initial response to the problem was cautious.",
+      "tamil": "பிரச்சினைக்கான நமது ஆரம்ப எதிர்வினை எச்சரிக்கையாக இருந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "Our initial response to the problem was cautious.",
+      "tamil": "பிரச்சினைக்கான நமது ஆரம்ப எதிர்வினை எச்சரிக்கையாக இருந்தது."
+    },
+    "synonyms": [
+      "first",
+      "beginning",
+      "primary"
+    ],
+    "antonyms": [
+      "final",
+      "ultimate",
+      "last"
+    ]
+  },
+  {
+    "id": "integrate_inter_5",
+    "word": "Integrate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To combine one thing with another so that they become a whole.",
+    "tamilDefinition": "ஒருங்கிணைத்தல், ஒன்றிணைத்தல்.",
+    "literaryContext": {
+      "english": "The software is designed to integrate seamlessly with existing apps.",
+      "tamil": "இந்த மென்பொருள் இருக்கும் பயன்பாடுகளுடன் தடையின்றி ஒருங்கிணைக்க வடிவமைக்கப்பட்டுள்ளது."
+    },
+    "formalSpeechContext": {
+      "english": "The software is designed to integrate seamlessly with existing apps.",
+      "tamil": "இந்த மென்பொருள் இருக்கும் பயன்பாடுகளுடன் தடையின்றி ஒருங்கிணைக்க வடிவமைக்கப்பட்டுள்ளது."
+    },
+    "synonyms": [
+      "combine",
+      "merge",
+      "unify"
+    ],
+    "antonyms": [
+      "separate",
+      "divide",
+      "isolate"
+    ]
   }
 ];

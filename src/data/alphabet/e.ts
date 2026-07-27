@@ -916,10 +916,13 @@ export const dataE: VocabularyEntry[] = [
       "sourceNote": "Biblical Studies Lecture"
     },
     "synonyms": [
-      "end times theology",
-      "final destiny"
+      "end-time theology",
+      "final judgment doctrine"
     ],
-    "antonyms": []
+    "antonyms": [
+      "creation theology",
+      "genesis doctrine"
+    ]
   },
   {
     "id": "exegesis",
@@ -944,11 +947,13 @@ export const dataE: VocabularyEntry[] = [
     },
     "synonyms": [
       "interpretation",
-      "explanation",
-      "analysis",
-      "exposition"
+      "exposition",
+      "textual analysis"
     ],
-    "antonyms": []
+    "antonyms": [
+      "eisegesis",
+      "misinterpretation"
+    ]
   },
   {
     "id": "epiphany",
@@ -973,11 +978,13 @@ export const dataE: VocabularyEntry[] = [
     },
     "synonyms": [
       "revelation",
-      "realization",
-      "vision",
+      "insight",
       "manifestation"
     ],
-    "antonyms": []
+    "antonyms": [
+      "confusion",
+      "concealment"
+    ]
   },
   {
     "id": "empirical_2",
@@ -1032,10 +1039,148 @@ export const dataE: VocabularyEntry[] = [
       "sourceNote": "Theology Lecture"
     },
     "synonyms": [
-      "letter",
+      "formal letter",
       "missive",
       "communication"
     ],
-    "antonyms": []
+    "antonyms": [
+      "verbal message",
+      "oral tradition"
+    ]
+  },
+  {
+    "id": "essential_inter_1",
+    "word": "Essential",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Absolutely necessary; extremely important.",
+    "tamilDefinition": "அத்தியாவசியமான, முக்கியமான.",
+    "literaryContext": {
+      "english": "Water is essential for all living creatures.",
+      "tamil": "அனைத்து உயிரினங்களுக்கும் நீர் அத்தியாவசியமானது."
+    },
+    "formalSpeechContext": {
+      "english": "Water is essential for all living creatures.",
+      "tamil": "அனைத்து உயிரினங்களுக்கும் நீர் அத்தியாவசியமானது."
+    },
+    "synonyms": [
+      "vital",
+      "crucial",
+      "necessary"
+    ],
+    "antonyms": [
+      "optional",
+      "unnecessary",
+      "superfluous"
+    ]
+  },
+  {
+    "id": "efficient_inter_2",
+    "word": "Efficient",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Achieving maximum productivity with minimum wasted effort.",
+    "tamilDefinition": "செயல்திறன்மிக்க, விரைவாகவும் சரியாகவும் செய்யும்.",
+    "literaryContext": {
+      "english": "An efficient workflow reduced production time significantly.",
+      "tamil": "செயல்திறன்மிக்க பணிப்பாய்வு உற்பத்தி நேரத்தைக் கணிசமாகக் குறைத்தது."
+    },
+    "formalSpeechContext": {
+      "english": "An efficient workflow reduced production time significantly.",
+      "tamil": "செயல்திறன்மிக்க பணிப்பாய்வு உற்பத்தி நேரத்தைக் கணிசமாகக் குறைத்தது."
+    },
+    "synonyms": [
+      "effective",
+      "productive",
+      "capable"
+    ],
+    "antonyms": [
+      "inefficient",
+      "wasteful",
+      "incapable"
+    ]
+  },
+  {
+    "id": "expand_inter_3",
+    "word": "Expand",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To become or make larger or more extensive.",
+    "tamilDefinition": "விரிவுபடுத்துதல், பெருக்குதல்.",
+    "literaryContext": {
+      "english": "The business plans to expand into international markets.",
+      "tamil": "நிறுவனம் சர்வதேச சந்தைகளில் விரிவடைய திட்டமிட்டுள்ளது."
+    },
+    "formalSpeechContext": {
+      "english": "The business plans to expand into international markets.",
+      "tamil": "நிறுவனம் சர்வதேச சந்தைகளில் விரிவடைய திட்டமிட்டுள்ளது."
+    },
+    "synonyms": [
+      "enlarge",
+      "extend",
+      "broaden"
+    ],
+    "antonyms": [
+      "shrink",
+      "contract",
+      "reduce"
+    ]
+  },
+  {
+    "id": "evident_inter_4",
+    "word": "Evident",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Plain or obvious; clearly seen or understood.",
+    "tamilDefinition": "தெளிவாகத் தெரியக்கூடிய, அப்பட்டமான.",
+    "literaryContext": {
+      "english": "Her joy was evident in her bright smile.",
+      "tamil": "அவளுடைய பிரகாசமான புன்னகையில் அவளது மகிழ்ச்சி தெளிவாகத் தெரிந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "Her joy was evident in her bright smile.",
+      "tamil": "அவளுடைய பிரகாசமான புன்னகையில் அவளது மகிழ்ச்சி தெளிவாகத் தெரிந்தது."
+    },
+    "synonyms": [
+      "obvious",
+      "apparent",
+      "clear"
+    ],
+    "antonyms": [
+      "obscure",
+      "hidden",
+      "unclear"
+    ]
+  },
+  {
+    "id": "empathy_inter_5",
+    "word": "Empathy",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The ability to understand and share the feelings of another.",
+    "tamilDefinition": "சக மனிதரின் உணர்வுகளைப் புரிந்து கொள்ளும் திறன்.",
+    "literaryContext": {
+      "english": "Showing empathy helps build strong relationships.",
+      "tamil": "அனுதாபத்தைக் காட்டுவது வலுவான உறவுகளை உருவாக்க உதவுகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Showing empathy helps build strong relationships.",
+      "tamil": "அனுதாபத்தைக் காட்டுவது வலுவான உறவுகளை உருவாக்க உதவுகிறது."
+    },
+    "synonyms": [
+      "compassion",
+      "understanding",
+      "sympathy"
+    ],
+    "antonyms": [
+      "apathy",
+      "indifference",
+      "callousness"
+    ]
   }
 ];

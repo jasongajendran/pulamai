@@ -118,8 +118,15 @@ export const dataV: VocabularyEntry[] = [
       "tamil": "எங்கள் நீண்டகால நிதி முன்கூணிப்பில் சந்தையின் எதிர்பாராத ஏற்றத்தாழ்வுகளை நாங்கள் கணக்கில் எடுத்துக்கொள்ள வேண்டும்.",
       "sourceNote": "Used in a formal business context to address market volatility."
     },
-    "synonyms": [],
-    "antonyms": []
+    "synonyms": [
+      "whim",
+      "caprice",
+      "quirk"
+    ],
+    "antonyms": [
+      "predictability",
+      "constancy"
+    ]
   },
   {
     "id": "valediction",
@@ -914,6 +921,141 @@ export const dataV: VocabularyEntry[] = [
     "antonyms": [
       "vice",
       "iniquity"
+    ]
+  },
+  {
+    "id": "valid_inter_1",
+    "word": "Valid",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having a sound basis in logic or fact; reasonable.",
+    "tamilDefinition": "சரியான, செல்லுபடியாகும்.",
+    "literaryContext": {
+      "english": "He raised a valid point during the discussion.",
+      "tamil": "விவாதத்தின் போது அவர் ஒரு சரியான கருத்தை முன்வைத்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "He raised a valid point during the discussion.",
+      "tamil": "விவாதத்தின் போது அவர் ஒரு சரியான கருத்தை முன்வைத்தார்."
+    },
+    "synonyms": [
+      "legitimate",
+      "sound",
+      "justified"
+    ],
+    "antonyms": [
+      "invalid",
+      "unfounded",
+      "void"
+    ]
+  },
+  {
+    "id": "vibrant_inter_2",
+    "word": "Vibrant",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Full of energy and enthusiasm; bright and striking.",
+    "tamilDefinition": "துடிப்பான, பிரகாசமான.",
+    "literaryContext": {
+      "english": "The city market was colorful and vibrant.",
+      "tamil": "நகர சந்தை வண்ணமயமானதாகவும் துடிப்பானதாகவும் இருந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The city market was colorful and vibrant.",
+      "tamil": "நகர சந்தை வண்ணமயமானதாகவும் துடிப்பானதாகவும் இருந்தது."
+    },
+    "synonyms": [
+      "lively",
+      "energetic",
+      "brilliant"
+    ],
+    "antonyms": [
+      "dull",
+      "lifeless",
+      "drab"
+    ]
+  },
+  {
+    "id": "vital_inter_3",
+    "word": "Vital",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Absolutely necessary or important; essential.",
+    "tamilDefinition": "மிக முக்கியமான, உயிர்ச்சார்பான.",
+    "literaryContext": {
+      "english": "Clean air is vital for good health.",
+      "tamil": "நல்ல ஆரோக்கியத்திற்கு தூய்மையான காற்று மிக முக்கியம்."
+    },
+    "formalSpeechContext": {
+      "english": "Clean air is vital for good health.",
+      "tamil": "நல்ல ஆரோக்கியத்திற்கு தூய்மையான காற்று மிக முக்கியம்."
+    },
+    "synonyms": [
+      "essential",
+      "crucial",
+      "critical"
+    ],
+    "antonyms": [
+      "unimportant",
+      "trivial",
+      "minor"
+    ]
+  },
+  {
+    "id": "versatile_inter_4",
+    "word": "Versatile",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Able to adapt or be adapted to many different functions.",
+    "tamilDefinition": "பல்வேறு பயன்பாடுகளுக்கு ஏற்ற, பன்முகத்தன்மை கொண்ட.",
+    "literaryContext": {
+      "english": "He is a versatile actor who plays both comedy and drama well.",
+      "tamil": "அவர் நகைச்சுவை மற்றும் நாடகம் இரண்டையும் சிறப்பாக நடிக்கும் ஒரு பன்முக நடிகர்."
+    },
+    "formalSpeechContext": {
+      "english": "He is a versatile actor who plays both comedy and drama well.",
+      "tamil": "அவர் நகைச்சுவை மற்றும் நாடகம் இரண்டையும் சிறப்பாக நடிக்கும் ஒரு பன்முக நடிகர்."
+    },
+    "synonyms": [
+      "adaptable",
+      "flexible",
+      "all-around"
+    ],
+    "antonyms": [
+      "inflexible",
+      "limited",
+      "rigid"
+    ]
+  },
+  {
+    "id": "venture_inter_5",
+    "word": "Venture",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A risky or daring journey or undertaking.",
+    "tamilDefinition": "துணிச்சலான முயற்சி.",
+    "literaryContext": {
+      "english": "Their new business venture proved highly profitable.",
+      "tamil": "அவர்களின் புதிய வணிக முயற்சி மிகவும் இலாபகரமானது என்று நிரூபிக்கப்பட்டது."
+    },
+    "formalSpeechContext": {
+      "english": "Their new business venture proved highly profitable.",
+      "tamil": "அவர்களின் புதிய வணிக முயற்சி மிகவும் இலாபகரமானது என்று நிரூபிக்கப்பட்டது."
+    },
+    "synonyms": [
+      "undertaking",
+      "enterprise",
+      "project"
+    ],
+    "antonyms": [
+      "safety",
+      "inaction",
+      "certainty"
     ]
   }
 ];

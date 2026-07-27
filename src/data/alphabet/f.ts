@@ -893,5 +893,140 @@ export const dataF: VocabularyEntry[] = [
       "effective",
       "successful"
     ]
+  },
+  {
+    "id": "flexible_inter_1",
+    "word": "Flexible",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Capable of bending easily without breaking.",
+    "tamilDefinition": "நெகிழ்வுத்தன்மை கொண்ட, வளையும் தன்மை உடைய.",
+    "literaryContext": {
+      "english": "Rubber is a flexible material used in many products.",
+      "tamil": "ரப்பர் என்பது பல தயாரிப்புகளில் பயன்படுத்தப்படும் நெகிழ்வான பொருள்."
+    },
+    "formalSpeechContext": {
+      "english": "Rubber is a flexible material used in many products.",
+      "tamil": "ரப்பர் என்பது பல தயாரிப்புகளில் பயன்படுத்தப்படும் நெகிழ்வான பொருள்."
+    },
+    "synonyms": [
+      "adaptable",
+      "pliant",
+      "versatile"
+    ],
+    "antonyms": [
+      "rigid",
+      "stiff",
+      "inflexible"
+    ]
+  },
+  {
+    "id": "frequent_inter_2",
+    "word": "Frequent",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Occurring or done on many occasions with short intervals.",
+    "tamilDefinition": "அடிக்கடி நிகழும்.",
+    "literaryContext": {
+      "english": "He made frequent trips to the library.",
+      "tamil": "அவர் நூலகத்திற்கு அடிக்கடி பயணம் செய்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "He made frequent trips to the library.",
+      "tamil": "அவர் நூலகத்திற்கு அடிக்கடி பயணம் செய்தார்."
+    },
+    "synonyms": [
+      "recurrent",
+      "repeated",
+      "regular"
+    ],
+    "antonyms": [
+      "rare",
+      "infrequent",
+      "seldom"
+    ]
+  },
+  {
+    "id": "feature_inter_3",
+    "word": "Feature",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A distinctive attribute or aspect of something.",
+    "tamilDefinition": "சிறப்பம்சம், அம்சம்.",
+    "literaryContext": {
+      "english": "The new phone includes an advanced camera feature.",
+      "tamil": "புதிய போனில் மேம்பட்ட கேமரா அம்சம் உள்ளது."
+    },
+    "formalSpeechContext": {
+      "english": "The new phone includes an advanced camera feature.",
+      "tamil": "புதிய போனில் மேம்பட்ட கேமரா அம்சம் உள்ளது."
+    },
+    "synonyms": [
+      "attribute",
+      "characteristic",
+      "aspect"
+    ],
+    "antonyms": [
+      "whole",
+      "totality",
+      "entirety"
+    ]
+  },
+  {
+    "id": "formal_inter_4",
+    "word": "Formal",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Done in accordance with rules of convention or etiquette.",
+    "tamilDefinition": "முறைப்படியான, அதிகாரப்பூர்வ.",
+    "literaryContext": {
+      "english": "He wore a formal suit for the interview.",
+      "tamil": "அவர் நேர்காணலுக்கு முறைப்படியான உடை அணிந்திருந்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "He wore a formal suit for the interview.",
+      "tamil": "அவர் நேர்காணலுக்கு முறைப்படியான உடை அணிந்திருந்தார்."
+    },
+    "synonyms": [
+      "official",
+      "ceremonial",
+      "proper"
+    ],
+    "antonyms": [
+      "informal",
+      "casual",
+      "unconventional"
+    ]
+  },
+  {
+    "id": "foster_inter_5",
+    "word": "Foster",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To encourage or promote the development of something.",
+    "tamilDefinition": "வளர்த்தல், ஊக்குவித்தல்.",
+    "literaryContext": {
+      "english": "Teachers aim to foster creativity in young students.",
+      "tamil": "ஆசிரியர்கள் இளம் மாணவர்களிடம் படைப்பாற்றலை வளர்ப்பதை நோக்கமாகக் கொண்டுள்ளனர்."
+    },
+    "formalSpeechContext": {
+      "english": "Teachers aim to foster creativity in young students.",
+      "tamil": "ஆசிரியர்கள் இளம் மாணவர்களிடம் படைப்பாற்றலை வளர்ப்பதை நோக்கமாகக் கொண்டுள்ளனர்."
+    },
+    "synonyms": [
+      "encourage",
+      "nurture",
+      "promote"
+    ],
+    "antonyms": [
+      "discourage",
+      "hinder",
+      "suppress"
+    ]
   }
 ];

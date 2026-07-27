@@ -122,9 +122,13 @@ export const dataC: VocabularyEntry[] = [
     },
     "synonyms": [
       "circulatory",
-      "cardiac"
+      "cardiac",
+      "vascular"
     ],
-    "antonyms": []
+    "antonyms": [
+      "non-vascular",
+      "avascular"
+    ]
   },
   {
     "id": "catastrophe",
@@ -1008,6 +1012,144 @@ export const dataC: VocabularyEntry[] = [
       "notion",
       "theory"
     ],
-    "antonyms": []
+    "antonyms": [
+      "concrete object",
+      "physical reality"
+    ]
+  },
+  {
+    "id": "candid_inter_1",
+    "word": "Candid",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Truthful and straightforward; frank.",
+    "tamilDefinition": "நேர்மையான, வெளிப்படையான.",
+    "literaryContext": {
+      "english": "His candid remarks surprised everyone at the meeting.",
+      "tamil": "அவரது வெளிப்படையான கருத்துக்கள் கூட்டத்தில் இருந்த அனைவரையும் ஆச்சரியப்படுத்தின."
+    },
+    "formalSpeechContext": {
+      "english": "His candid remarks surprised everyone at the meeting.",
+      "tamil": "அவரது வெளிப்படையான கருத்துக்கள் கூட்டத்தில் இருந்த அனைவரையும் ஆச்சரியப்படுத்தின."
+    },
+    "synonyms": [
+      "frank",
+      "honest",
+      "direct"
+    ],
+    "antonyms": [
+      "evasive",
+      "deceitful",
+      "insincere"
+    ]
+  },
+  {
+    "id": "caution_inter_2",
+    "word": "Caution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Care taken to avoid danger or mistakes.",
+    "tamilDefinition": "எச்சரிக்கை, கவனம்.",
+    "literaryContext": {
+      "english": "Proceed with caution when driving on icy roads.",
+      "tamil": "பனிக்கட்டி சாலைகளில் செல்லும்போது எச்சரிக்கையுடன் செல்லவும்."
+    },
+    "formalSpeechContext": {
+      "english": "Proceed with caution when driving on icy roads.",
+      "tamil": "பனிக்கட்டி சாலைகளில் செல்லும்போது எச்சரிக்கையுடன் செல்லவும்."
+    },
+    "synonyms": [
+      "care",
+      "prudence",
+      "vigilance"
+    ],
+    "antonyms": [
+      "carelessness",
+      "recklessness",
+      "rashness"
+    ]
+  },
+  {
+    "id": "clarify_inter_3",
+    "word": "Clarify",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To make a statement or situation less confused and more comprehensible.",
+    "tamilDefinition": "தெளிவுபடுத்துதல்.",
+    "literaryContext": {
+      "english": "The teacher paused to clarify the complex assignment instructions.",
+      "tamil": "ஆசிரியர் சிக்கலான பயிற்சி வழிமுறைகளைத் தெளிவுபடுத்த இடைநிறுத்தினார்."
+    },
+    "formalSpeechContext": {
+      "english": "The teacher paused to clarify the complex assignment instructions.",
+      "tamil": "ஆசிரியர் சிக்கலான பயிற்சி வழிமுறைகளைத் தெளிவுபடுத்த இடைநிறுத்தினார்."
+    },
+    "synonyms": [
+      "explain",
+      "elucidate",
+      "simplify"
+    ],
+    "antonyms": [
+      "confuse",
+      "complicate",
+      "obscure"
+    ]
+  },
+  {
+    "id": "compact_inter_4",
+    "word": "Compact",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Closely and neatly packed together; dense.",
+    "tamilDefinition": "சிறிய, அடர்த்தியான.",
+    "literaryContext": {
+      "english": "The camera is small and compact enough to fit in a pocket.",
+      "tamil": "கேமரா பாக்கெட்டில் அடங்கும் அளவுக்கு சிறியதாகவும் அடர்த்தியாகவும் உள்ளது."
+    },
+    "formalSpeechContext": {
+      "english": "The camera is small and compact enough to fit in a pocket.",
+      "tamil": "கேமரா பாக்கெட்டில் அடங்கும் அளவுக்கு சிறியதாகவும் அடர்த்தியாகவும் உள்ளது."
+    },
+    "synonyms": [
+      "dense",
+      "concentrated",
+      "small"
+    ],
+    "antonyms": [
+      "loose",
+      "bulky",
+      "sprawling"
+    ]
+  },
+  {
+    "id": "comfort_inter_5",
+    "word": "Comfort",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A state of physical ease and freedom from pain or constraint.",
+    "tamilDefinition": "ஆறுதல், வசதி.",
+    "literaryContext": {
+      "english": "A warm drink brought great comfort on a cold night.",
+      "tamil": "ஒரு குளிர்ந்த இரவில் சூடான பானம் சிறந்த ஆறுதலைத் தந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "A warm drink brought great comfort on a cold night.",
+      "tamil": "ஒரு குளிர்ந்த இரவில் சூடான பானம் சிறந்த ஆறுதலைத் தந்தது."
+    },
+    "synonyms": [
+      "solace",
+      "ease",
+      "relief"
+    ],
+    "antonyms": [
+      "discomfort",
+      "distress",
+      "pain"
+    ]
   }
 ];

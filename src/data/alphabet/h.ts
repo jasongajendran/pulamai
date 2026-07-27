@@ -884,10 +884,14 @@ export const dataH: VocabularyEntry[] = [
       "sourceNote": "University Syllabus"
     },
     "synonyms": [
-      "interpretation methodology",
-      "exegetics"
+      "exegesis",
+      "interpretation",
+      "explanation"
     ],
-    "antonyms": []
+    "antonyms": [
+      "misinterpretation",
+      "contextual blindness"
+    ]
   },
   {
     "id": "hypothesis_2",
@@ -942,10 +946,148 @@ export const dataH: VocabularyEntry[] = [
       "sourceNote": "UNESCO Address"
     },
     "synonyms": [
-      "inheritance",
       "legacy",
+      "inheritance",
       "tradition"
     ],
-    "antonyms": []
+    "antonyms": [
+      "divestment",
+      "disinheritance"
+    ]
+  },
+  {
+    "id": "humble_inter_1",
+    "word": "Humble",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having or showing a modest estimate of one importance.",
+    "tamilDefinition": "பணிவான, அடக்கமான.",
+    "literaryContext": {
+      "english": "Despite his great success, he remained humble.",
+      "tamil": "அவரது பெரும் வெற்றி இருந்தபோதிலும், அவர் பணிவாகவே இருந்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "Despite his great success, he remained humble.",
+      "tamil": "அவரது பெரும் வெற்றி இருந்தபோதிலும், அவர் பணிவாகவே இருந்தார்."
+    },
+    "synonyms": [
+      "modest",
+      "meek",
+      "unassuming"
+    ],
+    "antonyms": [
+      "arrogant",
+      "proud",
+      "boastful"
+    ]
+  },
+  {
+    "id": "harmony_inter_2",
+    "word": "Harmony",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Agreement or concord; pleasant musical sound.",
+    "tamilDefinition": "இணக்கம், சீரான இசை அல்லது உறவு.",
+    "literaryContext": {
+      "english": "Living in harmony with nature brings peace.",
+      "tamil": "இயற்கையோடு இணக்கமாக வாழ்வது அமைதியைத் தருகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Living in harmony with nature brings peace.",
+      "tamil": "இயற்கையோடு இணக்கமாக வாழ்வது அமைதியைத் தருகிறது."
+    },
+    "synonyms": [
+      "concord",
+      "unity",
+      "agreement"
+    ],
+    "antonyms": [
+      "discord",
+      "conflict",
+      "friction"
+    ]
+  },
+  {
+    "id": "hazard_inter_3",
+    "word": "Hazard",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A danger or risk.",
+    "tamilDefinition": "ஆபத்து, இடர்.",
+    "literaryContext": {
+      "english": "Icy roads present a serious hazard to drivers.",
+      "tamil": "பனிக்கட்டி சாலைகள் ஓட்டுநர்களுக்கு கடுமையான ஆபத்தை விளைவிக்கின்றன."
+    },
+    "formalSpeechContext": {
+      "english": "Icy roads present a serious hazard to drivers.",
+      "tamil": "பனிக்கட்டி சாலைகள் ஓட்டுநர்களுக்கு கடுமையான ஆபத்தை விளைவிக்கின்றன."
+    },
+    "synonyms": [
+      "danger",
+      "risk",
+      "peril"
+    ],
+    "antonyms": [
+      "safety",
+      "security",
+      "protection"
+    ]
+  },
+  {
+    "id": "hesitate_inter_4",
+    "word": "Hesitate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To pause before saying or doing something through uncertainty.",
+    "tamilDefinition": "தயங்குதல், இடைநிறுத்துதல்.",
+    "literaryContext": {
+      "english": "Do not hesitate to ask if you need help.",
+      "tamil": "உங்களுக்கு உதவி தேவைப்பட்டால் கேட்கத் தயங்காதீர்கள்."
+    },
+    "formalSpeechContext": {
+      "english": "Do not hesitate to ask if you need help.",
+      "tamil": "உங்களுக்கு உதவி தேவைப்பட்டால் கேட்கத் தயங்காதீர்கள்."
+    },
+    "synonyms": [
+      "pause",
+      "waver",
+      "falter"
+    ],
+    "antonyms": [
+      "proceed",
+      "advance",
+      "decide"
+    ]
+  },
+  {
+    "id": "hostile_inter_5",
+    "word": "Hostile",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Unfriendly; antagonistic.",
+    "tamilDefinition": "பகைமையுள்ள, விரோதமான.",
+    "literaryContext": {
+      "english": "The proposal met with a hostile reaction from the crowd.",
+      "tamil": "இக்கோரிக்கை கூட்டத்தினரிடமிருந்து விரோதமான எதிர்வினையைச் சந்தித்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The proposal met with a hostile reaction from the crowd.",
+      "tamil": "இக்கோரிக்கை கூட்டத்தினரிடமிருந்து விரோதமான எதிர்வினையைச் சந்தித்தது."
+    },
+    "synonyms": [
+      "unfriendly",
+      "antagonistic",
+      "aggressive"
+    ],
+    "antonyms": [
+      "friendly",
+      "welcoming",
+      "hospitable"
+    ]
   }
 ];

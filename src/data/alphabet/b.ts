@@ -533,11 +533,14 @@ export const dataB: VocabularyEntry[] = [
       "sourceNote": "Medical research symposium."
     },
     "synonyms": [
-      "biomedical",
-      "life-science",
-      "biomedical-engineering"
+      "biophysical",
+      "medical",
+      "biological"
     ],
-    "antonyms": []
+    "antonyms": [
+      "non-medical",
+      "inorganic"
+    ]
   },
   {
     "id": "biopsy",
@@ -561,11 +564,13 @@ export const dataB: VocabularyEntry[] = [
       "sourceNote": "Clinical oncology presentation."
     },
     "synonyms": [
-      "tissue analysis",
-      "diagnostic test",
-      "microscopic examination"
+      "tissue examination",
+      "diagnostic sampling"
     ],
-    "antonyms": []
+    "antonyms": [
+      "autopsy",
+      "non-invasive scan"
+    ]
   },
   {
     "id": "bipartisan",
@@ -888,6 +893,141 @@ export const dataB: VocabularyEntry[] = [
       "anarchy",
       "deregulation",
       "self-governance"
+    ]
+  },
+  {
+    "id": "balance_inter_1",
+    "word": "Balance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "An even distribution of weight or equilibrium.",
+    "tamilDefinition": "சமநிலை அல்லது சீரான நிலை.",
+    "literaryContext": {
+      "english": "He kept his balance while navigating the narrow stone ledge.",
+      "tamil": "குறுகிய கல் விளிம்பில் செல்லும்போது அவர் தன் சமநிலையைக் காப்பாற்றிக் கொண்டார்."
+    },
+    "formalSpeechContext": {
+      "english": "He kept his balance while navigating the narrow stone ledge.",
+      "tamil": "குறுகிய கல் விளிம்பில் செல்லும்போது அவர் தன் சமநிலையைக் காப்பாற்றிக் கொண்டார்."
+    },
+    "synonyms": [
+      "equilibrium",
+      "stability",
+      "harmony"
+    ],
+    "antonyms": [
+      "imbalance",
+      "instability",
+      "disproportion"
+    ]
+  },
+  {
+    "id": "benefit_inter_2",
+    "word": "Benefit",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "An advantage or profit gained from something.",
+    "tamilDefinition": "நன்மை, பலன் அல்லது ஆதாயம்.",
+    "literaryContext": {
+      "english": "The quiet garden was a great benefit to her mental peace.",
+      "tamil": "அமைதியான தோட்டம் அவளது மன அமைதிக்கு பெரும் நன்மையாக இருந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The quiet garden was a great benefit to her mental peace.",
+      "tamil": "அமைதியான தோட்டம் அவளது மன அமைதிக்கு பெரும் நன்மையாக இருந்தது."
+    },
+    "synonyms": [
+      "advantage",
+      "gain",
+      "profit"
+    ],
+    "antonyms": [
+      "disadvantage",
+      "drawback",
+      "harm"
+    ]
+  },
+  {
+    "id": "brief_inter_3",
+    "word": "Brief",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Of short duration or concise in expression.",
+    "tamilDefinition": "சுருக்கமான, குறுகிய நேரத்தைக் கொண்ட.",
+    "literaryContext": {
+      "english": "They shared a brief glance before parting ways.",
+      "tamil": "பிரியும் முன் அவர்கள் ஒரு சுருக்கமான பார்வையைப் பரிமாறிக் கொண்டனர்."
+    },
+    "formalSpeechContext": {
+      "english": "They shared a brief glance before parting ways.",
+      "tamil": "பிரியும் முன் அவர்கள் ஒரு சுருக்கமான பார்வையைப் பரிமாறிக் கொண்டனர்."
+    },
+    "synonyms": [
+      "concise",
+      "short",
+      "succinct"
+    ],
+    "antonyms": [
+      "lengthy",
+      "long",
+      "verbose"
+    ]
+  },
+  {
+    "id": "barrier_inter_4",
+    "word": "Barrier",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "An obstacle or structure that prevents movement or access.",
+    "tamilDefinition": "தடை, தடுத்து நிறுத்தும் சுவர் அல்லது காரணி.",
+    "literaryContext": {
+      "english": "Language was no barrier to their blossoming friendship.",
+      "tamil": "அவர்களது மலரும் நட்பிற்கு மொழி ஒரு தடையாக இருக்கவில்லை."
+    },
+    "formalSpeechContext": {
+      "english": "Language was no barrier to their blossoming friendship.",
+      "tamil": "அவர்களது மலரும் நட்பிற்கு மொழி ஒரு தடையாக இருக்கவில்லை."
+    },
+    "synonyms": [
+      "obstacle",
+      "hurdle",
+      "impediment"
+    ],
+    "antonyms": [
+      "gateway",
+      "bridge",
+      "opening"
+    ]
+  },
+  {
+    "id": "broad_inter_5",
+    "word": "Broad",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having an ample distance from side to side; wide.",
+    "tamilDefinition": "அகலமான, விரிந்த.",
+    "literaryContext": {
+      "english": "A broad river flowed quietly through the heart of the valley.",
+      "tamil": "பள்ளத்தாக்கின் மையப்பகுதி வழியே ஒரு அகலமான ஆறு அமைதியாகப் பாய்ந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "A broad river flowed quietly through the heart of the valley.",
+      "tamil": "பள்ளத்தாக்கின் மையப்பகுதி வழியே ஒரு அகலமான ஆறு அமைதியாகப் பாய்ந்தது."
+    },
+    "synonyms": [
+      "wide",
+      "extensive",
+      "spacious"
+    ],
+    "antonyms": [
+      "narrow",
+      "restricted",
+      "limited"
     ]
   }
 ];

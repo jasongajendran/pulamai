@@ -424,9 +424,13 @@ export const dataX: VocabularyEntry[] = [
       "sourceNote": "Academic lecture"
     },
     "synonyms": [
-      "Greek letter"
+      "Greek letter",
+      "alphabetical symbol"
     ],
-    "antonyms": []
+    "antonyms": [
+      "Latin letter",
+      "English symbol"
+    ]
   },
   {
     "id": "xiphias",
@@ -450,9 +454,13 @@ export const dataX: VocabularyEntry[] = [
       "sourceNote": "Marine science conference"
     },
     "synonyms": [
-      "swordfish"
+      "swordfish",
+      "Xiphias gladius"
     ],
-    "antonyms": []
+    "antonyms": [
+      "bottom feeder",
+      "prey fish"
+    ]
   },
   {
     "id": "xiphoid",
@@ -478,7 +486,10 @@ export const dataX: VocabularyEntry[] = [
       "sword-shaped",
       "ensiform"
     ],
-    "antonyms": []
+    "antonyms": [
+      "blunt",
+      "spherical"
+    ]
   },
   {
     "id": "xoana",
@@ -502,10 +513,13 @@ export const dataX: VocabularyEntry[] = [
       "sourceNote": "Art history symposium"
     },
     "synonyms": [
-      "wooden idols",
-      "primitive statues"
+      "wooden icon",
+      "carved image"
     ],
-    "antonyms": []
+    "antonyms": [
+      "modern bronze statue",
+      "digital photo"
+    ]
   },
   {
     "id": "xodius",
@@ -559,9 +573,12 @@ export const dataX: VocabularyEntry[] = [
     },
     "synonyms": [
       "radiograph",
-      "roentgenogram"
+      "X-radiation"
     ],
-    "antonyms": []
+    "antonyms": [
+      "visible opacity",
+      "light shield"
+    ]
   },
   {
     "id": "xylem",
@@ -612,9 +629,13 @@ export const dataX: VocabularyEntry[] = [
       "sourceNote": "Laboratory safety briefing"
     },
     "synonyms": [
-      "dimethylbenzene"
+      "dimethylbenzene",
+      "aromatic solvent"
     ],
-    "antonyms": []
+    "antonyms": [
+      "water",
+      "aqueous liquid"
+    ]
   },
   {
     "id": "xylocarp",
@@ -667,9 +688,12 @@ export const dataX: VocabularyEntry[] = [
     },
     "synonyms": [
       "woodcut",
-      "wood engraving"
+      "block print"
     ],
-    "antonyms": []
+    "antonyms": [
+      "digital print",
+      "lithograph"
+    ]
   },
   {
     "id": "xylography",
@@ -723,10 +747,13 @@ export const dataX: VocabularyEntry[] = [
       "sourceNote": "Preservation committee report"
     },
     "synonyms": [
-      "wood-boring",
-      "wood-eating"
+      "wood-eating",
+      "timber-boring"
     ],
-    "antonyms": []
+    "antonyms": [
+      "carnivorous",
+      "leaf-eating"
+    ]
   },
   {
     "id": "xylophone",
@@ -749,9 +776,13 @@ export const dataX: VocabularyEntry[] = [
       "sourceNote": "Music academy performance"
     },
     "synonyms": [
+      "marimba",
       "percussion instrument"
     ],
-    "antonyms": []
+    "antonyms": [
+      "brass horn",
+      "wind instrument"
+    ]
   },
   {
     "id": "xyster",
@@ -777,7 +808,10 @@ export const dataX: VocabularyEntry[] = [
       "bone scraper",
       "surgical rasp"
     ],
-    "antonyms": []
+    "antonyms": [
+      "blunt probe",
+      "suture needle"
+    ]
   },
   {
     "id": "xystus",
@@ -804,6 +838,140 @@ export const dataX: VocabularyEntry[] = [
       "covered portico",
       "colonnade"
     ],
-    "antonyms": []
+    "antonyms": [
+      "open courtyard",
+      "uncovered field"
+    ]
+  },
+  {
+    "id": "xenon_inter_1",
+    "word": "Xenon",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A heavy, colorless, odorless noble gas used in specialized lamps.",
+    "tamilDefinition": "செனான் வாயு.",
+    "literaryContext": {
+      "english": "Xenon lamps are used in high-intensity car headlights.",
+      "tamil": "உயர் செறிவூட்டப்பட்ட கார் முகப்பு விளக்குகளில் செனான் வாயு பயன்படுத்தப்படுகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Xenon lamps are used in high-intensity car headlights.",
+      "tamil": "உயர் செறிவூட்டப்பட்ட கார் முகப்பு விளக்குகளில் செனான் வாயு பயன்படுத்தப்படுகிறது."
+    },
+    "synonyms": [
+      "element",
+      "noble gas",
+      "chemical"
+    ],
+    "antonyms": [
+      "compound",
+      "solid",
+      "liquid"
+    ]
+  },
+  {
+    "id": "xanthic_inter_2",
+    "word": "Xanthic",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Yellowish or turning yellow in color.",
+    "tamilDefinition": "மஞ்சள் நிறமுள்ள.",
+    "literaryContext": {
+      "english": "The botanist identified xanthic pigments in the autumn leaves.",
+      "tamil": "தாவரவியலாளர் இலையுதிர் இலைகளில் மஞ்சள் நிறமிகளை அடையாளம் கண்டார்."
+    },
+    "formalSpeechContext": {
+      "english": "The botanist identified xanthic pigments in the autumn leaves.",
+      "tamil": "தாவரவியலாளர் இலையுதிர் இலைகளில் மஞ்சள் நிறமிகளை அடையாளம் கண்டார்."
+    },
+    "synonyms": [
+      "yellowish",
+      "golden",
+      "amber"
+    ],
+    "antonyms": [
+      "blue",
+      "purple",
+      "dark"
+    ]
+  },
+  {
+    "id": "xenophile_inter_3",
+    "word": "Xenophile",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "An individual who is attracted to foreign people, cultures, or customs.",
+    "tamilDefinition": "அந்நிய கலாச்சாரத்தை விரும்பும் நபர்.",
+    "literaryContext": {
+      "english": "As a dedicated xenophile, she loved exploring international traditions.",
+      "tamil": "ஒரு தீவிர அந்நிய கலாச்சார விரும்பியாக, அவள் சர்வதேச பாரம்பரியங்களை ஆராய்வதை விரும்பினாள்."
+    },
+    "formalSpeechContext": {
+      "english": "As a dedicated xenophile, she loved exploring international traditions.",
+      "tamil": "ஒரு தீவிர அந்நிய கலாச்சார விரும்பியாக, அவள் சர்வதேச பாரம்பரியங்களை ஆராய்வதை விரும்பினாள்."
+    },
+    "synonyms": [
+      "culture enthusiast",
+      "globe-trotter"
+    ],
+    "antonyms": [
+      "xenophobe",
+      "chauvinist"
+    ]
+  },
+  {
+    "id": "xylograph_inter_4",
+    "word": "Xylograph",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "An engraving on wood, or a print taken from a woodblock.",
+    "tamilDefinition": "மர வேலைப்பாடு அல்லது மர அச்சுக்கலை.",
+    "literaryContext": {
+      "english": "The museum preserved an authentic 18th-century xylograph.",
+      "tamil": "அருங்காட்சியகம் ஒரு உண்மையான 18ஆம் நூற்றாண்டு மர அச்சுக்கலையைப் பாதுகாத்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The museum preserved an authentic 18th-century xylograph.",
+      "tamil": "அருங்காட்சியகம் ஒரு உண்மையான 18ஆம் நூற்றாண்டு மர அச்சுக்கலையைப் பாதுகாத்தது."
+    },
+    "synonyms": [
+      "woodcut",
+      "block print",
+      "engraving"
+    ],
+    "antonyms": [
+      "digital image",
+      "photograph"
+    ]
+  },
+  {
+    "id": "xenolith_inter_5",
+    "word": "Xenolith",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A rock fragment enveloped in a larger rock during crystallization.",
+    "tamilDefinition": "பாறைத் துண்டு.",
+    "literaryContext": {
+      "english": "Geologists analyzed the xenolith trapped inside the cooled lava.",
+      "tamil": "புவியியலாளர்கள் குளிர்ந்த எரிமலைக் குழம்பினுள் சிக்கிய பாறைத் துண்டை ஆய்வு செய்தனர்."
+    },
+    "formalSpeechContext": {
+      "english": "Geologists analyzed the xenolith trapped inside the cooled lava.",
+      "tamil": "புவியியலாளர்கள் குளிர்ந்த எரிமலைக் குழம்பினுள் சிக்கிய பாறைத் துண்டை ஆய்வு செய்தனர்."
+    },
+    "synonyms": [
+      "rock fragment",
+      "inclusion",
+      "geological sample"
+    ],
+    "antonyms": [
+      "pure crystal",
+      "homogeneous rock"
+    ]
   }
 ];

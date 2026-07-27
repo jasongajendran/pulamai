@@ -896,5 +896,140 @@ export const dataU: VocabularyEntry[] = [
       "hell",
       "wasteland"
     ]
+  },
+  {
+    "id": "urgent_inter_1",
+    "word": "Urgent",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Requiring immediate action or attention.",
+    "tamilDefinition": "அவசர, மிக முக்கியமான.",
+    "literaryContext": {
+      "english": "The doctor received an urgent call from the hospital.",
+      "tamil": "மருத்துவருக்கு மருத்துவமனையிலிருந்து ஒரு அவசர அழைப்பு வந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The doctor received an urgent call from the hospital.",
+      "tamil": "மருத்துவருக்கு மருத்துவமனையிலிருந்து ஒரு அவசர அழைப்பு வந்தது."
+    },
+    "synonyms": [
+      "pressing",
+      "critical",
+      "immediate"
+    ],
+    "antonyms": [
+      "nonessential",
+      "trivial",
+      "minor"
+    ]
+  },
+  {
+    "id": "unique_inter_2",
+    "word": "Unique",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Being the only one of its kind; unlike anything else.",
+    "tamilDefinition": "அரிதான, தனித்துவமான.",
+    "literaryContext": {
+      "english": "Each snowflake has a completely unique pattern.",
+      "tamil": "ஒவ்வொரு பனித்துளியும் முற்றிலும் தனித்துவமான அமைப்பைக் கொண்டுள்ளது."
+    },
+    "formalSpeechContext": {
+      "english": "Each snowflake has a completely unique pattern.",
+      "tamil": "ஒவ்வொரு பனித்துளியும் முற்றிலும் தனித்துவமான அமைப்பைக் கொண்டுள்ளது."
+    },
+    "synonyms": [
+      "distinctive",
+      "singular",
+      "matchless"
+    ],
+    "antonyms": [
+      "common",
+      "ordinary",
+      "typical"
+    ]
+  },
+  {
+    "id": "ultimate_inter_3",
+    "word": "Ultimate",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Being or happening at the end of a process; final.",
+    "tamilDefinition": "இறுதி, உச்சகட்ட.",
+    "literaryContext": {
+      "english": "Our ultimate goal is to achieve sustainable growth.",
+      "tamil": "எங்களின் இறுதி இலக்கு நிலையான வளர்ச்சியை அடைவதாகும்."
+    },
+    "formalSpeechContext": {
+      "english": "Our ultimate goal is to achieve sustainable growth.",
+      "tamil": "எங்களின் இறுதி இலக்கு நிலையான வளர்ச்சியை அடைவதாகும்."
+    },
+    "synonyms": [
+      "final",
+      "supreme",
+      "conclusive"
+    ],
+    "antonyms": [
+      "initial",
+      "first",
+      "beginning"
+    ]
+  },
+  {
+    "id": "universal_inter_4",
+    "word": "Universal",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Relating to or done by all people or things in the world.",
+    "tamilDefinition": "அனைவருக்கும் பொதுவான, உலகளாவிய.",
+    "literaryContext": {
+      "english": "Music is often called a universal language.",
+      "tamil": "இசை பெரும்பாலும் உலகளாவிய மொழியாக அழைக்கப்படுகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Music is often called a universal language.",
+      "tamil": "இசை பெரும்பாலும் உலகளாவிய மொழியாக அழைக்கப்படுகிறது."
+    },
+    "synonyms": [
+      "global",
+      "widespread",
+      "all-inclusive"
+    ],
+    "antonyms": [
+      "particular",
+      "specific",
+      "local"
+    ]
+  },
+  {
+    "id": "utilize_inter_5",
+    "word": "Utilize",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To make practical and effective use of.",
+    "tamilDefinition": "பயன்படுத்துதல்.",
+    "literaryContext": {
+      "english": "We should utilize solar energy to reduce electricity costs.",
+      "tamil": "மின்சாரச் செலவைக் குறைக்க சூரிய ஆற்றலைப் பயன்படுத்த வேண்டும்."
+    },
+    "formalSpeechContext": {
+      "english": "We should utilize solar energy to reduce electricity costs.",
+      "tamil": "மின்சாரச் செலவைக் குறைக்க சூரிய ஆற்றலைப் பயன்படுத்த வேண்டும்."
+    },
+    "synonyms": [
+      "use",
+      "employ",
+      "harness"
+    ],
+    "antonyms": [
+      "waste",
+      "squander",
+      "ignore"
+    ]
   }
 ];

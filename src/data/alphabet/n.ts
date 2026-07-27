@@ -838,10 +838,148 @@ export const dataN: VocabularyEntry[] = [
       "sourceNote": "Business Strategy Meeting"
     },
     "synonyms": [
+      "account",
       "story",
-      "tale",
-      "account"
+      "chronicle"
     ],
-    "antonyms": []
+    "antonyms": [
+      "disconnected data",
+      "raw log"
+    ]
+  },
+  {
+    "id": "notable_inter_1",
+    "word": "Notable",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Worthy of attention or notice; remarkable.",
+    "tamilDefinition": "குறிப்பிடத்தக்க, புகழ்பெற்ற.",
+    "literaryContext": {
+      "english": "There was a notable improvement in student attendance.",
+      "tamil": "மாணவர்களின் வருகையில் குறிப்பிடத்தக்க முன்னேற்றம் ஏற்பட்டது."
+    },
+    "formalSpeechContext": {
+      "english": "There was a notable improvement in student attendance.",
+      "tamil": "மாணவர்களின் வருகையில் குறிப்பிடத்தக்க முன்னேற்றம் ஏற்பட்டது."
+    },
+    "synonyms": [
+      "remarkable",
+      "striking",
+      "significant"
+    ],
+    "antonyms": [
+      "unremarkable",
+      "insignificant",
+      "ordinary"
+    ]
+  },
+  {
+    "id": "neutral_inter_2",
+    "word": "Neutral",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Not supporting or helping either side in a conflict.",
+    "tamilDefinition": "நடுநிலையான.",
+    "literaryContext": {
+      "english": "The mediator remained neutral throughout the negotiation.",
+      "tamil": "பேச்சுவார்த்தை முழுவதும் மத்தியஸ்தர் நடுநிலையாக இருந்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "The mediator remained neutral throughout the negotiation.",
+      "tamil": "பேச்சுவார்த்தை முழுவதும் மத்தியஸ்தர் நடுநிலையாக இருந்தார்."
+    },
+    "synonyms": [
+      "impartial",
+      "unbiased",
+      "uncommitted"
+    ],
+    "antonyms": [
+      "biased",
+      "partisan",
+      "prejudiced"
+    ]
+  },
+  {
+    "id": "nurture_inter_3",
+    "word": "Nurture",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Care for and encourage the growth or development of.",
+    "tamilDefinition": "வளர்த்தல், பராமரித்தல்.",
+    "literaryContext": {
+      "english": "Parents work hard to nurture their children talents.",
+      "tamil": "பெற்றோர்கள் தங்கள் குழந்தைகளின் திறமைகளை வளர்க்க பாடுபடுகிறார்கள்."
+    },
+    "formalSpeechContext": {
+      "english": "Parents work hard to nurture their children talents.",
+      "tamil": "பெற்றோர்கள் தங்கள் குழந்தைகளின் திறமைகளை வளர்க்க பாடுபடுகிறார்கள்."
+    },
+    "synonyms": [
+      "foster",
+      "cherish",
+      "cultivate"
+    ],
+    "antonyms": [
+      "neglect",
+      "ignore",
+      "harm"
+    ]
+  },
+  {
+    "id": "novel_inter_4",
+    "word": "Novel",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "New or unusual in an interesting way.",
+    "tamilDefinition": "புதிய, விசித்திரமான.",
+    "literaryContext": {
+      "english": "The team developed a novel approach to solar energy storage.",
+      "tamil": "குழு சூரிய ஆற்றல் சேமிப்பிற்கு ஒரு புதிய அணுகுமுறையை உருவாக்கியது."
+    },
+    "formalSpeechContext": {
+      "english": "The team developed a novel approach to solar energy storage.",
+      "tamil": "குழு சூரிய ஆற்றல் சேமிப்பிற்கு ஒரு புதிய அணுகுமுறையை உருவாக்கியது."
+    },
+    "synonyms": [
+      "innovative",
+      "original",
+      "fresh"
+    ],
+    "antonyms": [
+      "traditional",
+      "familiar",
+      "hackneyed"
+    ]
+  },
+  {
+    "id": "nimble_inter_5",
+    "word": "Nimble",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Quick and light in movement or action; agile.",
+    "tamilDefinition": "சுறுசுறுப்பான, வேகமான.",
+    "literaryContext": {
+      "english": "The nimble acrobat glided across the stage effortlessly.",
+      "tamil": "சுறுசுறுப்பான சர்க்காஸ் கலைஞர் மேடையில் சிரமமின்றி நகர்ந்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "The nimble acrobat glided across the stage effortlessly.",
+      "tamil": "சுறுசுறுப்பான சர்க்காஸ் கலைஞர் மேடையில் சிரமமின்றி நகர்ந்தார்."
+    },
+    "synonyms": [
+      "agile",
+      "deft",
+      "quick"
+    ],
+    "antonyms": [
+      "clumsy",
+      "slow",
+      "sluggish"
+    ]
   }
 ];

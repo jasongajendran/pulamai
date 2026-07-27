@@ -912,10 +912,12 @@ export const dataT: VocabularyEntry[] = [
     "synonyms": [
       "metamorphosis",
       "transformation",
-      "mutation",
-      "alteration"
+      "glorification"
     ],
-    "antonyms": []
+    "antonyms": [
+      "degradation",
+      "stasis"
+    ]
   },
   {
     "id": "theodicy",
@@ -939,8 +941,147 @@ export const dataT: VocabularyEntry[] = [
       "sourceNote": "Theology Seminar"
     },
     "synonyms": [
-      "vindication of God"
+      "justification of God",
+      "divine justice defense"
     ],
-    "antonyms": []
+    "antonyms": [
+      "atheistic objection",
+      "cynicism"
+    ]
+  },
+  {
+    "id": "tangible_inter_1",
+    "word": "Tangible",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Perceptible by touch; clear and definite.",
+    "tamilDefinition": "தொட்டுணரக்கூடிய, தெளிவான.",
+    "literaryContext": {
+      "english": "The investments produced tangible results within six months.",
+      "tamil": "முதலீடுகள் ஆறு மாதங்களுக்குள் தெளிவான முடிவுகளைத் தந்தன."
+    },
+    "formalSpeechContext": {
+      "english": "The investments produced tangible results within six months.",
+      "tamil": "முதலீடுகள் ஆறு மாதங்களுக்குள் தெளிவான முடிவுகளைத் தந்தன."
+    },
+    "synonyms": [
+      "concrete",
+      "palpable",
+      "real"
+    ],
+    "antonyms": [
+      "intangible",
+      "abstract",
+      "unreal"
+    ]
+  },
+  {
+    "id": "thorough_inter_2",
+    "word": "Thorough",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Complete with regard to every detail; meticulous.",
+    "tamilDefinition": "முழுமையான, ஆழமான.",
+    "literaryContext": {
+      "english": "The police conducted a thorough investigation of the crime scene.",
+      "tamil": "போலீசார் குற்றவாளி இடத்தில் முழுமையான விசாரணை நடத்தினர்."
+    },
+    "formalSpeechContext": {
+      "english": "The police conducted a thorough investigation of the crime scene.",
+      "tamil": "போலீசார் குற்றவாளி இடத்தில் முழுமையான விசாரணை நடத்தினர்."
+    },
+    "synonyms": [
+      "meticulous",
+      "exhaustive",
+      "detailed"
+    ],
+    "antonyms": [
+      "superficial",
+      "careless",
+      "hasty"
+    ]
+  },
+  {
+    "id": "transform_inter_3",
+    "word": "Transform",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To make a thorough or dramatic change in form or appearance.",
+    "tamilDefinition": "மாற்றியமைத்தல், உருமாற்றுதல்.",
+    "literaryContext": {
+      "english": "Education has the power to transform lives.",
+      "tamil": "கல்வி வாழ்க்கையை மாற்றியமைக்கும் ஆற்றலைக் கொண்டுள்ளது."
+    },
+    "formalSpeechContext": {
+      "english": "Education has the power to transform lives.",
+      "tamil": "கல்வி வாழ்க்கையை மாற்றியமைக்கும் ஆற்றலைக் கொண்டுள்ளது."
+    },
+    "synonyms": [
+      "alter",
+      "convert",
+      "metamorphose"
+    ],
+    "antonyms": [
+      "preserve",
+      "maintain",
+      "keep"
+    ]
+  },
+  {
+    "id": "tolerant_inter_4",
+    "word": "Tolerant",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Showing willingness to allow the existence of opinions.",
+    "tamilDefinition": "சகிப்புத்தன்மை கொண்ட.",
+    "literaryContext": {
+      "english": "A civil society is respectful and tolerant of diverse views.",
+      "tamil": "ஒரு நாகரீக சமூகம் பல்வேறு கருத்துக்களை மதிக்கும் மற்றும் சகிப்புத்தன்மையுடன் இருக்கும்."
+    },
+    "formalSpeechContext": {
+      "english": "A civil society is respectful and tolerant of diverse views.",
+      "tamil": "ஒரு நாகரீக சமூகம் பல்வேறு கருத்துக்களை மதிக்கும் மற்றும் சகிப்புத்தன்மையுடன் இருக்கும்."
+    },
+    "synonyms": [
+      "forbearing",
+      "broad-minded",
+      "patient"
+    ],
+    "antonyms": [
+      "intolerant",
+      "prejudiced",
+      "narrow-minded"
+    ]
+  },
+  {
+    "id": "trend_inter_5",
+    "word": "Trend",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A general direction in which something is developing or changing.",
+    "tamilDefinition": "போக்கு, புதிய வழிமுறை.",
+    "literaryContext": {
+      "english": "There is a growing trend toward remote working.",
+      "tamil": "தொலைதூர வேலையை நோக்கிய ஒரு வளரும் போக்கு உள்ளது."
+    },
+    "formalSpeechContext": {
+      "english": "There is a growing trend toward remote working.",
+      "tamil": "தொலைதூர வேலையை நோக்கிய ஒரு வளரும் போக்கு உள்ளது."
+    },
+    "synonyms": [
+      "tendency",
+      "pattern",
+      "direction"
+    ],
+    "antonyms": [
+      "anomaly",
+      "deviation",
+      "exception"
+    ]
   }
 ];

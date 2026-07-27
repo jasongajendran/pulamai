@@ -151,9 +151,13 @@ export const dataJ: VocabularyEntry[] = [
     },
     "synonyms": [
       "mandible",
+      "maxilla",
       "jawbone"
     ],
-    "antonyms": []
+    "antonyms": [
+      "cranium",
+      "skull top"
+    ]
   },
   {
     "id": "jejune",
@@ -488,11 +492,14 @@ export const dataJ: VocabularyEntry[] = [
       "sourceNote": "Academic Assembly"
     },
     "synonyms": [
+      "periodical",
       "diary",
-      "chronicle",
-      "periodical"
+      "logbook"
     ],
-    "antonyms": []
+    "antonyms": [
+      "casual speech",
+      "transient rumor"
+    ]
   },
   {
     "id": "journey",
@@ -866,6 +873,141 @@ export const dataJ: VocabularyEntry[] = [
     "antonyms": [
       "separate",
       "isolate"
+    ]
+  },
+  {
+    "id": "justify_inter_1",
+    "word": "Justify",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To show or prove to be right or reasonable.",
+    "tamilDefinition": "நியாயப்படுத்துதல்.",
+    "literaryContext": {
+      "english": "He tried to justify his late arrival with a valid excuse.",
+      "tamil": "அவர் தனது தாமதமான வருகையை ஒரு சரியான காரணத்துடன் நியாயப்படுத்த முயன்றார்."
+    },
+    "formalSpeechContext": {
+      "english": "He tried to justify his late arrival with a valid excuse.",
+      "tamil": "அவர் தனது தாமதமான வருகையை ஒரு சரியான காரணத்துடன் நியாயப்படுத்த முயன்றார்."
+    },
+    "synonyms": [
+      "defend",
+      "validate",
+      "warrant"
+    ],
+    "antonyms": [
+      "condemn",
+      "disprove",
+      "refute"
+    ]
+  },
+  {
+    "id": "justice_inter_2",
+    "word": "Justice",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Just behavior or treatment; fairness.",
+    "tamilDefinition": "நீதி, நியாயம்.",
+    "literaryContext": {
+      "english": "The court strives to ensure justice for all citizens.",
+      "tamil": "அனைத்து குடிமக்களுக்கும் நீதியை உறுதி செய்ய நீதிமன்றம் பாடுபடுகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "The court strives to ensure justice for all citizens.",
+      "tamil": "அனைத்து குடிமக்களுக்கும் நீதியை உறுதி செய்ய நீதிமன்றம் பாடுபடுகிறது."
+    },
+    "synonyms": [
+      "fairness",
+      "equity",
+      "impartiality"
+    ],
+    "antonyms": [
+      "injustice",
+      "unfairness",
+      "bias"
+    ]
+  },
+  {
+    "id": "journey_inter_3",
+    "word": "Journey",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "An act of traveling from one place to another.",
+    "tamilDefinition": "பயணம்.",
+    "literaryContext": {
+      "english": "The long journey across the mountains took three days.",
+      "tamil": "மலைகள் வழியேயான நீண்ட பயணம் மூன்று நாட்கள் பிடித்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The long journey across the mountains took three days.",
+      "tamil": "மலைகள் வழியேயான நீண்ட பயணம் மூன்று நாட்கள் பிடித்தது."
+    },
+    "synonyms": [
+      "trip",
+      "expedition",
+      "voyage"
+    ],
+    "antonyms": [
+      "stagnation",
+      "stay",
+      "halt"
+    ]
+  },
+  {
+    "id": "judgment_inter_4",
+    "word": "Judgment",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The ability to make considered decisions or come to sensible conclusions.",
+    "tamilDefinition": "தீர்ப்பு, சரியான பகுத்தறிவு.",
+    "literaryContext": {
+      "english": "Good judgment comes from experience and reflection.",
+      "tamil": "நல்ல பகுத்தறிவு அனுபவம் மற்றும் சிந்தனையிலிருந்து வருகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Good judgment comes from experience and reflection.",
+      "tamil": "நல்ல பகுத்தறிவு அனுபவம் மற்றும் சிந்தனையிலிருந்து வருகிறது."
+    },
+    "synonyms": [
+      "discernment",
+      "decision",
+      "evaluation"
+    ],
+    "antonyms": [
+      "indecision",
+      "ignorance",
+      "foolishness"
+    ]
+  },
+  {
+    "id": "joyful_inter_5",
+    "word": "Joyful",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Feeling, expressing, or causing great pleasure and happiness.",
+    "tamilDefinition": "மகிழ்ச்சியான, உவகை தரும்.",
+    "literaryContext": {
+      "english": "The wedding was a joyful celebration for the entire village.",
+      "tamil": "திருமணம் கிராமம் முழுவதற்கும் ஒரு மகிழ்ச்சியான கொண்டாட்டமாக இருந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The wedding was a joyful celebration for the entire village.",
+      "tamil": "திருமணம் கிராமம் முழுவதற்கும் ஒரு மகிழ்ச்சியான கொண்டாட்டமாக இருந்தது."
+    },
+    "synonyms": [
+      "delighted",
+      "cheerful",
+      "ecstatic"
+    ],
+    "antonyms": [
+      "sad",
+      "miserable",
+      "sorrowful"
     ]
   }
 ];

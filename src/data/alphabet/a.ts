@@ -981,7 +981,11 @@ export const dataA: VocabularyEntry[] = [
       "justification",
       "vindication"
     ],
-    "antonyms": []
+    "antonyms": [
+      "criticism",
+      "condemnation",
+      "rejection"
+    ]
   },
   {
     "id": "articulate_2",
@@ -1037,9 +1041,147 @@ export const dataA: VocabularyEntry[] = [
     },
     "synonyms": [
       "reference",
-      "implication",
-      "insinuation"
+      "hint",
+      "intimation"
     ],
-    "antonyms": []
+    "antonyms": [
+      "direct statement",
+      "explicit quotation"
+    ]
+  },
+  {
+    "id": "adapt_inter_1",
+    "word": "Adapt",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To adjust or modify oneself to new conditions or environment.",
+    "tamilDefinition": "புதிய சூழ்நிலைக்கு ஏற்ப தன்னை மாற்றிக்கொள்ளுதல்.",
+    "literaryContext": {
+      "english": "She learned to adapt quickly to the climate of her new home.",
+      "tamil": "அவள் தன் புதிய வீட்டின் காலநிலைக்கு விரைவில் பழகிக்கொண்டாள்."
+    },
+    "formalSpeechContext": {
+      "english": "She learned to adapt quickly to the climate of her new home.",
+      "tamil": "அவள் தன் புதிய வீட்டின் காலநிலைக்கு விரைவில் பழகிக்கொண்டாள்."
+    },
+    "synonyms": [
+      "adjust",
+      "accommodate",
+      "modify"
+    ],
+    "antonyms": [
+      "resist",
+      "refuse",
+      "disagree"
+    ]
+  },
+  {
+    "id": "ambition_inter_2",
+    "word": "Ambition",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A strong desire to achieve something, typically requiring determination.",
+    "tamilDefinition": "உயர்ந்த லட்சியம் அல்லது சாதிக்கும் பேராசை.",
+    "literaryContext": {
+      "english": "His ambition drove him to study tirelessly every night.",
+      "tamil": "அவரது லட்சியம் அவரை ஒவ்வொரு இரவும் சோர்வின்றி படிக்க தூண்டியது."
+    },
+    "formalSpeechContext": {
+      "english": "His ambition drove him to study tirelessly every night.",
+      "tamil": "அவரது லட்சியம் அவரை ஒவ்வொரு இரவும் சோர்வின்றி படிக்க தூண்டியது."
+    },
+    "synonyms": [
+      "aspiration",
+      "goal",
+      "drive"
+    ],
+    "antonyms": [
+      "apathy",
+      "indifference",
+      "laziness"
+    ]
+  },
+  {
+    "id": "authentic_inter_3",
+    "word": "Authentic",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Of undisputed origin; genuine and real.",
+    "tamilDefinition": "உண்மையான, போலி அல்லாத நம்பகமான.",
+    "literaryContext": {
+      "english": "The museum displayed an authentic artifact from the ancient kingdom.",
+      "tamil": "அருங்காட்சியகம் பண்டைய ராஜ்யத்தின் உண்மையான கலைப்பொருளைக் காட்சிப்படுத்தியது."
+    },
+    "formalSpeechContext": {
+      "english": "The museum displayed an authentic artifact from the ancient kingdom.",
+      "tamil": "அருங்காட்சியகம் பண்டைய ராஜ்யத்தின் உண்மையான கலைப்பொருளைக் காட்சிப்படுத்தியது."
+    },
+    "synonyms": [
+      "genuine",
+      "real",
+      "legitimate"
+    ],
+    "antonyms": [
+      "fake",
+      "counterfeit",
+      "spurious"
+    ]
+  },
+  {
+    "id": "adequate_inter_4",
+    "word": "Adequate",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Satisfactory or acceptable in quality or quantity.",
+    "tamilDefinition": "போதுமான, திருப்திகரமான அளவு.",
+    "literaryContext": {
+      "english": "A simple meal provided adequate nourishment for the journey.",
+      "tamil": "ஒரு எளிய உணவு பயணத்திற்கு போதுமான ஊட்டச்சத்தை அளித்தது."
+    },
+    "formalSpeechContext": {
+      "english": "A simple meal provided adequate nourishment for the journey.",
+      "tamil": "ஒரு எளிய உணவு பயணத்திற்கு போதுமான ஊட்டச்சத்தை அளித்தது."
+    },
+    "synonyms": [
+      "sufficient",
+      "enough",
+      "acceptable"
+    ],
+    "antonyms": [
+      "inadequate",
+      "insufficient",
+      "deficient"
+    ]
+  },
+  {
+    "id": "abundant_inter_5",
+    "word": "Abundant",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Existing or available in large quantities; plentiful.",
+    "tamilDefinition": "மிக அதிக அளவில் உள்ள, செழிப்பான.",
+    "literaryContext": {
+      "english": "The valley was blessed with abundant fresh water and fertile soil.",
+      "tamil": "பள்ளத்தாக்கு ஏராளமான நன்னீர் மற்றும் வளமான மண்ணால் ஆசீர்வதிக்கப்பட்டது."
+    },
+    "formalSpeechContext": {
+      "english": "The valley was blessed with abundant fresh water and fertile soil.",
+      "tamil": "பள்ளத்தாக்கு ஏராளமான நன்னீர் மற்றும் வளமான மண்ணால் ஆசீர்வதிக்கப்பட்டது."
+    },
+    "synonyms": [
+      "plentiful",
+      "bountiful",
+      "copious"
+    ],
+    "antonyms": [
+      "scarce",
+      "meager",
+      "sparse"
+    ]
   }
 ];

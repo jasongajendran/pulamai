@@ -941,9 +941,12 @@ export const dataM: VocabularyEntry[] = [
     "synonyms": [
       "theme",
       "pattern",
-      "concept"
+      "central idea"
     ],
-    "antonyms": []
+    "antonyms": [
+      "background noise",
+      "anomaly"
+    ]
   },
   {
     "id": "metaphor",
@@ -967,10 +970,148 @@ export const dataM: VocabularyEntry[] = [
       "sourceNote": "Economic Forum"
     },
     "synonyms": [
-      "analogy",
-      "symbol",
-      "figure of speech"
+      "figure of speech",
+      "trope",
+      "analogy"
     ],
-    "antonyms": []
+    "antonyms": [
+      "literal statement",
+      "plain fact"
+    ]
+  },
+  {
+    "id": "moderate_inter_1",
+    "word": "Moderate",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Average in amount, intensity, quality, or degree.",
+    "tamilDefinition": "மிதமான, அளவான.",
+    "literaryContext": {
+      "english": "The doctor recommended moderate daily exercise.",
+      "tamil": "மருத்துவர் மிதமான தினசரி உடற்பயிற்சியைப் பரிந்துரைத்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "The doctor recommended moderate daily exercise.",
+      "tamil": "மருத்துவர் மிதமான தினசரி உடற்பயிற்சியைப் பரிந்துரைத்தார்."
+    },
+    "synonyms": [
+      "average",
+      "reasonable",
+      "temperate"
+    ],
+    "antonyms": [
+      "extreme",
+      "excessive",
+      "intense"
+    ]
+  },
+  {
+    "id": "motivate_inter_2",
+    "word": "Motivate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Provide someone with a reason for doing something.",
+    "tamilDefinition": "ஊக்கப்படுத்துதல்.",
+    "literaryContext": {
+      "english": "Praise from teachers can motivate students to perform better.",
+      "tamil": "ஆசிரியர்களின் பாராட்டு மாணவர்களைச் சிறப்பாகச் செய்ய ஊக்கப்படுத்தும்."
+    },
+    "formalSpeechContext": {
+      "english": "Praise from teachers can motivate students to perform better.",
+      "tamil": "ஆசிரியர்களின் பாராட்டு மாணவர்களைச் சிறப்பாகச் செய்ய ஊக்கப்படுத்தும்."
+    },
+    "synonyms": [
+      "encourage",
+      "inspire",
+      "stimulate"
+    ],
+    "antonyms": [
+      "discourage",
+      "deter",
+      "dissuade"
+    ]
+  },
+  {
+    "id": "modest_inter_3",
+    "word": "Modest",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Unassuming or moderate in the estimation of one abilities.",
+    "tamilDefinition": "அடக்கமான, எளிமையான.",
+    "literaryContext": {
+      "english": "She remained modest about her impressive achievements.",
+      "tamil": "அவள் தன் ஈர்க்கக்கூடிய சாதனைகளைப் பற்றி அடக்கமாகவே இருந்தாள்."
+    },
+    "formalSpeechContext": {
+      "english": "She remained modest about her impressive achievements.",
+      "tamil": "அவள் தன் ஈர்க்கக்கூடிய சாதனைகளைப் பற்றி அடக்கமாகவே இருந்தாள்."
+    },
+    "synonyms": [
+      "humble",
+      "unassuming",
+      "simple"
+    ],
+    "antonyms": [
+      "arrogant",
+      "boastful",
+      "pretentious"
+    ]
+  },
+  {
+    "id": "mature_inter_4",
+    "word": "Mature",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Fully developed physically or mentally.",
+    "tamilDefinition": "முதிர்ச்சியடைந்த.",
+    "literaryContext": {
+      "english": "He handled the difficult situation in a very mature way.",
+      "tamil": "அவர் அந்தச் சிக்கலான சூழ்நிலையை மிகவும் முதிர்ச்சியடைந்த முறையில் கையாண்டார்."
+    },
+    "formalSpeechContext": {
+      "english": "He handled the difficult situation in a very mature way.",
+      "tamil": "அவர் அந்தச் சிக்கலான சூழ்நிலையை மிகவும் முதிர்ச்சியடைந்த முறையில் கையாண்டார்."
+    },
+    "synonyms": [
+      "grown",
+      "developed",
+      "sensible"
+    ],
+    "antonyms": [
+      "immature",
+      "childish",
+      "underdeveloped"
+    ]
+  },
+  {
+    "id": "mutual_inter_5",
+    "word": "Mutual",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Experienced or expressed by each of two or more parties.",
+    "tamilDefinition": "பரஸ்பர, இருதரப்பு.",
+    "literaryContext": {
+      "english": "Respect must be mutual for a friendship to thrive.",
+      "tamil": "ஒரு நட்பு செழிக்க மரியாதை பரஸ்பரமாக இருக்க வேண்டும்."
+    },
+    "formalSpeechContext": {
+      "english": "Respect must be mutual for a friendship to thrive.",
+      "tamil": "ஒரு நட்பு செழிக்க மரியாதை பரஸ்பரமாக இருக்க வேண்டும்."
+    },
+    "synonyms": [
+      "reciprocal",
+      "shared",
+      "joint"
+    ],
+    "antonyms": [
+      "unilateral",
+      "one-sided",
+      "individual"
+    ]
   }
 ];
