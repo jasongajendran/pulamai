@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataB: VocabularyEntry[] = [
-  {
+{
     "id": "banter",
     "word": "banter",
     "partOfSpeech": "noun",
@@ -1029,5 +1029,100 @@ export const dataB: VocabularyEntry[] = [
       "restricted",
       "limited"
     ]
+  },
+  {
+    "id": "benevolent_inter_6",
+    "word": "Benevolent",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Well meaning, kindly, and charitable in spirit.",
+    "tamilDefinition": "நன்மை செய்யும் நற்குணம் கொண்ட, இரக்கமுள்ள.",
+    "literaryContext": {
+      "english": "A benevolent ruler ensured that no citizen suffered from hunger.",
+      "tamil": "ஒரு நற்குணமுள்ள ஆட்சியாளர் எந்தவொரு குடிமகனும் பசியால் அவதிப்படாமல் இருப்பதை உறுதி செய்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "A benevolent ruler ensured that no citizen suffered from hunger.",
+      "tamil": "ஒரு நற்குணமுள்ள ஆட்சியாளர் எந்தவொரு குடிமகனும் பசியால் அவதிப்படாமல் இருப்பதை உறுதி செய்தார்."
+    },
+    "synonyms": ["kind","charitable","magnanimous"],
+    "antonyms": ["malevolent","cruel","spiteful"]
+  },
+  {
+    "id": "boldness_inter_7",
+    "word": "Boldness",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The state or quality of being daring, brave, or confident.",
+    "tamilDefinition": "துணிச்சல், அஞ்சாமை, தன்னம்பிக்கை.",
+    "literaryContext": {
+      "english": "With remarkable boldness, the explorer ventured into uncharted territory.",
+      "tamil": "குறிப்பிடத்தக்க துணிச்சலுடன், ஆய்வாளர் வரைபடத்தில் இல்லாத பகுதிக்குள் நுழைந்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "With remarkable boldness, the explorer ventured into uncharted territory.",
+      "tamil": "குறிப்பிடத்தக்க துணிச்சலுடன், ஆய்வாளர் வரைபடத்தில் இல்லாத பகுதிக்குள் நுழைந்தார்."
+    },
+    "synonyms": ["courage","audacity","valor"],
+    "antonyms": ["timidity","fear","cowardice"]
+  },
+  {
+    "id": "brilliancy_inter_8",
+    "word": "Brilliancy",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Exceptional intelligence, vivid brightness, or talent.",
+    "tamilDefinition": "பிரகாசம், மிகச்சிறந்த அறிவுக்கூர்மை.",
+    "literaryContext": {
+      "english": "The brilliancy of her mathematical proof astounded the professors.",
+      "tamil": "அவரது கணித நிரூபணத்தின் அறிவுக்கூர்மை பேராசிரியர்களை ஆச்சரியப்படுத்தியது."
+    },
+    "formalSpeechContext": {
+      "english": "The brilliancy of her mathematical proof astounded the professors.",
+      "tamil": "அவரது கணித நிரூபணத்தின் அறிவுக்கூர்மை பேராசிரியர்களை ஆச்சரியப்படுத்தியது."
+    },
+    "synonyms": ["radiance","genius","splendor"],
+    "antonyms": ["dullness","obscurity","stupidity"]
+  },
+  {
+    "id": "blossom_inter_9",
+    "word": "Blossom",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To develop or flourish successfully into full potential.",
+    "tamilDefinition": "மலர்ச்சி அடைதல், செழித்து வளருதல்.",
+    "literaryContext": {
+      "english": "Under wise mentorship, her innate poetic talent began to blossom.",
+      "tamil": "ஞானமுள்ள வழிகாட்டலின் கீழ், அவளது இயல்பான கவிதைத் திறன் மலரத் தொடங்கியது."
+    },
+    "formalSpeechContext": {
+      "english": "Under wise mentorship, her innate poetic talent began to blossom.",
+      "tamil": "ஞானமுள்ள வழிகாட்டலின் கீழ், அவளது இயல்பான கவிதைத் திறன் மலரத் தொடங்கியது."
+    },
+    "synonyms": ["flourish","thrive","bloom"],
+    "antonyms": ["wither","fade","decline"]
+  },
+  {
+    "id": "beacon_inter_10",
+    "word": "Beacon",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A guiding or warning signal, light, or inspiring figure.",
+    "tamilDefinition": "வழிகாட்டும் ஒளிவிளக்கு, நம்பிக்கை தரும் அடையாளம்.",
+    "literaryContext": {
+      "english": "Her unwavering integrity served as a beacon of hope for the community.",
+      "tamil": "அவளது தளராத நேர்மை சமூகத்திற்கு நம்பிக்கையின் வழிகாட்டும் ஒளியாகச் செயல்பட்டது."
+    },
+    "formalSpeechContext": {
+      "english": "Her unwavering integrity served as a beacon of hope for the community.",
+      "tamil": "அவளது தளராத நேர்மை சமூகத்திற்கு நம்பிக்கையின் வழிகாட்டும் ஒளியாகச் செயல்பட்டது."
+    },
+    "synonyms": ["lighthouse","guide","signpost"],
+    "antonyms": ["hazard","obstacle","darkness"]
   }
 ];

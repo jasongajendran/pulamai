@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataH: VocabularyEntry[] = [
-  {
+{
     "id": "habitat",
     "word": "Habitat",
     "partOfSpeech": "noun",
@@ -1089,5 +1089,100 @@ export const dataH: VocabularyEntry[] = [
       "welcoming",
       "hospitable"
     ]
+  },
+  {
+    "id": "heritage_inter_6",
+    "word": "Heritage",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Valued traditions, culture, or property inherited from ancestors.",
+    "tamilDefinition": "பாரம்பரியம், மரபுச் சொத்து.",
+    "literaryContext": {
+      "english": "The monument is a proud symbol of our cultural heritage.",
+      "tamil": "இந்த நினைவுச் சின்னம் நமது கலாச்சார பாரம்பரியத்தின் பெருமைமிக்க அடையாளமாகும்."
+    },
+    "formalSpeechContext": {
+      "english": "The monument is a proud symbol of our cultural heritage.",
+      "tamil": "இந்த நினைவுச் சின்னம் நமது கலாச்சார பாரம்பரியத்தின் பெருமைமிக்க அடையாளமாகும்."
+    },
+    "synonyms": ["legacy","tradition","ancestry"],
+    "antonyms": ["poverty","forgetfulness","destruction"]
+  },
+  {
+    "id": "horizon_inter_7",
+    "word": "Horizon",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The limit of a person knowledge, experience, or perspective.",
+    "tamilDefinition": "தொடுவானம், அறிவின் எல்லை.",
+    "literaryContext": {
+      "english": "Travel expands one horizon and deepens understanding.",
+      "tamil": "பயணம் ஒருவரின் அறிவின் எல்லையை விரிவுபடுத்துகிறது மற்றும் புரிதலை ஆழமாக்குகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Travel expands one horizon and deepens understanding.",
+      "tamil": "பயணம் ஒருவரின் அறிவின் எல்லையை விரிவுபடுத்துகிறது மற்றும் புரிதலை ஆழமாக்குகிறது."
+    },
+    "synonyms": ["scope","prospect","boundary"],
+    "antonyms": ["limitation","center","interior"]
+  },
+  {
+    "id": "heroic_inter_8",
+    "word": "Heroic",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having the extraordinary courage or characteristics of a hero.",
+    "tamilDefinition": "வீர காவியமான, தீரமிக்க.",
+    "literaryContext": {
+      "english": "His heroic actions saved many lives during the flood.",
+      "tamil": "வெள்ளத்தின் போது அவரது தீரமிக்க செயல்கள் பல உயிர்களைக் காப்பாற்றின."
+    },
+    "formalSpeechContext": {
+      "english": "His heroic actions saved many lives during the flood.",
+      "tamil": "வெள்ளத்தின் போது அவரது தீரமிக்க செயல்கள் பல உயிர்களைக் காப்பாற்றின."
+    },
+    "synonyms": ["valiant","courageous","intrepid"],
+    "antonyms": ["cowardly","timid","fearful"]
+  },
+  {
+    "id": "hospitality_inter_9",
+    "word": "Hospitality",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The friendly and generous reception and entertainment of guests.",
+    "tamilDefinition": "விருந்தோம்பல், உபசரிப்பு.",
+    "literaryContext": {
+      "english": "The villagers welcomed the travelers with warm hospitality.",
+      "tamil": "கிராம மக்கள் பயணிகளை வெதுவெதுப்பான விருந்தோம்பலுடன் வரவேற்றனர்."
+    },
+    "formalSpeechContext": {
+      "english": "The villagers welcomed the travelers with warm hospitality.",
+      "tamil": "கிராம மக்கள் பயணிகளை வெதுவெதுப்பான விருந்தோம்பலுடன் வரவேற்றனர்."
+    },
+    "synonyms": ["welcoming","warmth","friendliness"],
+    "antonyms": ["hostility","unfriendliness","rejection"]
+  },
+  {
+    "id": "humanity_inter_10",
+    "word": "Humanity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Human beings collectively or the quality of being humane.",
+    "tamilDefinition": "மனிதநேயம், மனிதகுலம்.",
+    "literaryContext": {
+      "english": "Acts of kindness remind us of the beauty of humanity.",
+      "tamil": "கருணைச் செயல்கள் மனிதநேயத்தின் அழகை நமக்கு நினைவூட்டுகின்றன."
+    },
+    "formalSpeechContext": {
+      "english": "Acts of kindness remind us of the beauty of humanity.",
+      "tamil": "கருணைச் செயல்கள் மனிதநேயத்தின் அழகை நமக்கு நினைவூட்டுகின்றன."
+    },
+    "synonyms": ["humankind","benevolence","compassion"],
+    "antonyms": ["cruelty","inhumanity","barbarity"]
   }
 ];

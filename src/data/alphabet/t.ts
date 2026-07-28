@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataT: VocabularyEntry[] = [
-  {
+{
     "id": "taciturn",
     "word": "Taciturn",
     "partOfSpeech": "adjective",
@@ -1083,5 +1083,100 @@ export const dataT: VocabularyEntry[] = [
       "deviation",
       "exception"
     ]
+  },
+  {
+    "id": "tranquility_inter_6",
+    "word": "Tranquility",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The quality or state of being tranquil; calm.",
+    "tamilDefinition": "அமைதி, அமைதியான சூழல்.",
+    "literaryContext": {
+      "english": "The ancient temple radiated an aura of deep tranquility.",
+      "tamil": "பண்டைய கோவில் ஆழமான அமைதியின் சூழலை வீசியது."
+    },
+    "formalSpeechContext": {
+      "english": "The ancient temple radiated an aura of deep tranquility.",
+      "tamil": "பண்டைய கோவில் ஆழமான அமைதியின் சூழலை வீசியது."
+    },
+    "synonyms": ["calmness","serenity","peacefulness"],
+    "antonyms": ["chaos","commotion","disturbance"]
+  },
+  {
+    "id": "triumph_inter_7",
+    "word": "Triumph",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A great victory or achievement.",
+    "tamilDefinition": "பெருவெற்றி, சாதனை.",
+    "literaryContext": {
+      "english": "The invention was a triumph of human ingenuity.",
+      "tamil": "இந்தக் கண்டுபிடிப்பு மனித புத்தி கூர்மையின் ஒரு பெருவெற்றியாகும்."
+    },
+    "formalSpeechContext": {
+      "english": "The invention was a triumph of human ingenuity.",
+      "tamil": "இந்தக் கண்டுபிடிப்பு மனித புத்தி கூர்மையின் ஒரு பெருவெற்றியாகும்."
+    },
+    "synonyms": ["victory","success","conquest"],
+    "antonyms": ["defeat","failure","loss"]
+  },
+  {
+    "id": "tenacity_inter_8",
+    "word": "Tenacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The quality or fact of being able to grip something firmly.",
+    "tamilDefinition": "விடாப்பிடித் தன்மை, மனஉறுதி.",
+    "literaryContext": {
+      "english": "Her tenacity in pursuing truth inspired all journalists.",
+      "tamil": "உண்மையைத் தேடுவதில் அவளது விடாப்பிடித் தன்மை அனைத்து செய்தியாளர்களையும் ஊக்கப்படுத்தியது."
+    },
+    "formalSpeechContext": {
+      "english": "Her tenacity in pursuing truth inspired all journalists.",
+      "tamil": "உண்மையைத் தேடுவதில் அவளது விடாப்பிடித் தன்மை அனைத்து செய்தியாளர்களையும் ஊக்கப்படுத்தியது."
+    },
+    "synonyms": ["persistence","determination","grit"],
+    "antonyms": ["weakness","hesitation","surrender"]
+  },
+  {
+    "id": "transcend_inter_9",
+    "word": "Transcend",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To go beyond or rise above a limit or threshold.",
+    "tamilDefinition": "கடந்து செல்லுதல், மேலெழும்புதல்.",
+    "literaryContext": {
+      "english": "Great art transcends cultural and linguistic boundaries.",
+      "tamil": "சிறந்த கலை கலாச்சார மற்றும் மொழி எல்லைகளைக் கடந்து செல்கிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Great art transcends cultural and linguistic boundaries.",
+      "tamil": "சிறந்த கலை கலாச்சார மற்றும் மொழி எல்லைகளைக் கடந்து செல்கிறது."
+    },
+    "synonyms": ["surpass","exceed","outgrow"],
+    "antonyms": ["fail","fall short","succumb"]
+  },
+  {
+    "id": "trustworthy_inter_10",
+    "word": "Trustworthy",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Able to be relied on as honest or truthful.",
+    "tamilDefinition": "நம்பகத்தன்மை கொண்ட.",
+    "literaryContext": {
+      "english": "She is a trustworthy friend who never breaks a promise.",
+      "tamil": "அவள் ஒருபோதும் வாக்குறுதியை மீறாத நம்பகமான தோழி."
+    },
+    "formalSpeechContext": {
+      "english": "She is a trustworthy friend who never breaks a promise.",
+      "tamil": "அவள் ஒருபோதும் வாக்குறுதியை மீறாத நம்பகமான தோழி."
+    },
+    "synonyms": ["reliable","dependable","honest"],
+    "antonyms": ["unreliable","deceitful","treacherous"]
   }
 ];

@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataG: VocabularyEntry[] = [
-  {
+{
     "id": "gainsay",
     "word": "Gainsay",
     "partOfSpeech": "verb",
@@ -1024,5 +1024,100 @@ export const dataG: VocabularyEntry[] = [
       "neglect",
       "ignorance"
     ]
+  },
+  {
+    "id": "generosity_inter_6",
+    "word": "Generosity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The quality of being kind, bountiful, and generous.",
+    "tamilDefinition": "கொடைத்தன்மை, தாராள குணம்.",
+    "literaryContext": {
+      "english": "His generosity toward the poor was legendary.",
+      "tamil": "ஏழைகளிடம் காட்டிய அவரது கொடைத்தன்மை புகழ்பெற்றதாக இருந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "His generosity toward the poor was legendary.",
+      "tamil": "ஏழைகளிடம் காட்டிய அவரது கொடைத்தன்மை புகழ்பெற்றதாக இருந்தது."
+    },
+    "synonyms": ["bounty","altruism","charity"],
+    "antonyms": ["meanness","selfishness","greed"]
+  },
+  {
+    "id": "gratitude_inter_7",
+    "word": "Gratitude",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The quality of being thankful; readiness to show appreciation.",
+    "tamilDefinition": "நன்றி உணர்வு, செய்ந்நன்றி அறிதல்.",
+    "literaryContext": {
+      "english": "She expressed heartfelt gratitude to her teachers.",
+      "tamil": "அவள் தன் ஆசிரியர்களுக்கு மனமார்ந்த நன்றியைத் தெரிவித்துக் கொண்டாள்."
+    },
+    "formalSpeechContext": {
+      "english": "She expressed heartfelt gratitude to her teachers.",
+      "tamil": "அவள் தன் ஆசிரியர்களுக்கு மனமார்ந்த நன்றியைத் தெரிவித்துக் கொண்டாள்."
+    },
+    "synonyms": ["thankfulness","appreciation","recognition"],
+    "antonyms": ["ingratitude","unthankfulness","resentment"]
+  },
+  {
+    "id": "gallant_inter_8",
+    "word": "Gallant",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Brave, heroic, or grandly chivalrous.",
+    "tamilDefinition": "வீரமிக்க, தீரமுள்ள, கண்ணியமான.",
+    "literaryContext": {
+      "english": "The gallant soldiers defended the fort against all odds.",
+      "tamil": "வீரமிக்க வீரர்கள் அனைத்து சவால்களுக்கும் இடையே கோட்டையைப் பாதுகாத்தனர்."
+    },
+    "formalSpeechContext": {
+      "english": "The gallant soldiers defended the fort against all odds.",
+      "tamil": "வீரமிக்க வீரர்கள் அனைத்து சவால்களுக்கும் இடையே கோட்டையைப் பாதுகாத்தனர்."
+    },
+    "synonyms": ["chivalrous","valiant","heroic"],
+    "antonyms": ["cowardly","fearful","base"]
+  },
+  {
+    "id": "guarantee_inter_9",
+    "word": "Guarantee",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To provide a formal assurance or promise.",
+    "tamilDefinition": "உத்தரவாதம் அளித்தல், உறுதிமொழி தருதல்.",
+    "literaryContext": {
+      "english": "Hard work does not always guarantee immediate success, but it builds character.",
+      "tamil": "கடின உழைப்பு எப்போதும் உடனடி வெற்றிக்கு உத்தரவாதம் அளிப்பதில்லை, ஆனால் அது நற்பண்பை உருவாக்குகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Hard work does not always guarantee immediate success, but it builds character.",
+      "tamil": "கடின உழைப்பு எப்போதும் உடனடி வெற்றிக்கு உத்தரவாதம் அளிப்பதில்லை, ஆனால் அது நற்பண்பை உருவாக்குகிறது."
+    },
+    "synonyms": ["assure","pledge","warrant"],
+    "antonyms": ["jeopardize","endanger","cancel"]
+  },
+  {
+    "id": "graceful_inter_10",
+    "word": "Graceful",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having or showing elegance, poise, or beauty in form.",
+    "tamilDefinition": "எழிலான, நேர்த்தியான, அழகிய.",
+    "literaryContext": {
+      "english": "The swan glided across the lake with graceful movements.",
+      "tamil": "அன்னப்பறவை எழிலான அசைவுகளுடன் ஏரியின் குறுக்கே மிதந்து சென்றது."
+    },
+    "formalSpeechContext": {
+      "english": "The swan glided across the lake with graceful movements.",
+      "tamil": "அன்னப்பறவை எழிலான அசைவுகளுடன் ஏரியின் குறுக்கே மிதந்து சென்றது."
+    },
+    "synonyms": ["elegant","poised","sublime"],
+    "antonyms": ["clumsy","awkward","ungainly"]
   }
 ];

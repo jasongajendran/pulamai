@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataR: VocabularyEntry[] = [
-  {
+{
     "id": "recalcitrant",
     "word": "recalcitrant",
     "partOfSpeech": "adjective",
@@ -1014,5 +1014,100 @@ export const dataR: VocabularyEntry[] = [
       "fragile",
       "sensitive"
     ]
+  },
+  {
+    "id": "radiant_inter_6",
+    "word": "Radiant",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Sending out light; shining or glowing brightly.",
+    "tamilDefinition": "பிரகாசிக்கும், ஒளிவீசும்.",
+    "literaryContext": {
+      "english": "The bride looked radiant in her traditional silk gown.",
+      "tamil": "மணப்பெண் தன் பாரம்பரிய பட்டு உடையில் பிரகாசமாகத் தெரிந்தாள்."
+    },
+    "formalSpeechContext": {
+      "english": "The bride looked radiant in her traditional silk gown.",
+      "tamil": "மணப்பெண் தன் பாரம்பரிய பட்டு உடையில் பிரகாசமாகத் தெரிந்தாள்."
+    },
+    "synonyms": ["shining","glowing","luminous"],
+    "antonyms": ["dull","dim","dark"]
+  },
+  {
+    "id": "restitution_inter_7",
+    "word": "Restitution",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The restoration of something lost or stolen to its owner.",
+    "tamilDefinition": "இழப்பீடு வழங்குதல், மீட்டமைத்தல்.",
+    "literaryContext": {
+      "english": "The court ordered full restitution for the damaged property.",
+      "tamil": "சேதமடைந்த சொத்திற்கு முழு இழப்பீடு வழங்க நீதிமன்றம் உத்தரவிட்டது."
+    },
+    "formalSpeechContext": {
+      "english": "The court ordered full restitution for the damaged property.",
+      "tamil": "சேதமடைந்த சொத்திற்கு முழு இழப்பீடு வழங்க நீதிமன்றம் உத்தரவிட்டது."
+    },
+    "synonyms": ["compensation","indemnity","repayment"],
+    "antonyms": ["penalty","theft","confiscation"]
+  },
+  {
+    "id": "revere_inter_8",
+    "word": "Revere",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To feel deep respect or admiration for something.",
+    "tamilDefinition": "போற்றுதல், வணங்குதல்.",
+    "literaryContext": {
+      "english": "Citizens revere the memory of their founding leaders.",
+      "tamil": "குடிமக்கள் தங்களது நிறுவனத் தலைவர்களின் நினைவைப் போற்றுகிறார்கள்."
+    },
+    "formalSpeechContext": {
+      "english": "Citizens revere the memory of their founding leaders.",
+      "tamil": "குடிமக்கள் தங்களது நிறுவனத் தலைவர்களின் நினைவைப் போற்றுகிறார்கள்."
+    },
+    "synonyms": ["venerate","honor","respect"],
+    "antonyms": ["despise","scorn","disrespect"]
+  },
+  {
+    "id": "resolve_inter_9",
+    "word": "Resolve",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Firm determination to do something.",
+    "tamilDefinition": "உறுதிப்பாடு, மனத்தீர்மானம்.",
+    "literaryContext": {
+      "english": "Nothing could shake his resolve to complete the journey.",
+      "tamil": "பயணத்தை நிறைவு செய்வதற்கான அவரது உறுதிப்பாட்டை எதுவும் குலைக்க முடியவில்லை."
+    },
+    "formalSpeechContext": {
+      "english": "Nothing could shake his resolve to complete the journey.",
+      "tamil": "பயணத்தை நிறைவு செய்வதற்கான அவரது உறுதிப்பாட்டை எதுவும் குலைக்க முடியவில்லை."
+    },
+    "synonyms": ["determination","firmness","willpower"],
+    "antonyms": ["indecision","hesitation","vacillation"]
+  },
+  {
+    "id": "renaissance_inter_10",
+    "word": "Renaissance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A revival of or renewed interest in something.",
+    "tamilDefinition": "மறுமலர்ச்சி, புதிய எழுச்சி.",
+    "literaryContext": {
+      "english": "The city experienced a cultural renaissance in music and art.",
+      "tamil": "நகரம் இசை மற்றும் கலையில் ஒரு கலாச்சார மறுமலர்ச்சியை அனுபவித்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The city experienced a cultural renaissance in music and art.",
+      "tamil": "நகரம் இசை மற்றும் கலையில் ஒரு கலாச்சார மறுமலர்ச்சியை அனுபவித்தது."
+    },
+    "synonyms": ["revival","rebirth","resurgence"],
+    "antonyms": ["decline","death","decay"]
   }
 ];

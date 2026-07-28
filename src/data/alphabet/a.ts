@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataA: VocabularyEntry[] = [
-  {
+{
     "id": "absolution",
     "word": "Absolution",
     "partOfSpeech": "noun",
@@ -1183,5 +1183,100 @@ export const dataA: VocabularyEntry[] = [
       "meager",
       "sparse"
     ]
+  },
+  {
+    "id": "advocate_inter_6",
+    "word": "Advocate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To publicly recommend or support a cause or policy.",
+    "tamilDefinition": "ஆதரித்து பேசுதல், ஒரு கொள்கையைப் பரிந்துரைத்தல்.",
+    "literaryContext": {
+      "english": "She dedicated her life to advocate for the rights of the underprivileged.",
+      "tamil": "எளிய மக்களின் உரிமைகளுக்காகப் பரிந்துரைத்துப் பேச அவள் தன் வாழ்வை அர்ப்பணித்தாள்."
+    },
+    "formalSpeechContext": {
+      "english": "She dedicated her life to advocate for the rights of the underprivileged.",
+      "tamil": "எளிய மக்களின் உரிமைகளுக்காகப் பரிந்துரைத்துப் பேச அவள் தன் வாழ்வை அர்ப்பணித்தாள்."
+    },
+    "synonyms": ["support","champion","endorse"],
+    "antonyms": ["oppose","discourage","protest"]
+  },
+  {
+    "id": "aspire_inter_7",
+    "word": "Aspire",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To direct one hopes or ambitions toward achieving something high.",
+    "tamilDefinition": "உயர்ந்த இலக்கை நோக்கி ஆசைப்படுதல், இலட்சியம் கொள்ளுதல்.",
+    "literaryContext": {
+      "english": "Young scholars aspire to reach the pinnacle of human knowledge.",
+      "tamil": "இளம் அறிஞர்கள் மனித அறிவின் உச்சத்தை எட்ட விரும்புகிறார்கள்."
+    },
+    "formalSpeechContext": {
+      "english": "Young scholars aspire to reach the pinnacle of human knowledge.",
+      "tamil": "இளம் அறிஞர்கள் மனித அறிவின் உச்சத்தை எட்ட விரும்புகிறார்கள்."
+    },
+    "synonyms": ["aim","seek","desire"],
+    "antonyms": ["despair","disregard","surrender"]
+  },
+  {
+    "id": "assemble_inter_8",
+    "word": "Assemble",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To gather together in one place for a common purpose.",
+    "tamilDefinition": "ஒன்றுகூடுதல், பொது நோக்கத்திற்காக ஒன்றுதிரட்டுதல்.",
+    "literaryContext": {
+      "english": "Citizens assembled in the town square to hear the ancient decree.",
+      "tamil": "பண்டைய கட்டளையைக் கேட்க குடிமக்கள் நகர சதுக்கத்தில் கூடினர்."
+    },
+    "formalSpeechContext": {
+      "english": "Citizens assembled in the town square to hear the ancient decree.",
+      "tamil": "பண்டைய கட்டளையைக் கேட்க குடிமக்கள் நகர சதுக்கத்தில் கூடினர்."
+    },
+    "synonyms": ["gather","convene","muster"],
+    "antonyms": ["disperse","scatter","dissolve"]
+  },
+  {
+    "id": "attain_inter_9",
+    "word": "Attain",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To succeed in achieving or reaching something desirable.",
+    "tamilDefinition": "அடைதல், முயற்சி செய்து இலக்கை எய்துதல்.",
+    "literaryContext": {
+      "english": "Through patient endurance, he attained mastery in classical art.",
+      "tamil": "பொறுமையான சகிப்புத்தன்மையால், அவர் செவ்வியல் கலையில் தேர்ச்சி பெற்றார்."
+    },
+    "formalSpeechContext": {
+      "english": "Through patient endurance, he attained mastery in classical art.",
+      "tamil": "பொறுமையான சகிப்புத்தன்மையால், அவர் செவ்வியல் கலையில் தேர்ச்சி பெற்றார்."
+    },
+    "synonyms": ["achieve","accomplish","gain"],
+    "antonyms": ["lose","fail","forfeit"]
+  },
+  {
+    "id": "astonish_inter_10",
+    "word": "Astonish",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To surprise or impress someone greatly with wonder.",
+    "tamilDefinition": "மிகவும் வியப்படையச் செய்தல், ஆச்சரியத்தில் ஆழ்த்துதல்.",
+    "literaryContext": {
+      "english": "The young musician performance astonished the audience.",
+      "tamil": "இளம் இசைக்கலைஞரின் திறமையான இசை நிகழ்ச்சி பார்வையாளர்களை வியப்பில் ஆழ்த்தியது."
+    },
+    "formalSpeechContext": {
+      "english": "The young musician performance astonished the audience.",
+      "tamil": "இளம் இசைக்கலைஞரின் திறமையான இசை நிகழ்ச்சி பார்வையாளர்களை வியப்பில் ஆழ்த்தியது."
+    },
+    "synonyms": ["amaze","astound","stun"],
+    "antonyms": ["bore","calm","reassure"]
   }
 ];

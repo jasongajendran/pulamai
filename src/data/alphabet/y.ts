@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataY: VocabularyEntry[] = [
-  {
+{
     "id": "yahrzeit",
     "word": "Yahrzeit",
     "partOfSpeech": "noun",
@@ -883,5 +883,100 @@ export const dataY: VocabularyEntry[] = [
       "close",
       "here"
     ]
+  },
+  {
+    "id": "yearning_inter_6",
+    "word": "Yearning",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A feeling of intense longing for something.",
+    "tamilDefinition": "ஆழ்ந்த ஏக்கம், பெருவிருப்பம்.",
+    "literaryContext": {
+      "english": "A yearning for freedom inspired the poem.",
+      "tamil": "சுதந்திரத்திற்கான ஒரு ஆழமான ஏக்கம் கவிதையை ஊக்கப்படுத்தியது."
+    },
+    "formalSpeechContext": {
+      "english": "A yearning for freedom inspired the poem.",
+      "tamil": "சுதந்திரத்திற்கான ஒரு ஆழமான ஏக்கம் கவிதையை ஊக்கப்படுத்தியது."
+    },
+    "synonyms": ["longing","desire","craving"],
+    "antonyms": ["apathy","indifference","disgust"]
+  },
+  {
+    "id": "yielding_inter_7",
+    "word": "Yielding",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Compliant, flexible, or giving way under pressure.",
+    "tamilDefinition": "இணங்கிச் செல்லும், வளைந்துகொடுக்கும்.",
+    "literaryContext": {
+      "english": "A soft and yielding mattress provided a good night sleep.",
+      "tamil": "ஒரு மென்மையான வளைந்துகொடுக்கும் மெத்தை நல்ல இரவு தூக்கத்தை அளித்தது."
+    },
+    "formalSpeechContext": {
+      "english": "A soft and yielding mattress provided a good night sleep.",
+      "tamil": "ஒரு மென்மையான வளைந்துகொடுக்கும் மெத்தை நல்ல இரவு தூக்கத்தை அளித்தது."
+    },
+    "synonyms": ["flexible","compliant","pliant"],
+    "antonyms": ["rigid","stubborn","inflexible"]
+  },
+  {
+    "id": "yoke_inter_8",
+    "word": "Yoke",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To join together or harness for a shared purpose.",
+    "tamilDefinition": "இணைத்தல், பூட்டுதல்.",
+    "literaryContext": {
+      "english": "The two organizations yoke their efforts to fight poverty.",
+      "tamil": "இரு அமைப்புகளும் வறுமையை எதிர்த்துப் போராடத் தங்களது முயற்சிகளை இணைத்தன."
+    },
+    "formalSpeechContext": {
+      "english": "The two organizations yoke their efforts to fight poverty.",
+      "tamil": "இரு அமைப்புகளும் வறுமையை எதிர்த்துப் போராடத் தங்களது முயற்சிகளை இணைத்தன."
+    },
+    "synonyms": ["harness","couple","bind"],
+    "antonyms": ["uncouple","release","sever"]
+  },
+  {
+    "id": "youthful_inter_9",
+    "word": "Youthful",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Remaining young, fresh, or energetic.",
+    "tamilDefinition": "இளமைத் ததும்பும், புத்துணர்ச்சியுள்ள.",
+    "literaryContext": {
+      "english": "Her youthful enthusiasm infected everyone in the workshop.",
+      "tamil": "அவளது இளமைத் ததும்பும் உற்சாகம் பட்டறையில் இருந்த அனைவரையும் தொற்றிக்கொண்டது."
+    },
+    "formalSpeechContext": {
+      "english": "Her youthful enthusiasm infected everyone in the workshop.",
+      "tamil": "அவளது இளமைத் ததும்பும் உற்சாகம் பட்டறையில் இருந்த அனைவரையும் தொற்றிக்கொண்டது."
+    },
+    "synonyms": ["vibrant","young","fresh"],
+    "antonyms": ["aged","elderly","weary"]
+  },
+  {
+    "id": "yonder_inter_10",
+    "word": "Yonder",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "At or in that place; distant but within sight.",
+    "tamilDefinition": "அங்கே இருக்கும், தொலைவில் உள்ள.",
+    "literaryContext": {
+      "english": "Look at the cozy cottage on yonder hill.",
+      "tamil": "அங்கே உள்ள மலையில் இருக்கும் வசதியான குடிசையைப் பாருங்கள்."
+    },
+    "formalSpeechContext": {
+      "english": "Look at the cozy cottage on yonder hill.",
+      "tamil": "அங்கே உள்ள மலையில் இருக்கும் வசதியான குடிசையைப் பாருங்கள்."
+    },
+    "synonyms": ["distant","further","farther"],
+    "antonyms": ["nearby","close","here"]
   }
 ];

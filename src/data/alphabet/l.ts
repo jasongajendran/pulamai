@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataL: VocabularyEntry[] = [
-  {
+{
     "id": "laconic",
     "word": "Laconic",
     "partOfSpeech": "adjective",
@@ -1020,5 +1020,100 @@ export const dataL: VocabularyEntry[] = [
       "unclear",
       "obscure"
     ]
+  },
+  {
+    "id": "liberation_inter_6",
+    "word": "Liberation",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The act of setting someone free from imprisonment or oppression.",
+    "tamilDefinition": "விடுதலை, மீட்சி.",
+    "literaryContext": {
+      "english": "The day of liberation was celebrated across the country.",
+      "tamil": "விடுதலை நாள் நாடு முழுவதும் கொண்டாடப்பட்டது."
+    },
+    "formalSpeechContext": {
+      "english": "The day of liberation was celebrated across the country.",
+      "tamil": "விடுதலை நாள் நாடு முழுவதும் கொண்டாடப்பட்டது."
+    },
+    "synonyms": ["freedom","emancipation","release"],
+    "antonyms": ["bondage","slavery","oppression"]
+  },
+  {
+    "id": "luminosity_inter_7",
+    "word": "Luminosity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The quality of giving off light; radiant brightness.",
+    "tamilDefinition": "ஒளிப்பிரகாசம், பிரகாசிக்கும் தன்மை.",
+    "literaryContext": {
+      "english": "The luminosity of the full moon guided their night hike.",
+      "tamil": "பௌர்ணமி நிலவின் ஒளிப்பிரகாசம் அவர்களின் இரவு நடைப்பயணத்திற்கு வழிகாட்டியது."
+    },
+    "formalSpeechContext": {
+      "english": "The luminosity of the full moon guided their night hike.",
+      "tamil": "பௌர்ணமி நிலவின் ஒளிப்பிரகாசம் அவர்களின் இரவு நடைப்பயணத்திற்கு வழிகாட்டியது."
+    },
+    "synonyms": ["brightness","radiance","brilliance"],
+    "antonyms": ["darkness","gloom","dimness"]
+  },
+  {
+    "id": "legacy_inter_8",
+    "word": "Legacy",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Something handed down from an ancestor or predecessor.",
+    "tamilDefinition": "பரம்பரைச் சொத்து, வரலாற்றுக்கொடை.",
+    "literaryContext": {
+      "english": "His greatest legacy was a foundation that educated thousands.",
+      "tamil": "ஆயிரக்கணக்கானோருக்குக் கல்வி கற்பித்த அறக்கட்டளையே அவரது சிறந்த வரலாற்றுக்கொடையாகும்."
+    },
+    "formalSpeechContext": {
+      "english": "His greatest legacy was a foundation that educated thousands.",
+      "tamil": "ஆயிரக்கணக்கானோருக்குக் கல்வி கற்பித்த அறக்கட்டளையே அவரது சிறந்த வரலாற்றுக்கொடையாகும்."
+    },
+    "synonyms": ["inheritance","bequest","heritage"],
+    "antonyms": ["debt","loss","disgrace"]
+  },
+  {
+    "id": "loftiness_inter_9",
+    "word": "Loftiness",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The quality of being noble, elevated, or grand.",
+    "tamilDefinition": "உன்னதம், கம்பீரம், உயர் சிந்தனை.",
+    "literaryContext": {
+      "english": "The loftiness of his ideals inspired everyone around him.",
+      "tamil": "அவரது லட்சியங்களின் உன்னதம் அவரைச் சுற்றியிருந்த அனைவரையும் ஊக்கப்படுத்தியது."
+    },
+    "formalSpeechContext": {
+      "english": "The loftiness of his ideals inspired everyone around him.",
+      "tamil": "அவரது லட்சியங்களின் உன்னதம் அவரைச் சுற்றியிருந்த அனைவரையும் ஊக்கப்படுத்தியது."
+    },
+    "synonyms": ["grandeur","sublimity","nobility"],
+    "antonyms": ["baseness","humility","lowness"]
+  },
+  {
+    "id": "laudable_inter_10",
+    "word": "Laudable",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Deserving praise and commendation.",
+    "tamilDefinition": "பாராட்டத்தக்க, போற்றத்தக்க.",
+    "literaryContext": {
+      "english": "Her laudable efforts in environmental conservation bore fruit.",
+      "tamil": "சுற்றுச்சூழல் பாதுகாப்பில் அவளது பாராட்டத்தக்க முயற்சிகள் பலனளித்தன."
+    },
+    "formalSpeechContext": {
+      "english": "Her laudable efforts in environmental conservation bore fruit.",
+      "tamil": "சுற்றுச்சூழல் பாதுகாப்பில் அவளது பாராட்டத்தக்க முயற்சிகள் பலனளித்தன."
+    },
+    "synonyms": ["praiseworthy","commendable","admirable"],
+    "antonyms": ["blameworthy","discreditable","despicable"]
   }
 ];

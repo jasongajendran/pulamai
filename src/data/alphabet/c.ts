@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataC: VocabularyEntry[] = [
-  {
+{
     "id": "cacophony",
     "word": "Cacophony",
     "partOfSpeech": "noun",
@@ -1151,5 +1151,100 @@ export const dataC: VocabularyEntry[] = [
       "distress",
       "pain"
     ]
+  },
+  {
+    "id": "compassion_inter_6",
+    "word": "Compassion",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Sympathetic pity and concern for the sufferings of others.",
+    "tamilDefinition": "கருணை, மற்றவர்களின் துன்பத்தைக் கண்டு இரங்கும் நற்குணம்.",
+    "literaryContext": {
+      "english": "Her deep compassion prompted her to establish a shelter for the homeless.",
+      "tamil": "அவளது ஆழமான கருணை வீடற்றவர்களுக்கு ஒரு புகலிடத்தை நிறுவத் தூண்டியது."
+    },
+    "formalSpeechContext": {
+      "english": "Her deep compassion prompted her to establish a shelter for the homeless.",
+      "tamil": "அவளது ஆழமான கருணை வீடற்றவர்களுக்கு ஒரு புகலிடத்தை நிறுவத் தூண்டியது."
+    },
+    "synonyms": ["empathy","mercy","sympathy"],
+    "antonyms": ["cruelty","indifference","harshness"]
+  },
+  {
+    "id": "cultivate_inter_7",
+    "word": "Cultivate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To try to acquire or develop a virtuous quality or skill.",
+    "tamilDefinition": "பயிற்சி மூலம் வளர்த்துக் கொள்ளுதல், பண்படுத்துதல்.",
+    "literaryContext": {
+      "english": "He sought to cultivate patience and wisdom through daily meditation.",
+      "tamil": "தினசரி தியானத்தின் மூலம் பொறுமையையும் ஞானத்தையும் வளர்க்க முயன்றார்."
+    },
+    "formalSpeechContext": {
+      "english": "He sought to cultivate patience and wisdom through daily meditation.",
+      "tamil": "தினசரி தியானத்தின் மூலம் பொறுமையையும் ஞானத்தையும் வளர்க்க முயன்றார்."
+    },
+    "synonyms": ["foster","nurture","develop"],
+    "antonyms": ["neglect","destroy","stifle"]
+  },
+  {
+    "id": "conviction_inter_8",
+    "word": "Conviction",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A firmly held belief, principle, or opinion.",
+    "tamilDefinition": "உறுதியான நம்பிக்கை, நெஞ்சார்ந்த கொள்கை.",
+    "literaryContext": {
+      "english": "He spoke with quiet conviction that earned the respect of all present.",
+      "tamil": "அங்கிருந்த அனைவரின் மரியாதையையும் பெற்ற அமைதியான உறுதியுடன் அவர் பேசினார்."
+    },
+    "formalSpeechContext": {
+      "english": "He spoke with quiet conviction that earned the respect of all present.",
+      "tamil": "அங்கிருந்த அனைவரின் மரியாதையையும் பெற்ற அமைதியான உறுதியுடன் அவர் பேசினார்."
+    },
+    "synonyms": ["belief","persuasion","creed"],
+    "antonyms": ["doubt","uncertainty","skepticism"]
+  },
+  {
+    "id": "courageous_inter_9",
+    "word": "Courageous",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Not deterred by danger or pain; brave and heroic.",
+    "tamilDefinition": "தைரியமிக்க, அஞ்சாத வீரம் கொண்ட.",
+    "literaryContext": {
+      "english": "The courageous firefighter entered the burning building to save the child.",
+      "tamil": "தைரியமிக்க தீயணைப்பு வீரர் குழந்தையைக் காப்பாற்ற எரியும் கட்டிடத்திற்குள் நுழைந்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "The courageous firefighter entered the burning building to save the child.",
+      "tamil": "தைரியமிக்க தீயணைப்பு வீரர் குழந்தையைக் காப்பாற்ற எரியும் கட்டிடத்திற்குள் நுழைந்தார்."
+    },
+    "synonyms": ["brave","valiant","fearless"],
+    "antonyms": ["cowardly","fearful","timid"]
+  },
+  {
+    "id": "coherent_inter_10",
+    "word": "Coherent",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Logical, well-structured, and consistent in thought or speech.",
+    "tamilDefinition": "சீரான, தருக்கரீதியான தெளிவான கோர்வை கொண்ட.",
+    "literaryContext": {
+      "english": "The essay presented a coherent argument supported by historical facts.",
+      "tamil": "இந்தக் கட்டுரை வரலாற்று உண்மைகளால் ஆதரிக்கப்பட்ட ஒரு சீரான வாதத்தை முன்வைத்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The essay presented a coherent argument supported by historical facts.",
+      "tamil": "இந்தக் கட்டுரை வரலாற்று உண்மைகளால் ஆதரிக்கப்பட்ட ஒரு சீரான வாதத்தை முன்வைத்தது."
+    },
+    "synonyms": ["logical","consistent","lucid"],
+    "antonyms": ["incoherent","confused","rambling"]
   }
 ];

@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataW: VocabularyEntry[] = [
-  {
+{
     "id": "wan",
     "word": "wan",
     "partOfSpeech": "adjective",
@@ -1016,5 +1016,100 @@ export const dataW: VocabularyEntry[] = [
       "advance",
       "insert"
     ]
+  },
+  {
+    "id": "wisdom_inter_6",
+    "word": "Wisdom",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The quality of having experience, knowledge, and good judgment.",
+    "tamilDefinition": "ஞானம், அறிவாற்றல்.",
+    "literaryContext": {
+      "english": "True wisdom lies in knowing the extent of one ignorance.",
+      "tamil": "தன் அறியாமையின் அளவை அறிவதிலேயே உண்மையான ஞானம் உள்ளது."
+    },
+    "formalSpeechContext": {
+      "english": "True wisdom lies in knowing the extent of one ignorance.",
+      "tamil": "தன் அறியாமையின் அளவை அறிவதிலேயே உண்மையான ஞானம் உள்ளது."
+    },
+    "synonyms": ["sagacity","insight","discernment"],
+    "antonyms": ["foolishness","ignorance","stupidity"]
+  },
+  {
+    "id": "welcoming_inter_7",
+    "word": "Welcoming",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Friendly and encouraging toward new arrivals.",
+    "tamilDefinition": "வரவேற்கும் தன்மையுள்ள, உபசரிப்பான.",
+    "literaryContext": {
+      "english": "A welcoming smile made the stranger feel at ease.",
+      "tamil": "வரவேற்கும் புன்னகை புதியவரை இயல்பாக உணரச் செய்தது."
+    },
+    "formalSpeechContext": {
+      "english": "A welcoming smile made the stranger feel at ease.",
+      "tamil": "வரவேற்கும் புன்னகை புதியவரை இயல்பாக உணரச் செய்தது."
+    },
+    "synonyms": ["hospitable","friendly","genial"],
+    "antonyms": ["unwelcoming","cold","hostile"]
+  },
+  {
+    "id": "worthy_inter_8",
+    "word": "Worthy",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having or showing the qualities that deserve respect.",
+    "tamilDefinition": "தகுதியான, மரியாதைக்குரிய.",
+    "literaryContext": {
+      "english": "Educating poor children is a cause worthy of support.",
+      "tamil": "ஏழை குழந்தைகளுக்குக் கல்வி கற்பிப்பது ஆதரவிற்குத் தகுதியான ஒரு காரணமாகும்."
+    },
+    "formalSpeechContext": {
+      "english": "Educating poor children is a cause worthy of support.",
+      "tamil": "ஏழை குழந்தைகளுக்குக் கல்வி கற்பிப்பது ஆதரவிற்குத் தகுதியான ஒரு காரணமாகும்."
+    },
+    "synonyms": ["deserving","meritorious","honorable"],
+    "antonyms": ["unworthy","undeserving","disreputable"]
+  },
+  {
+    "id": "wholehearted_inter_9",
+    "word": "Wholehearted",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Done with complete commitment and enthusiasm.",
+    "tamilDefinition": "முழுமனதான, ஆத்மார்த்தமான.",
+    "literaryContext": {
+      "english": "The proposal received the wholehearted support of the community.",
+      "tamil": "இக்கோரிக்கை சமூகத்தின் முழுமனதான ஆதரவைப் பெற்றது."
+    },
+    "formalSpeechContext": {
+      "english": "The proposal received the wholehearted support of the community.",
+      "tamil": "இக்கோரிக்கை சமூகத்தின் முழுமனதான ஆதரவைப் பெற்றது."
+    },
+    "synonyms": ["earnest","sincere","complete"],
+    "antonyms": ["halfhearted","insincere","cool"]
+  },
+  {
+    "id": "willpower_inter_10",
+    "word": "Willpower",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Control exerted to do something or restrain from impulses.",
+    "tamilDefinition": "மனவுறுதி, சுயகட்டுப்பாடு.",
+    "literaryContext": {
+      "english": "It took great willpower to overcome the habit.",
+      "tamil": "அந்தப் பழக்கத்தைக் கடக்க மிகுந்த மனவுறுதி தேவைப்பட்டது."
+    },
+    "formalSpeechContext": {
+      "english": "It took great willpower to overcome the habit.",
+      "tamil": "அந்தப் பழக்கத்தைக் கடக்க மிகுந்த மனவுறுதி தேவைப்பட்டது."
+    },
+    "synonyms": ["determination","resolve","self-control"],
+    "antonyms": ["indecision","weakness","spinelessness"]
   }
 ];

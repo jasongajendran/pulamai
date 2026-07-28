@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataQ: VocabularyEntry[] = [
-  {
+{
     "id": "quack",
     "word": "quack",
     "partOfSpeech": "noun",
@@ -909,5 +909,100 @@ export const dataQ: VocabularyEntry[] = [
       "whole",
       "total"
     ]
+  },
+  {
+    "id": "quench_inter_6",
+    "word": "Quench",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To satisfy one thirst or desire; to extinguish.",
+    "tamilDefinition": "தணித்தல், திருப்திப்படுத்துதல்.",
+    "literaryContext": {
+      "english": "A cold drink quenched his thirst after the long run.",
+      "tamil": "நீண்ட ஓட்டத்திற்குப் பிறகு ஒரு குளிர்ந்த பானம் அவரது தாகத்தைத் தணித்தது."
+    },
+    "formalSpeechContext": {
+      "english": "A cold drink quenched his thirst after the long run.",
+      "tamil": "நீண்ட ஓட்டத்திற்குப் பிறகு ஒரு குளிர்ந்த பானம் அவரது தாகத்தைத் தணித்தது."
+    },
+    "synonyms": ["satisfy","slake","extinguish"],
+    "antonyms": ["ignite","intense","worsen"]
+  },
+  {
+    "id": "quintessential_inter_7",
+    "word": "Quintessential",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Representing the most perfect or typical example of a quality.",
+    "tamilDefinition": "சிறந்த உதாரணமான, பூரண வடிவிலான.",
+    "literaryContext": {
+      "english": "He is the quintessential scholar dedicated to pure research.",
+      "tamil": "தூய ஆராய்ச்சிக்கு அர்ப்பணிக்கப்பட்ட சிறந்த உதாரணமான அறிஞர் அவர்."
+    },
+    "formalSpeechContext": {
+      "english": "He is the quintessential scholar dedicated to pure research.",
+      "tamil": "தூய ஆராய்ச்சிக்கு அர்ப்பணிக்கப்பட்ட சிறந்த உதாரணமான அறிஞர் அவர்."
+    },
+    "synonyms": ["ideal","archetypal","model"],
+    "antonyms": ["atypical","unrepresentative","flawed"]
+  },
+  {
+    "id": "quiver_inter_8",
+    "word": "Quiver",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To tremble or shake with a slight rapid motion.",
+    "tamilDefinition": "நடுங்குதல், சிலிர்த்தல்.",
+    "literaryContext": {
+      "english": "Leaves quiver gently in the autumn wind.",
+      "tamil": "இலைகள் இலையுதிர் காற்றில் மெல்ல சிலிர்க்கின்றன."
+    },
+    "formalSpeechContext": {
+      "english": "Leaves quiver gently in the autumn wind.",
+      "tamil": "இலைகள் இலையுதிர் காற்றில் மெல்ல சிலிர்க்கின்றன."
+    },
+    "synonyms": ["tremble","shiver","vibrate"],
+    "antonyms": ["remain still","freeze","stabilize"]
+  },
+  {
+    "id": "quorum_inter_9",
+    "word": "Quorum",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The minimum number of members that must be present.",
+    "tamilDefinition": "குறைந்தபட்ச உறுப்பினர்கள் எண்ணிக்கை.",
+    "literaryContext": {
+      "english": "The meeting was delayed until a quorum was established.",
+      "tamil": "குறைந்தபட்ச உறுப்பினர்கள் எண்ணிக்கை எட்டும் வரை கூட்டம் தாமதமானது."
+    },
+    "formalSpeechContext": {
+      "english": "The meeting was delayed until a quorum was established.",
+      "tamil": "குறைந்தபட்ச உறுப்பினர்கள் எண்ணிக்கை எட்டும் வரை கூட்டம் தாமதமானது."
+    },
+    "synonyms": ["minimum count","plenum","threshold"],
+    "antonyms": ["minority","absence","shortage"]
+  },
+  {
+    "id": "quietude_inter_10",
+    "word": "Quietude",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A state of stillness, calmness, and quiet in a place.",
+    "tamilDefinition": "அமைதி நிலை, அமைதியான சூழல்.",
+    "literaryContext": {
+      "english": "She enjoyed the peaceful quietude of the mountain cabin.",
+      "tamil": "அவள் மலைக் குடிசையின் அமைதியான சூழலை ரசித்தாள்."
+    },
+    "formalSpeechContext": {
+      "english": "She enjoyed the peaceful quietude of the mountain cabin.",
+      "tamil": "அவள் மலைக் குடிசையின் அமைதியான சூழலை ரசித்தாள்."
+    },
+    "synonyms": ["tranquility","serenity","stillness"],
+    "antonyms": ["turmoil","noise","commotion"]
   }
 ];

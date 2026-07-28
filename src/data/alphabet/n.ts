@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataN: VocabularyEntry[] = [
-  {
+{
     "id": "nadir",
     "word": "nadir",
     "partOfSpeech": "noun",
@@ -981,5 +981,100 @@ export const dataN: VocabularyEntry[] = [
       "slow",
       "sluggish"
     ]
+  },
+  {
+    "id": "noble_inter_6",
+    "word": "Noble",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having or showing fine personal qualities or high moral principles.",
+    "tamilDefinition": "உன்னதமான, உயர்குணமுள்ள.",
+    "literaryContext": {
+      "english": "Helping those in distress is a noble duty.",
+      "tamil": "துன்பத்தில் இருப்பவர்களுக்கு உதவுவது ஒரு உன்னதமான கடமையாகும்."
+    },
+    "formalSpeechContext": {
+      "english": "Helping those in distress is a noble duty.",
+      "tamil": "துன்பத்தில் இருப்பவர்களுக்கு உதவுவது ஒரு உன்னதமான கடமையாகும்."
+    },
+    "synonyms": ["honorable","righteous","virtuous"],
+    "antonyms": ["base","ignoble","dishonorable"]
+  },
+  {
+    "id": "novelty_inter_7",
+    "word": "Novelty",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The quality of being new, original, or unusual.",
+    "tamilDefinition": "புதுமை, புதிய அம்சம்.",
+    "literaryContext": {
+      "english": "The novelty of the technology attracted many curious visitors.",
+      "tamil": "தொழில்நுட்பத்தின் புதுமை பல ஆர்வமுள்ள பார்வையாளர்களை ஈர்த்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The novelty of the technology attracted many curious visitors.",
+      "tamil": "தொழில்நுட்பத்தின் புதுமை பல ஆர்வமுள்ள பார்வையாளர்களை ஈர்த்தது."
+    },
+    "synonyms": ["originality","newness","freshness"],
+    "antonyms": ["familiarity","staleness","routine"]
+  },
+  {
+    "id": "nurturance_inter_8",
+    "word": "Nurturance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Provision of care, encouragement, and support.",
+    "tamilDefinition": "பராமரிப்பு, ஊக்கம் அளித்தல்.",
+    "literaryContext": {
+      "english": "The warm nurturance of her family gave her confidence.",
+      "tamil": "அவள் குடும்பத்தின் அன்பான பராமரிப்பு அவளுக்கு நம்பிக்கையை அளித்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The warm nurturance of her family gave her confidence.",
+      "tamil": "அவள் குடும்பத்தின் அன்பான பராமரிப்பு அவளுக்கு நம்பிக்கையை அளித்தது."
+    },
+    "synonyms": ["care","fostering","nourishment"],
+    "antonyms": ["neglect","abandonment","deprivation"]
+  },
+  {
+    "id": "navigate_inter_9",
+    "word": "Navigate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To plan and direct the course of a ship or process.",
+    "tamilDefinition": "வழிகாட்டிக் கொண்டுசெல்லுதல்.",
+    "literaryContext": {
+      "english": "A skilled captain can navigate through rough seas.",
+      "tamil": "ஒரு திறமையான கேப்டன் கொந்தளிப்பான கடலில் வழிகாட்டிக் கொண்டுசெல்ல முடியும்."
+    },
+    "formalSpeechContext": {
+      "english": "A skilled captain can navigate through rough seas.",
+      "tamil": "ஒரு திறமையான கேப்டன் கொந்தளிப்பான கடலில் வழிகாட்டிக் கொண்டுசெல்ல முடியும்."
+    },
+    "synonyms": ["guide","steer","direct"],
+    "antonyms": ["misguide","get lost","drift"]
+  },
+  {
+    "id": "notation_inter_10",
+    "word": "Notation",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A system of graphic symbols used to represent items.",
+    "tamilDefinition": "குறிப்பீடு, குறியீட்டு முறை.",
+    "literaryContext": {
+      "english": "Musical notation allows composers to write down melodies.",
+      "tamil": "இசைக் குறிப்பீடு இசையமைப்பாளர்களை மெல்லிசைகளை எழுத அனுமதிக்கிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Musical notation allows composers to write down melodies.",
+      "tamil": "இசைக் குறிப்பீடு இசையமைப்பாளர்களை மெல்லிசைகளை எழுத அனுமதிக்கிறது."
+    },
+    "synonyms": ["symbolism","code","representation"],
+    "antonyms": ["prose","text","speech"]
   }
 ];

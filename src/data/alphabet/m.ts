@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataM: VocabularyEntry[] = [
-  {
+{
     "id": "malady",
     "word": "Malady",
     "partOfSpeech": "noun",
@@ -1113,5 +1113,100 @@ export const dataM: VocabularyEntry[] = [
       "one-sided",
       "individual"
     ]
+  },
+  {
+    "id": "magnanimous_inter_6",
+    "word": "Magnanimous",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Generous or forgiving, especially toward a rival.",
+    "tamilDefinition": "பெருந்தன்மையான, பரந்த உள்ளம் கொண்ட.",
+    "literaryContext": {
+      "english": "In victory, he was magnanimous toward his opponent.",
+      "tamil": "வெற்றியில், அவர் தனது எதிரியிடம் பெருந்தன்மையுடன் நடந்துகொண்டார்."
+    },
+    "formalSpeechContext": {
+      "english": "In victory, he was magnanimous toward his opponent.",
+      "tamil": "வெற்றியில், அவர் தனது எதிரியிடம் பெருந்தன்மையுடன் நடந்துகொண்டார்."
+    },
+    "synonyms": ["generous","forgiving","noble"],
+    "antonyms": ["petty","forgiving","mean"]
+  },
+  {
+    "id": "magnitude_inter_7",
+    "word": "Magnitude",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Great size, extent, or importance of something.",
+    "tamilDefinition": "அளவு, முக்கியத்துவம்.",
+    "literaryContext": {
+      "english": "They realized the true magnitude of the challenge ahead.",
+      "tamil": "முன்னால் உள்ள சவாலின் உண்மையான முக்கியத்துவத்தை அவர்கள் உணர்ந்தனர்."
+    },
+    "formalSpeechContext": {
+      "english": "They realized the true magnitude of the challenge ahead.",
+      "tamil": "முன்னால் உள்ள சவாலின் உண்மையான முக்கியத்துவத்தை அவர்கள் உணர்ந்தனர்."
+    },
+    "synonyms": ["immensity","scale","importance"],
+    "antonyms": ["smallness","insignificance","trivially"]
+  },
+  {
+    "id": "manifest_inter_8",
+    "word": "Manifest",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To display or show a quality or feeling by one acts.",
+    "tamilDefinition": "வெளிப்படுத்துதல், புலப்படுத்துதல்.",
+    "literaryContext": {
+      "english": "Her devotion began to manifest in her selfless deeds.",
+      "tamil": "அவளது பக்தி அவளது சுயநலமற்ற செயல்களில் வெளிப்படத் தொடங்கியது."
+    },
+    "formalSpeechContext": {
+      "english": "Her devotion began to manifest in her selfless deeds.",
+      "tamil": "அவளது பக்தி அவளது சுயநலமற்ற செயல்களில் வெளிப்படத் தொடங்கியது."
+    },
+    "synonyms": ["display","demonstrate","reveal"],
+    "antonyms": ["conceal","hide","suppress"]
+  },
+  {
+    "id": "meridian_inter_9",
+    "word": "Meridian",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A point or period of highest development or prosperity.",
+    "tamilDefinition": "உச்சக்கட்டம், மேன்மை நிலை.",
+    "literaryContext": {
+      "english": "The empire reached its meridian during the third century.",
+      "tamil": "மூன்றாம் நூற்றாண்டில் பேரரசு தன் மேன்மை நிலையை எட்டியது."
+    },
+    "formalSpeechContext": {
+      "english": "The empire reached its meridian during the third century.",
+      "tamil": "மூன்றாம் நூற்றாண்டில் பேரரசு தன் மேன்மை நிலையை எட்டியது."
+    },
+    "synonyms": ["peak","zenith","pinnacle"],
+    "antonyms": ["nadir","bottom","decline"]
+  },
+  {
+    "id": "mindfulness_inter_10",
+    "word": "Mindfulness",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The state or quality of being conscious or aware.",
+    "tamilDefinition": "கவனக் கூர்மை, விழிப்புணர்வு.",
+    "literaryContext": {
+      "english": "Practicing mindfulness reduces stress and enhances focus.",
+      "tamil": "விழிப்புணர்வைப் பயிற்சி செய்வது மன அழுத்தத்தைக் குறைத்து கவனத்தை மேம்படுத்துகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Practicing mindfulness reduces stress and enhances focus.",
+      "tamil": "விழிப்புணர்வைப் பயிற்சி செய்வது மன அழுத்தத்தைக் குறைத்து கவனத்தை மேம்படுத்துகிறது."
+    },
+    "synonyms": ["awareness","attentiveness","presence"],
+    "antonyms": ["inattention","absentmindedness","distraction"]
   }
 ];

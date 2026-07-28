@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataU: VocabularyEntry[] = [
-  {
+{
     "id": "ubiquitous",
     "word": "ubiquitous",
     "partOfSpeech": "adjective",
@@ -1031,5 +1031,100 @@ export const dataU: VocabularyEntry[] = [
       "squander",
       "ignore"
     ]
+  },
+  {
+    "id": "unity_inter_6",
+    "word": "Unity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The state of being united or joined as a whole.",
+    "tamilDefinition": "ஒற்றுமை, ஒருமைப்பாடு.",
+    "literaryContext": {
+      "english": "Unity among people creates a strong and vibrant society.",
+      "tamil": "மக்களிடையே உள்ள ஒற்றுமை ஒரு வலுவான மற்றும் துடிப்பான சமூகத்தை உருவாக்குகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Unity among people creates a strong and vibrant society.",
+      "tamil": "மக்களிடையே உள்ள ஒற்றுமை ஒரு வலுவான மற்றும் துடிப்பான சமூகத்தை உருவாக்குகிறது."
+    },
+    "synonyms": ["harmony","solidarity","union"],
+    "antonyms": ["division","discord","disunity"]
+  },
+  {
+    "id": "ultimate_inter_7",
+    "word": "Ultimate",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Being or happening at the end of a process; final.",
+    "tamilDefinition": "இறுதியான, மிக உயர்ந்த.",
+    "literaryContext": {
+      "english": "Truth is the ultimate goal of philosophical inquiry.",
+      "tamil": "உண்மையே தத்துவ விசாரணையின் மிக உயர்ந்த இலக்காகும்."
+    },
+    "formalSpeechContext": {
+      "english": "Truth is the ultimate goal of philosophical inquiry.",
+      "tamil": "உண்மையே தத்துவ விசாரணையின் மிக உயர்ந்த இலக்காகும்."
+    },
+    "synonyms": ["final","supreme","ultimate"],
+    "antonyms": ["initial","beginning","minor"]
+  },
+  {
+    "id": "uplift_inter_8",
+    "word": "Uplift",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To raise the level of or improve the spiritual state.",
+    "tamilDefinition": "உயர்த்துதல், மேம்படுத்துதல்.",
+    "literaryContext": {
+      "english": "Inspirational poetry has the power to uplift the soul.",
+      "tamil": "எழுச்சியூட்டும் கவிதை ஆன்மாவை உயர்த்தும் ஆற்றலைக் கொண்டுள்ளது."
+    },
+    "formalSpeechContext": {
+      "english": "Inspirational poetry has the power to uplift the soul.",
+      "tamil": "எழுச்சியூட்டும் கவிதை ஆன்மாவை உயர்த்தும் ஆற்றலைக் கொண்டுள்ளது."
+    },
+    "synonyms": ["elevate","inspire","encourage"],
+    "antonyms": ["depress","degrade","discourage"]
+  },
+  {
+    "id": "unanimous_inter_9",
+    "word": "Unanimous",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Fully in agreement by two or more people.",
+    "tamilDefinition": "ஏகமனதான, ஒருமித்த கருத்துள்ள.",
+    "literaryContext": {
+      "english": "The committee reached a unanimous decision on the policy.",
+      "tamil": "குழு கொள்கை குறித்து ஏகமனதான முடிவை எட்டியது."
+    },
+    "formalSpeechContext": {
+      "english": "The committee reached a unanimous decision on the policy.",
+      "tamil": "குழு கொள்கை குறித்து ஏகமனதான முடிவை எட்டியது."
+    },
+    "synonyms": ["united","concordant","agreed"],
+    "antonyms": ["divided","disputed","conflicting"]
+  },
+  {
+    "id": "utterance_inter_10",
+    "word": "Utterance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A spoken word, statement, or vocal sound.",
+    "tamilDefinition": "கூற்று, சொல்லப்பட்ட வார்த்தை.",
+    "literaryContext": {
+      "english": "Every utterance of the leader was carefully documented.",
+      "tamil": "தலைவரின் ஒவ்வொரு கூற்றும் கவனமாக ஆவணப்படுத்தப்பட்டது."
+    },
+    "formalSpeechContext": {
+      "english": "Every utterance of the leader was carefully documented.",
+      "tamil": "தலைவரின் ஒவ்வொரு கூற்றும் கவனமாக ஆவணப்படுத்தப்பட்டது."
+    },
+    "synonyms": ["statement","expression","speech"],
+    "antonyms": ["silence","suppression","secrecy"]
   }
 ];

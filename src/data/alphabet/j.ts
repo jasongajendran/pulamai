@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataJ: VocabularyEntry[] = [
-  {
+{
     "id": "jaded",
     "word": "jaded",
     "partOfSpeech": "adjective",
@@ -1009,5 +1009,100 @@ export const dataJ: VocabularyEntry[] = [
       "miserable",
       "sorrowful"
     ]
+  },
+  {
+    "id": "jubilee_inter_6",
+    "word": "Jubilee",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A special anniversary or time of joyous celebration.",
+    "tamilDefinition": "பொன்விழா, பெருங்கொண்டாட்டம்.",
+    "literaryContext": {
+      "english": "The town organized grand events to celebrate its golden jubilee.",
+      "tamil": "நகரம் தனது பொன்விழாவைக் கொண்டாட பிரமாண்டமான நிகழ்வுகளை ஏற்பாடு செய்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The town organized grand events to celebrate its golden jubilee.",
+      "tamil": "நகரம் தனது பொன்விழாவைக் கொண்டாட பிரமாண்டமான நிகழ்வுகளை ஏற்பாடு செய்தது."
+    },
+    "synonyms": ["anniversary","celebration","festivity"],
+    "antonyms": ["mourning","lamentation","grief"]
+  },
+  {
+    "id": "judicial_inter_7",
+    "word": "Judicial",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Relating to courts of law or the administration of justice.",
+    "tamilDefinition": "நீதிமன்றம் சார்ந்த, நீதித்துறை.",
+    "literaryContext": {
+      "english": "The judicial system upholds the rule of law.",
+      "tamil": "நீதித்துறை அமைப்பு சட்டத்தின் ஆட்சியை நிலைநிறுத்துகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "The judicial system upholds the rule of law.",
+      "tamil": "நீதித்துறை அமைப்பு சட்டத்தின் ஆட்சியை நிலைநிறுத்துகிறது."
+    },
+    "synonyms": ["legal","judiciary","statutory"],
+    "antonyms": ["illegal","extrajudicial","arbitrary"]
+  },
+  {
+    "id": "judicious_inter_8",
+    "word": "Judicious",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having, showing, or done with good judgment or wisdom.",
+    "tamilDefinition": "அறிவுப்பூர்வமான, சிந்தித்துச் செயல்படும்.",
+    "literaryContext": {
+      "english": "A judicious choice of words averted a heated argument.",
+      "tamil": "வார்த்தைகளின் அறிவுப்பூர்வமான தேர்வு ஒரு காரசாரமான விவாதத்தைத் தவிர்த்தது."
+    },
+    "formalSpeechContext": {
+      "english": "A judicious choice of words averted a heated argument.",
+      "tamil": "வார்த்தைகளின் அறிவுப்பூர்வமான தேர்வு ஒரு காரசாரமான விவாதத்தைத் தவிர்த்தது."
+    },
+    "synonyms": ["prudent","wise","sensible"],
+    "antonyms": ["foolish","imprudent","rash"]
+  },
+  {
+    "id": "juxtapose_inter_9",
+    "word": "Juxtapose",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To place or deal with close together for contrasting effect.",
+    "tamilDefinition": "ஒப்பிடுவதற்காக அருகருகே வைத்தல்.",
+    "literaryContext": {
+      "english": "The exhibition juxtaposed modern paintings with ancient sculptures.",
+      "tamil": "கண்காட்சி நவீன ஓவியங்களை பண்டைய சிற்பங்களுடன் ஒப்பிடுவதற்காக அருகருகே வைத்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The exhibition juxtaposed modern paintings with ancient sculptures.",
+      "tamil": "கண்காட்சி நவீன ஓவியங்களை பண்டைய சிற்பங்களுடன் ஒப்பிடுவதற்காக அருகருகே வைத்தது."
+    },
+    "synonyms": ["compare","contrast","collocate"],
+    "antonyms": ["separate","isolate","disconnect"]
+  },
+  {
+    "id": "jubilant_inter_10",
+    "word": "Jubilant",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Feeling or expressing great happiness and triumph.",
+    "tamilDefinition": "மிக்க மகிழ்ச்சியடைந்த, வெற்றிக்களிப்புள்ள.",
+    "literaryContext": {
+      "english": "The jubilant crowd cheered as the team lifted the trophy.",
+      "tamil": "அணி கோப்பையை உயர்த்தியபோது வெற்றிக்களிப்புள்ள கூட்டம் ஆரவாரம் செய்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The jubilant crowd cheered as the team lifted the trophy.",
+      "tamil": "அணி கோப்பையை உயர்த்தியபோது வெற்றிக்களிப்புள்ள கூட்டம் ஆரவாரம் செய்தது."
+    },
+    "synonyms": ["exultant","overjoyed","elated"],
+    "antonyms": ["despondent","mournful","gloomy"]
   }
 ];

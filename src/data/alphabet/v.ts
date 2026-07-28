@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataV: VocabularyEntry[] = [
-  {
+{
     "id": "vacillation",
     "word": "vacillation",
     "partOfSpeech": "noun",
@@ -1057,5 +1057,100 @@ export const dataV: VocabularyEntry[] = [
       "inaction",
       "certainty"
     ]
+  },
+  {
+    "id": "valor_inter_6",
+    "word": "Valor",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Great courage in the face of danger, especially in battle.",
+    "tamilDefinition": "வீரம், தீரம்.",
+    "literaryContext": {
+      "english": "The soldier received a medal for extraordinary valor.",
+      "tamil": "வீரர் அசாதாரண தீரத்திற்காகப் பதக்கம் பெற்றார்."
+    },
+    "formalSpeechContext": {
+      "english": "The soldier received a medal for extraordinary valor.",
+      "tamil": "வீரர் அசாதாரண தீரத்திற்காகப் பதக்கம் பெற்றார்."
+    },
+    "synonyms": ["bravery","courage","gallantry"],
+    "antonyms": ["cowardice","fear","timidity"]
+  },
+  {
+    "id": "vitality_inter_7",
+    "word": "Vitality",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The state of being strong and active; energy.",
+    "tamilDefinition": "உயிர்ச்சக்தி, புத்துணர்ச்சி.",
+    "literaryContext": {
+      "english": "Her cheerful laughter restored vitality to the room.",
+      "tamil": "அவளது மகிழ்ச்சியான சிரிப்பு அறைக்கு புத்துணர்ச்சியை மீட்டெடுத்தது."
+    },
+    "formalSpeechContext": {
+      "english": "Her cheerful laughter restored vitality to the room.",
+      "tamil": "அவளது மகிழ்ச்சியான சிரிப்பு அறைக்கு புத்துணர்ச்சியை மீட்டெடுத்தது."
+    },
+    "synonyms": ["energy","vigor","liveliness"],
+    "antonyms": ["lethargy","weakness","apathy"]
+  },
+  {
+    "id": "virtuous_inter_8",
+    "word": "Virtuous",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having or showing high moral standards.",
+    "tamilDefinition": "நற்பண்புகள் கொண்ட, ஒழுக்கமுள்ள.",
+    "literaryContext": {
+      "english": "A virtuous life brings inner peace and respect.",
+      "tamil": "ஒரு ஒழுக்கமுள்ள வாழ்க்கை உள் அமைதியையும் மரியாதையையும் தருகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "A virtuous life brings inner peace and respect.",
+      "tamil": "ஒரு ஒழுக்கமுள்ள வாழ்க்கை உள் அமைதியையும் மரியாதையையும் தருகிறது."
+    },
+    "synonyms": ["righteous","moral","upright"],
+    "antonyms": ["immoral","wicked","sinful"]
+  },
+  {
+    "id": "versatile_inter_9",
+    "word": "Versatile",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Able to adapt or be adapted to many different functions.",
+    "tamilDefinition": "பல்முனைத் திறனுள்ள, பல்துறை வல்லமை பெற்ற.",
+    "literaryContext": {
+      "english": "The versatile actor performed effortlessly in drama and comedy.",
+      "tamil": "பல்முனைத் திறனுள்ள நடிகர் நாடகத்திலும் நகைச்சுவையிலும் சிரமமின்றி நடித்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "The versatile actor performed effortlessly in drama and comedy.",
+      "tamil": "பல்முனைத் திறனுள்ள நடிகர் நாடகத்திலும் நகைச்சுவையிலும் சிரமமின்றி நடித்தார்."
+    },
+    "synonyms": ["adaptable","resourceful","flexible"],
+    "antonyms": ["inflexible","limited","rigid"]
+  },
+  {
+    "id": "veneration_inter_10",
+    "word": "Veneration",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Great respect; reverence.",
+    "tamilDefinition": "மிக்க மரியாதை, போற்றுதல்.",
+    "literaryContext": {
+      "english": "The ancient teacher was held in deep veneration.",
+      "tamil": "பண்டைய ஆசிரியர் மிகுந்த மரியாதையுடன் போற்றப்பட்டார்."
+    },
+    "formalSpeechContext": {
+      "english": "The ancient teacher was held in deep veneration.",
+      "tamil": "பண்டைய ஆசிரியர் மிகுந்த மரியாதையுடன் போற்றப்பட்டார்."
+    },
+    "synonyms": ["reverence","respect","admiration"],
+    "antonyms": ["disrespect","contempt","scorn"]
   }
 ];

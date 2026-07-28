@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataE: VocabularyEntry[] = [
-  {
+{
     "id": "earnestness",
     "word": "Earnestness",
     "partOfSpeech": "noun",
@@ -1182,5 +1182,100 @@ export const dataE: VocabularyEntry[] = [
       "indifference",
       "callousness"
     ]
+  },
+  {
+    "id": "eloquent_inter_6",
+    "word": "Eloquent",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Fluent, persuasive, and expressive in speaking or writing.",
+    "tamilDefinition": "சொல்லாற்றல் மிக்க, கம்பீரமான பேச்சாற்றல் கொண்ட.",
+    "literaryContext": {
+      "english": "An eloquent orator moved the crowd to tears with his passionate plea.",
+      "tamil": "ஒரு கம்பீரமான பேச்சாளர் தன் உணர்ச்சிமிக்க வேண்டுகோளால் கூட்டத்தினரை கண்ணீர் சிந்த வைத்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "An eloquent orator moved the crowd to tears with his passionate plea.",
+      "tamil": "ஒரு கம்பீரமான பேச்சாளர் தன் உணர்ச்சிமிக்க வேண்டுகோளால் கூட்டத்தினரை கண்ணீர் சிந்த வைத்தார்."
+    },
+    "synonyms": ["articulate","persuasive","expressive"],
+    "antonyms": ["inarticulate","mute","unpersuasive"]
+  },
+  {
+    "id": "endurance_inter_7",
+    "word": "Endurance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The ability to withstand hardship, fatigue, or stress over time.",
+    "tamilDefinition": "சகிப்புத்தன்மை, தாங்கும் ஆற்றல், மனஉறுதி.",
+    "literaryContext": {
+      "english": "Marathon runners require great physical and mental endurance.",
+      "tamil": "மராத்தான் ஓட்டப்பந்தய வீரர்களுக்கு மிகுந்த உடலியல் மற்றும் மன சகிப்புத்தன்மை தேவைப்படுகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Marathon runners require great physical and mental endurance.",
+      "tamil": "மராத்தான் ஓட்டப்பந்தய வீரர்களுக்கு மிகுந்த உடலியல் மற்றும் மன சகிப்புத்தன்மை தேவைப்படுகிறது."
+    },
+    "synonyms": ["stamina","fortitude","perseverance"],
+    "antonyms": ["weakness","fragility","exhaustion"]
+  },
+  {
+    "id": "enhance_inter_8",
+    "word": "Enhance",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To intensify, increase, or further improve the quality or value.",
+    "tamilDefinition": "மேம்படுத்துதல், தகுதியை அல்லது மதிப்பை உயர்த்துதல்.",
+    "literaryContext": {
+      "english": "Adding rich metaphors helped enhance the beauty of the poem.",
+      "tamil": "செறிவான உருவகங்களைச் சேர்த்தது கவிதையின் அழகை மேம்படுத்த உதவியது."
+    },
+    "formalSpeechContext": {
+      "english": "Adding rich metaphors helped enhance the beauty of the poem.",
+      "tamil": "செறிவான உருவகங்களைச் சேர்த்தது கவிதையின் அழகை மேம்படுத்த உதவியது."
+    },
+    "synonyms": ["improve","enrich","elevate"],
+    "antonyms": ["diminish","impair","spoil"]
+  },
+  {
+    "id": "enterprise_inter_9",
+    "word": "Enterprise",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A bold or difficult undertaking requiring courage and effort.",
+    "tamilDefinition": "பெருமுயற்சி, துணிச்சலான திட்டம்.",
+    "literaryContext": {
+      "english": "Building a school in the remote village was a noble enterprise.",
+      "tamil": "தொலைதூர கிராமத்தில் பள்ளி கட்டுவது ஒரு உன்னதமான பெருமுயற்சியாகும்."
+    },
+    "formalSpeechContext": {
+      "english": "Building a school in the remote village was a noble enterprise.",
+      "tamil": "தொலைதூர கிராமத்தில் பள்ளி கட்டுவது ஒரு உன்னதமான பெருமுயற்சியாகும்."
+    },
+    "synonyms": ["undertaking","venture","initiative"],
+    "antonyms": ["inactivity","idleness","apathy"]
+  },
+  {
+    "id": "equanimity_inter_10",
+    "word": "Equanimity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Mental calmness, composure, and evenness of temper in crisis.",
+    "tamilDefinition": "மன அமைதி, சமநிலை மனப்பான்மை, பதற்றமின்மை.",
+    "literaryContext": {
+      "english": "He accepted both victory and defeat with unwavering equanimity.",
+      "tamil": "அவர் வெற்றியையும் தோல்வியையும் தளராத சமநிலை மனப்பான்மையுடன் ஏற்றுக்கொண்டார்."
+    },
+    "formalSpeechContext": {
+      "english": "He accepted both victory and defeat with unwavering equanimity.",
+      "tamil": "அவர் வெற்றியையும் தோல்வியையும் தளராத சமநிலை மனப்பான்மையுடன் ஏற்றுக்கொண்டார்."
+    },
+    "synonyms": ["composure","serenity","calmness"],
+    "antonyms": ["agitation","anxiety","excitement"]
   }
 ];

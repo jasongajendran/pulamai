@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataK: VocabularyEntry[] = [
-  {
+{
     "id": "kachina",
     "word": "Kachina",
     "partOfSpeech": "noun",
@@ -962,5 +962,100 @@ export const dataK: VocabularyEntry[] = [
       "side issue",
       "tangent"
     ]
+  },
+  {
+    "id": "kindle_inter_6",
+    "word": "Kindle",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To arouse or inspire an emotion or feeling.",
+    "tamilDefinition": "தூண்டுதல், கிளர்ந்தெழச் செய்தல்.",
+    "literaryContext": {
+      "english": "His passion for astronomy kindled a lifelong curiosity.",
+      "tamil": "வானியல் மீதான அவரது ஆர்வம் வாழ்நாள் முழுவதும் ஆர்வத்தைத் தூண்டியது."
+    },
+    "formalSpeechContext": {
+      "english": "His passion for astronomy kindled a lifelong curiosity.",
+      "tamil": "வானியல் மீதான அவரது ஆர்வம் வாழ்நாள் முழுவதும் ஆர்வத்தைத் தூண்டியது."
+    },
+    "synonyms": ["ignite","inspire","arouse"],
+    "antonyms": ["extinguish","quench","dampen"]
+  },
+  {
+    "id": "knightly_inter_7",
+    "word": "Knightly",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Chivalrous and honorable in behavior.",
+    "tamilDefinition": "வீரமும் கண்ணியமும் மிக்க.",
+    "literaryContext": {
+      "english": "He conducted himself with knightly courtesy toward all.",
+      "tamil": "அவர் அனைவரிடமும் வீரமும் கண்ணியமும் மிக்க மரியாதையுடன் நடந்துகொண்டார்."
+    },
+    "formalSpeechContext": {
+      "english": "He conducted himself with knightly courtesy toward all.",
+      "tamil": "அவர் அனைவரிடமும் வீரமும் கண்ணியமும் மிக்க மரியாதையுடன் நடந்துகொண்டார்."
+    },
+    "synonyms": ["chivalrous","gallant","honorable"],
+    "antonyms": ["unmanly","rude","dishonorable"]
+  },
+  {
+    "id": "keenness_inter_8",
+    "word": "Keenness",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The quality of being eager or enthusiastic; sharpness.",
+    "tamilDefinition": "கூர்மை, மிகுந்த ஆர்வம்.",
+    "literaryContext": {
+      "english": "Her keenness of observation helped identify the missing detail.",
+      "tamil": "அவளது கவனத்தின் கூர்மை விடுபட்ட விவரத்தைக் கண்டறிய உதவியது."
+    },
+    "formalSpeechContext": {
+      "english": "Her keenness of observation helped identify the missing detail.",
+      "tamil": "அவளது கவனத்தின் கூர்மை விடுபட்ட விவரத்தைக் கண்டறிய உதவியது."
+    },
+    "synonyms": ["sharpness","eagerness","acuity"],
+    "antonyms": ["dullness","apathy","indifference"]
+  },
+  {
+    "id": "kernel_inter_9",
+    "word": "Kernel",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The most essential part or central core of something.",
+    "tamilDefinition": "சாராம்சம், மையக் கருத்து.",
+    "literaryContext": {
+      "english": "There was a kernel of truth in his humorous anecdote.",
+      "tamil": "அவரது நகைச்சுவையான கதையில் உண்மையின் சாராம்சம் இருந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "There was a kernel of truth in his humorous anecdote.",
+      "tamil": "அவரது நகைச்சுவையான கதையில் உண்மையின் சாராம்சம் இருந்தது."
+    },
+    "synonyms": ["core","gist","essence"],
+    "antonyms": ["exterior","surface","fringe"]
+  },
+  {
+    "id": "kinetic_inter_10",
+    "word": "Kinetic",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Relating to or resulting from motion.",
+    "tamilDefinition": "இயக்கவியல் சார்ந்த, இயக்கம் உடைய.",
+    "literaryContext": {
+      "english": "The kinetic energy of the rushing river was harnessed for power.",
+      "tamil": "பாய்ந்தோடும் நதியின் இயக்கவியல் ஆற்றல் மின்சாரத்திற்காகப் பயன்படுத்தப்பட்டது."
+    },
+    "formalSpeechContext": {
+      "english": "The kinetic energy of the rushing river was harnessed for power.",
+      "tamil": "பாய்ந்தோடும் நதியின் இயக்கவியல் ஆற்றல் மின்சாரத்திற்காகப் பயன்படுத்தப்பட்டது."
+    },
+    "synonyms": ["active","dynamic","moving"],
+    "antonyms": ["static","stationary","idle"]
   }
 ];

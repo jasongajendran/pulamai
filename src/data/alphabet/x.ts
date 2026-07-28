@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataX: VocabularyEntry[] = [
-  {
+{
     "id": "xanthic",
     "word": "xanthic",
     "partOfSpeech": "adjective",
@@ -973,5 +973,100 @@ export const dataX: VocabularyEntry[] = [
       "pure crystal",
       "homogeneous rock"
     ]
+  },
+  {
+    "id": "xenodochial_inter_6",
+    "word": "Xenodochial",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Hospitable to strangers or guests.",
+    "tamilDefinition": "அந்நியரை விருந்தோம்பும் குணம் கொண்ட.",
+    "literaryContext": {
+      "english": "The villagers xenodochial nature made every traveler feel at home.",
+      "tamil": "கிராம மக்களின் விருந்தோம்பும் குணம் ஒவ்வொரு பயணியையும் சொந்த வீட்டில் இருப்பது போல் உணர வைத்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The villagers xenodochial nature made every traveler feel at home.",
+      "tamil": "கிராம மக்களின் விருந்தோம்பும் குணம் ஒவ்வொரு பயணியையும் சொந்த வீட்டில் இருப்பது போல் உணர வைத்தது."
+    },
+    "synonyms": ["hospitable","welcoming","friendly"],
+    "antonyms": ["xenophobic","hostile","cold"]
+  },
+  {
+    "id": "xanthic_inter_7",
+    "word": "Xanthic",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Yellowish or relating to a yellow color.",
+    "tamilDefinition": "மஞ்சள் நிறம் சார்ந்த, பொன்னிற.",
+    "literaryContext": {
+      "english": "The xanthic glow of autumn leaves bathed the park in light.",
+      "tamil": "இலையுதிர் இலைகளின் பொன்னிற பிரகாசம் பூங்காவை ஒளியில் நனைத்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The xanthic glow of autumn leaves bathed the park in light.",
+      "tamil": "இலையுதிர் இலைகளின் பொன்னிற பிரகாசம் பூங்காவை ஒளியில் நனைத்தது."
+    },
+    "synonyms": ["yellowish","golden","amber"],
+    "antonyms": ["dark","blue","colorless"]
+  },
+  {
+    "id": "xenial_inter_8",
+    "word": "Xenial",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Relating to hospitality between a host and guest.",
+    "tamilDefinition": "விருந்தோம்பல் பண்பு சார்ந்த.",
+    "literaryContext": {
+      "english": "They formed a lasting bond through xenial traditions.",
+      "tamil": "விருந்தோம்பல் மரபுகள் மூலம் அவர்கள் நீடித்த பிணைப்பை உருவாக்கிக் கொண்டனர்."
+    },
+    "formalSpeechContext": {
+      "english": "They formed a lasting bond through xenial traditions.",
+      "tamil": "விருந்தோம்பல் மரபுகள் மூலம் அவர்கள் நீடித்த பிணைப்பை உருவாக்கிக் கொண்டனர்."
+    },
+    "synonyms": ["hospitable","friendly","cordial"],
+    "antonyms": ["unfriendly","hostile","rude"]
+  },
+  {
+    "id": "xerosis_inter_9",
+    "word": "Xerosis",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Abnormal dryness of skin, eyes, or membranes.",
+    "tamilDefinition": "வறட்சி நிலை.",
+    "literaryContext": {
+      "english": "Moisturizer helps prevent xerosis during cold winter months.",
+      "tamil": "குளிர்ந்த குளிர்காலத்தில் வறட்சி நிலையைத் தடுக்க மாய்ஸ்சரைசர் உதவுகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Moisturizer helps prevent xerosis during cold winter months.",
+      "tamil": "குளிர்ந்த குளிர்காலத்தில் வறட்சி நிலையைத் தடுக்க மாய்ஸ்சரைசர் உதவுகிறது."
+    },
+    "synonyms": ["dryness","desiccation","aridity"],
+    "antonyms": ["moisture","hydration","wetness"]
+  },
+  {
+    "id": "xylophone_inter_10",
+    "word": "Xylophone",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A musical instrument played by striking wooden bars.",
+    "tamilDefinition": "மரக்கட்டைகளால் இசைக்கப்படும் இசைக்கருவி.",
+    "literaryContext": {
+      "english": "The child played a cheerful tune on the colorful xylophone.",
+      "tamil": "குழந்தை வண்ணமயமான மர இசைக்கருவியில் ஒரு மகிழ்ச்சியான மெல்லிசையை இசைத்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The child played a cheerful tune on the colorful xylophone.",
+      "tamil": "குழந்தை வண்ணமயமான மர இசைக்கருவியில் ஒரு மகிழ்ச்சியான மெல்லிசையை இசைத்தது."
+    },
+    "synonyms": ["marimba","vibraphone","percussion"],
+    "antonyms": ["vocal","wind instrument","string"]
   }
 ];

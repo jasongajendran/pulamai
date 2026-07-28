@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataZ: VocabularyEntry[] = [
-  {
+{
     "id": "zeal",
     "word": "zeal",
     "partOfSpeech": "noun",
@@ -1006,5 +1006,100 @@ export const dataZ: VocabularyEntry[] = [
       "centrist",
       "indifferent person"
     ]
+  },
+  {
+    "id": "zeal_inter_6",
+    "word": "Zeal",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Great energy or enthusiasm in pursuit of a cause.",
+    "tamilDefinition": "ஆர்வம், பேராவல், தீவிர விருப்பம்.",
+    "literaryContext": {
+      "english": "She worked with tireless zeal to improve literacy rates.",
+      "tamil": "எழுத்தறிவு விகிதத்தை உயர்த்த அவள் சோர்வற்ற ஆர்வத்துடன் உழைத்தாள்."
+    },
+    "formalSpeechContext": {
+      "english": "She worked with tireless zeal to improve literacy rates.",
+      "tamil": "எழுத்தறிவு விகிதத்தை உயர்த்த அவள் சோர்வற்ற ஆர்வத்துடன் உழைத்தாள்."
+    },
+    "synonyms": ["enthusiasm","passion","ardor"],
+    "antonyms": ["apathy","indifference","lethargy"]
+  },
+  {
+    "id": "zenith_inter_7",
+    "word": "Zenith",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The time at which something is most powerful or successful.",
+    "tamilDefinition": "உச்சக்கட்டம், மேன்மை நிலை.",
+    "literaryContext": {
+      "english": "His career reached its zenith when he won the prize.",
+      "tamil": "அவர் பரிசை வென்றபோது அவரது தொழில் வாழ்க்கை உச்சக்கட்டத்தை எட்டியது."
+    },
+    "formalSpeechContext": {
+      "english": "His career reached its zenith when he won the prize.",
+      "tamil": "அவர் பரிசை வென்றபோது அவரது தொழில் வாழ்க்கை உச்சக்கட்டத்தை எட்டியது."
+    },
+    "synonyms": ["peak","pinnacle","summit"],
+    "antonyms": ["nadir","bottom","decline"]
+  },
+  {
+    "id": "zealous_inter_8",
+    "word": "Zealous",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having or showing zeal; passionate.",
+    "tamilDefinition": "தீவிர ஆர்வமுள்ள, முனைப்பான.",
+    "literaryContext": {
+      "english": "A zealous advocate for nature protection organized the event.",
+      "tamil": "இயற்கைப் பாதுகாப்பிற்கான ஒரு தீவிர ஆர்வமுள்ள ஆதரவாளர் நிகழ்வை ஏற்பாடு செய்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "A zealous advocate for nature protection organized the event.",
+      "tamil": "இயற்கைப் பாதுகாப்பிற்கான ஒரு தீவிர ஆர்வமுள்ள ஆதரவாளர் நிகழ்வை ஏற்பாடு செய்தார்."
+    },
+    "synonyms": ["passionate","ardent","fervent"],
+    "antonyms": ["apathetic","indifferent","halfhearted"]
+  },
+  {
+    "id": "zestful_inter_9",
+    "word": "Zestful",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Full of energy, enthusiasm, and vigor.",
+    "tamilDefinition": "உற்சாகம் நிறைந்த, சுறுசுறுப்பான.",
+    "literaryContext": {
+      "english": "Their zestful dance performance energized the crowd.",
+      "tamil": "அவர்களின் உற்சாகம் நிறைந்த நடன நிகழ்ச்சி கூட்டத்திற்கு ஆற்றலளித்தது."
+    },
+    "formalSpeechContext": {
+      "english": "Their zestful dance performance energized the crowd.",
+      "tamil": "அவர்களின் உற்சாகம் நிறைந்த நடன நிகழ்ச்சி கூட்டத்திற்கு ஆற்றலளித்தது."
+    },
+    "synonyms": ["lively","enthusiastic","spirited"],
+    "antonyms": ["dull","lifeless","gloomy"]
+  },
+  {
+    "id": "zephyr_inter_10",
+    "word": "Zephyr",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A gentle, mild breeze.",
+    "tamilDefinition": "மெல்லிய இதமான தென்றல்.",
+    "literaryContext": {
+      "english": "A cool zephyr rustled the trees on a warm afternoon.",
+      "tamil": "வெப்பமான பிற்பகலில் ஒரு குளிர்ந்த மெல்லிய தென்றல் மரங்களை அசைத்தது."
+    },
+    "formalSpeechContext": {
+      "english": "A cool zephyr rustled the trees on a warm afternoon.",
+      "tamil": "வெப்பமான பிற்பகலில் ஒரு குளிர்ந்த மெல்லிய தென்றல் மரங்களை அசைத்தது."
+    },
+    "synonyms": ["breeze","draft","wind"],
+    "antonyms": ["gale","storm","hurricane"]
   }
 ];

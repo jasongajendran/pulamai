@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataF: VocabularyEntry[] = [
-  {
+{
     "id": "facet",
     "word": "Facet",
     "partOfSpeech": "noun",
@@ -1028,5 +1028,100 @@ export const dataF: VocabularyEntry[] = [
       "hinder",
       "suppress"
     ]
+  },
+  {
+    "id": "fidelity_inter_6",
+    "word": "Fidelity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Faithfulness to a person, cause, or belief.",
+    "tamilDefinition": "உண்மைத்தன்மை, விசுவாசம், மாறாத உண்மை.",
+    "literaryContext": {
+      "english": "Her fidelity to her principles earned her widespread acclaim.",
+      "tamil": "தன் கொள்கைகளின் மீதான அவளது விசுவாசம் அவளுக்கு பரவலான பாராட்டைப் பெற்றுத் தந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "Her fidelity to her principles earned her widespread acclaim.",
+      "tamil": "தன் கொள்கைகளின் மீதான அவளது விசுவாசம் அவளுக்கு பரவலான பாராட்டைப் பெற்றுத் தந்தது."
+    },
+    "synonyms": ["faithfulness","loyalty","devotion"],
+    "antonyms": ["treachery","disloyalty","infidelity"]
+  },
+  {
+    "id": "flourish_inter_7",
+    "word": "Flourish",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To grow or develop in a healthy or vigorous way.",
+    "tamilDefinition": "செழித்து வளருதல், மேன்மையடைதல்.",
+    "literaryContext": {
+      "english": "Arts and sciences flourish in an atmosphere of peace and freedom.",
+      "tamil": "அமைதியும் சுதந்திரமும் நிலவும் சூழலில் கலைகளும் அறிவியலும் செழித்து வளர்கின்றன."
+    },
+    "formalSpeechContext": {
+      "english": "Arts and sciences flourish in an atmosphere of peace and freedom.",
+      "tamil": "அமைதியும் சுதந்திரமும் நிலவும் சூழலில் கலைகளும் அறிவியலும் செழித்து வளர்கின்றன."
+    },
+    "synonyms": ["thrive","prosper","bloom"],
+    "antonyms": ["wither","decline","fail"]
+  },
+  {
+    "id": "fortitude_inter_8",
+    "word": "Fortitude",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Courage and strength in bearing pain or adversity.",
+    "tamilDefinition": "மனஉறுதி, துன்பத்தை எதிர்கொள்ளும் தைரியம்.",
+    "literaryContext": {
+      "english": "She bore her long illness with quiet fortitude.",
+      "tamil": "அவள் தன் நீண்ட நோயை அமைதியான மனஉறுதியுடன் எதிர்கொண்டாள்."
+    },
+    "formalSpeechContext": {
+      "english": "She bore her long illness with quiet fortitude.",
+      "tamil": "அவள் தன் நீண்ட நோயை அமைதியான மனஉறுதியுடன் எதிர்கொண்டாள்."
+    },
+    "synonyms": ["bravery","resilience","grit"],
+    "antonyms": ["cowardice","weakness","timidity"]
+  },
+  {
+    "id": "fundamental_inter_9",
+    "word": "Fundamental",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Forming a necessary base or core; of central importance.",
+    "tamilDefinition": "அடிப்படையான, முதன்மையான.",
+    "literaryContext": {
+      "english": "Freedom of speech is a fundamental human right.",
+      "tamil": "பேச்சு சுதந்திரம் என்பது ஒரு அடிப்படையான மனித உரிமையாகும்."
+    },
+    "formalSpeechContext": {
+      "english": "Freedom of speech is a fundamental human right.",
+      "tamil": "பேச்சு சுதந்திரம் என்பது ஒரு அடிப்படையான மனித உரிமையாகும்."
+    },
+    "synonyms": ["basic","essential","primary"],
+    "antonyms": ["secondary","auxiliary","superficial"]
+  },
+  {
+    "id": "fervent_inter_10",
+    "word": "Fervent",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having or displaying a passionate intensity.",
+    "tamilDefinition": "ஆர்வமிக்க, தீவிர விருப்பமுள்ள.",
+    "literaryContext": {
+      "english": "He made a fervent appeal for peace in the region.",
+      "tamil": "அப்பகுதியில் அமைதிக்காக அவர் ஒரு தீவிர முறையீட்டைச் செய்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "He made a fervent appeal for peace in the region.",
+      "tamil": "அப்பகுதியில் அமைதிக்காக அவர் ஒரு தீவிர முறையீட்டைச் செய்தார்."
+    },
+    "synonyms": ["passionate","ardent","intense"],
+    "antonyms": ["apathetic","cool","indifferent"]
   }
 ];

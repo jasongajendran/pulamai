@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataD: VocabularyEntry[] = [
-  {
+{
     "id": "dauntless",
     "word": "Dauntless",
     "partOfSpeech": "adjective",
@@ -1077,5 +1077,100 @@ export const dataD: VocabularyEntry[] = [
       "similar",
       "identical"
     ]
+  },
+  {
+    "id": "dedicate_inter_6",
+    "word": "Dedicate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To devote time, effort, or life to a particular task or cause.",
+    "tamilDefinition": "அர்ப்பணித்தல், ஒரு லட்சியத்திற்குத் தன்னை அளித்தல்.",
+    "literaryContext": {
+      "english": "The scholar chose to dedicate his career to preserving ancient manuscripts.",
+      "tamil": "ஆய்வாளர் பண்டைய சுவடிகளைப் பாதுகாப்பதற்காகத் தன் வாழ்க்கையை அர்ப்பணிக்கத் தேர்ந்தெடுத்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "The scholar chose to dedicate his career to preserving ancient manuscripts.",
+      "tamil": "ஆய்வாளர் பண்டைய சுவடிகளைப் பாதுகாப்பதற்காகத் தன் வாழ்க்கையை அர்ப்பணிக்கத் தேர்ந்தெடுத்தார்."
+    },
+    "synonyms": ["devote","consecrate","pledge"],
+    "antonyms": ["alienate","misuse","neglect"]
+  },
+  {
+    "id": "dignity_inter_7",
+    "word": "Dignity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The state or quality of being worthy of honor, self-respect, and poise.",
+    "tamilDefinition": "கண்ணியம், சுயமரியாதை, மதிப்பிற்குரிய மேன்மை.",
+    "literaryContext": {
+      "english": "Even in the face of adversity, she maintained her poise and dignity.",
+      "tamil": "துன்பங்களை எதிர்கொண்ட போதிலும், அவள் தன் அமைதியையும் கண்ணியத்தையும் காப்பாற்றிக் கொண்டாள்."
+    },
+    "formalSpeechContext": {
+      "english": "Even in the face of adversity, she maintained her poise and dignity.",
+      "tamil": "துன்பங்களை எதிர்கொண்ட போதிலும், அவள் தன் அமைதியையும் கண்ணியத்தையும் காப்பாற்றிக் கொண்டாள்."
+    },
+    "synonyms": ["self-respect","decorum","grace"],
+    "antonyms": ["dishonor","degradation","humiliation"]
+  },
+  {
+    "id": "diligent_inter_8",
+    "word": "Diligent",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Having or showing care and conscientiousness in one duties.",
+    "tamilDefinition": "கடின உழைப்புள்ள, கடமை உணர்ச்சியும் கவனமும் கொண்ட.",
+    "literaryContext": {
+      "english": "Through diligent research, the scientist uncovered a breakthrough cure.",
+      "tamil": "கடின உழைப்புமிக்க ஆராய்ச்சியின் மூலம், விஞ்ஞானி ஒரு முற்போக்கான درمانைக் கண்டுபிடித்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "Through diligent research, the scientist uncovered a breakthrough cure.",
+      "tamil": "கடின உழைப்புமிக்க ஆராய்ச்சியின் மூலம், விஞ்ஞானி ஒரு முற்போக்கான درمانைக் கண்டுபிடித்தார்."
+    },
+    "synonyms": ["meticulous","hardworking","assiduous"],
+    "antonyms": ["lazy","negligent","careless"]
+  },
+  {
+    "id": "dynamic_inter_9",
+    "word": "Dynamic",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Positive in attitude, full of energy, vigor, and innovative ideas.",
+    "tamilDefinition": "சுறுசுறுப்பான, மாற்றத்தையும் ஆற்றலையும் உருவாக்கும்.",
+    "literaryContext": {
+      "english": "A dynamic leader transformed the struggling institution into a success.",
+      "tamil": "ஒரு ஆற்றல்மிக்க தலைவர் தத்தளித்துக் கொண்டிருந்த நிறுவனத்தை வெற்றிகரமாக மாற்றினார்."
+    },
+    "formalSpeechContext": {
+      "english": "A dynamic leader transformed the struggling institution into a success.",
+      "tamil": "ஒரு ஆற்றல்மிக்க தலைவர் தத்தளித்துக் கொண்டிருந்த நிறுவனத்தை வெற்றிகரமாக மாற்றினார்."
+    },
+    "synonyms": ["energetic","vibrant","active"],
+    "antonyms": ["static","sluggish","passive"]
+  },
+  {
+    "id": "distinction_inter_10",
+    "word": "Distinction",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A difference or contrast between similar things, or excellence.",
+    "tamilDefinition": "சிறப்புத் தகுதி, உயர்வு, தெளிவான வேறுபாடு.",
+    "literaryContext": {
+      "english": "He served his nation with honor and earned high academic distinction.",
+      "tamil": "அவர் கௌரவத்துடன் தனது தேசத்திற்கு சேவை செய்தார் மற்றும் உயர் கல்விச் சிறப்பைப் பெற்றார்."
+    },
+    "formalSpeechContext": {
+      "english": "He served his nation with honor and earned high academic distinction.",
+      "tamil": "அவர் கௌரவத்துடன் தனது தேசத்திற்கு சேவை செய்தார் மற்றும் உயர் கல்விச் சிறப்பைப் பெற்றார்."
+    },
+    "synonyms": ["excellence","honor","differentiation"],
+    "antonyms": ["mediocrity","inferiority","similarity"]
   }
 ];

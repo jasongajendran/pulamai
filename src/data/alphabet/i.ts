@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataI: VocabularyEntry[] = [
-  {
+{
     "id": "iconoclast",
     "word": "Iconoclast",
     "partOfSpeech": "noun",
@@ -1057,5 +1057,100 @@ export const dataI: VocabularyEntry[] = [
       "divide",
       "isolate"
     ]
+  },
+  {
+    "id": "integrity_inter_6",
+    "word": "Integrity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The quality of being honest and having strong moral principles.",
+    "tamilDefinition": "நேர்மை, நாணயம், ஒழுக்க நெறி.",
+    "literaryContext": {
+      "english": "A leader of true integrity cannot be corrupted.",
+      "tamil": "உண்மையான நேர்மையுள்ள தலைவரை ஊழல் செய்ய முடியாது."
+    },
+    "formalSpeechContext": {
+      "english": "A leader of true integrity cannot be corrupted.",
+      "tamil": "உண்மையான நேர்மையுள்ள தலைவரை ஊழல் செய்ய முடியாது."
+    },
+    "synonyms": ["honesty","uprightness","probity"],
+    "antonyms": ["dishonesty","corruption","deceit"]
+  },
+  {
+    "id": "illuminate_inter_7",
+    "word": "Illuminate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "To help clarify or explain something clearly; to light up.",
+    "tamilDefinition": "விளக்குதல், ஒளிமயமாக்குதல்.",
+    "literaryContext": {
+      "english": "The professor lecture served to illuminate the difficult topic.",
+      "tamil": "பேராசிரியரின் சொற்பொழிவு அந்தச் சிக்கலான தலைப்பை விளக்க உதவியது."
+    },
+    "formalSpeechContext": {
+      "english": "The professor lecture served to illuminate the difficult topic.",
+      "tamil": "பேராசிரியரின் சொற்பொழிவு அந்தச் சிக்கலான தலைப்பை விளக்க உதவியது."
+    },
+    "synonyms": ["clarify","enlighten","brighten"],
+    "antonyms": ["obscure","darken","confuse"]
+  },
+  {
+    "id": "innovation_inter_8",
+    "word": "Innovation",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The introduction of new methods, ideas, or products.",
+    "tamilDefinition": "புதுமைப் படைப்பு, புதிய கண்டுபிடிப்பு.",
+    "literaryContext": {
+      "english": "Technological innovation drives progress in modern society.",
+      "tamil": "தொழில்நுட்பப் புதுமைப் படைப்பு நவீன சமூகத்தில் முன்னேற்றத்தை இயக்குகிறது."
+    },
+    "formalSpeechContext": {
+      "english": "Technological innovation drives progress in modern society.",
+      "tamil": "தொழில்நுட்பப் புதுமைப் படைப்பு நவீன சமூகத்தில் முன்னேற்றத்தை இயக்குகிறது."
+    },
+    "synonyms": ["novelty","invention","breakthrough"],
+    "antonyms": ["stagnation","tradition","imitation"]
+  },
+  {
+    "id": "indispensable_inter_9",
+    "word": "Indispensable",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Absolutely necessary; essential.",
+    "tamilDefinition": "தவிர்க்க முடியாத, இன்றியமையாத.",
+    "literaryContext": {
+      "english": "Her expertise proved indispensable during the critical negotiation.",
+      "tamil": "முக்கியமான பேச்சுவார்த்தையின் போது அவளது நிபுணத்துவம் இன்றியமையாததாக நிரூபிக்கப்பட்டது."
+    },
+    "formalSpeechContext": {
+      "english": "Her expertise proved indispensable during the critical negotiation.",
+      "tamil": "முக்கியமான பேச்சுவார்த்தையின் போது அவளது நிபுணத்துவம் இன்றியமையாததாக நிரூபிக்கப்பட்டது."
+    },
+    "synonyms": ["essential","vital","crucial"],
+    "antonyms": ["expendable","unnecessary","optional"]
+  },
+  {
+    "id": "impartial_inter_10",
+    "word": "Impartial",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Treating all rivals or disputants equally; unbiased.",
+    "tamilDefinition": "நடுநிலையான, பட்சபாதமற்ற.",
+    "literaryContext": {
+      "english": "An impartial judge ensures a fair trial for everyone.",
+      "tamil": "ஒரு நடுநிலையான நீதிபதி அனைவருக்கும் நியாயமான விசாரணையை உறுதிசெய்கிறார்."
+    },
+    "formalSpeechContext": {
+      "english": "An impartial judge ensures a fair trial for everyone.",
+      "tamil": "ஒரு நடுநிலையான நீதிபதி அனைவருக்கும் நியாயமான விசாரணையை உறுதிசெய்கிறார்."
+    },
+    "synonyms": ["unbiased","fair","neutral"],
+    "antonyms": ["biased","partial","prejudiced"]
   }
 ];

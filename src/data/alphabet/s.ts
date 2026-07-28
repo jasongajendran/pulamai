@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataS: VocabularyEntry[] = [
-  {
+{
     "id": "salubrious",
     "word": "Salubrious",
     "partOfSpeech": "adjective",
@@ -1124,5 +1124,100 @@ export const dataS: VocabularyEntry[] = [
       "surface",
       "external"
     ]
+  },
+  {
+    "id": "serenity_inter_6",
+    "word": "Serenity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The state of being calm, peaceful, and untroubled.",
+    "tamilDefinition": "அமைதி, பிரசாந்தமான நிலை.",
+    "literaryContext": {
+      "english": "The stillness of the lake reflected the serenity of the morning.",
+      "tamil": "ஏரியின் அமைதி காலையின் பிரசாந்தமான நிலையைப் பிரதிபலித்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The stillness of the lake reflected the serenity of the morning.",
+      "tamil": "ஏரியின் அமைதி காலையின் பிரசாந்தமான நிலையைப் பிரதிபலித்தது."
+    },
+    "synonyms": ["tranquility","calmness","peace"],
+    "antonyms": ["turmoil","anxiety","agitation"]
+  },
+  {
+    "id": "sustenance_inter_7",
+    "word": "Sustenance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Nourishment or the means of executing life.",
+    "tamilDefinition": "வாழ்வாதாரம், ஊட்டச்சத்து.",
+    "literaryContext": {
+      "english": "The soil provided essential sustenance for the ancient tribe.",
+      "tamil": "மண் பண்டைய பழங்குடியினருக்கு அத்தியாவசிய வாழ்வாதாரத்தை வழங்கியது."
+    },
+    "formalSpeechContext": {
+      "english": "The soil provided essential sustenance for the ancient tribe.",
+      "tamil": "மண் பண்டைய பழங்குடியினருக்கு அத்தியாவசிய வாழ்வாதாரத்தை வழங்கியது."
+    },
+    "synonyms": ["nourishment","livelihood","food"],
+    "antonyms": ["deprivation","starvation","harm"]
+  },
+  {
+    "id": "solace_inter_8",
+    "word": "Solace",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Comfort or consolation in a time of distress or sadness.",
+    "tamilDefinition": "ஆறுதல், மன அமைதி.",
+    "literaryContext": {
+      "english": "Music brought her solace during difficult times.",
+      "tamil": "கடினமான காலங்களில் இசை அவளுக்கு ஆறுதலைத் தந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "Music brought her solace during difficult times.",
+      "tamil": "கடினமான காலங்களில் இசை அவளுக்கு ஆறுதலைத் தந்தது."
+    },
+    "synonyms": ["comfort","consolation","relief"],
+    "antonyms": ["distress","sorrow","agony"]
+  },
+  {
+    "id": "sagacity_inter_9",
+    "word": "Sagacity",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The quality of having or showing keen mental discernment.",
+    "tamilDefinition": "ஞானம், பேரறிவு, நுண்ணறிவு.",
+    "literaryContext": {
+      "english": "The king relied on the sagacity of his elder advisors.",
+      "tamil": "அரசர் தனது மூத்த ஆலோசகர்களின் ஞானத்தை நம்பியிருந்தார்."
+    },
+    "formalSpeechContext": {
+      "english": "The king relied on the sagacity of his elder advisors.",
+      "tamil": "அரசர் தனது மூத்த ஆலோசகர்களின் ஞானத்தை நம்பியிருந்தார்."
+    },
+    "synonyms": ["wisdom","discernment","insight"],
+    "antonyms": ["foolishness","stupidity","ignorance"]
+  },
+  {
+    "id": "synergy_inter_10",
+    "word": "Synergy",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The interaction or cooperation of two or more elements.",
+    "tamilDefinition": "இணைந்த ஆற்றல், கூட்டுச் செயல்பாடு.",
+    "literaryContext": {
+      "english": "The synergy between science and art created breathtaking exhibits.",
+      "tamil": "அறிவியலுக்கும் கலைக்கும் இடையிலான கூட்டுச் செயல்பாடு மூச்சடைக்கக்கூடிய படைப்புகளை உருவாக்கியது."
+    },
+    "formalSpeechContext": {
+      "english": "The synergy between science and art created breathtaking exhibits.",
+      "tamil": "அறிவியலுக்கும் கலைக்கும் இடையிலான கூட்டுச் செயல்பாடு மூச்சடைக்கக்கூடிய படைப்புகளை உருவாக்கியது."
+    },
+    "synonyms": ["collaboration","harmony","teamwork"],
+    "antonyms": ["discord","conflict","antagonism"]
   }
 ];

@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataP: VocabularyEntry[] = [
-  {
+{
     "id": "palliative",
     "word": "palliative",
     "partOfSpeech": "adjective",
@@ -1192,5 +1192,100 @@ export const dataP: VocabularyEntry[] = [
       "former",
       "previous"
     ]
+  },
+  {
+    "id": "perseverance_inter_6",
+    "word": "Perseverance",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Persistence in doing something despite difficulty or delay.",
+    "tamilDefinition": "விடாமுயற்சி, தளராத மனம்.",
+    "literaryContext": {
+      "english": "His perseverance led to a monumental scientific breakthrough.",
+      "tamil": "அவரது விடாமுயற்சி ஒரு மாபெரும் அறிவியல் திருப்புமுனைக்கு வழிவகுத்தது."
+    },
+    "formalSpeechContext": {
+      "english": "His perseverance led to a monumental scientific breakthrough.",
+      "tamil": "அவரது விடாமுயற்சி ஒரு மாபெரும் அறிவியல் திருப்புமுனைக்கு வழிவகுத்தது."
+    },
+    "synonyms": ["persistence","tenacity","dedication"],
+    "antonyms": ["apathy","surrender","laziness"]
+  },
+  {
+    "id": "principle_inter_7",
+    "word": "Principle",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A fundamental truth or proposition that serves as foundation.",
+    "tamilDefinition": "கொள்கை, கோட்பாடு.",
+    "literaryContext": {
+      "english": "He refused to compromise on his core ethical principles.",
+      "tamil": "தனது முக்கிய ஒழுக்கக் கொள்கைகளில் சமரசம் செய்ய அவர் மறுத்துவிட்டார்."
+    },
+    "formalSpeechContext": {
+      "english": "He refused to compromise on his core ethical principles.",
+      "tamil": "தனது முக்கிய ஒழுக்கக் கொள்கைகளில் சமரசம் செய்ய அவர் மறுத்துவிட்டார்."
+    },
+    "synonyms": ["creed","tenet","doctrine"],
+    "antonyms": ["lawlessness","immorality","corruption"]
+  },
+  {
+    "id": "prosperous_inter_8",
+    "word": "Prosperous",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Successful in material terms; flourishing financially.",
+    "tamilDefinition": "செழிப்பான, வளமிக்க.",
+    "literaryContext": {
+      "english": "The peaceful city grew into a prosperous trade hub.",
+      "tamil": "அமைதியான நகரம் ஒரு செழிப்பான வர்த்தக மையமாக வளர்ந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "The peaceful city grew into a prosperous trade hub.",
+      "tamil": "அமைதியான நகரம் ஒரு செழிப்பான வர்த்தக மையமாக வளர்ந்தது."
+    },
+    "synonyms": ["flourishing","wealthy","thriving"],
+    "antonyms": ["poor","impoverished","destitute"]
+  },
+  {
+    "id": "perspective_inter_9",
+    "word": "Perspective",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A particular attitude toward or way of regarding something.",
+    "tamilDefinition": "பார்வை, நோக்குநிலை.",
+    "literaryContext": {
+      "english": "Viewing the problem from a new perspective revealed the solution.",
+      "tamil": "பிரச்சினையை ஒரு புதிய நோக்குநிலையிலிருந்து பார்ப்பது தீர்வை வெளிப்படுத்தியது."
+    },
+    "formalSpeechContext": {
+      "english": "Viewing the problem from a new perspective revealed the solution.",
+      "tamil": "பிரச்சினையை ஒரு புதிய நோக்குநிலையிலிருந்து பார்ப்பது தீர்வை வெளிப்படுத்தியது."
+    },
+    "synonyms": ["viewpoint","outlook","angle"],
+    "antonyms": ["blindness","ignorance","narrowness"]
+  },
+  {
+    "id": "profound_inter_10",
+    "word": "Profound",
+    "partOfSpeech": "adjective",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Very great or intense; having deep insight.",
+    "tamilDefinition": "ஆழ்ந்த, அரிய நுண்ணறிவுள்ள.",
+    "literaryContext": {
+      "english": "The book had a profound impact on my philosophical views.",
+      "tamil": "அந்தப் புத்தகம் என் தத்துவப் பார்வைகளில் ஒரு ஆழ்ந்த தாக்கத்தை ஏற்படுத்தியது."
+    },
+    "formalSpeechContext": {
+      "english": "The book had a profound impact on my philosophical views.",
+      "tamil": "அந்தப் புத்தகம் என் தத்துவப் பார்வைகளில் ஒரு ஆழ்ந்த தாக்கத்தை ஏற்படுத்தியது."
+    },
+    "synonyms": ["deep","insightful","thorough"],
+    "antonyms": ["superficial","shallow","trivial"]
   }
 ];

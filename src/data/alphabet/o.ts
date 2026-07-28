@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataO: VocabularyEntry[] = [
-  {
+{
     "id": "obdurate",
     "word": "Obdurate",
     "partOfSpeech": "adjective",
@@ -1090,5 +1090,100 @@ export const dataO: VocabularyEntry[] = [
       "elaboration",
       "full text"
     ]
+  },
+  {
+    "id": "optimism_inter_6",
+    "word": "Optimism",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Hopefulness and confidence about the future.",
+    "tamilDefinition": "நம்பிக்கை மனப்பான்மை, சுபிட்ச நம்பிக்கை.",
+    "literaryContext": {
+      "english": "Her optimism kept the team morale high during hard times.",
+      "tamil": "கடினமான காலங்களில் அவளது நம்பிக்கை மனப்பான்மை அணியின் மனஉறுதியை உயர்த்தியது."
+    },
+    "formalSpeechContext": {
+      "english": "Her optimism kept the team morale high during hard times.",
+      "tamil": "கடினமான காலங்களில் அவளது நம்பிக்கை மனப்பான்மை அணியின் மனஉறுதியை உயர்த்தியது."
+    },
+    "synonyms": ["hopefulness","confidence","positivity"],
+    "antonyms": ["pessimism","gloom","despair"]
+  },
+  {
+    "id": "origin_inter_7",
+    "word": "Origin",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "The point or place where something begins, arises, or is derived.",
+    "tamilDefinition": "தொடக்கப்புள்ளி, தோற்றம்.",
+    "literaryContext": {
+      "english": "The river has its origin in the high snow peaks.",
+      "tamil": "இந்நதி உயர்ந்த பனி சிகரங்களில் தன் தொடக்கப்புள்ளியைக் கொண்டுள்ளது."
+    },
+    "formalSpeechContext": {
+      "english": "The river has its origin in the high snow peaks.",
+      "tamil": "இந்நதி உயர்ந்த பனி சிகரங்களில் தன் தொடக்கப்புள்ளியைக் கொண்டுள்ளது."
+    },
+    "synonyms": ["source","beginning","root"],
+    "antonyms": ["end","destination","outcome"]
+  },
+  {
+    "id": "overcome_inter_8",
+    "word": "Overcome",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "Succeed in dealing with a problem or difficulty.",
+    "tamilDefinition": "வெற்றி கொள்ளுதல், கடந்து வருதல்.",
+    "literaryContext": {
+      "english": "With determination, she was able to overcome all hardships.",
+      "tamil": "மனஉறுதியுடன், அவளால் அனைத்து சிரமங்களையும் கடந்து வர முடிந்தது."
+    },
+    "formalSpeechContext": {
+      "english": "With determination, she was able to overcome all hardships.",
+      "tamil": "மனஉறுதியுடன், அவளால் அனைத்து சிரமங்களையும் கடந்து வர முடிந்தது."
+    },
+    "synonyms": ["conquer","surmount","master"],
+    "antonyms": ["succumb","fail","surrender"]
+  },
+  {
+    "id": "objective_inter_9",
+    "word": "Objective",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "A thing aimed at or sought; a goal.",
+    "tamilDefinition": "குறிக்கோள், இலக்கு.",
+    "literaryContext": {
+      "english": "Our primary objective is to improve quality of life.",
+      "tamil": "வாழ்க்கைத் தரத்தை மேம்படுத்துவதே நமது முதன்மை குறிக்கோள்."
+    },
+    "formalSpeechContext": {
+      "english": "Our primary objective is to improve quality of life.",
+      "tamil": "வாழ்க்கைத் தரத்தை மேம்படுத்துவதே நமது முதன்மை குறிக்கோள்."
+    },
+    "synonyms": ["goal","target","aim"],
+    "antonyms": ["randomness","aimlessness","distraction"]
+  },
+  {
+    "id": "overture_inter_10",
+    "word": "Overture",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": ["Literature", "Formal Speech"],
+    "englishDefinition": "An introduction to something more substantial or a proposal.",
+    "tamilDefinition": "தொடக்க உரை, முன்மொழிவு.",
+    "literaryContext": {
+      "english": "Peace negotiations began with a friendly overture.",
+      "tamil": "அமைதி பேச்சுவார்த்தை ஒரு நட்பான முன்மொழிவுடன் தொடங்கியது."
+    },
+    "formalSpeechContext": {
+      "english": "Peace negotiations began with a friendly overture.",
+      "tamil": "அமைதி பேச்சுவார்த்தை ஒரு நட்பான முன்மொழிவுடன் தொடங்கியது."
+    },
+    "synonyms": ["prelude","proposal","introduction"],
+    "antonyms": ["epilogue","conclusion","finale"]
   }
 ];
