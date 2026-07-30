@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataJ: VocabularyEntry[] = [
-{
+  {
     "id": "jaded",
     "word": "jaded",
     "partOfSpeech": "adjective",
@@ -880,7 +880,10 @@ export const dataJ: VocabularyEntry[] = [
     "word": "Justify",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To show or prove to be right or reasonable.",
     "tamilDefinition": "நியாயப்படுத்துதல்.",
     "literaryContext": {
@@ -888,8 +891,8 @@ export const dataJ: VocabularyEntry[] = [
       "tamil": "அவர் தனது தாமதமான வருகையை ஒரு சரியான காரணத்துடன் நியாயப்படுத்த முயன்றார்."
     },
     "formalSpeechContext": {
-      "english": "He tried to justify his late arrival with a valid excuse.",
-      "tamil": "அவர் தனது தாமதமான வருகையை ஒரு சரியான காரணத்துடன் நியாயப்படுத்த முயன்றார்."
+      "english": "Ministers must present clear evidence to justify budget allocation increases.",
+      "tamil": "வரவு செலவுத் திட்ட ஒதுக்கீடு உயர்வை நியாயப்படுத்த அமைச்சர்கள் தெளிவான ஆதாரங்களை முன்வைக்க வேண்டும்."
     },
     "synonyms": [
       "defend",
@@ -907,7 +910,10 @@ export const dataJ: VocabularyEntry[] = [
     "word": "Justice",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Just behavior or treatment; fairness.",
     "tamilDefinition": "நீதி, நியாயம்.",
     "literaryContext": {
@@ -915,8 +921,8 @@ export const dataJ: VocabularyEntry[] = [
       "tamil": "அனைத்து குடிமக்களுக்கும் நீதியை உறுதி செய்ய நீதிமன்றம் பாடுபடுகிறது."
     },
     "formalSpeechContext": {
-      "english": "The court strives to ensure justice for all citizens.",
-      "tamil": "அனைத்து குடிமக்களுக்கும் நீதியை உறுதி செய்ய நீதிமன்றம் பாடுபடுகிறது."
+      "english": "Upholding constitutional justice is the cornerstone of a peaceful society.",
+      "tamil": "அரசியலமைப்பு நீதியை நிலைநிறுத்துவது அமைதியான சமூகத்தின் அடித்தளமாகும்."
     },
     "synonyms": [
       "fairness",
@@ -934,7 +940,10 @@ export const dataJ: VocabularyEntry[] = [
     "word": "Journey",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "An act of traveling from one place to another.",
     "tamilDefinition": "பயணம்.",
     "literaryContext": {
@@ -942,8 +951,8 @@ export const dataJ: VocabularyEntry[] = [
       "tamil": "மலைகள் வழியேயான நீண்ட பயணம் மூன்று நாட்கள் பிடித்தது."
     },
     "formalSpeechContext": {
-      "english": "The long journey across the mountains took three days.",
-      "tamil": "மலைகள் வழியேயான நீண்ட பயணம் மூன்று நாட்கள் பிடித்தது."
+      "english": "The nation journey toward digital governance requires continuous legislative adaptation.",
+      "tamil": "டிஜிட்டல் ஆட்சியை நோக்கிய தேசத்தின் பயணம் தொடர்ச்சியான சட்டத் தழுவலைக் கோருகிறது."
     },
     "synonyms": [
       "trip",
@@ -961,7 +970,10 @@ export const dataJ: VocabularyEntry[] = [
     "word": "Judgment",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The ability to make considered decisions or come to sensible conclusions.",
     "tamilDefinition": "தீர்ப்பு, சரியான பகுத்தறிவு.",
     "literaryContext": {
@@ -969,8 +981,8 @@ export const dataJ: VocabularyEntry[] = [
       "tamil": "நல்ல பகுத்தறிவு அனுபவம் மற்றும் சிந்தனையிலிருந்து வருகிறது."
     },
     "formalSpeechContext": {
-      "english": "Good judgment comes from experience and reflection.",
-      "tamil": "நல்ல பகுத்தறிவு அனுபவம் மற்றும் சிந்தனையிலிருந்து வருகிறது."
+      "english": "The supreme court rendered a landmark judgment protecting public freedom.",
+      "tamil": "உச்ச நீதிமன்றம் பொதுச் சுதந்திரத்தைப் பாதுகாக்கும் ஒரு முக்கியத் தீர்ப்பை வழங்கியது."
     },
     "synonyms": [
       "discernment",
@@ -988,7 +1000,10 @@ export const dataJ: VocabularyEntry[] = [
     "word": "Joyful",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Feeling, expressing, or causing great pleasure and happiness.",
     "tamilDefinition": "மகிழ்ச்சியான, உவகை தரும்.",
     "literaryContext": {
@@ -996,8 +1011,8 @@ export const dataJ: VocabularyEntry[] = [
       "tamil": "திருமணம் கிராமம் முழுவதற்கும் ஒரு மகிழ்ச்சியான கொண்டாட்டமாக இருந்தது."
     },
     "formalSpeechContext": {
-      "english": "The wedding was a joyful celebration for the entire village.",
-      "tamil": "திருமணம் கிராமம் முழுவதற்கும் ஒரு மகிழ்ச்சியான கொண்டாட்டமாக இருந்தது."
+      "english": "The peaceful resolution of treaty negotiations was a joyful milestone for both nations.",
+      "tamil": "ஒப்பந்த பேச்சுவார்த்தைகளின் அமைதியான முடிவு இரு நாடுகளுக்கும் ஒரு மகிழ்ச்சியான மைல்கல்லாக இருந்தது."
     },
     "synonyms": [
       "delighted",
@@ -1015,7 +1030,10 @@ export const dataJ: VocabularyEntry[] = [
     "word": "Jubilee",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A special anniversary or time of joyous celebration.",
     "tamilDefinition": "பொன்விழா, பெருங்கொண்டாட்டம்.",
     "literaryContext": {
@@ -1023,18 +1041,29 @@ export const dataJ: VocabularyEntry[] = [
       "tamil": "நகரம் தனது பொன்விழாவைக் கொண்டாட பிரமாண்டமான நிகழ்வுகளை ஏற்பாடு செய்தது."
     },
     "formalSpeechContext": {
-      "english": "The town organized grand events to celebrate its golden jubilee.",
-      "tamil": "நகரம் தனது பொன்விழாவைக் கொண்டாட பிரமாண்டமான நிகழ்வுகளை ஏற்பாடு செய்தது."
+      "english": "The parliament held a special session to commemorate the national golden jubilee.",
+      "tamil": "தேசிய பொன்விழாவைக் கொண்டாடும் வகையில் நாடாளுமன்றம் சிறப்பு அமர்வை நடத்தியது."
     },
-    "synonyms": ["anniversary","celebration","festivity"],
-    "antonyms": ["mourning","lamentation","grief"]
+    "synonyms": [
+      "anniversary",
+      "celebration",
+      "festivity"
+    ],
+    "antonyms": [
+      "mourning",
+      "lamentation",
+      "grief"
+    ]
   },
   {
     "id": "judicial_inter_7",
     "word": "Judicial",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Relating to courts of law or the administration of justice.",
     "tamilDefinition": "நீதிமன்றம் சார்ந்த, நீதித்துறை.",
     "literaryContext": {
@@ -1042,18 +1071,29 @@ export const dataJ: VocabularyEntry[] = [
       "tamil": "நீதித்துறை அமைப்பு சட்டத்தின் ஆட்சியை நிலைநிறுத்துகிறது."
     },
     "formalSpeechContext": {
-      "english": "The judicial system upholds the rule of law.",
-      "tamil": "நீதித்துறை அமைப்பு சட்டத்தின் ஆட்சியை நிலைநிறுத்துகிறது."
+      "english": "Maintaining judicial independence protects fundamental rights against government overreach.",
+      "tamil": "நீதித்துறை சுதந்திரத்தைப் பேணுவது அரசின் அதிகாரம் மீறலுக்கு எதிராக அடிப்படை உரிமைகளைப் பாதுகாக்கிறது."
     },
-    "synonyms": ["legal","judiciary","statutory"],
-    "antonyms": ["illegal","extrajudicial","arbitrary"]
+    "synonyms": [
+      "legal",
+      "judiciary",
+      "statutory"
+    ],
+    "antonyms": [
+      "illegal",
+      "extrajudicial",
+      "arbitrary"
+    ]
   },
   {
     "id": "judicious_inter_8",
     "word": "Judicious",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having, showing, or done with good judgment or wisdom.",
     "tamilDefinition": "அறிவுப்பூர்வமான, சிந்தித்துச் செயல்படும்.",
     "literaryContext": {
@@ -1061,18 +1101,29 @@ export const dataJ: VocabularyEntry[] = [
       "tamil": "வார்த்தைகளின் அறிவுப்பூர்வமான தேர்வு ஒரு காரசாரமான விவாதத்தைத் தவிர்த்தது."
     },
     "formalSpeechContext": {
-      "english": "A judicious choice of words averted a heated argument.",
-      "tamil": "வார்த்தைகளின் அறிவுப்பூர்வமான தேர்வு ஒரு காரசாரமான விவாதத்தைத் தவிர்த்தது."
+      "english": "Judicious allocation of state reserves cushioned the economy against global inflation.",
+      "tamil": "மாநில இருப்புகளின் விவேகமான ஒதுக்கீடு உலகளாவிய பணவீக்கத்திலிருந்து பொருளாதாரத்தைப் பாதுகாத்தது."
     },
-    "synonyms": ["prudent","wise","sensible"],
-    "antonyms": ["foolish","imprudent","rash"]
+    "synonyms": [
+      "prudent",
+      "wise",
+      "sensible"
+    ],
+    "antonyms": [
+      "foolish",
+      "imprudent",
+      "rash"
+    ]
   },
   {
     "id": "juxtapose_inter_9",
     "word": "Juxtapose",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To place or deal with close together for contrasting effect.",
     "tamilDefinition": "ஒப்பிடுவதற்காக அருகருகே வைத்தல்.",
     "literaryContext": {
@@ -1080,18 +1131,29 @@ export const dataJ: VocabularyEntry[] = [
       "tamil": "கண்காட்சி நவீன ஓவியங்களை பண்டைய சிற்பங்களுடன் ஒப்பிடுவதற்காக அருகருகே வைத்தது."
     },
     "formalSpeechContext": {
-      "english": "The exhibition juxtaposed modern paintings with ancient sculptures.",
-      "tamil": "கண்காட்சி நவீன ஓவியங்களை பண்டைய சிற்பங்களுடன் ஒப்பிடுவதற்காக அருகருகே வைத்தது."
+      "english": "Analysts juxtapose economic statistics from last decade with current financial trends.",
+      "tamil": "பகுப்பாய்வாளர்கள் கடந்த தசாப்தத்தின் பொருளாதார புள்ளிவிவரங்களை தற்போதைய நிதிப்போக்குகளுடன் ஒப்பிட்டுக் காட்டுகிறார்கள்."
     },
-    "synonyms": ["compare","contrast","collocate"],
-    "antonyms": ["separate","isolate","disconnect"]
+    "synonyms": [
+      "compare",
+      "contrast",
+      "collocate"
+    ],
+    "antonyms": [
+      "separate",
+      "isolate",
+      "disconnect"
+    ]
   },
   {
     "id": "jubilant_inter_10",
     "word": "Jubilant",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Feeling or expressing great happiness and triumph.",
     "tamilDefinition": "மிக்க மகிழ்ச்சியடைந்த, வெற்றிக்களிப்புள்ள.",
     "literaryContext": {
@@ -1099,10 +1161,18 @@ export const dataJ: VocabularyEntry[] = [
       "tamil": "அணி கோப்பையை உயர்த்தியபோது வெற்றிக்களிப்புள்ள கூட்டம் ஆரவாரம் செய்தது."
     },
     "formalSpeechContext": {
-      "english": "The jubilant crowd cheered as the team lifted the trophy.",
-      "tamil": "அணி கோப்பையை உயர்த்தியபோது வெற்றிக்களிப்புள்ள கூட்டம் ஆரவாரம் செய்தது."
+      "english": "The parliament floor was jubilant after passing the healthcare expansion bill.",
+      "tamil": "சுகாதார விரிவாக்க மசோதாவை நிறைவேற்றிய பிறகு நாடாளுமன்றத் தளம் மகிழ்ச்சியில் திளைத்தது."
     },
-    "synonyms": ["exultant","overjoyed","elated"],
-    "antonyms": ["despondent","mournful","gloomy"]
+    "synonyms": [
+      "exultant",
+      "overjoyed",
+      "elated"
+    ],
+    "antonyms": [
+      "despondent",
+      "mournful",
+      "gloomy"
+    ]
   }
 ];

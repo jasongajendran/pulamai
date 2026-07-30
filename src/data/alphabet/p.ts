@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataP: VocabularyEntry[] = [
-{
+  {
     "id": "palliative",
     "word": "palliative",
     "partOfSpeech": "adjective",
@@ -1063,7 +1063,10 @@ export const dataP: VocabularyEntry[] = [
     "word": "Precise",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Marked by exactness and accuracy of expression or detail.",
     "tamilDefinition": "துல்லியமான, சரியான.",
     "literaryContext": {
@@ -1071,8 +1074,8 @@ export const dataP: VocabularyEntry[] = [
       "tamil": "அறுவை சிகிச்சையின் போது மருத்துவர் துல்லியமான வெட்டுகளைச் செய்தார்."
     },
     "formalSpeechContext": {
-      "english": "The surgeon made precise cuts during the operation.",
-      "tamil": "அறுவை சிகிச்சையின் போது மருத்துவர் துல்லியமான வெட்டுகளைச் செய்தார்."
+      "english": "Legislative drafting demands precise wording to avoid regulatory ambiguity.",
+      "tamil": "ஒழுங்குமுறை தெளிவின்மையைத் தவிர்க்க சட்ட வரைவு துல்லியமான சொற்களைக் கோருகிறது."
     },
     "synonyms": [
       "exact",
@@ -1090,7 +1093,10 @@ export const dataP: VocabularyEntry[] = [
     "word": "Promote",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To support or actively encourage the cause of.",
     "tamilDefinition": "ஊக்குவித்தல், முன்னேற்றுதல்.",
     "literaryContext": {
@@ -1098,8 +1104,8 @@ export const dataP: VocabularyEntry[] = [
       "tamil": "வழக்கமான உடற்பயிற்சி இதய ஆரோக்கியத்தை ஊக்குவிக்க உதவுகிறது."
     },
     "formalSpeechContext": {
-      "english": "Regular exercise helps promote cardiovascular health.",
-      "tamil": "வழக்கமான உடற்பயிற்சி இதய ஆரோக்கியத்தை ஊக்குவிக்க உதவுகிறது."
+      "english": "Public campaigns actively promote environmental conservation and energy efficiency.",
+      "tamil": "பொது பிரச்சாரங்கள் சுற்றுச்சூழல் பாதுகாப்பு மற்றும் ஆற்றல் திறனை தீவிரமாக ஊக்குவிக்கின்றன."
     },
     "synonyms": [
       "encourage",
@@ -1117,7 +1123,10 @@ export const dataP: VocabularyEntry[] = [
     "word": "Prompt",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Done without delay; immediate.",
     "tamilDefinition": "உடனடி, காலதாமதமற்ற.",
     "literaryContext": {
@@ -1125,8 +1134,8 @@ export const dataP: VocabularyEntry[] = [
       "tamil": "எங்கள் விசாரணைக்கு உங்கள் உடனடி பதில் மிகவும் பாராட்டத்தக்கது."
     },
     "formalSpeechContext": {
-      "english": "Your prompt reply to our inquiry is greatly appreciated.",
-      "tamil": "எங்கள் விசாரணைக்கு உங்கள் உடனடி பதில் மிகவும் பாராட்டத்தக்கது."
+      "english": "Prompt judicial intervention prevented unlawful property expropriation.",
+      "tamil": "உடனடி நீதித்துறை தலையீடு சட்டவிரோத சொத்து பறிமுதலைத் தடுத்தது."
     },
     "synonyms": [
       "immediate",
@@ -1144,7 +1153,10 @@ export const dataP: VocabularyEntry[] = [
     "word": "Patience",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The capacity to accept or tolerate delay or trouble.",
     "tamilDefinition": "பொறுமை, சகிப்புத்தன்மை.",
     "literaryContext": {
@@ -1152,8 +1164,8 @@ export const dataP: VocabularyEntry[] = [
       "tamil": "இளம் குழந்தைகளுக்குக் கற்பிப்பதற்கு மிகுந்த பொறுமை தேவை."
     },
     "formalSpeechContext": {
-      "english": "Teaching young children requires immense patience.",
-      "tamil": "இளம் குழந்தைகளுக்குக் கற்பிப்பதற்கு மிகுந்த பொறுமை தேவை."
+      "english": "Resolving complex multilateral disputes requires strategic foresight and diplomatic patience.",
+      "tamil": "சிக்கலான பலதரப்பு தகராறுகளைத் தீர்ப்பதற்கு உத்திசார்ந்த தொலைநோக்கு பார்வையும் ராஜதந்திர பொறுமையும் தேவைப்படுகிறது."
     },
     "synonyms": [
       "forbearance",
@@ -1171,7 +1183,10 @@ export const dataP: VocabularyEntry[] = [
     "word": "Prospective",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Expected or likely to happen or become in the future.",
     "tamilDefinition": "எதிர்கால, வரவிருக்கும்.",
     "literaryContext": {
@@ -1179,8 +1194,8 @@ export const dataP: VocabularyEntry[] = [
       "tamil": "கல்லூரி வரவிருக்கும் மாணவர்களை வளாகத்திற்கு வரவேற்றது."
     },
     "formalSpeechContext": {
-      "english": "The college welcomed prospective students to the campus.",
-      "tamil": "கல்லூரி வரவிருக்கும் மாணவர்களை வளாகத்திற்கு வரவேற்றது."
+      "english": "Prospective investors evaluated the legal stability of the emerging market.",
+      "tamil": "எதிர்கால முதலீட்டாளர்கள் வளர்ந்து வரும் சந்தையின் சட்ட ஸ்திரத்தன்மையை மதிப்பிட்டனர்."
     },
     "synonyms": [
       "future",
@@ -1198,7 +1213,10 @@ export const dataP: VocabularyEntry[] = [
     "word": "Perseverance",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Persistence in doing something despite difficulty or delay.",
     "tamilDefinition": "விடாமுயற்சி, தளராத மனம்.",
     "literaryContext": {
@@ -1206,18 +1224,29 @@ export const dataP: VocabularyEntry[] = [
       "tamil": "அவரது விடாமுயற்சி ஒரு மாபெரும் அறிவியல் திருப்புமுனைக்கு வழிவகுத்தது."
     },
     "formalSpeechContext": {
-      "english": "His perseverance led to a monumental scientific breakthrough.",
-      "tamil": "அவரது விடாமுயற்சி ஒரு மாபெரும் அறிவியல் திருப்புமுனைக்கு வழிவகுத்தது."
+      "english": "Scientific discovery is built upon years of methodical perseverance and rigorous peer review.",
+      "tamil": "அறிவியல் கண்டுபிடிப்பானது பல வருட முறையான விடாமுயற்சி மற்றும் கடுமையான மதிப்புரைகளின் மீது கட்டமைக்கப்பட்டுள்ளது."
     },
-    "synonyms": ["persistence","tenacity","dedication"],
-    "antonyms": ["apathy","surrender","laziness"]
+    "synonyms": [
+      "persistence",
+      "tenacity",
+      "dedication"
+    ],
+    "antonyms": [
+      "apathy",
+      "surrender",
+      "laziness"
+    ]
   },
   {
     "id": "principle_inter_7",
     "word": "Principle",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A fundamental truth or proposition that serves as foundation.",
     "tamilDefinition": "கொள்கை, கோட்பாடு.",
     "literaryContext": {
@@ -1225,18 +1254,29 @@ export const dataP: VocabularyEntry[] = [
       "tamil": "தனது முக்கிய ஒழுக்கக் கொள்கைகளில் சமரசம் செய்ய அவர் மறுத்துவிட்டார்."
     },
     "formalSpeechContext": {
-      "english": "He refused to compromise on his core ethical principles.",
-      "tamil": "தனது முக்கிய ஒழுக்கக் கொள்கைகளில் சமரசம் செய்ய அவர் மறுத்துவிட்டார்."
+      "english": "Equality before the law is a foundational constitutional principle in democratic governance.",
+      "tamil": "சட்டத்தின் முன் அனைவரும் சமம் என்பது ஜனநாயக ஆட்சியில் ஒரு அடிப்படை அரசியலமைப்பு கோட்பாடாகும்."
     },
-    "synonyms": ["creed","tenet","doctrine"],
-    "antonyms": ["lawlessness","immorality","corruption"]
+    "synonyms": [
+      "creed",
+      "tenet",
+      "doctrine"
+    ],
+    "antonyms": [
+      "lawlessness",
+      "immorality",
+      "corruption"
+    ]
   },
   {
     "id": "prosperous_inter_8",
     "word": "Prosperous",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Successful in material terms; flourishing financially.",
     "tamilDefinition": "செழிப்பான, வளமிக்க.",
     "literaryContext": {
@@ -1244,18 +1284,29 @@ export const dataP: VocabularyEntry[] = [
       "tamil": "அமைதியான நகரம் ஒரு செழிப்பான வர்த்தக மையமாக வளர்ந்தது."
     },
     "formalSpeechContext": {
-      "english": "The peaceful city grew into a prosperous trade hub.",
-      "tamil": "அமைதியான நகரம் ஒரு செழிப்பான வர்த்தக மையமாக வளர்ந்தது."
+      "english": "Fostering enterprise innovation lays the groundwork for a prosperous national economy.",
+      "tamil": "நிறுவன கண்டுபிடிப்புகளை வளர்ப்பது ஒரு செழிப்பான தேசிய பொருளாதாரத்திற்கான அடித்தளத்தை அமைக்கிறது."
     },
-    "synonyms": ["flourishing","wealthy","thriving"],
-    "antonyms": ["poor","impoverished","destitute"]
+    "synonyms": [
+      "flourishing",
+      "wealthy",
+      "thriving"
+    ],
+    "antonyms": [
+      "poor",
+      "impoverished",
+      "destitute"
+    ]
   },
   {
     "id": "perspective_inter_9",
     "word": "Perspective",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A particular attitude toward or way of regarding something.",
     "tamilDefinition": "பார்வை, நோக்குநிலை.",
     "literaryContext": {
@@ -1263,18 +1314,29 @@ export const dataP: VocabularyEntry[] = [
       "tamil": "பிரச்சினையை ஒரு புதிய நோக்குநிலையிலிருந்து பார்ப்பது தீர்வை வெளிப்படுத்தியது."
     },
     "formalSpeechContext": {
-      "english": "Viewing the problem from a new perspective revealed the solution.",
-      "tamil": "பிரச்சினையை ஒரு புதிய நோக்குநிலையிலிருந்து பார்ப்பது தீர்வை வெளிப்படுத்தியது."
+      "english": "Incorporating diverse civic perspectives strengthens public policy design.",
+      "tamil": "பல்வேறு குடிமைப் பார்வைகளைச் சேர்ப்பது பொதுக் கொள்கை வடிவமைப்பை வலுப்படுத்துகிறது."
     },
-    "synonyms": ["viewpoint","outlook","angle"],
-    "antonyms": ["blindness","ignorance","narrowness"]
+    "synonyms": [
+      "viewpoint",
+      "outlook",
+      "angle"
+    ],
+    "antonyms": [
+      "blindness",
+      "ignorance",
+      "narrowness"
+    ]
   },
   {
     "id": "profound_inter_10",
     "word": "Profound",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Very great or intense; having deep insight.",
     "tamilDefinition": "ஆழ்ந்த, அரிய நுண்ணறிவுள்ள.",
     "literaryContext": {
@@ -1282,10 +1344,18 @@ export const dataP: VocabularyEntry[] = [
       "tamil": "அந்தப் புத்தகம் என் தத்துவப் பார்வைகளில் ஒரு ஆழ்ந்த தாக்கத்தை ஏற்படுத்தியது."
     },
     "formalSpeechContext": {
-      "english": "The book had a profound impact on my philosophical views.",
-      "tamil": "அந்தப் புத்தகம் என் தத்துவப் பார்வைகளில் ஒரு ஆழ்ந்த தாக்கத்தை ஏற்படுத்தியது."
+      "english": "Digital transformation has exerted a profound impact on labor market structures.",
+      "tamil": "டிஜிட்டல் மாற்றம் தொழிலாளர் சந்தை அமைப்புகளில் ஒரு ஆழமான தாக்கத்தை ஏற்படுத்தியுள்ளது."
     },
-    "synonyms": ["deep","insightful","thorough"],
-    "antonyms": ["superficial","shallow","trivial"]
+    "synonyms": [
+      "deep",
+      "insightful",
+      "thorough"
+    ],
+    "antonyms": [
+      "superficial",
+      "shallow",
+      "trivial"
+    ]
   }
 ];

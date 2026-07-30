@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataI: VocabularyEntry[] = [
-{
+  {
     "id": "iconoclast",
     "word": "Iconoclast",
     "partOfSpeech": "noun",
@@ -928,7 +928,10 @@ export const dataI: VocabularyEntry[] = [
     "word": "Insight",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The capacity to gain an accurate and deep intuitive understanding.",
     "tamilDefinition": "நுண்ணறிவு, ஆழ்ந்த புரிதல்.",
     "literaryContext": {
@@ -936,8 +939,8 @@ export const dataI: VocabularyEntry[] = [
       "tamil": "இவ்வாய்வு மனித நடத்தை பற்றிய மதிப்புமிக்க நுண்ணறிவை வழங்கியது."
     },
     "formalSpeechContext": {
-      "english": "The study provided valuable insight into human behavior.",
-      "tamil": "இவ்வாய்வு மனித நடத்தை பற்றிய மதிப்புமிக்க நுண்ணறிவை வழங்கியது."
+      "english": "The economic report provides valuable insight into consumer spending patterns.",
+      "tamil": "பொருளாதார அறிக்கை நுகர்வோர் செலவு முறைகள் பற்றிய மதிப்புமிக்க நுண்ணறிவை வழங்குகிறது."
     },
     "synonyms": [
       "understanding",
@@ -955,7 +958,10 @@ export const dataI: VocabularyEntry[] = [
     "word": "Inspire",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To fill someone with the urge or ability to do something creative.",
     "tamilDefinition": "ஊக்கமளித்தல், மன எழுச்சி அளித்தல்.",
     "literaryContext": {
@@ -963,8 +969,8 @@ export const dataI: VocabularyEntry[] = [
       "tamil": "அவளது தைரியம் மற்றவர்களைத் தங்களது உரிமைகளுக்காகப் போராட ஊக்கப்படுத்தியது."
     },
     "formalSpeechContext": {
-      "english": "Her courage inspired others to stand up for their rights.",
-      "tamil": "அவளது தைரியம் மற்றவர்களைத் தங்களது உரிமைகளுக்காகப் போராட ஊக்கப்படுத்தியது."
+      "english": "Visionary leaders inspire young citizens to engage actively in public policy.",
+      "tamil": "தொலைநோக்கு பார்வை கொண்ட தலைவர்கள் இளம் குடிமக்களை பொதுக் கொள்கையில் தீவிரமாக ஈடுபட ஊக்குவிக்கிறார்கள்."
     },
     "synonyms": [
       "encourage",
@@ -982,7 +988,10 @@ export const dataI: VocabularyEntry[] = [
     "word": "Intense",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Of extreme force, degree, or strength.",
     "tamilDefinition": "தீவிரமான, மிகச் செறிந்த.",
     "literaryContext": {
@@ -990,8 +999,8 @@ export const dataI: VocabularyEntry[] = [
       "tamil": "சூரியன் பாலைவனம் முழுவதும் தீவிர வெப்பத்தை வீசியது."
     },
     "formalSpeechContext": {
-      "english": "The sun cast intense heat across the desert.",
-      "tamil": "சூரியன் பாலைவனம் முழுவதும் தீவிர வெப்பத்தை வீசியது."
+      "english": "Negotiators faced intense parliamentary debate over trade policy reform.",
+      "tamil": "வர்த்தக கொள்கை சீர்திருத்தம் குறித்து பேச்சுவார்த்தையாளர்கள் தீவிர நாடாளுமன்ற விவாதத்தை எதிர்கொண்டனர்."
     },
     "synonyms": [
       "extreme",
@@ -1009,7 +1018,10 @@ export const dataI: VocabularyEntry[] = [
     "word": "Initial",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Existing or occurring at the beginning.",
     "tamilDefinition": "ஆரம்ப, தொடக்ககால.",
     "literaryContext": {
@@ -1017,8 +1029,8 @@ export const dataI: VocabularyEntry[] = [
       "tamil": "பிரச்சினைக்கான நமது ஆரம்ப எதிர்வினை எச்சரிக்கையாக இருந்தது."
     },
     "formalSpeechContext": {
-      "english": "Our initial response to the problem was cautious.",
-      "tamil": "பிரச்சினைக்கான நமது ஆரம்ப எதிர்வினை எச்சரிக்கையாக இருந்தது."
+      "english": "The initial phase of the infrastructure project focused on urban transportation renewal.",
+      "tamil": "உள்கட்டமைப்பு திட்டத்தின் ஆரம்ப கட்டம் நகர்ப்புற போக்குவரத்து புதுப்பித்தலில் கவனம் செலுத்தியது."
     },
     "synonyms": [
       "first",
@@ -1036,7 +1048,10 @@ export const dataI: VocabularyEntry[] = [
     "word": "Integrate",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To combine one thing with another so that they become a whole.",
     "tamilDefinition": "ஒருங்கிணைத்தல், ஒன்றிணைத்தல்.",
     "literaryContext": {
@@ -1044,8 +1059,8 @@ export const dataI: VocabularyEntry[] = [
       "tamil": "இந்த மென்பொருள் இருக்கும் பயன்பாடுகளுடன் தடையின்றி ஒருங்கிணைக்க வடிவமைக்கப்பட்டுள்ளது."
     },
     "formalSpeechContext": {
-      "english": "The software is designed to integrate seamlessly with existing apps.",
-      "tamil": "இந்த மென்பொருள் இருக்கும் பயன்பாடுகளுடன் தடையின்றி ஒருங்கிணைக்க வடிவமைக்கப்பட்டுள்ளது."
+      "english": "The government aims to integrate green energy solutions into the national power grid.",
+      "tamil": "பசுமை ஆற்றல் தீர்வுகளை தேசிய மின் தொகுப்பில் ஒருங்கிணைப்பதை அரசு நோக்கமாகக் கொண்டுள்ளது."
     },
     "synonyms": [
       "combine",
@@ -1063,7 +1078,10 @@ export const dataI: VocabularyEntry[] = [
     "word": "Integrity",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The quality of being honest and having strong moral principles.",
     "tamilDefinition": "நேர்மை, நாணயம், ஒழுக்க நெறி.",
     "literaryContext": {
@@ -1071,18 +1089,29 @@ export const dataI: VocabularyEntry[] = [
       "tamil": "உண்மையான நேர்மையுள்ள தலைவரை ஊழல் செய்ய முடியாது."
     },
     "formalSpeechContext": {
-      "english": "A leader of true integrity cannot be corrupted.",
-      "tamil": "உண்மையான நேர்மையுள்ள தலைவரை ஊழல் செய்ய முடியாது."
+      "english": "Public institutions must uphold strict financial integrity and ethical standards.",
+      "tamil": "பொது நிறுவனங்கள் கடுமையான நிதி நேர்மையையும் ஒழுக்க நெறிமுறைத் தரங்களையும் பேண வேண்டும்."
     },
-    "synonyms": ["honesty","uprightness","probity"],
-    "antonyms": ["dishonesty","corruption","deceit"]
+    "synonyms": [
+      "honesty",
+      "uprightness",
+      "probity"
+    ],
+    "antonyms": [
+      "dishonesty",
+      "corruption",
+      "deceit"
+    ]
   },
   {
     "id": "illuminate_inter_7",
     "word": "Illuminate",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To help clarify or explain something clearly; to light up.",
     "tamilDefinition": "விளக்குதல், ஒளிமயமாக்குதல்.",
     "literaryContext": {
@@ -1090,18 +1119,29 @@ export const dataI: VocabularyEntry[] = [
       "tamil": "பேராசிரியரின் சொற்பொழிவு அந்தச் சிக்கலான தலைப்பை விளக்க உதவியது."
     },
     "formalSpeechContext": {
-      "english": "The professor lecture served to illuminate the difficult topic.",
-      "tamil": "பேராசிரியரின் சொற்பொழிவு அந்தச் சிக்கலான தலைப்பை விளக்க உதவியது."
+      "english": "Empirical research serves to illuminate the underlying causes of social inequality.",
+      "tamil": "ஆராய்ச்சி சோதனைகள் சமூக சமத்துவமின்மையின் அடிப்படை காரணங்களை தெளிவுபடுத்த உதவுகின்றன."
     },
-    "synonyms": ["clarify","enlighten","brighten"],
-    "antonyms": ["obscure","darken","confuse"]
+    "synonyms": [
+      "clarify",
+      "enlighten",
+      "brighten"
+    ],
+    "antonyms": [
+      "obscure",
+      "darken",
+      "confuse"
+    ]
   },
   {
     "id": "innovation_inter_8",
     "word": "Innovation",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The introduction of new methods, ideas, or products.",
     "tamilDefinition": "புதுமைப் படைப்பு, புதிய கண்டுபிடிப்பு.",
     "literaryContext": {
@@ -1109,18 +1149,29 @@ export const dataI: VocabularyEntry[] = [
       "tamil": "தொழில்நுட்பப் புதுமைப் படைப்பு நவீன சமூகத்தில் முன்னேற்றத்தை இயக்குகிறது."
     },
     "formalSpeechContext": {
-      "english": "Technological innovation drives progress in modern society.",
-      "tamil": "தொழில்நுட்பப் புதுமைப் படைப்பு நவீன சமூகத்தில் முன்னேற்றத்தை இயக்குகிறது."
+      "english": "Encouraging technological innovation drives long-term national competitiveness.",
+      "tamil": "தொழில்நுட்ப கண்டுபிடிப்புகளை ஊக்குவிப்பது நீண்டகால தேசிய போட்டித்தன்மையை உந்துகிறது."
     },
-    "synonyms": ["novelty","invention","breakthrough"],
-    "antonyms": ["stagnation","tradition","imitation"]
+    "synonyms": [
+      "novelty",
+      "invention",
+      "breakthrough"
+    ],
+    "antonyms": [
+      "stagnation",
+      "tradition",
+      "imitation"
+    ]
   },
   {
     "id": "indispensable_inter_9",
     "word": "Indispensable",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Absolutely necessary; essential.",
     "tamilDefinition": "தவிர்க்க முடியாத, இன்றியமையாத.",
     "literaryContext": {
@@ -1128,18 +1179,29 @@ export const dataI: VocabularyEntry[] = [
       "tamil": "முக்கியமான பேச்சுவார்த்தையின் போது அவளது நிபுணத்துவம் இன்றியமையாததாக நிரூபிக்கப்பட்டது."
     },
     "formalSpeechContext": {
-      "english": "Her expertise proved indispensable during the critical negotiation.",
-      "tamil": "முக்கியமான பேச்சுவார்த்தையின் போது அவளது நிபுணத்துவம் இன்றியமையாததாக நிரூபிக்கப்பட்டது."
+      "english": "Reliable internet access has become an indispensable utility for modern education.",
+      "tamil": "நம்பகமான இணைய அணுகல் நவீன கல்விக்கு இன்றியமையாத ஒரு பயன்பாடாக மாறியுள்ளது."
     },
-    "synonyms": ["essential","vital","crucial"],
-    "antonyms": ["expendable","unnecessary","optional"]
+    "synonyms": [
+      "essential",
+      "vital",
+      "crucial"
+    ],
+    "antonyms": [
+      "expendable",
+      "unnecessary",
+      "optional"
+    ]
   },
   {
     "id": "impartial_inter_10",
     "word": "Impartial",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Treating all rivals or disputants equally; unbiased.",
     "tamilDefinition": "நடுநிலையான, பட்சபாதமற்ற.",
     "literaryContext": {
@@ -1147,10 +1209,18 @@ export const dataI: VocabularyEntry[] = [
       "tamil": "ஒரு நடுநிலையான நீதிபதி அனைவருக்கும் நியாயமான விசாரணையை உறுதிசெய்கிறார்."
     },
     "formalSpeechContext": {
-      "english": "An impartial judge ensures a fair trial for everyone.",
-      "tamil": "ஒரு நடுநிலையான நீதிபதி அனைவருக்கும் நியாயமான விசாரணையை உறுதிசெய்கிறார்."
+      "english": "An impartial judiciary is essential for administering equal justice under the law.",
+      "tamil": "சட்டத்தின் கீழ் சமமான நீதியை வழங்குவதற்கு நடுநிலையான நீதித்துறை அவசியமாகும்."
     },
-    "synonyms": ["unbiased","fair","neutral"],
-    "antonyms": ["biased","partial","prejudiced"]
+    "synonyms": [
+      "unbiased",
+      "fair",
+      "neutral"
+    ],
+    "antonyms": [
+      "biased",
+      "partial",
+      "prejudiced"
+    ]
   }
 ];

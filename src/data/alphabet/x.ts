@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataX: VocabularyEntry[] = [
-{
+  {
     "id": "xanthic",
     "word": "xanthic",
     "partOfSpeech": "adjective",
@@ -848,7 +848,10 @@ export const dataX: VocabularyEntry[] = [
     "word": "Xenon",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A heavy, colorless, odorless noble gas used in specialized lamps.",
     "tamilDefinition": "செனான் வாயு.",
     "literaryContext": {
@@ -856,8 +859,8 @@ export const dataX: VocabularyEntry[] = [
       "tamil": "உயர் செறிவூட்டப்பட்ட கார் முகப்பு விளக்குகளில் செனான் வாயு பயன்படுத்தப்படுகிறது."
     },
     "formalSpeechContext": {
-      "english": "Xenon lamps are used in high-intensity car headlights.",
-      "tamil": "உயர் செறிவூட்டப்பட்ட கார் முகப்பு விளக்குகளில் செனான் வாயு பயன்படுத்தப்படுகிறது."
+      "english": "Advanced scientific research utilizes xenon gas in high-precision laboratory testing.",
+      "tamil": "மேம்பட்ட அறிவியல் ஆராய்ச்சி உயர் துல்லியமான ஆய்வக சோதனைகளில் செனான் வாயுவைப் பயன்படுத்துகிறது."
     },
     "synonyms": [
       "element",
@@ -875,7 +878,10 @@ export const dataX: VocabularyEntry[] = [
     "word": "Xanthic",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Yellowish or turning yellow in color.",
     "tamilDefinition": "மஞ்சள் நிறமுள்ள.",
     "literaryContext": {
@@ -883,8 +889,8 @@ export const dataX: VocabularyEntry[] = [
       "tamil": "தாவரவியலாளர் இலையுதிர் இலைகளில் மஞ்சள் நிறமிகளை அடையாளம் கண்டார்."
     },
     "formalSpeechContext": {
-      "english": "The botanist identified xanthic pigments in the autumn leaves.",
-      "tamil": "தாவரவியலாளர் இலையுதிர் இலைகளில் மஞ்சள் நிறமிகளை அடையாளம் கண்டார்."
+      "english": "Agricultural researchers identified xanthic discoloration as an early indicator of plant mineral deficiency.",
+      "tamil": "விவசாய ஆராய்ச்சியாளர்கள் மஞ்சள் நிறமாற்றத்தை தாவர தாதுக் குறைபாட்டின் ஆரம்ப குறாட்டியாகக் கண்டறிந்தனர்."
     },
     "synonyms": [
       "yellowish",
@@ -902,7 +908,10 @@ export const dataX: VocabularyEntry[] = [
     "word": "Xenophile",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "An individual who is attracted to foreign people, cultures, or customs.",
     "tamilDefinition": "அந்நிய கலாச்சாரத்தை விரும்பும் நபர்.",
     "literaryContext": {
@@ -910,8 +919,8 @@ export const dataX: VocabularyEntry[] = [
       "tamil": "ஒரு தீவிர அந்நிய கலாச்சார விரும்பியாக, அவள் சர்வதேச பாரம்பரியங்களை ஆராய்வதை விரும்பினாள்."
     },
     "formalSpeechContext": {
-      "english": "As a dedicated xenophile, she loved exploring international traditions.",
-      "tamil": "ஒரு தீவிர அந்நிய கலாச்சார விரும்பியாக, அவள் சர்வதேச பாரம்பரியங்களை ஆராய்வதை விரும்பினாள்."
+      "english": "A xenophile ambassador naturally excels in fostering international cultural exchanges.",
+      "tamil": "வெளிநாட்டுக் கலாச்சாரங்களை விரும்புபவரான ஒரு தூதர் சர்வதேச கலாச்சார பரிமாற்றங்களை வளர்ப்பதில் இயல்பாகவே சிறந்து விளங்குகிறார்."
     },
     "synonyms": [
       "culture enthusiast",
@@ -927,7 +936,10 @@ export const dataX: VocabularyEntry[] = [
     "word": "Xylograph",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "An engraving on wood, or a print taken from a woodblock.",
     "tamilDefinition": "மர வேலைப்பாடு அல்லது மர அச்சுக்கலை.",
     "literaryContext": {
@@ -935,8 +947,8 @@ export const dataX: VocabularyEntry[] = [
       "tamil": "அருங்காட்சியகம் ஒரு உண்மையான 18ஆம் நூற்றாண்டு மர அச்சுக்கலையைப் பாதுகாத்தது."
     },
     "formalSpeechContext": {
-      "english": "The museum preserved an authentic 18th-century xylograph.",
-      "tamil": "அருங்காட்சியகம் ஒரு உண்மையான 18ஆம் நூற்றாண்டு மர அச்சுக்கலையைப் பாதுகாத்தது."
+      "english": "The national archive preserved an authentic historical xylograph documenting ancient trade routes.",
+      "tamil": "தேசிய ஆவணக்காப்பகம் பண்டைய வர்த்தகப் பாதைகளை ஆவணப்படுத்தும் வரலாற்றுச் சிறப்புமிக்க மரவெட்டுப் பதிவைப் பாதுகாத்தது."
     },
     "synonyms": [
       "woodcut",
@@ -953,7 +965,10 @@ export const dataX: VocabularyEntry[] = [
     "word": "Xenolith",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A rock fragment enveloped in a larger rock during crystallization.",
     "tamilDefinition": "பாறைத் துண்டு.",
     "literaryContext": {
@@ -961,8 +976,8 @@ export const dataX: VocabularyEntry[] = [
       "tamil": "புவியியலாளர்கள் குளிர்ந்த எரிமலைக் குழம்பினுள் சிக்கிய பாறைத் துண்டை ஆய்வு செய்தனர்."
     },
     "formalSpeechContext": {
-      "english": "Geologists analyzed the xenolith trapped inside the cooled lava.",
-      "tamil": "புவியியலாளர்கள் குளிர்ந்த எரிமலைக் குழம்பினுள் சிக்கிய பாறைத் துண்டை ஆய்வு செய்தனர்."
+      "english": "Geologists presented research on deep-mantle xenolith samples at the international summit.",
+      "tamil": "சர்வதேச உச்சிமாநாட்டில் புவியியலாளர்கள் பூமியின் ஆழமான பாறை மாதிரிகள் குறித்த ஆராய்ச்சியை முன்வைத்தனர்."
     },
     "synonyms": [
       "rock fragment",
@@ -979,7 +994,10 @@ export const dataX: VocabularyEntry[] = [
     "word": "Xenodochial",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Hospitable to strangers or guests.",
     "tamilDefinition": "அந்நியரை விருந்தோம்பும் குணம் கொண்ட.",
     "literaryContext": {
@@ -987,18 +1005,29 @@ export const dataX: VocabularyEntry[] = [
       "tamil": "கிராம மக்களின் விருந்தோம்பும் குணம் ஒவ்வொரு பயணியையும் சொந்த வீட்டில் இருப்பது போல் உணர வைத்தது."
     },
     "formalSpeechContext": {
-      "english": "The villagers xenodochial nature made every traveler feel at home.",
-      "tamil": "கிராம மக்களின் விருந்தோம்பும் குணம் ஒவ்வொரு பயணியையும் சொந்த வீட்டில் இருப்பது போல் உணர வைத்தது."
+      "english": "Cultivating xenodochial international relations promotes global peace and diplomacy.",
+      "tamil": "விருந்தினர்களை உபசரிக்கும் சர்வதேச உறவுகளை வளர்ப்பது உலகளாவிய அமைதியையும் ராஜதந்திரத்தையும் ஊக்குவிக்கிறது."
     },
-    "synonyms": ["hospitable","welcoming","friendly"],
-    "antonyms": ["xenophobic","hostile","cold"]
+    "synonyms": [
+      "hospitable",
+      "welcoming",
+      "friendly"
+    ],
+    "antonyms": [
+      "xenophobic",
+      "hostile",
+      "cold"
+    ]
   },
   {
     "id": "xanthic_inter_7",
     "word": "Xanthic",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Yellowish or relating to a yellow color.",
     "tamilDefinition": "மஞ்சள் நிறம் சார்ந்த, பொன்னிற.",
     "literaryContext": {
@@ -1006,18 +1035,29 @@ export const dataX: VocabularyEntry[] = [
       "tamil": "இலையுதிர் இலைகளின் பொன்னிற பிரகாசம் பூங்காவை ஒளியில் நனைத்தது."
     },
     "formalSpeechContext": {
-      "english": "The xanthic glow of autumn leaves bathed the park in light.",
-      "tamil": "இலையுதிர் இலைகளின் பொன்னிற பிரகாசம் பூங்காவை ஒளியில் நனைத்தது."
+      "english": "Botanists documented xanthic foliage patterns during their environmental conservation survey.",
+      "tamil": "தாவரவியலாளர்கள் தங்களது சுற்றுச்சூழல் பாதுகாப்பு கணக்கெடுப்பின் போது மஞ்சள் நிற இலை அமைப்புகளை ஆவணப்படுத்தினர்."
     },
-    "synonyms": ["yellowish","golden","amber"],
-    "antonyms": ["dark","blue","colorless"]
+    "synonyms": [
+      "yellowish",
+      "golden",
+      "amber"
+    ],
+    "antonyms": [
+      "dark",
+      "blue",
+      "colorless"
+    ]
   },
   {
     "id": "xenial_inter_8",
     "word": "Xenial",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Relating to hospitality between a host and guest.",
     "tamilDefinition": "விருந்தோம்பல் பண்பு சார்ந்த.",
     "literaryContext": {
@@ -1025,18 +1065,29 @@ export const dataX: VocabularyEntry[] = [
       "tamil": "விருந்தோம்பல் மரபுகள் மூலம் அவர்கள் நீடித்த பிணைப்பை உருவாக்கிக் கொண்டனர்."
     },
     "formalSpeechContext": {
-      "english": "They formed a lasting bond through xenial traditions.",
-      "tamil": "விருந்தோம்பல் மரபுகள் மூலம் அவர்கள் நீடித்த பிணைப்பை உருவாக்கிக் கொண்டனர்."
+      "english": "Promoting xenial international accords establishes durable cross-border cooperation.",
+      "tamil": "நட்புறவான சர்வதேச ஒப்பந்தங்களை ஊக்குவிப்பது நீடித்த எல்லை கடந்த ஒத்துழைப்பை நிறுவுகிறது."
     },
-    "synonyms": ["hospitable","friendly","cordial"],
-    "antonyms": ["unfriendly","hostile","rude"]
+    "synonyms": [
+      "hospitable",
+      "friendly",
+      "cordial"
+    ],
+    "antonyms": [
+      "unfriendly",
+      "hostile",
+      "rude"
+    ]
   },
   {
     "id": "xerosis_inter_9",
     "word": "Xerosis",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Abnormal dryness of skin, eyes, or membranes.",
     "tamilDefinition": "வறட்சி நிலை.",
     "literaryContext": {
@@ -1044,18 +1095,29 @@ export const dataX: VocabularyEntry[] = [
       "tamil": "குளிர்ந்த குளிர்காலத்தில் வறட்சி நிலையைத் தடுக்க மாய்ஸ்சரைசர் உதவுகிறது."
     },
     "formalSpeechContext": {
-      "english": "Moisturizer helps prevent xerosis during cold winter months.",
-      "tamil": "குளிர்ந்த குளிர்காலத்தில் வறட்சி நிலையைத் தடுக்க மாய்ஸ்சரைசர் உதவுகிறது."
+      "english": "Public health guidelines addressed preventive care for environmental xerosis during dry seasons.",
+      "tamil": "பொது சுகாதார வழிகாட்டுதல்கள் வறண்ட காலங்களில் ஏற்படும் தோல் வறட்சிக்கான தடுப்புப் பராமரிப்பைக் கையாண்டன."
     },
-    "synonyms": ["dryness","desiccation","aridity"],
-    "antonyms": ["moisture","hydration","wetness"]
+    "synonyms": [
+      "dryness",
+      "desiccation",
+      "aridity"
+    ],
+    "antonyms": [
+      "moisture",
+      "hydration",
+      "wetness"
+    ]
   },
   {
     "id": "xylophone_inter_10",
     "word": "Xylophone",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A musical instrument played by striking wooden bars.",
     "tamilDefinition": "மரக்கட்டைகளால் இசைக்கப்படும் இசைக்கருவி.",
     "literaryContext": {
@@ -1063,10 +1125,18 @@ export const dataX: VocabularyEntry[] = [
       "tamil": "குழந்தை வண்ணமயமான மர இசைக்கருவியில் ஒரு மகிழ்ச்சியான மெல்லிசையை இசைத்தது."
     },
     "formalSpeechContext": {
-      "english": "The child played a cheerful tune on the colorful xylophone.",
-      "tamil": "குழந்தை வண்ணமயமான மர இசைக்கருவியில் ஒரு மகிழ்ச்சியான மெல்லிசையை இசைத்தது."
+      "english": "The national symphony orchestra featured acoustic xylophone compositions in its cultural concert.",
+      "tamil": "தேசிய சிம்பொனி ஆர்கெஸ்ட்ரா தனது கலாச்சார இசை நிகழ்ச்சியில் சைலோஃபோன் இசை அமைப்புகளைக் கொண்டிருந்தது."
     },
-    "synonyms": ["marimba","vibraphone","percussion"],
-    "antonyms": ["vocal","wind instrument","string"]
+    "synonyms": [
+      "marimba",
+      "vibraphone",
+      "percussion"
+    ],
+    "antonyms": [
+      "vocal",
+      "wind instrument",
+      "string"
+    ]
   }
 ];

@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataE: VocabularyEntry[] = [
-{
+  {
     "id": "earnestness",
     "word": "Earnestness",
     "partOfSpeech": "noun",
@@ -1053,7 +1053,10 @@ export const dataE: VocabularyEntry[] = [
     "word": "Essential",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Absolutely necessary; extremely important.",
     "tamilDefinition": "அத்தியாவசியமான, முக்கியமான.",
     "literaryContext": {
@@ -1061,8 +1064,8 @@ export const dataE: VocabularyEntry[] = [
       "tamil": "அனைத்து உயிரினங்களுக்கும் நீர் அத்தியாவசியமானது."
     },
     "formalSpeechContext": {
-      "english": "Water is essential for all living creatures.",
-      "tamil": "அனைத்து உயிரினங்களுக்கும் நீர் அத்தியாவசியமானது."
+      "english": "Transparent governance is essential for building public trust in democratic institutions.",
+      "tamil": "ஜனநாயக நிறுவனங்கள் மீது பொதுமக்களின் நம்பிக்கையை உருவாக்க வெளிப்படையான ஆட்சி இன்றியமையாதது."
     },
     "synonyms": [
       "vital",
@@ -1080,7 +1083,10 @@ export const dataE: VocabularyEntry[] = [
     "word": "Efficient",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Achieving maximum productivity with minimum wasted effort.",
     "tamilDefinition": "செயல்திறன்மிக்க, விரைவாகவும் சரியாகவும் செய்யும்.",
     "literaryContext": {
@@ -1088,8 +1094,8 @@ export const dataE: VocabularyEntry[] = [
       "tamil": "செயல்திறன்மிக்க பணிப்பாய்வு உற்பத்தி நேரத்தைக் கணிசமாகக் குறைத்தது."
     },
     "formalSpeechContext": {
-      "english": "An efficient workflow reduced production time significantly.",
-      "tamil": "செயல்திறன்மிக்க பணிப்பாய்வு உற்பத்தி நேரத்தைக் கணிசமாகக் குறைத்தது."
+      "english": "Implementing digital administrative tools creates a more efficient public service system.",
+      "tamil": "டிஜிட்டல் நிர்வாகக் கருவிகளைச் செயல்படுத்துவது மிகவும் திறமையான பொது சேவை அமைப்பை உருவாக்குகிறது."
     },
     "synonyms": [
       "effective",
@@ -1107,7 +1113,10 @@ export const dataE: VocabularyEntry[] = [
     "word": "Expand",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To become or make larger or more extensive.",
     "tamilDefinition": "விரிவுபடுத்துதல், பெருக்குதல்.",
     "literaryContext": {
@@ -1115,8 +1124,8 @@ export const dataE: VocabularyEntry[] = [
       "tamil": "நிறுவனம் சர்வதேச சந்தைகளில் விரிவடைய திட்டமிட்டுள்ளது."
     },
     "formalSpeechContext": {
-      "english": "The business plans to expand into international markets.",
-      "tamil": "நிறுவனம் சர்வதேச சந்தைகளில் விரிவடைய திட்டமிட்டுள்ளது."
+      "english": "The corporation plans to expand its healthcare services to rural regions.",
+      "tamil": "நிறுவனம் தனது சுகாதார சேவைகளை கிராமப்புற பகுதிகளுக்கு விரிவாக்க திட்டமிட்டுள்ளது."
     },
     "synonyms": [
       "enlarge",
@@ -1134,7 +1143,10 @@ export const dataE: VocabularyEntry[] = [
     "word": "Evident",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Plain or obvious; clearly seen or understood.",
     "tamilDefinition": "தெளிவாகத் தெரியக்கூடிய, அப்பட்டமான.",
     "literaryContext": {
@@ -1142,8 +1154,8 @@ export const dataE: VocabularyEntry[] = [
       "tamil": "அவளுடைய பிரகாசமான புன்னகையில் அவளது மகிழ்ச்சி தெளிவாகத் தெரிந்தது."
     },
     "formalSpeechContext": {
-      "english": "Her joy was evident in her bright smile.",
-      "tamil": "அவளுடைய பிரகாசமான புன்னகையில் அவளது மகிழ்ச்சி தெளிவாகத் தெரிந்தது."
+      "english": "The statistical data makes it evident that economic growth has accelerated.",
+      "tamil": "பொருளாதார வளர்ச்சி முடுக்கப்பட்டுள்ளது என்பது புள்ளியியல் தரவுகளிலிருந்து தெளிவாகிறது."
     },
     "synonyms": [
       "obvious",
@@ -1161,7 +1173,10 @@ export const dataE: VocabularyEntry[] = [
     "word": "Empathy",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The ability to understand and share the feelings of another.",
     "tamilDefinition": "சக மனிதரின் உணர்வுகளைப் புரிந்து கொள்ளும் திறன்.",
     "literaryContext": {
@@ -1169,8 +1184,8 @@ export const dataE: VocabularyEntry[] = [
       "tamil": "அனுதாபத்தைக் காட்டுவது வலுவான உறவுகளை உருவாக்க உதவுகிறது."
     },
     "formalSpeechContext": {
-      "english": "Showing empathy helps build strong relationships.",
-      "tamil": "அனுதாபத்தைக் காட்டுவது வலுவான உறவுகளை உருவாக்க உதவுகிறது."
+      "english": "Effective community leadership demands profound empathy toward public concerns.",
+      "tamil": "பயனுள்ள சமூக தலைமைத்துவத்திற்கு பொதுமக்களின் கவலைகள் குறித்து ஆழ்ந்த அனுதாபம் தேவைப்படுகிறது."
     },
     "synonyms": [
       "compassion",
@@ -1188,7 +1203,10 @@ export const dataE: VocabularyEntry[] = [
     "word": "Eloquent",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Fluent, persuasive, and expressive in speaking or writing.",
     "tamilDefinition": "சொல்லாற்றல் மிக்க, கம்பீரமான பேச்சாற்றல் கொண்ட.",
     "literaryContext": {
@@ -1196,18 +1214,29 @@ export const dataE: VocabularyEntry[] = [
       "tamil": "ஒரு கம்பீரமான பேச்சாளர் தன் உணர்ச்சிமிக்க வேண்டுகோளால் கூட்டத்தினரை கண்ணீர் சிந்த வைத்தார்."
     },
     "formalSpeechContext": {
-      "english": "An eloquent orator moved the crowd to tears with his passionate plea.",
-      "tamil": "ஒரு கம்பீரமான பேச்சாளர் தன் உணர்ச்சிமிக்க வேண்டுகோளால் கூட்டத்தினரை கண்ணீர் சிந்த வைத்தார்."
+      "english": "The keynote speaker offered an eloquent defense of universal human rights.",
+      "tamil": "முக்கிய பேச்சாளர் உலகளாவிய மனித உரிமைகளுக்கு ஆதரவாக கம்பீரமான உரையை வழங்கினார்."
     },
-    "synonyms": ["articulate","persuasive","expressive"],
-    "antonyms": ["inarticulate","mute","unpersuasive"]
+    "synonyms": [
+      "articulate",
+      "persuasive",
+      "expressive"
+    ],
+    "antonyms": [
+      "inarticulate",
+      "mute",
+      "unpersuasive"
+    ]
   },
   {
     "id": "endurance_inter_7",
     "word": "Endurance",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The ability to withstand hardship, fatigue, or stress over time.",
     "tamilDefinition": "சகிப்புத்தன்மை, தாங்கும் ஆற்றல், மனஉறுதி.",
     "literaryContext": {
@@ -1215,18 +1244,29 @@ export const dataE: VocabularyEntry[] = [
       "tamil": "மராத்தான் ஓட்டப்பந்தய வீரர்களுக்கு மிகுந்த உடலியல் மற்றும் மன சகிப்புத்தன்மை தேவைப்படுகிறது."
     },
     "formalSpeechContext": {
-      "english": "Marathon runners require great physical and mental endurance.",
-      "tamil": "மராத்தான் ஓட்டப்பந்தய வீரர்களுக்கு மிகுந்த உடலியல் மற்றும் மன சகிப்புத்தன்மை தேவைப்படுகிறது."
+      "english": "Economic recovery relies on the endurance and adaptability of local businesses.",
+      "tamil": "பொருளாதார மீட்சி உள்ளூர் வணிகங்களின் சகிப்புத்தன்மை மற்றும் தகவமைப்புத் தன்மையை நம்பியுள்ளது."
     },
-    "synonyms": ["stamina","fortitude","perseverance"],
-    "antonyms": ["weakness","fragility","exhaustion"]
+    "synonyms": [
+      "stamina",
+      "fortitude",
+      "perseverance"
+    ],
+    "antonyms": [
+      "weakness",
+      "fragility",
+      "exhaustion"
+    ]
   },
   {
     "id": "enhance_inter_8",
     "word": "Enhance",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To intensify, increase, or further improve the quality or value.",
     "tamilDefinition": "மேம்படுத்துதல், தகுதியை அல்லது மதிப்பை உயர்த்துதல்.",
     "literaryContext": {
@@ -1234,18 +1274,29 @@ export const dataE: VocabularyEntry[] = [
       "tamil": "செறிவான உருவகங்களைச் சேர்த்தது கவிதையின் அழகை மேம்படுத்த உதவியது."
     },
     "formalSpeechContext": {
-      "english": "Adding rich metaphors helped enhance the beauty of the poem.",
-      "tamil": "செறிவான உருவகங்களைச் சேர்த்தது கவிதையின் அழகை மேம்படுத்த உதவியது."
+      "english": "Upgrading technological infrastructure will enhance overall productivity across sectors.",
+      "tamil": "தொழில்நுட்ப உள்கட்டமைப்பை தரம் உயர்த்துவது அனைத்து துறைகளிலும் ஒட்டுமொத்த உற்பத்தித் திறனை மேம்படுத்தும்."
     },
-    "synonyms": ["improve","enrich","elevate"],
-    "antonyms": ["diminish","impair","spoil"]
+    "synonyms": [
+      "improve",
+      "enrich",
+      "elevate"
+    ],
+    "antonyms": [
+      "diminish",
+      "impair",
+      "spoil"
+    ]
   },
   {
     "id": "enterprise_inter_9",
     "word": "Enterprise",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A bold or difficult undertaking requiring courage and effort.",
     "tamilDefinition": "பெருமுயற்சி, துணிச்சலான திட்டம்.",
     "literaryContext": {
@@ -1253,18 +1304,29 @@ export const dataE: VocabularyEntry[] = [
       "tamil": "தொலைதூர கிராமத்தில் பள்ளி கட்டுவது ஒரு உன்னதமான பெருமுயற்சியாகும்."
     },
     "formalSpeechContext": {
-      "english": "Building a school in the remote village was a noble enterprise.",
-      "tamil": "தொலைதூர கிராமத்தில் பள்ளி கட்டுவது ஒரு உன்னதமான பெருமுயற்சியாகும்."
+      "english": "Establishing a national solar power grid is a monumental public enterprise.",
+      "tamil": "தேசிய சூரிய மின் உற்பத்தி நிலையத்தை அமைப்பது ஒரு மாபெரும் பொதுப் பெருமுயற்சியாகும்."
     },
-    "synonyms": ["undertaking","venture","initiative"],
-    "antonyms": ["inactivity","idleness","apathy"]
+    "synonyms": [
+      "undertaking",
+      "venture",
+      "initiative"
+    ],
+    "antonyms": [
+      "inactivity",
+      "idleness",
+      "apathy"
+    ]
   },
   {
     "id": "equanimity_inter_10",
     "word": "Equanimity",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Mental calmness, composure, and evenness of temper in crisis.",
     "tamilDefinition": "மன அமைதி, சமநிலை மனப்பான்மை, பதற்றமின்மை.",
     "literaryContext": {
@@ -1272,10 +1334,18 @@ export const dataE: VocabularyEntry[] = [
       "tamil": "அவர் வெற்றியையும் தோல்வியையும் தளராத சமநிலை மனப்பான்மையுடன் ஏற்றுக்கொண்டார்."
     },
     "formalSpeechContext": {
-      "english": "He accepted both victory and defeat with unwavering equanimity.",
-      "tamil": "அவர் வெற்றியையும் தோல்வியையும் தளராத சமநிலை மனப்பான்மையுடன் ஏற்றுக்கொண்டார்."
+      "english": "The crisis manager maintained admirable equanimity during emergency proceedings.",
+      "tamil": "அவசரகால நடவடிக்கைகளின் போது அவசரகால மேலாளர் போற்றத்தக்க மன அமைதியைப் பேணினார்."
     },
-    "synonyms": ["composure","serenity","calmness"],
-    "antonyms": ["agitation","anxiety","excitement"]
+    "synonyms": [
+      "composure",
+      "serenity",
+      "calmness"
+    ],
+    "antonyms": [
+      "agitation",
+      "anxiety",
+      "excitement"
+    ]
   }
 ];

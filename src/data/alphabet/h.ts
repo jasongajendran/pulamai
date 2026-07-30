@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataH: VocabularyEntry[] = [
-{
+  {
     "id": "habitat",
     "word": "Habitat",
     "partOfSpeech": "noun",
@@ -960,7 +960,10 @@ export const dataH: VocabularyEntry[] = [
     "word": "Humble",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having or showing a modest estimate of one importance.",
     "tamilDefinition": "பணிவான, அடக்கமான.",
     "literaryContext": {
@@ -968,8 +971,8 @@ export const dataH: VocabularyEntry[] = [
       "tamil": "அவரது பெரும் வெற்றி இருந்தபோதிலும், அவர் பணிவாகவே இருந்தார்."
     },
     "formalSpeechContext": {
-      "english": "Despite his great success, he remained humble.",
-      "tamil": "அவரது பெரும் வெற்றி இருந்தபோதிலும், அவர் பணிவாகவே இருந்தார்."
+      "english": "Effective leaders maintain a humble attitude when listening to community feedback.",
+      "tamil": "பயனுள்ள தலைவர்கள் சமூக கருத்துக்களைக் கேட்கும்போது பணிவான அணுகுமுறையைப் பேணுகிறார்கள்."
     },
     "synonyms": [
       "modest",
@@ -987,7 +990,10 @@ export const dataH: VocabularyEntry[] = [
     "word": "Harmony",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Agreement or concord; pleasant musical sound.",
     "tamilDefinition": "இணக்கம், சீரான இசை அல்லது உறவு.",
     "literaryContext": {
@@ -995,8 +1001,8 @@ export const dataH: VocabularyEntry[] = [
       "tamil": "இயற்கையோடு இணக்கமாக வாழ்வது அமைதியைத் தருகிறது."
     },
     "formalSpeechContext": {
-      "english": "Living in harmony with nature brings peace.",
-      "tamil": "இயற்கையோடு இணக்கமாக வாழ்வது அமைதியைத் தருகிறது."
+      "english": "Promoting social harmony requires protecting cultural diversity and minority rights.",
+      "tamil": "சமூக நல்லிணக்கத்தை மேம்படுத்துவதற்கு கலாச்சார பன்முகத்தன்மை மற்றும் சிறுபான்மையினரின் உரிமைகளைப் பாதுகாப்பது அவசியம்."
     },
     "synonyms": [
       "concord",
@@ -1014,7 +1020,10 @@ export const dataH: VocabularyEntry[] = [
     "word": "Hazard",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A danger or risk.",
     "tamilDefinition": "ஆபத்து, இடர்.",
     "literaryContext": {
@@ -1022,8 +1031,8 @@ export const dataH: VocabularyEntry[] = [
       "tamil": "பனிக்கட்டி சாலைகள் ஓட்டுநர்களுக்கு கடுமையான ஆபத்தை விளைவிக்கின்றன."
     },
     "formalSpeechContext": {
-      "english": "Icy roads present a serious hazard to drivers.",
-      "tamil": "பனிக்கட்டி சாலைகள் ஓட்டுநர்களுக்கு கடுமையான ஆபத்தை விளைவிக்கின்றன."
+      "english": "Strict industrial safety protocols minimize environmental hazards in chemical plants.",
+      "tamil": "கண்டிப்பான தொழில்துறை பாதுகாப்பு நெறிமுறைகள் இரசாயன ஆலைகளில் சுற்றுச்சூழல் ஆபத்துக்களைக் குறைக்கின்றன."
     },
     "synonyms": [
       "danger",
@@ -1041,7 +1050,10 @@ export const dataH: VocabularyEntry[] = [
     "word": "Hesitate",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To pause before saying or doing something through uncertainty.",
     "tamilDefinition": "தயங்குதல், இடைநிறுத்துதல்.",
     "literaryContext": {
@@ -1049,8 +1061,8 @@ export const dataH: VocabularyEntry[] = [
       "tamil": "உங்களுக்கு உதவி தேவைப்பட்டால் கேட்கத் தயங்காதீர்கள்."
     },
     "formalSpeechContext": {
-      "english": "Do not hesitate to ask if you need help.",
-      "tamil": "உங்களுக்கு உதவி தேவைப்பட்டால் கேட்கத் தயங்காதீர்கள்."
+      "english": "Governments must not hesitate to enact decisive policies during a health crisis.",
+      "tamil": "சுகாதார நெருக்கடியின் போது தீர்க்கமான கொள்கைகளை இயற்ற அரசாங்கங்கள் தயங்கக் கூடாது."
     },
     "synonyms": [
       "pause",
@@ -1068,7 +1080,10 @@ export const dataH: VocabularyEntry[] = [
     "word": "Hostile",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Unfriendly; antagonistic.",
     "tamilDefinition": "பகைமையுள்ள, விரோதமான.",
     "literaryContext": {
@@ -1076,8 +1091,8 @@ export const dataH: VocabularyEntry[] = [
       "tamil": "இக்கோரிக்கை கூட்டத்தினரிடமிருந்து விரோதமான எதிர்வினையைச் சந்தித்தது."
     },
     "formalSpeechContext": {
-      "english": "The proposal met with a hostile reaction from the crowd.",
-      "tamil": "இக்கோரிக்கை கூட்டத்தினரிடமிருந்து விரோதமான எதிர்வினையைச் சந்தித்தது."
+      "english": "Diplomats worked tirelessly to de-escalate hostile rhetoric between rival nations.",
+      "tamil": "போட்டி நாடுகளுக்கு இடையிலான பகையான பேச்சுக்களைத் தணிக்க ராஜதந்திரிகள் அயராது உழைத்தனர்."
     },
     "synonyms": [
       "unfriendly",
@@ -1095,7 +1110,10 @@ export const dataH: VocabularyEntry[] = [
     "word": "Heritage",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Valued traditions, culture, or property inherited from ancestors.",
     "tamilDefinition": "பாரம்பரியம், மரபுச் சொத்து.",
     "literaryContext": {
@@ -1103,18 +1121,29 @@ export const dataH: VocabularyEntry[] = [
       "tamil": "இந்த நினைவுச் சின்னம் நமது கலாச்சார பாரம்பரியத்தின் பெருமைமிக்க அடையாளமாகும்."
     },
     "formalSpeechContext": {
-      "english": "The monument is a proud symbol of our cultural heritage.",
-      "tamil": "இந்த நினைவுச் சின்னம் நமது கலாச்சார பாரம்பரியத்தின் பெருமைமிக்க அடையாளமாகும்."
+      "english": "Preserving national heritage sites fosters cultural pride and boosts international tourism.",
+      "tamil": "தேசிய பாரம்பரிய இடங்களைப் பாதுகாப்பது கலாச்சார பெருமையை வளர்ப்பதுடன் சர்வதேச சுற்றுலாவையும் ஊக்குவிக்கிறது."
     },
-    "synonyms": ["legacy","tradition","ancestry"],
-    "antonyms": ["poverty","forgetfulness","destruction"]
+    "synonyms": [
+      "legacy",
+      "tradition",
+      "ancestry"
+    ],
+    "antonyms": [
+      "poverty",
+      "forgetfulness",
+      "destruction"
+    ]
   },
   {
     "id": "horizon_inter_7",
     "word": "Horizon",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The limit of a person knowledge, experience, or perspective.",
     "tamilDefinition": "தொடுவானம், அறிவின் எல்லை.",
     "literaryContext": {
@@ -1122,18 +1151,29 @@ export const dataH: VocabularyEntry[] = [
       "tamil": "பயணம் ஒருவரின் அறிவின் எல்லையை விரிவுபடுத்துகிறது மற்றும் புரிதலை ஆழமாக்குகிறது."
     },
     "formalSpeechContext": {
-      "english": "Travel expands one horizon and deepens understanding.",
-      "tamil": "பயணம் ஒருவரின் அறிவின் எல்லையை விரிவுபடுத்துகிறது மற்றும் புரிதலை ஆழமாக்குகிறது."
+      "english": "Investments in renewable technology expand economic opportunities on the horizon.",
+      "tamil": "புதுப்பிக்கத்தக்க தொழில்நுட்பத்தில் செய்யப்படும் முதலீடுகள் அடிவானத்தில் பொருளாதார வாய்ப்புகளை விரிவுபடுத்துகின்றன."
     },
-    "synonyms": ["scope","prospect","boundary"],
-    "antonyms": ["limitation","center","interior"]
+    "synonyms": [
+      "scope",
+      "prospect",
+      "boundary"
+    ],
+    "antonyms": [
+      "limitation",
+      "center",
+      "interior"
+    ]
   },
   {
     "id": "heroic_inter_8",
     "word": "Heroic",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having the extraordinary courage or characteristics of a hero.",
     "tamilDefinition": "வீர காவியமான, தீரமிக்க.",
     "literaryContext": {
@@ -1141,18 +1181,29 @@ export const dataH: VocabularyEntry[] = [
       "tamil": "வெள்ளத்தின் போது அவரது தீரமிக்க செயல்கள் பல உயிர்களைக் காப்பாற்றின."
     },
     "formalSpeechContext": {
-      "english": "His heroic actions saved many lives during the flood.",
-      "tamil": "வெள்ளத்தின் போது அவரது தீரமிக்க செயல்கள் பல உயிர்களைக் காப்பாற்றின."
+      "english": "Parliament recognized the heroic contributions of frontline emergency personnel.",
+      "tamil": "முன்னணி அவசரகாலப் பணியாளர்களின் வீரமிக்க பங்களிப்பை நாடாளுமன்றம் அங்கீகரித்தது."
     },
-    "synonyms": ["valiant","courageous","intrepid"],
-    "antonyms": ["cowardly","timid","fearful"]
+    "synonyms": [
+      "valiant",
+      "courageous",
+      "intrepid"
+    ],
+    "antonyms": [
+      "cowardly",
+      "timid",
+      "fearful"
+    ]
   },
   {
     "id": "hospitality_inter_9",
     "word": "Hospitality",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The friendly and generous reception and entertainment of guests.",
     "tamilDefinition": "விருந்தோம்பல், உபசரிப்பு.",
     "literaryContext": {
@@ -1160,18 +1211,29 @@ export const dataH: VocabularyEntry[] = [
       "tamil": "கிராம மக்கள் பயணிகளை வெதுவெதுப்பான விருந்தோம்பலுடன் வரவேற்றனர்."
     },
     "formalSpeechContext": {
-      "english": "The villagers welcomed the travelers with warm hospitality.",
-      "tamil": "கிராம மக்கள் பயணிகளை வெதுவெதுப்பான விருந்தோம்பலுடன் வரவேற்றனர்."
+      "english": "The international summit showcased the nation warmth and traditional hospitality.",
+      "tamil": "சர்வதேச உச்சிமாநாடு நாட்டின் அன்பையும் பாரம்பரிய உபசரிப்பையும் வெளிப்படுத்தியது."
     },
-    "synonyms": ["welcoming","warmth","friendliness"],
-    "antonyms": ["hostility","unfriendliness","rejection"]
+    "synonyms": [
+      "welcoming",
+      "warmth",
+      "friendliness"
+    ],
+    "antonyms": [
+      "hostility",
+      "unfriendliness",
+      "rejection"
+    ]
   },
   {
     "id": "humanity_inter_10",
     "word": "Humanity",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Human beings collectively or the quality of being humane.",
     "tamilDefinition": "மனிதநேயம், மனிதகுலம்.",
     "literaryContext": {
@@ -1179,10 +1241,18 @@ export const dataH: VocabularyEntry[] = [
       "tamil": "கருணைச் செயல்கள் மனிதநேயத்தின் அழகை நமக்கு நினைவூட்டுகின்றன."
     },
     "formalSpeechContext": {
-      "english": "Acts of kindness remind us of the beauty of humanity.",
-      "tamil": "கருணைச் செயல்கள் மனிதநேயத்தின் அழகை நமக்கு நினைவூட்டுகின்றன."
+      "english": "Global crises remind us of our shared responsibility to serve humanity with empathy.",
+      "tamil": "உலகளாவிய நெருக்கடிகள் மனிதகுலத்திற்கு அனுதாபத்துடன் சேவை செய்யும் நமது பகிரப்பட்ட பொறுப்பை நினைவூட்டுகின்றன."
     },
-    "synonyms": ["humankind","benevolence","compassion"],
-    "antonyms": ["cruelty","inhumanity","barbarity"]
+    "synonyms": [
+      "humankind",
+      "benevolence",
+      "compassion"
+    ],
+    "antonyms": [
+      "cruelty",
+      "inhumanity",
+      "barbarity"
+    ]
   }
 ];

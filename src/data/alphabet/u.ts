@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataU: VocabularyEntry[] = [
-{
+  {
     "id": "ubiquitous",
     "word": "ubiquitous",
     "partOfSpeech": "adjective",
@@ -902,7 +902,10 @@ export const dataU: VocabularyEntry[] = [
     "word": "Urgent",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Requiring immediate action or attention.",
     "tamilDefinition": "அவசர, மிக முக்கியமான.",
     "literaryContext": {
@@ -910,8 +913,8 @@ export const dataU: VocabularyEntry[] = [
       "tamil": "மருத்துவருக்கு மருத்துவமனையிலிருந்து ஒரு அவசர அழைப்பு வந்தது."
     },
     "formalSpeechContext": {
-      "english": "The doctor received an urgent call from the hospital.",
-      "tamil": "மருத்துவருக்கு மருத்துவமனையிலிருந்து ஒரு அவசர அழைப்பு வந்தது."
+      "english": "Addressing climate risks requires urgent legislative action from world leaders.",
+      "tamil": "காலநிலை ஆபத்துகளை எதிர்கொள்வதற்கு உலகத் தலைவர்களிடமிருந்து அவசர சட்ட நடவடிக்கை தேவைப்படுகிறது."
     },
     "synonyms": [
       "pressing",
@@ -929,7 +932,10 @@ export const dataU: VocabularyEntry[] = [
     "word": "Unique",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Being the only one of its kind; unlike anything else.",
     "tamilDefinition": "அரிதான, தனித்துவமான.",
     "literaryContext": {
@@ -937,8 +943,8 @@ export const dataU: VocabularyEntry[] = [
       "tamil": "ஒவ்வொரு பனித்துளியும் முற்றிலும் தனித்துவமான அமைப்பைக் கொண்டுள்ளது."
     },
     "formalSpeechContext": {
-      "english": "Each snowflake has a completely unique pattern.",
-      "tamil": "ஒவ்வொரு பனித்துளியும் முற்றிலும் தனித்துவமான அமைப்பைக் கொண்டுள்ளது."
+      "english": "Each sovereign nation brings a unique cultural perspective to international forums.",
+      "tamil": "ஒவ்வொரு இறையாண்மை கொண்ட தேசமும் சர்வதேச மன்றங்களுக்கு ஒரு தனித்துவமான கலாச்சார பார்வையைக் கொண்டுவருகிறது."
     },
     "synonyms": [
       "distinctive",
@@ -956,7 +962,10 @@ export const dataU: VocabularyEntry[] = [
     "word": "Ultimate",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Being or happening at the end of a process; final.",
     "tamilDefinition": "இறுதி, உச்சகட்ட.",
     "literaryContext": {
@@ -964,8 +973,8 @@ export const dataU: VocabularyEntry[] = [
       "tamil": "எங்களின் இறுதி இலக்கு நிலையான வளர்ச்சியை அடைவதாகும்."
     },
     "formalSpeechContext": {
-      "english": "Our ultimate goal is to achieve sustainable growth.",
-      "tamil": "எங்களின் இறுதி இலக்கு நிலையான வளர்ச்சியை அடைவதாகும்."
+      "english": "The ultimate objective of economic diplomacy is sustainable global prosperity.",
+      "tamil": "பொருளாதார ராஜதந்திரத்தின் இறுதி நோக்கம் நிலையான உலகளாவிய செழிப்பாகும்."
     },
     "synonyms": [
       "final",
@@ -983,7 +992,10 @@ export const dataU: VocabularyEntry[] = [
     "word": "Universal",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Relating to or done by all people or things in the world.",
     "tamilDefinition": "அனைவருக்கும் பொதுவான, உலகளாவிய.",
     "literaryContext": {
@@ -991,8 +1003,8 @@ export const dataU: VocabularyEntry[] = [
       "tamil": "இசை பெரும்பாலும் உலகளாவிய மொழியாக அழைக்கப்படுகிறது."
     },
     "formalSpeechContext": {
-      "english": "Music is often called a universal language.",
-      "tamil": "இசை பெரும்பாலும் உலகளாவிய மொழியாக அழைக்கப்படுகிறது."
+      "english": "Access to clean water is recognized as a universal human right.",
+      "tamil": "சுத்தமான குடிநீருக்கான அணுகல் உலகளாவிய மனித உரிமையாக அங்கீகரிக்கப்பட்டுள்ளது."
     },
     "synonyms": [
       "global",
@@ -1010,7 +1022,10 @@ export const dataU: VocabularyEntry[] = [
     "word": "Utilize",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To make practical and effective use of.",
     "tamilDefinition": "பயன்படுத்துதல்.",
     "literaryContext": {
@@ -1018,8 +1033,8 @@ export const dataU: VocabularyEntry[] = [
       "tamil": "மின்சாரச் செலவைக் குறைக்க சூரிய ஆற்றலைப் பயன்படுத்த வேண்டும்."
     },
     "formalSpeechContext": {
-      "english": "We should utilize solar energy to reduce electricity costs.",
-      "tamil": "மின்சாரச் செலவைக் குறைக்க சூரிய ஆற்றலைப் பயன்படுத்த வேண்டும்."
+      "english": "Municipalities must efficiently utilize allocated state funds for infrastructure upgrade.",
+      "tamil": "உள்கட்டமைப்பு மேம்பாட்டிற்காக ஒதுக்கப்பட்ட மாநில நிதியை நகராட்சிகள் திறம்பட பயன்படுத்த வேண்டும்."
     },
     "synonyms": [
       "use",
@@ -1037,7 +1052,10 @@ export const dataU: VocabularyEntry[] = [
     "word": "Unity",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The state of being united or joined as a whole.",
     "tamilDefinition": "ஒற்றுமை, ஒருமைப்பாடு.",
     "literaryContext": {
@@ -1045,18 +1063,29 @@ export const dataU: VocabularyEntry[] = [
       "tamil": "மக்களிடையே உள்ள ஒற்றுமை ஒரு வலுவான மற்றும் துடிப்பான சமூகத்தை உருவாக்குகிறது."
     },
     "formalSpeechContext": {
-      "english": "Unity among people creates a strong and vibrant society.",
-      "tamil": "மக்களிடையே உள்ள ஒற்றுமை ஒரு வலுவான மற்றும் துடிப்பான சமூகத்தை உருவாக்குகிறது."
+      "english": "Preserving national unity requires upholding constitutional justice for all communities.",
+      "tamil": "தேசிய ஒற்றுமையைப் பாதுகாப்பது அனைத்து சமூகங்களுக்கும் அரசியலமைப்பு நீதியை நிலைநிறுத்துவதைக் கோருகிறது."
     },
-    "synonyms": ["harmony","solidarity","union"],
-    "antonyms": ["division","discord","disunity"]
+    "synonyms": [
+      "harmony",
+      "solidarity",
+      "union"
+    ],
+    "antonyms": [
+      "division",
+      "discord",
+      "disunity"
+    ]
   },
   {
     "id": "ultimate_inter_7",
     "word": "Ultimate",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Being or happening at the end of a process; final.",
     "tamilDefinition": "இறுதியான, மிக உயர்ந்த.",
     "literaryContext": {
@@ -1064,18 +1093,29 @@ export const dataU: VocabularyEntry[] = [
       "tamil": "உண்மையே தத்துவ விசாரணையின் மிக உயர்ந்த இலக்காகும்."
     },
     "formalSpeechContext": {
-      "english": "Truth is the ultimate goal of philosophical inquiry.",
-      "tamil": "உண்மையே தத்துவ விசாரணையின் மிக உயர்ந்த இலக்காகும்."
+      "english": "Ensuring citizen well-being remains the ultimate mandate of public governance.",
+      "tamil": "குடிமக்களின் நல்வாழ்வை உறுதி செய்வதே பொது ஆட்சியின் இறுதிப் பணியாகும்."
     },
-    "synonyms": ["final","supreme","ultimate"],
-    "antonyms": ["initial","beginning","minor"]
+    "synonyms": [
+      "final",
+      "supreme",
+      "ultimate"
+    ],
+    "antonyms": [
+      "initial",
+      "beginning",
+      "minor"
+    ]
   },
   {
     "id": "uplift_inter_8",
     "word": "Uplift",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To raise the level of or improve the spiritual state.",
     "tamilDefinition": "உயர்த்துதல், மேம்படுத்துதல்.",
     "literaryContext": {
@@ -1083,18 +1123,29 @@ export const dataU: VocabularyEntry[] = [
       "tamil": "எழுச்சியூட்டும் கவிதை ஆன்மாவை உயர்த்தும் ஆற்றலைக் கொண்டுள்ளது."
     },
     "formalSpeechContext": {
-      "english": "Inspirational poetry has the power to uplift the soul.",
-      "tamil": "எழுச்சியூட்டும் கவிதை ஆன்மாவை உயர்த்தும் ஆற்றலைக் கொண்டுள்ளது."
+      "english": "Targeted social welfare programs aim to uplift underprivileged rural households.",
+      "tamil": "இலக்கு வைக்கப்பட்ட சமூக நலத் திட்டங்கள் பிற்படுத்தப்பட்ட கிராமப்புறக் குடும்பங்களை உயர்த்த நோக்கம் கொண்டுள்ளன."
     },
-    "synonyms": ["elevate","inspire","encourage"],
-    "antonyms": ["depress","degrade","discourage"]
+    "synonyms": [
+      "elevate",
+      "inspire",
+      "encourage"
+    ],
+    "antonyms": [
+      "depress",
+      "degrade",
+      "discourage"
+    ]
   },
   {
     "id": "unanimous_inter_9",
     "word": "Unanimous",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Fully in agreement by two or more people.",
     "tamilDefinition": "ஏகமனதான, ஒருமித்த கருத்துள்ள.",
     "literaryContext": {
@@ -1102,18 +1153,29 @@ export const dataU: VocabularyEntry[] = [
       "tamil": "குழு கொள்கை குறித்து ஏகமனதான முடிவை எட்டியது."
     },
     "formalSpeechContext": {
-      "english": "The committee reached a unanimous decision on the policy.",
-      "tamil": "குழு கொள்கை குறித்து ஏகமனதான முடிவை எட்டியது."
+      "english": "The parliament passed the disaster relief funding bill with a unanimous vote.",
+      "tamil": "பேரிடர் நிவாரண நிதி மசோதாவை நாடாளுமன்றம் ஏகமனதாக நிறைவேற்றியது."
     },
-    "synonyms": ["united","concordant","agreed"],
-    "antonyms": ["divided","disputed","conflicting"]
+    "synonyms": [
+      "united",
+      "concordant",
+      "agreed"
+    ],
+    "antonyms": [
+      "divided",
+      "disputed",
+      "conflicting"
+    ]
   },
   {
     "id": "utterance_inter_10",
     "word": "Utterance",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A spoken word, statement, or vocal sound.",
     "tamilDefinition": "கூற்று, சொல்லப்பட்ட வார்த்தை.",
     "literaryContext": {
@@ -1121,10 +1183,18 @@ export const dataU: VocabularyEntry[] = [
       "tamil": "தலைவரின் ஒவ்வொரு கூற்றும் கவனமாக ஆவணப்படுத்தப்பட்டது."
     },
     "formalSpeechContext": {
-      "english": "Every utterance of the leader was carefully documented.",
-      "tamil": "தலைவரின் ஒவ்வொரு கூற்றும் கவனமாக ஆவணப்படுத்தப்பட்டது."
+      "english": "Diplomatic utterances must be weighed carefully during sensitive international negotiations.",
+      "tamil": "உணர்திறன்மிக்க சர்வதேச பேச்சுவார்த்தைகளின் போது ராஜதந்திர பேச்சுகள் கவனமாக பரிசீலிக்கப்பட வேண்டும்."
     },
-    "synonyms": ["statement","expression","speech"],
-    "antonyms": ["silence","suppression","secrecy"]
+    "synonyms": [
+      "statement",
+      "expression",
+      "speech"
+    ],
+    "antonyms": [
+      "silence",
+      "suppression",
+      "secrecy"
+    ]
   }
 ];

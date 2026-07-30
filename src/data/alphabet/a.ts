@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataA: VocabularyEntry[] = [
-{
+  {
     "id": "absolution",
     "word": "Absolution",
     "partOfSpeech": "noun",
@@ -1054,7 +1054,10 @@ export const dataA: VocabularyEntry[] = [
     "word": "Adapt",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To adjust or modify oneself to new conditions or environment.",
     "tamilDefinition": "புதிய சூழ்நிலைக்கு ஏற்ப தன்னை மாற்றிக்கொள்ளுதல்.",
     "literaryContext": {
@@ -1062,8 +1065,8 @@ export const dataA: VocabularyEntry[] = [
       "tamil": "அவள் தன் புதிய வீட்டின் காலநிலைக்கு விரைவில் பழகிக்கொண்டாள்."
     },
     "formalSpeechContext": {
-      "english": "She learned to adapt quickly to the climate of her new home.",
-      "tamil": "அவள் தன் புதிய வீட்டின் காலநிலைக்கு விரைவில் பழகிக்கொண்டாள்."
+      "english": "Organizations must adapt their operational strategies to remain resilient in a rapidly changing global market.",
+      "tamil": "வேகமாக மாறிவரும் உலகளாவிய சந்தையில் நெகிழ்ச்சியுடன் இருக்க அமைப்புகள் தங்கள் செயல்பாட்டு உத்திகளை மாற்றியமைக்க வேண்டும்."
     },
     "synonyms": [
       "adjust",
@@ -1081,7 +1084,10 @@ export const dataA: VocabularyEntry[] = [
     "word": "Ambition",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A strong desire to achieve something, typically requiring determination.",
     "tamilDefinition": "உயர்ந்த லட்சியம் அல்லது சாதிக்கும் பேராசை.",
     "literaryContext": {
@@ -1089,8 +1095,8 @@ export const dataA: VocabularyEntry[] = [
       "tamil": "அவரது லட்சியம் அவரை ஒவ்வொரு இரவும் சோர்வின்றி படிக்க தூண்டியது."
     },
     "formalSpeechContext": {
-      "english": "His ambition drove him to study tirelessly every night.",
-      "tamil": "அவரது லட்சியம் அவரை ஒவ்வொரு இரவும் சோர்வின்றி படிக்க தூண்டியது."
+      "english": "Our institutional ambition is to provide equal educational opportunities to every student across the nation.",
+      "tamil": "நாடு முழுவதிலும் உள்ள ஒவ்வொரு மாணவருக்கும் சமமான கல்வி வாய்ப்புகளை வழங்குவதே நமது நிறுவனத்தின் லட்சியமாகும்."
     },
     "synonyms": [
       "aspiration",
@@ -1108,7 +1114,10 @@ export const dataA: VocabularyEntry[] = [
     "word": "Authentic",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Of undisputed origin; genuine and real.",
     "tamilDefinition": "உண்மையான, போலி அல்லாத நம்பகமான.",
     "literaryContext": {
@@ -1116,8 +1125,8 @@ export const dataA: VocabularyEntry[] = [
       "tamil": "அருங்காட்சியகம் பண்டைய ராஜ்யத்தின் உண்மையான கலைப்பொருளைக் காட்சிப்படுத்தியது."
     },
     "formalSpeechContext": {
-      "english": "The museum displayed an authentic artifact from the ancient kingdom.",
-      "tamil": "அருங்காட்சியகம் பண்டைய ராஜ்யத்தின் உண்மையான கலைப்பொருளைக் காட்சிப்படுத்தியது."
+      "english": "We require authentic documentation and verified evidence before issuing a formal certification.",
+      "tamil": "முறையான சான்றிதழை வழங்குவதற்கு முன் நமக்கு உண்மையான ஆவணங்களும் சரிபார்க்கப்பட்ட ஆதாரங்களும் தேவை."
     },
     "synonyms": [
       "genuine",
@@ -1135,7 +1144,10 @@ export const dataA: VocabularyEntry[] = [
     "word": "Adequate",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Satisfactory or acceptable in quality or quantity.",
     "tamilDefinition": "போதுமான, திருப்திகரமான அளவு.",
     "literaryContext": {
@@ -1143,8 +1155,8 @@ export const dataA: VocabularyEntry[] = [
       "tamil": "ஒரு எளிய உணவு பயணத்திற்கு போதுமான ஊட்டச்சத்தை அளித்தது."
     },
     "formalSpeechContext": {
-      "english": "A simple meal provided adequate nourishment for the journey.",
-      "tamil": "ஒரு எளிய உணவு பயணத்திற்கு போதுமான ஊட்டச்சத்தை அளித்தது."
+      "english": "The board must ensure that adequate funding is allocated for infrastructure safety and modern healthcare.",
+      "tamil": "உள்கட்டமைப்பு பாதுகாப்பு மற்றும் நவீன சுகாதாரத்திற்கு போதுமான நிதி ஒதுக்கப்படுவதை வாரியம் உறுதி செய்ய வேண்டும்."
     },
     "synonyms": [
       "sufficient",
@@ -1162,7 +1174,10 @@ export const dataA: VocabularyEntry[] = [
     "word": "Abundant",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Existing or available in large quantities; plentiful.",
     "tamilDefinition": "மிக அதிக அளவில் உள்ள, செழிப்பான.",
     "literaryContext": {
@@ -1170,8 +1185,8 @@ export const dataA: VocabularyEntry[] = [
       "tamil": "பள்ளத்தாக்கு ஏராளமான நன்னீர் மற்றும் வளமான மண்ணால் ஆசீர்வதிக்கப்பட்டது."
     },
     "formalSpeechContext": {
-      "english": "The valley was blessed with abundant fresh water and fertile soil.",
-      "tamil": "பள்ளத்தாக்கு ஏராளமான நன்னீர் மற்றும் வளமான மண்ணால் ஆசீர்வதிக்கப்பட்டது."
+      "english": "Recent empirical research presents abundant evidence supporting the adoption of renewable energy policies.",
+      "tamil": "சமீபத்திய ஆய்வுகள் புதுப்பிக்கத்தக்க எரிசக்தி கொள்கைகளை ஏற்றுக்கொள்வதை ஆதரிக்கும் ஏராளமான ஆதாரங்களை முன்வைக்கின்றன."
     },
     "synonyms": [
       "plentiful",
@@ -1189,7 +1204,10 @@ export const dataA: VocabularyEntry[] = [
     "word": "Advocate",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To publicly recommend or support a cause or policy.",
     "tamilDefinition": "ஆதரித்து பேசுதல், ஒரு கொள்கையைப் பரிந்துரைத்தல்.",
     "literaryContext": {
@@ -1197,18 +1215,29 @@ export const dataA: VocabularyEntry[] = [
       "tamil": "எளிய மக்களின் உரிமைகளுக்காகப் பரிந்துரைத்துப் பேச அவள் தன் வாழ்வை அர்ப்பணித்தாள்."
     },
     "formalSpeechContext": {
-      "english": "She dedicated her life to advocate for the rights of the underprivileged.",
-      "tamil": "எளிய மக்களின் உரிமைகளுக்காகப் பரிந்துரைத்துப் பேச அவள் தன் வாழ்வை அர்ப்பணித்தாள்."
+      "english": "As public representatives, we must advocate for transparent policies that promote social welfare and equity.",
+      "tamil": "பொது பிரதிநிதிகளாகிய நாம் சமூக நலனையும் சமத்துவத்தையும் ஊக்குவிக்கும் வெளிப்படைத்தன்மையான கொள்கைகளை ஆதரித்துப் பேச வேண்டும்."
     },
-    "synonyms": ["support","champion","endorse"],
-    "antonyms": ["oppose","discourage","protest"]
+    "synonyms": [
+      "support",
+      "champion",
+      "endorse"
+    ],
+    "antonyms": [
+      "oppose",
+      "discourage",
+      "protest"
+    ]
   },
   {
     "id": "aspire_inter_7",
     "word": "Aspire",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To direct one hopes or ambitions toward achieving something high.",
     "tamilDefinition": "உயர்ந்த இலக்கை நோக்கி ஆசைப்படுதல், இலட்சியம் கொள்ளுதல்.",
     "literaryContext": {
@@ -1216,18 +1245,29 @@ export const dataA: VocabularyEntry[] = [
       "tamil": "இளம் அறிஞர்கள் மனித அறிவின் உச்சத்தை எட்ட விரும்புகிறார்கள்."
     },
     "formalSpeechContext": {
-      "english": "Young scholars aspire to reach the pinnacle of human knowledge.",
-      "tamil": "இளம் அறிஞர்கள் மனித அறிவின் உச்சத்தை எட்ட விரும்புகிறார்கள்."
+      "english": "Our institution aspires to become an international beacon of scientific research and ethical leadership.",
+      "tamil": "நமது நிறுவனம் அறிவியல் ஆராய்ச்சி மற்றும் ஒழுக்கமான தலைமையின் சர்வதேச வழிகாட்டியாக மாற விரும்புகிறது."
     },
-    "synonyms": ["aim","seek","desire"],
-    "antonyms": ["despair","disregard","surrender"]
+    "synonyms": [
+      "aim",
+      "seek",
+      "desire"
+    ],
+    "antonyms": [
+      "despair",
+      "disregard",
+      "surrender"
+    ]
   },
   {
     "id": "assemble_inter_8",
     "word": "Assemble",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To gather together in one place for a common purpose.",
     "tamilDefinition": "ஒன்றுகூடுதல், பொது நோக்கத்திற்காக ஒன்றுதிரட்டுதல்.",
     "literaryContext": {
@@ -1235,18 +1275,29 @@ export const dataA: VocabularyEntry[] = [
       "tamil": "பண்டைய கட்டளையைக் கேட்க குடிமக்கள் நகர சதுக்கத்தில் கூடினர்."
     },
     "formalSpeechContext": {
-      "english": "Citizens assembled in the town square to hear the ancient decree.",
-      "tamil": "பண்டைய கட்டளையைக் கேட்க குடிமக்கள் நகர சதுக்கத்தில் கூடினர்."
+      "english": "The committee will assemble next Tuesday to evaluate the proposed fiscal reforms.",
+      "tamil": "முன்மொழியப்பட்ட நிதி சீர்திருத்தங்களை மதிப்பிட குழு அடுத்த செவ்வாய்க்கிழமை ஒன்று கூடும்."
     },
-    "synonyms": ["gather","convene","muster"],
-    "antonyms": ["disperse","scatter","dissolve"]
+    "synonyms": [
+      "gather",
+      "convene",
+      "muster"
+    ],
+    "antonyms": [
+      "disperse",
+      "scatter",
+      "dissolve"
+    ]
   },
   {
     "id": "attain_inter_9",
     "word": "Attain",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To succeed in achieving or reaching something desirable.",
     "tamilDefinition": "அடைதல், முயற்சி செய்து இலக்கை எய்துதல்.",
     "literaryContext": {
@@ -1254,18 +1305,29 @@ export const dataA: VocabularyEntry[] = [
       "tamil": "பொறுமையான சகிப்புத்தன்மையால், அவர் செவ்வியல் கலையில் தேர்ச்சி பெற்றார்."
     },
     "formalSpeechContext": {
-      "english": "Through patient endurance, he attained mastery in classical art.",
-      "tamil": "பொறுமையான சகிப்புத்தன்மையால், அவர் செவ்வியல் கலையில் தேர்ச்சி பெற்றார்."
+      "english": "To attain sustainable carbon neutrality, industries must invest heavily in clean energy technology.",
+      "tamil": "நிலையான கரியமில நடுநிலைமையை அடைய, தொழில்கள் சுத்தமான எரிசக்தி தொழில்நுட்பத்தில் பெருமளவில் முதலீடு செய்ய வேண்டும்."
     },
-    "synonyms": ["achieve","accomplish","gain"],
-    "antonyms": ["lose","fail","forfeit"]
+    "synonyms": [
+      "achieve",
+      "accomplish",
+      "gain"
+    ],
+    "antonyms": [
+      "lose",
+      "fail",
+      "forfeit"
+    ]
   },
   {
     "id": "astonish_inter_10",
     "word": "Astonish",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To surprise or impress someone greatly with wonder.",
     "tamilDefinition": "மிகவும் வியப்படையச் செய்தல், ஆச்சரியத்தில் ஆழ்த்துதல்.",
     "literaryContext": {
@@ -1273,10 +1335,18 @@ export const dataA: VocabularyEntry[] = [
       "tamil": "இளம் இசைக்கலைஞரின் திறமையான இசை நிகழ்ச்சி பார்வையாளர்களை வியப்பில் ஆழ்த்தியது."
     },
     "formalSpeechContext": {
-      "english": "The young musician performance astonished the audience.",
-      "tamil": "இளம் இசைக்கலைஞரின் திறமையான இசை நிகழ்ச்சி பார்வையாளர்களை வியப்பில் ஆழ்த்தியது."
+      "english": "The rapid pace of technological innovation continues to astonish economists and policymakers globally.",
+      "tamil": "தொழில்நுட்ப கண்டுபிடிப்புகளின் விரைவான வேகம் உலகளவில் பொருளாதார நிபுணர்களையும் கொள்கை வகுப்பாளர்களையும் தொடர்ந்து வியப்பில் ஆழ்த்துகிறது."
     },
-    "synonyms": ["amaze","astound","stun"],
-    "antonyms": ["bore","calm","reassure"]
+    "synonyms": [
+      "amaze",
+      "astound",
+      "stun"
+    ],
+    "antonyms": [
+      "bore",
+      "calm",
+      "reassure"
+    ]
   }
 ];

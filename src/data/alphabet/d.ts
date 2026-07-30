@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataD: VocabularyEntry[] = [
-{
+  {
     "id": "dauntless",
     "word": "Dauntless",
     "partOfSpeech": "adjective",
@@ -948,7 +948,10 @@ export const dataD: VocabularyEntry[] = [
     "word": "Durable",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Able to withstand wear, pressure, or damage.",
     "tamilDefinition": "நீண்ட காலம் உழைக்கும், உறுதியான.",
     "literaryContext": {
@@ -956,8 +959,8 @@ export const dataD: VocabularyEntry[] = [
       "tamil": "இந்த பூட்ஸ் உறுதியான தோலால் செய்யப்பட்டது."
     },
     "formalSpeechContext": {
-      "english": "The boots are made from durable leather.",
-      "tamil": "இந்த பூட்ஸ் உறுதியான தோலால் செய்யப்பட்டது."
+      "english": "Diplomats worked to establish a durable peace agreement between the warring nations.",
+      "tamil": "போரிடும் நாடுகளுக்கு இடையே ஒரு நிலையான அமைதி ஒப்பந்தத்தை ஏற்படுத்த ராஜதந்திரிகள் பணியாற்றினர்."
     },
     "synonyms": [
       "sturdy",
@@ -975,7 +978,10 @@ export const dataD: VocabularyEntry[] = [
     "word": "Debate",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A formal discussion on a particular topic in a public meeting.",
     "tamilDefinition": "விவாதம், பட்டிமன்றம்.",
     "literaryContext": {
@@ -983,8 +989,8 @@ export const dataD: VocabularyEntry[] = [
       "tamil": "இக்கொள்கை பாராளுமன்றத்தில் ஒரு தீவிர விவாதத்தைத் தூண்டியது."
     },
     "formalSpeechContext": {
-      "english": "The policy sparked an intense debate in parliament.",
-      "tamil": "இக்கொள்கை பாராளுமன்றத்தில் ஒரு தீவிர விவாதத்தைத் தூண்டியது."
+      "english": "Parliament will hold a comprehensive debate regarding climate policy reform next session.",
+      "tamil": "அடுத்த கூட்டத்தொடரில் காலநிலை கொள்கை சீர்திருத்தம் குறித்து நாடாளுமன்றத்தில் விரிவான விவாதம் நடைபெறும்."
     },
     "synonyms": [
       "discussion",
@@ -1002,7 +1008,10 @@ export const dataD: VocabularyEntry[] = [
     "word": "Decisive",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Settling an issue; producing a definite result.",
     "tamilDefinition": "தீர்க்கமான, தெளிவான முடிவெடுக்கக்கூடிய.",
     "literaryContext": {
@@ -1010,8 +1019,8 @@ export const dataD: VocabularyEntry[] = [
       "tamil": "ஒரு தீர்க்கமான வெற்றி அணியின் மனஉறுதியை உயர்த்தியது."
     },
     "formalSpeechContext": {
-      "english": "A decisive victory boosted the team morale.",
-      "tamil": "ஒரு தீர்க்கமான வெற்றி அணியின் மனஉறுதியை உயர்த்தியது."
+      "english": "The council took decisive action to stabilize the national financial banking sector.",
+      "tamil": "தேசிய நிதி வங்கித் துறையை ஸ்திரப்படுத்த கவுன்சில் தீர்க்கமான நடவடிக்கை எடுத்தது."
     },
     "synonyms": [
       "conclusive",
@@ -1029,7 +1038,10 @@ export const dataD: VocabularyEntry[] = [
     "word": "Delicate",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Easily broken or damaged; fragile.",
     "tamilDefinition": "மென்மையான, எளிதில் சேதமடையக்கூடிய.",
     "literaryContext": {
@@ -1037,8 +1049,8 @@ export const dataD: VocabularyEntry[] = [
       "tamil": "மென்மையான கண்ணாடி சாடியை கவனமாகக் கையாளுங்கள்."
     },
     "formalSpeechContext": {
-      "english": "Handle the delicate glass vase with care.",
-      "tamil": "மென்மையான கண்ணாடி சாடியை கவனமாகக் கையாளுங்கள்."
+      "english": "Navigating cross-border diplomacy requires a delicate balance of firmness and tact.",
+      "tamil": "எல்லை கடந்த ராஜதந்திரத்தை கையாள்வதற்கு உறுதி மற்றும் சமயோசிதத்தின் நுட்பமான சமநிலை தேவைப்படுகிறது."
     },
     "synonyms": [
       "fragile",
@@ -1056,7 +1068,10 @@ export const dataD: VocabularyEntry[] = [
     "word": "Diverse",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Showing a great deal of variety; very different.",
     "tamilDefinition": "பல்வேறு வகையான, மாறுபட்ட.",
     "literaryContext": {
@@ -1064,8 +1079,8 @@ export const dataD: VocabularyEntry[] = [
       "tamil": "பல்கலைக்கழகத்தில் பல்வேறு வகையான மாணவர்கள் உள்ளனர்."
     },
     "formalSpeechContext": {
-      "english": "The university has a diverse student body.",
-      "tamil": "பல்கலைக்கழகத்தில் பல்வேறு வகையான மாணவர்கள் உள்ளனர்."
+      "english": "A diverse workforce fosters creative problem solving and enterprise innovation.",
+      "tamil": "பன்முகத்தன்மை கொண்ட பணியாளர்கள் ஆக்கப்பூர்வமான பிரச்சினை தீர்ப்பையும் நிறுவன கண்டுபிடிப்புகளையும் வளர்க்கிறார்கள்."
     },
     "synonyms": [
       "varied",
@@ -1083,7 +1098,10 @@ export const dataD: VocabularyEntry[] = [
     "word": "Dedicate",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To devote time, effort, or life to a particular task or cause.",
     "tamilDefinition": "அர்ப்பணித்தல், ஒரு லட்சியத்திற்குத் தன்னை அளித்தல்.",
     "literaryContext": {
@@ -1091,18 +1109,29 @@ export const dataD: VocabularyEntry[] = [
       "tamil": "ஆய்வாளர் பண்டைய சுவடிகளைப் பாதுகாப்பதற்காகத் தன் வாழ்க்கையை அர்ப்பணிக்கத் தேர்ந்தெடுத்தார்."
     },
     "formalSpeechContext": {
-      "english": "The scholar chose to dedicate his career to preserving ancient manuscripts.",
-      "tamil": "ஆய்வாளர் பண்டைய சுவடிகளைப் பாதுகாப்பதற்காகத் தன் வாழ்க்கையை அர்ப்பணிக்கத் தேர்ந்தெடுத்தார்."
+      "english": "The research institute will dedicate significant resources to developing green energy technologies.",
+      "tamil": "பசுமை ஆற்றல் தொழில்நுட்பங்களை உருவாக்க ஆராய்ச்சி நிறுவனம் குறிப்பிடத்தக்க வளங்களை அர்ப்பணிக்கும்."
     },
-    "synonyms": ["devote","consecrate","pledge"],
-    "antonyms": ["alienate","misuse","neglect"]
+    "synonyms": [
+      "devote",
+      "consecrate",
+      "pledge"
+    ],
+    "antonyms": [
+      "alienate",
+      "misuse",
+      "neglect"
+    ]
   },
   {
     "id": "dignity_inter_7",
     "word": "Dignity",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The state or quality of being worthy of honor, self-respect, and poise.",
     "tamilDefinition": "கண்ணியம், சுயமரியாதை, மதிப்பிற்குரிய மேன்மை.",
     "literaryContext": {
@@ -1110,18 +1139,29 @@ export const dataD: VocabularyEntry[] = [
       "tamil": "துன்பங்களை எதிர்கொண்ட போதிலும், அவள் தன் அமைதியையும் கண்ணியத்தையும் காப்பாற்றிக் கொண்டாள்."
     },
     "formalSpeechContext": {
-      "english": "Even in the face of adversity, she maintained her poise and dignity.",
-      "tamil": "துன்பங்களை எதிர்கொண்ட போதிலும், அவள் தன் அமைதியையும் கண்ணியத்தையும் காப்பாற்றிக் கொண்டாள்."
+      "english": "Every citizen is entitled to live with dignity and equal protection under the law.",
+      "tamil": "ஒவ்வொரு குடிமகனுக்கும் சட்டத்தின் கீழ் கண்ணியத்துடனும் சமமான பாதுகாப்புடனும் வாழ உரிமை உண்டு."
     },
-    "synonyms": ["self-respect","decorum","grace"],
-    "antonyms": ["dishonor","degradation","humiliation"]
+    "synonyms": [
+      "self-respect",
+      "decorum",
+      "grace"
+    ],
+    "antonyms": [
+      "dishonor",
+      "degradation",
+      "humiliation"
+    ]
   },
   {
     "id": "diligent_inter_8",
     "word": "Diligent",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having or showing care and conscientiousness in one duties.",
     "tamilDefinition": "கடின உழைப்புள்ள, கடமை உணர்ச்சியும் கவனமும் கொண்ட.",
     "literaryContext": {
@@ -1129,18 +1169,29 @@ export const dataD: VocabularyEntry[] = [
       "tamil": "கடின உழைப்புமிக்க ஆராய்ச்சியின் மூலம், விஞ்ஞானி ஒரு முற்போக்கான درمانைக் கண்டுபிடித்தார்."
     },
     "formalSpeechContext": {
-      "english": "Through diligent research, the scientist uncovered a breakthrough cure.",
-      "tamil": "கடின உழைப்புமிக்க ஆராய்ச்சியின் மூலம், விஞ்ஞானி ஒரு முற்போக்கான درمانைக் கண்டுபிடித்தார்."
+      "english": "Through diligent oversight, the regulatory body prevented major financial malpractices.",
+      "tamil": "கடின உழைப்புமிக்க கண்காணிப்பின் மூலம், ஒழுங்குமுறை அமைப்பு முக்கிய நிதி முறைகேடுகளைத் தடுத்தது."
     },
-    "synonyms": ["meticulous","hardworking","assiduous"],
-    "antonyms": ["lazy","negligent","careless"]
+    "synonyms": [
+      "meticulous",
+      "hardworking",
+      "assiduous"
+    ],
+    "antonyms": [
+      "lazy",
+      "negligent",
+      "careless"
+    ]
   },
   {
     "id": "dynamic_inter_9",
     "word": "Dynamic",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Positive in attitude, full of energy, vigor, and innovative ideas.",
     "tamilDefinition": "சுறுசுறுப்பான, மாற்றத்தையும் ஆற்றலையும் உருவாக்கும்.",
     "literaryContext": {
@@ -1148,18 +1199,29 @@ export const dataD: VocabularyEntry[] = [
       "tamil": "ஒரு ஆற்றல்மிக்க தலைவர் தத்தளித்துக் கொண்டிருந்த நிறுவனத்தை வெற்றிகரமாக மாற்றினார்."
     },
     "formalSpeechContext": {
-      "english": "A dynamic leader transformed the struggling institution into a success.",
-      "tamil": "ஒரு ஆற்றல்மிக்க தலைவர் தத்தளித்துக் கொண்டிருந்த நிறுவனத்தை வெற்றிகரமாக மாற்றினார்."
+      "english": "A dynamic economic ecosystem encourages entrepreneurship and foreign direct investment.",
+      "tamil": "ஒரு சுறுசுறுப்பான பொருளாதார சுற்றுச்சூழல் தொழில்முனைவு மற்றும் நேரடி அன்னிய முதலீட்டை ஊக்குவிக்கிறது."
     },
-    "synonyms": ["energetic","vibrant","active"],
-    "antonyms": ["static","sluggish","passive"]
+    "synonyms": [
+      "energetic",
+      "vibrant",
+      "active"
+    ],
+    "antonyms": [
+      "static",
+      "sluggish",
+      "passive"
+    ]
   },
   {
     "id": "distinction_inter_10",
     "word": "Distinction",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A difference or contrast between similar things, or excellence.",
     "tamilDefinition": "சிறப்புத் தகுதி, உயர்வு, தெளிவான வேறுபாடு.",
     "literaryContext": {
@@ -1167,10 +1229,18 @@ export const dataD: VocabularyEntry[] = [
       "tamil": "அவர் கௌரவத்துடன் தனது தேசத்திற்கு சேவை செய்தார் மற்றும் உயர் கல்விச் சிறப்பைப் பெற்றார்."
     },
     "formalSpeechContext": {
-      "english": "He served his nation with honor and earned high academic distinction.",
-      "tamil": "அவர் கௌரவத்துடன் தனது தேசத்திற்கு சேவை செய்தார் மற்றும் உயர் கல்விச் சிறப்பைப் பெற்றார்."
+      "english": "The ambassador earned high academic and diplomatic distinction throughout her public career.",
+      "tamil": "தூதர் தனது பொது வாழ்க்கையில் உயர் கல்வி மற்றும் ராஜதந்திர சிறப்பைப் பெற்றார்."
     },
-    "synonyms": ["excellence","honor","differentiation"],
-    "antonyms": ["mediocrity","inferiority","similarity"]
+    "synonyms": [
+      "excellence",
+      "honor",
+      "differentiation"
+    ],
+    "antonyms": [
+      "mediocrity",
+      "inferiority",
+      "similarity"
+    ]
   }
 ];

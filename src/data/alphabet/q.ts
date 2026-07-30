@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataQ: VocabularyEntry[] = [
-{
+  {
     "id": "quack",
     "word": "quack",
     "partOfSpeech": "noun",
@@ -780,7 +780,10 @@ export const dataQ: VocabularyEntry[] = [
     "word": "Qualify",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Be entitled to a particular benefit or privilege.",
     "tamilDefinition": "தகுதி பெறுதல்.",
     "literaryContext": {
@@ -788,8 +791,8 @@ export const dataQ: VocabularyEntry[] = [
       "tamil": "தேசிய அணியில் தகுதி பெற அவள் கடினமாக உழைத்தாள்."
     },
     "formalSpeechContext": {
-      "english": "She worked hard to qualify for the national team.",
-      "tamil": "தேசிய அணியில் தகுதி பெற அவள் கடினமாக உழைத்தாள்."
+      "english": "Applicants must meet strict educational criteria to qualify for government research fellowships.",
+      "tamil": "அரசு ஆராய்ச்சி உதவித்தொகைக்கு தகுதி பெற விண்ணப்பதாரர்கள் கடுமையான கல்வி அளவுகோல்களை பூர்த்தி செய்ய வேண்டும்."
     },
     "synonyms": [
       "entitle",
@@ -807,7 +810,10 @@ export const dataQ: VocabularyEntry[] = [
     "word": "Quest",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A long or arduous search for something.",
     "tamilDefinition": "தேடல், சாதனைப் பயணம்.",
     "literaryContext": {
@@ -815,8 +821,8 @@ export const dataQ: VocabularyEntry[] = [
       "tamil": "வீரன் இழந்த சின்னத்தைக் கண்டுபிடிக்க ஒரு தேடலில் புறப்பட்டான்."
     },
     "formalSpeechContext": {
-      "english": "The knight set out on a quest to find the lost relic.",
-      "tamil": "வீரன் இழந்த சின்னத்தைக் கண்டுபிடிக்க ஒரு தேடலில் புறப்பட்டான்."
+      "english": "The international community remains united in its quest for global nuclear non-proliferation.",
+      "tamil": "உலகளாவிய அணுஆயுதப் பரவல் தடைக்கான தேடலில் சர்வதேச சமூகம் ஒற்றுமையுடன் உள்ளது."
     },
     "synonyms": [
       "search",
@@ -834,7 +840,10 @@ export const dataQ: VocabularyEntry[] = [
     "word": "Quaint",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Attractively unusual or old-fashioned.",
     "tamilDefinition": "விசித்திரமான மற்றும் அழகான.",
     "literaryContext": {
@@ -842,8 +851,8 @@ export const dataQ: VocabularyEntry[] = [
       "tamil": "கிராமத்தில் வைக்கோல் கூரைகளுடன் கூடிய அழகான கல் வீடுகள் இருந்தன."
     },
     "formalSpeechContext": {
-      "english": "The village had quaint stone cottages with thatched roofs.",
-      "tamil": "கிராமத்தில் வைக்கோல் கூரைகளுடன் கூடிய அழகான கல் வீடுகள் இருந்தன."
+      "english": "Preserving the quaint heritage architecture attracts global cultural tourism.",
+      "tamil": "பழமையான பாரம்பரிய கட்டிடக்கலையைப் பாதுகாப்பது உலகளாவிய கலாச்சார சுற்றுலாவை ஈர்க்கிறது."
     },
     "synonyms": [
       "charming",
@@ -861,7 +870,10 @@ export const dataQ: VocabularyEntry[] = [
     "word": "Query",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A question, especially one addressed to an official.",
     "tamilDefinition": "கேள்வி, ஐயம்.",
     "literaryContext": {
@@ -869,8 +881,8 @@ export const dataQ: VocabularyEntry[] = [
       "tamil": "உங்களுக்கு ஏதேனும் ஐயம் இருந்தால் வாடிக்கையாளர் ஆதரவைத் தொடர்பு கொள்ளவும்."
     },
     "formalSpeechContext": {
-      "english": "Please contact customer support if you have any query.",
-      "tamil": "உங்களுக்கு ஏதேனும் ஐயம் இருந்தால் வாடிக்கையாளர் ஆதரவைத் தொடர்பு கொள்ளவும்."
+      "english": "The parliamentary audit committee submitted a formal query regarding public fund disbursements.",
+      "tamil": "பொது நிதி விநியோகம் தொடர்பாக நாடாளுமன்ற தணிக்கைக் குழு முறையான கேள்வியை சமர்ப்பித்தது."
     },
     "synonyms": [
       "question",
@@ -888,7 +900,10 @@ export const dataQ: VocabularyEntry[] = [
     "word": "Quota",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A fixed share of something that a person or group is entitled to receive.",
     "tamilDefinition": "பங்கீடு, ஒதுக்கீடு.",
     "literaryContext": {
@@ -896,8 +911,8 @@ export const dataQ: VocabularyEntry[] = [
       "tamil": "தொழிற்சாலை அட்டவணைக்கு முன்னதாகவே அதன் உற்பத்தி ஒதுக்கீட்டை எட்டியது."
     },
     "formalSpeechContext": {
-      "english": "The factory met its production quota ahead of schedule.",
-      "tamil": "தொழிற்சாலை அட்டவணைக்கு முன்னதாகவே அதன் உற்பத்தி ஒதுக்கீட்டை எட்டியது."
+      "english": "The ministry established an annual import quota to protect domestic agricultural producers.",
+      "tamil": "உள்நாட்டு விவசாய உற்பத்தியாளர்களைப் பாதுகாக்க அமைச்சகம் வருடாந்திர இறக்குமதி பங்கீட்டை நிர்ணயித்தது."
     },
     "synonyms": [
       "allocation",
@@ -915,7 +930,10 @@ export const dataQ: VocabularyEntry[] = [
     "word": "Quench",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To satisfy one thirst or desire; to extinguish.",
     "tamilDefinition": "தணித்தல், திருப்திப்படுத்துதல்.",
     "literaryContext": {
@@ -923,18 +941,29 @@ export const dataQ: VocabularyEntry[] = [
       "tamil": "நீண்ட ஓட்டத்திற்குப் பிறகு ஒரு குளிர்ந்த பானம் அவரது தாகத்தைத் தணித்தது."
     },
     "formalSpeechContext": {
-      "english": "A cold drink quenched his thirst after the long run.",
-      "tamil": "நீண்ட ஓட்டத்திற்குப் பிறகு ஒரு குளிர்ந்த பானம் அவரது தாகத்தைத் தணித்தது."
+      "english": "Constructing rural water pipelines will help quench the growing demand for clean drinking water.",
+      "tamil": "கிராமப்புற நீர்நிலைக் குழாய்களை அமைப்பது சுத்தமான குடிநீருக்கான அதிகரித்து வரும் தேவையை பூர்த்தி செய்ய உதவும்."
     },
-    "synonyms": ["satisfy","slake","extinguish"],
-    "antonyms": ["ignite","intense","worsen"]
+    "synonyms": [
+      "satisfy",
+      "slake",
+      "extinguish"
+    ],
+    "antonyms": [
+      "ignite",
+      "intense",
+      "worsen"
+    ]
   },
   {
     "id": "quintessential_inter_7",
     "word": "Quintessential",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Representing the most perfect or typical example of a quality.",
     "tamilDefinition": "சிறந்த உதாரணமான, பூரண வடிவிலான.",
     "literaryContext": {
@@ -942,18 +971,29 @@ export const dataQ: VocabularyEntry[] = [
       "tamil": "தூய ஆராய்ச்சிக்கு அர்ப்பணிக்கப்பட்ட சிறந்த உதாரணமான அறிஞர் அவர்."
     },
     "formalSpeechContext": {
-      "english": "He is the quintessential scholar dedicated to pure research.",
-      "tamil": "தூய ஆராய்ச்சிக்கு அர்ப்பணிக்கப்பட்ட சிறந்த உதாரணமான அறிஞர் அவர்."
+      "english": "Freedom of speech is the quintessential element of any open democratic society.",
+      "tamil": "பேச்சு சுதந்திரம் என்பது எந்தவொரு திறந்த ஜனநாயக சமூகத்தின் மிக முக்கிய அங்கமாகும்."
     },
-    "synonyms": ["ideal","archetypal","model"],
-    "antonyms": ["atypical","unrepresentative","flawed"]
+    "synonyms": [
+      "ideal",
+      "archetypal",
+      "model"
+    ],
+    "antonyms": [
+      "atypical",
+      "unrepresentative",
+      "flawed"
+    ]
   },
   {
     "id": "quiver_inter_8",
     "word": "Quiver",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To tremble or shake with a slight rapid motion.",
     "tamilDefinition": "நடுங்குதல், சிலிர்த்தல்.",
     "literaryContext": {
@@ -961,18 +1001,29 @@ export const dataQ: VocabularyEntry[] = [
       "tamil": "இலைகள் இலையுதிர் காற்றில் மெல்ல சிலிர்க்கின்றன."
     },
     "formalSpeechContext": {
-      "english": "Leaves quiver gently in the autumn wind.",
-      "tamil": "இலைகள் இலையுதிர் காற்றில் மெல்ல சிலிர்க்கின்றன."
+      "english": "Financial markets experienced a sudden quiver following unexpected inflation announcements.",
+      "tamil": "எதிர்பாராத பணவீக்க அறிவிப்புகளைத் தொடர்ந்து நிதிச் சந்தைகளில் ஒரு திடீர் நடுக்கம் ஏற்பட்டது."
     },
-    "synonyms": ["tremble","shiver","vibrate"],
-    "antonyms": ["remain still","freeze","stabilize"]
+    "synonyms": [
+      "tremble",
+      "shiver",
+      "vibrate"
+    ],
+    "antonyms": [
+      "remain still",
+      "freeze",
+      "stabilize"
+    ]
   },
   {
     "id": "quorum_inter_9",
     "word": "Quorum",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The minimum number of members that must be present.",
     "tamilDefinition": "குறைந்தபட்ச உறுப்பினர்கள் எண்ணிக்கை.",
     "literaryContext": {
@@ -980,18 +1031,29 @@ export const dataQ: VocabularyEntry[] = [
       "tamil": "குறைந்தபட்ச உறுப்பினர்கள் எண்ணிக்கை எட்டும் வரை கூட்டம் தாமதமானது."
     },
     "formalSpeechContext": {
-      "english": "The meeting was delayed until a quorum was established.",
-      "tamil": "குறைந்தபட்ச உறுப்பினர்கள் எண்ணிக்கை எட்டும் வரை கூட்டம் தாமதமானது."
+      "english": "The assembly was adjourned due to the lack of a legal legislative quorum.",
+      "tamil": "சட்டப்பூர்வ குறைந்தபட்ச உறுப்பினர்கள் எண்ணிக்கை இல்லாததால் சட்டமன்றம் ஒத்திவைக்கப்பட்டது."
     },
-    "synonyms": ["minimum count","plenum","threshold"],
-    "antonyms": ["minority","absence","shortage"]
+    "synonyms": [
+      "minimum count",
+      "plenum",
+      "threshold"
+    ],
+    "antonyms": [
+      "minority",
+      "absence",
+      "shortage"
+    ]
   },
   {
     "id": "quietude_inter_10",
     "word": "Quietude",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A state of stillness, calmness, and quiet in a place.",
     "tamilDefinition": "அமைதி நிலை, அமைதியான சூழல்.",
     "literaryContext": {
@@ -999,10 +1061,18 @@ export const dataQ: VocabularyEntry[] = [
       "tamil": "அவள் மலைக் குடிசையின் அமைதியான சூழலை ரசித்தாள்."
     },
     "formalSpeechContext": {
-      "english": "She enjoyed the peaceful quietude of the mountain cabin.",
-      "tamil": "அவள் மலைக் குடிசையின் அமைதியான சூழலை ரசித்தாள்."
+      "english": "Diplomatic negotiations required a period of media quietude to establish common ground.",
+      "tamil": "பொதுவான உடன்பாட்டை ஏற்படுத்த ராஜதந்திர பேச்சுவார்த்தைகளுக்கு ஊடக அமைதி காலம் தேவைப்பட்டது."
     },
-    "synonyms": ["tranquility","serenity","stillness"],
-    "antonyms": ["turmoil","noise","commotion"]
+    "synonyms": [
+      "tranquility",
+      "serenity",
+      "stillness"
+    ],
+    "antonyms": [
+      "turmoil",
+      "noise",
+      "commotion"
+    ]
   }
 ];

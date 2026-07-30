@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataS: VocabularyEntry[] = [
-{
+  {
     "id": "salubrious",
     "word": "Salubrious",
     "partOfSpeech": "adjective",
@@ -995,7 +995,10 @@ export const dataS: VocabularyEntry[] = [
     "word": "Subtle",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "So delicate or precise as to be difficult to analyze or describe.",
     "tamilDefinition": "நுட்பமான, மறைமுகமான.",
     "literaryContext": {
@@ -1003,8 +1006,8 @@ export const dataS: VocabularyEntry[] = [
       "tamil": "அவரது குரல் தொனியில் ஒரு நுட்பமான மாற்றம் இருந்தது."
     },
     "formalSpeechContext": {
-      "english": "There was a subtle change in his tone of voice.",
-      "tamil": "அவரது குரல் தொனியில் ஒரு நுட்பமான மாற்றம் இருந்தது."
+      "english": "Economists identified a subtle shift in consumer behavior toward sustainable energy products.",
+      "tamil": "நிலையான எரிசக்தி தயாரிப்புகளை நோக்கிய நுகர்வோர் நடத்தை மாற்றத்தை பொருளாதார வல்லுநர்கள் கண்டறிந்தனர்."
     },
     "synonyms": [
       "delicate",
@@ -1022,7 +1025,10 @@ export const dataS: VocabularyEntry[] = [
     "word": "Secure",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Fixed or fastened so as not to give way or become loose.",
     "tamilDefinition": "பாதுகாப்பான, நிலையான.",
     "literaryContext": {
@@ -1030,8 +1036,8 @@ export const dataS: VocabularyEntry[] = [
       "tamil": "ஏறுவதற்கு முன் ஏணி பாதுகாப்பாக உள்ளதா என்பதை உறுதிப்படுத்தவும்."
     },
     "formalSpeechContext": {
-      "english": "Ensure the ladder is secure before climbing.",
-      "tamil": "ஏறுவதற்கு முன் ஏணி பாதுகாப்பாக உள்ளதா என்பதை உறுதிப்படுத்தவும்."
+      "english": "National defense policies aim to secure territorial integrity and maritime safety.",
+      "tamil": "தேசிய பாதுகாப்பு கொள்கைகள் பிராந்திய ஒருமைப்பாடு மற்றும் கடல்சார் பாதுகாப்பை உறுதி செய்வதை நோக்கமாகக் கொண்டுள்ளன."
     },
     "synonyms": [
       "safe",
@@ -1049,7 +1055,10 @@ export const dataS: VocabularyEntry[] = [
     "word": "Sincere",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Free from pretense or deceit; proceeding from genuine feelings.",
     "tamilDefinition": "உண்மையான, நேர்மையான.",
     "literaryContext": {
@@ -1057,8 +1066,8 @@ export const dataS: VocabularyEntry[] = [
       "tamil": "அவர் தன் தவறுக்கு உண்மையான மன்னிப்பு கேட்டார்."
     },
     "formalSpeechContext": {
-      "english": "He offered a sincere apology for his mistake.",
-      "tamil": "அவர் தன் தவறுக்கு உண்மையான மன்னிப்பு கேட்டார்."
+      "english": "The ambassador offered a sincere pledge to deepen economic cooperation.",
+      "tamil": "பொருளாதார ஒத்துழைப்பை ஆழப்படுத்த தூதர் ஒரு மனமார்ந்த வாக்குறுதியை அளித்தார்."
     },
     "synonyms": [
       "genuine",
@@ -1076,7 +1085,10 @@ export const dataS: VocabularyEntry[] = [
     "word": "Solution",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A means of solving a problem or dealing with a difficult situation.",
     "tamilDefinition": "தீர்வு.",
     "literaryContext": {
@@ -1084,8 +1096,8 @@ export const dataS: VocabularyEntry[] = [
       "tamil": "குழுப்பணி நெருக்கடிக்கு ஒரு நடைமுறைத் தீர்வைக் கண்டறிய நமக்கு உதவியது."
     },
     "formalSpeechContext": {
-      "english": "Teamwork helped us find a practical solution to the crisis.",
-      "tamil": "குழுப்பணி நெருக்கடிக்கு ஒரு நடைமுறைத் தீர்வைக் கண்டறிய நமக்கு உதவியது."
+      "english": "Combating urban traffic congestion demands an integrated public transit solution.",
+      "tamil": "நகர்ப்புற போக்குவரத்து நெரிசலை எதிர்த்துப் போராடுவதற்கு ஒரு ஒருங்கிணைந்த பொதுப் போக்குவரத்து தீர்வு தேவைப்படுகிறது."
     },
     "synonyms": [
       "resolution",
@@ -1103,7 +1115,10 @@ export const dataS: VocabularyEntry[] = [
     "word": "Structural",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Relating to the arrangement of parts in a complex entity.",
     "tamilDefinition": "கட்டமைப்பு சார்ந்த.",
     "literaryContext": {
@@ -1111,8 +1126,8 @@ export const dataS: VocabularyEntry[] = [
       "tamil": "பொறியாளர்கள் பாலத்தின் கட்டமைப்பு நிலையை மதிப்பீடு செய்தனர்."
     },
     "formalSpeechContext": {
-      "english": "Engineers assessed the structural integrity of the bridge.",
-      "tamil": "பொறியாளர்கள் பாலத்தின் கட்டமைப்பு நிலையை மதிப்பீடு செய்தனர்."
+      "english": "Implementing structural fiscal reforms stimulates long-term market investment.",
+      "tamil": "அமைப்பு ரீதியான நிதிச் சீர்திருத்தங்களைச் செயல்படுத்துவது நீண்டகால சந்தை முதலீட்டைத் தூண்டுகிறது."
     },
     "synonyms": [
       "architectural",
@@ -1130,7 +1145,10 @@ export const dataS: VocabularyEntry[] = [
     "word": "Serenity",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The state of being calm, peaceful, and untroubled.",
     "tamilDefinition": "அமைதி, பிரசாந்தமான நிலை.",
     "literaryContext": {
@@ -1138,18 +1156,29 @@ export const dataS: VocabularyEntry[] = [
       "tamil": "ஏரியின் அமைதி காலையின் பிரசாந்தமான நிலையைப் பிரதிபலித்தது."
     },
     "formalSpeechContext": {
-      "english": "The stillness of the lake reflected the serenity of the morning.",
-      "tamil": "ஏரியின் அமைதி காலையின் பிரசாந்தமான நிலையைப் பிரதிபலித்தது."
+      "english": "Diplomatic skill lies in maintaining professional serenity during high-stakes treaty negotiations.",
+      "tamil": "உயர் அச்சுறுத்தல் கொண்ட ஒப்பந்த பேச்சுவார்த்தைகளின் போது தொழில்முறை அமைதியைப் பேணுவதில் ராஜதந்திரத் திறன் உள்ளது."
     },
-    "synonyms": ["tranquility","calmness","peace"],
-    "antonyms": ["turmoil","anxiety","agitation"]
+    "synonyms": [
+      "tranquility",
+      "calmness",
+      "peace"
+    ],
+    "antonyms": [
+      "turmoil",
+      "anxiety",
+      "agitation"
+    ]
   },
   {
     "id": "sustenance_inter_7",
     "word": "Sustenance",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Nourishment or the means of executing life.",
     "tamilDefinition": "வாழ்வாதாரம், ஊட்டச்சத்து.",
     "literaryContext": {
@@ -1157,18 +1186,29 @@ export const dataS: VocabularyEntry[] = [
       "tamil": "மண் பண்டைய பழங்குடியினருக்கு அத்தியாவசிய வாழ்வாதாரத்தை வழங்கியது."
     },
     "formalSpeechContext": {
-      "english": "The soil provided essential sustenance for the ancient tribe.",
-      "tamil": "மண் பண்டைய பழங்குடியினருக்கு அத்தியாவசிய வாழ்வாதாரத்தை வழங்கியது."
+      "english": "Agricultural subsidies provide essential sustenance for smallholder farming communities.",
+      "tamil": "விவசாய மானியங்கள் சிறு விவசாய சமூகங்களுக்கு அத்தியாவசிய வாழ்வாதாரத்தை வழங்குகின்றன."
     },
-    "synonyms": ["nourishment","livelihood","food"],
-    "antonyms": ["deprivation","starvation","harm"]
+    "synonyms": [
+      "nourishment",
+      "livelihood",
+      "food"
+    ],
+    "antonyms": [
+      "deprivation",
+      "starvation",
+      "harm"
+    ]
   },
   {
     "id": "solace_inter_8",
     "word": "Solace",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Comfort or consolation in a time of distress or sadness.",
     "tamilDefinition": "ஆறுதல், மன அமைதி.",
     "literaryContext": {
@@ -1176,18 +1216,29 @@ export const dataS: VocabularyEntry[] = [
       "tamil": "கடினமான காலங்களில் இசை அவளுக்கு ஆறுதலைத் தந்தது."
     },
     "formalSpeechContext": {
-      "english": "Music brought her solace during difficult times.",
-      "tamil": "கடினமான காலங்களில் இசை அவளுக்கு ஆறுதலைத் தந்தது."
+      "english": "Disaster relief funds offered immediate financial solace to affected flood victims.",
+      "tamil": "பேரிடர் நிவாரண நிதிகள் வெள்ளத்தால் பாதிக்கப்பட்ட மக்களுக்கு உடனடி நிதி ஆறுதலை வழங்கின."
     },
-    "synonyms": ["comfort","consolation","relief"],
-    "antonyms": ["distress","sorrow","agony"]
+    "synonyms": [
+      "comfort",
+      "consolation",
+      "relief"
+    ],
+    "antonyms": [
+      "distress",
+      "sorrow",
+      "agony"
+    ]
   },
   {
     "id": "sagacity_inter_9",
     "word": "Sagacity",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The quality of having or showing keen mental discernment.",
     "tamilDefinition": "ஞானம், பேரறிவு, நுண்ணறிவு.",
     "literaryContext": {
@@ -1195,18 +1246,29 @@ export const dataS: VocabularyEntry[] = [
       "tamil": "அரசர் தனது மூத்த ஆலோசகர்களின் ஞானத்தை நம்பியிருந்தார்."
     },
     "formalSpeechContext": {
-      "english": "The king relied on the sagacity of his elder advisors.",
-      "tamil": "அரசர் தனது மூத்த ஆலோசகர்களின் ஞானத்தை நம்பியிருந்தார்."
+      "english": "The justice demonstrated judicial sagacity in resolving complex constitutional law disputes.",
+      "tamil": "சிக்கலான அரசியலமைப்பு சட்ட தகராறுகளை தீர்ப்பதில் நீதிபதி சிறந்த சட்டப் பேரறிவை வெளிப்படுத்தினார்."
     },
-    "synonyms": ["wisdom","discernment","insight"],
-    "antonyms": ["foolishness","stupidity","ignorance"]
+    "synonyms": [
+      "wisdom",
+      "discernment",
+      "insight"
+    ],
+    "antonyms": [
+      "foolishness",
+      "stupidity",
+      "ignorance"
+    ]
   },
   {
     "id": "synergy_inter_10",
     "word": "Synergy",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The interaction or cooperation of two or more elements.",
     "tamilDefinition": "இணைந்த ஆற்றல், கூட்டுச் செயல்பாடு.",
     "literaryContext": {
@@ -1214,10 +1276,18 @@ export const dataS: VocabularyEntry[] = [
       "tamil": "அறிவியலுக்கும் கலைக்கும் இடையிலான கூட்டுச் செயல்பாடு மூச்சடைக்கக்கூடிய படைப்புகளை உருவாக்கியது."
     },
     "formalSpeechContext": {
-      "english": "The synergy between science and art created breathtaking exhibits.",
-      "tamil": "அறிவியலுக்கும் கலைக்கும் இடையிலான கூட்டுச் செயல்பாடு மூச்சடைக்கக்கூடிய படைப்புகளை உருவாக்கியது."
+      "english": "Public-private partnerships create economic synergy that accelerates infrastructure development.",
+      "tamil": "பொது-தனியார் கூட்டாண்மைகள் உள்கட்டமைப்பு வளர்ச்சியை முடுக்கிவிடும் பொருளாதார ஒருங்கிணைப்பை உருவாக்குகின்றன."
     },
-    "synonyms": ["collaboration","harmony","teamwork"],
-    "antonyms": ["discord","conflict","antagonism"]
+    "synonyms": [
+      "collaboration",
+      "harmony",
+      "teamwork"
+    ],
+    "antonyms": [
+      "discord",
+      "conflict",
+      "antagonism"
+    ]
   }
 ];

@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataK: VocabularyEntry[] = [
-{
+  {
     "id": "kachina",
     "word": "Kachina",
     "partOfSpeech": "noun",
@@ -833,7 +833,10 @@ export const dataK: VocabularyEntry[] = [
     "word": "Knowledge",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Information, skills, and understanding gained through experience or education.",
     "tamilDefinition": "அறிவு, தகவல்.",
     "literaryContext": {
@@ -841,8 +844,8 @@ export const dataK: VocabularyEntry[] = [
       "tamil": "புத்தகங்களை வாசிப்பது உலகம் பற்றிய உங்கள் அறிவை விரிவுபடுத்துகிறது."
     },
     "formalSpeechContext": {
-      "english": "Reading books expands your knowledge of the world.",
-      "tamil": "புத்தகங்களை வாசிப்பது உலகம் பற்றிய உங்கள் அறிவை விரிவுபடுத்துகிறது."
+      "english": "Investing in higher education expands national scientific knowledge and research capacity.",
+      "tamil": "உயர்கல்வியில் முதலீடு செய்வது தேசிய அறிவியல் அறிவையும் ஆராய்ச்சி திறனையும் விரிவுபடுத்துகிறது."
     },
     "synonyms": [
       "understanding",
@@ -860,7 +863,10 @@ export const dataK: VocabularyEntry[] = [
     "word": "Keen",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having or showing eagerness or enthusiasm; sharp.",
     "tamilDefinition": "ஆர்வமுள்ள, கூர்மையான.",
     "literaryContext": {
@@ -868,8 +874,8 @@ export const dataK: VocabularyEntry[] = [
       "tamil": "அவளுக்கு சுற்றுச்சூழல் அறிவியலில் மிகுந்த ஆர்வம் உள்ளது."
     },
     "formalSpeechContext": {
-      "english": "She has a keen interest in environmental science.",
-      "tamil": "அவளுக்கு சுற்றுச்சூழல் அறிவியலில் மிகுந்த ஆர்வம் உள்ளது."
+      "english": "The regulatory authority maintains a keen interest in protecting consumer rights.",
+      "tamil": "ஒழுங்குமுறை ஆணையம் நுகர்வோர் உரிமைகளைப் பாதுகாப்பதில் மிகுந்த ஆர்வம் காட்டுகிறது."
     },
     "synonyms": [
       "eager",
@@ -887,7 +893,10 @@ export const dataK: VocabularyEntry[] = [
     "word": "Kindness",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The quality of being friendly, generous, and considerate.",
     "tamilDefinition": "கருணை, தயவு.",
     "literaryContext": {
@@ -895,8 +904,8 @@ export const dataK: VocabularyEntry[] = [
       "tamil": "ஒரு எளிய கருணை செயல் ஒருவரின் நாளைப் பிரகாசமாக்கும்."
     },
     "formalSpeechContext": {
-      "english": "A simple act of kindness can brighten someone day.",
-      "tamil": "ஒரு எளிய கருணை செயல் ஒருவரின் நாளைப் பிரகாசமாக்கும்."
+      "english": "Civic leadership should reflect civic responsibility and public kindness.",
+      "tamil": "குடிமைத் தலைமைத்துவம் குடிமைப் பொறுப்பையும் பொதுப் பரிவையும் பிரதிபலிக்க வேண்டும்."
     },
     "synonyms": [
       "compassion",
@@ -914,7 +923,10 @@ export const dataK: VocabularyEntry[] = [
     "word": "Kinship",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Blood relationship or a sharing of characteristics or origins.",
     "tamilDefinition": "உறவுமுறை, பிணைப்பு.",
     "literaryContext": {
@@ -922,8 +934,8 @@ export const dataK: VocabularyEntry[] = [
       "tamil": "முதல்முறை சந்தித்த போதிலும் அவர்கள் ஆழமான பிணைப்பை உணர்ந்தனர்."
     },
     "formalSpeechContext": {
-      "english": "They felt a deep sense of kinship despite meeting for the first time.",
-      "tamil": "முதல்முறை சந்தித்த போதிலும் அவர்கள் ஆழமான பிணைப்பை உணர்ந்தனர்."
+      "english": "Cultural exchange programs strengthen historical ties of kinship between neighboring states.",
+      "tamil": "கலாச்சார பரிமாற்றத் திட்டங்கள் அண்டை மாநிலங்களுக்கு இடையிலான வரலாற்று ரீதியான உறவுகளை வலுப்படுத்துகின்றன."
     },
     "synonyms": [
       "affinity",
@@ -941,7 +953,10 @@ export const dataK: VocabularyEntry[] = [
     "word": "Keynote",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A prevailing tone or central theme of a speech or conference.",
     "tamilDefinition": "முக்கிய கருத்து, தலைமை உரை.",
     "literaryContext": {
@@ -949,8 +964,8 @@ export const dataK: VocabularyEntry[] = [
       "tamil": "பேச்சாளர் ஒரு எழுச்சியூட்டும் தலைமை உரையை வழங்கினார்."
     },
     "formalSpeechContext": {
-      "english": "The speaker delivered an inspiring keynote address.",
-      "tamil": "பேச்சாளர் ஒரு எழுச்சியூட்டும் தலைமை உரையை வழங்கினார்."
+      "english": "The prime minister delivered the keynote address outlining sustainable development goals.",
+      "tamil": "நிலையான வளர்ச்சி இலக்குகளை கோடிட்டுக் காட்டும் முக்கிய உரையை பிரதமர் ஆற்றினார்."
     },
     "synonyms": [
       "theme",
@@ -968,7 +983,10 @@ export const dataK: VocabularyEntry[] = [
     "word": "Kindle",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To arouse or inspire an emotion or feeling.",
     "tamilDefinition": "தூண்டுதல், கிளர்ந்தெழச் செய்தல்.",
     "literaryContext": {
@@ -976,18 +994,29 @@ export const dataK: VocabularyEntry[] = [
       "tamil": "வானியல் மீதான அவரது ஆர்வம் வாழ்நாள் முழுவதும் ஆர்வத்தைத் தூண்டியது."
     },
     "formalSpeechContext": {
-      "english": "His passion for astronomy kindled a lifelong curiosity.",
-      "tamil": "வானியல் மீதான அவரது ஆர்வம் வாழ்நாள் முழுவதும் ஆர்வத்தைத் தூண்டியது."
+      "english": "Public education initiatives help kindle a passion for scientific discovery among students.",
+      "tamil": "பொதுக் கல்வி முயற்சிகள் மாணவர்களிடையே அறிவியல் கண்டுபிடிப்புகள் மீதான ஆர்வத்தை தூண்ட உதவுகின்றன."
     },
-    "synonyms": ["ignite","inspire","arouse"],
-    "antonyms": ["extinguish","quench","dampen"]
+    "synonyms": [
+      "ignite",
+      "inspire",
+      "arouse"
+    ],
+    "antonyms": [
+      "extinguish",
+      "quench",
+      "dampen"
+    ]
   },
   {
     "id": "knightly_inter_7",
     "word": "Knightly",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Chivalrous and honorable in behavior.",
     "tamilDefinition": "வீரமும் கண்ணியமும் மிக்க.",
     "literaryContext": {
@@ -995,18 +1024,29 @@ export const dataK: VocabularyEntry[] = [
       "tamil": "அவர் அனைவரிடமும் வீரமும் கண்ணியமும் மிக்க மரியாதையுடன் நடந்துகொண்டார்."
     },
     "formalSpeechContext": {
-      "english": "He conducted himself with knightly courtesy toward all.",
-      "tamil": "அவர் அனைவரிடமும் வீரமும் கண்ணியமும் மிக்க மரியாதையுடன் நடந்துகொண்டார்."
+      "english": "The diplomat was commended for his knightly devotion to international humanitarian duty.",
+      "tamil": "சர்வதேச மனிதநேயக் கடமைக்கான அவரது உயரிய அர்ப்பணிப்பிற்காக தூதர் பாராட்டப்பட்டார்."
     },
-    "synonyms": ["chivalrous","gallant","honorable"],
-    "antonyms": ["unmanly","rude","dishonorable"]
+    "synonyms": [
+      "chivalrous",
+      "gallant",
+      "honorable"
+    ],
+    "antonyms": [
+      "unmanly",
+      "rude",
+      "dishonorable"
+    ]
   },
   {
     "id": "keenness_inter_8",
     "word": "Keenness",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The quality of being eager or enthusiastic; sharpness.",
     "tamilDefinition": "கூர்மை, மிகுந்த ஆர்வம்.",
     "literaryContext": {
@@ -1014,18 +1054,29 @@ export const dataK: VocabularyEntry[] = [
       "tamil": "அவளது கவனத்தின் கூர்மை விடுபட்ட விவரத்தைக் கண்டறிய உதவியது."
     },
     "formalSpeechContext": {
-      "english": "Her keenness of observation helped identify the missing detail.",
-      "tamil": "அவளது கவனத்தின் கூர்மை விடுபட்ட விவரத்தைக் கண்டறிய உதவியது."
+      "english": "Her keenness in economic policy formulation led to rapid national reform.",
+      "tamil": "பொருளாதாரக் கொள்கையை உருவாக்குவதில் அவரது கூர்மையான திறன் விரைவான தேசிய சீர்திருத்தத்திற்கு வழிவகுத்தது."
     },
-    "synonyms": ["sharpness","eagerness","acuity"],
-    "antonyms": ["dullness","apathy","indifference"]
+    "synonyms": [
+      "sharpness",
+      "eagerness",
+      "acuity"
+    ],
+    "antonyms": [
+      "dullness",
+      "apathy",
+      "indifference"
+    ]
   },
   {
     "id": "kernel_inter_9",
     "word": "Kernel",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The most essential part or central core of something.",
     "tamilDefinition": "சாராம்சம், மையக் கருத்து.",
     "literaryContext": {
@@ -1033,18 +1084,29 @@ export const dataK: VocabularyEntry[] = [
       "tamil": "அவரது நகைச்சுவையான கதையில் உண்மையின் சாராம்சம் இருந்தது."
     },
     "formalSpeechContext": {
-      "english": "There was a kernel of truth in his humorous anecdote.",
-      "tamil": "அவரது நகைச்சுவையான கதையில் உண்மையின் சாராம்சம் இருந்தது."
+      "english": "Transparency forms the core kernel of democratic financial administration.",
+      "tamil": "வெளிப்படைத்தன்மை என்பது ஜனநாயக நிதி நிர்வாகத்தின் முக்கிய மையக்கருவாகும்."
     },
-    "synonyms": ["core","gist","essence"],
-    "antonyms": ["exterior","surface","fringe"]
+    "synonyms": [
+      "core",
+      "gist",
+      "essence"
+    ],
+    "antonyms": [
+      "exterior",
+      "surface",
+      "fringe"
+    ]
   },
   {
     "id": "kinetic_inter_10",
     "word": "Kinetic",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Relating to or resulting from motion.",
     "tamilDefinition": "இயக்கவியல் சார்ந்த, இயக்கம் உடைய.",
     "literaryContext": {
@@ -1052,10 +1114,18 @@ export const dataK: VocabularyEntry[] = [
       "tamil": "பாய்ந்தோடும் நதியின் இயக்கவியல் ஆற்றல் மின்சாரத்திற்காகப் பயன்படுத்தப்பட்டது."
     },
     "formalSpeechContext": {
-      "english": "The kinetic energy of the rushing river was harnessed for power.",
-      "tamil": "பாய்ந்தோடும் நதியின் இயக்கவியல் ஆற்றல் மின்சாரத்திற்காகப் பயன்படுத்தப்பட்டது."
+      "english": "The conference generated kinetic energy toward passing renewable energy legislation.",
+      "tamil": "இந்த மாநாடு புதுப்பிக்கத்தக்க எரிசக்தி சட்டங்களை நிறைவேற்றுவதை நோக்கமாகக் கொண்டு ஒரு மாபெரும் இயக்க ஆற்றலை உருவாக்கியது."
     },
-    "synonyms": ["active","dynamic","moving"],
-    "antonyms": ["static","stationary","idle"]
+    "synonyms": [
+      "active",
+      "dynamic",
+      "moving"
+    ],
+    "antonyms": [
+      "static",
+      "stationary",
+      "idle"
+    ]
   }
 ];

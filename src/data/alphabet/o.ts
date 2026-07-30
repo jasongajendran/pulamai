@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataO: VocabularyEntry[] = [
-{
+  {
     "id": "obdurate",
     "word": "Obdurate",
     "partOfSpeech": "adjective",
@@ -961,7 +961,10 @@ export const dataO: VocabularyEntry[] = [
     "word": "Optimal",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Best or most favorable; optimum.",
     "tamilDefinition": "மிகவும் உகந்த, சிறந்த.",
     "literaryContext": {
@@ -969,8 +972,8 @@ export const dataO: VocabularyEntry[] = [
       "tamil": "சரியான ஊட்டச்சத்து சிறந்த மூளை செயல்பாட்டை உறுதி செய்கிறது."
     },
     "formalSpeechContext": {
-      "english": "Proper nutrition ensures optimal brain performance.",
-      "tamil": "சரியான ஊட்டச்சத்து சிறந்த மூளை செயல்பாட்டை உறுதி செய்கிறது."
+      "english": "Regulatory reforms aim to create optimal conditions for sustainable economic investment.",
+      "tamil": "நிலையான பொருளாதார முதலீட்டிற்கு உகந்த நிலைமைகளை உருவாக்குவதை ஒழுங்குமுறை சீர்திருத்தங்கள் நோக்கமாகக் கொண்டுள்ளன."
     },
     "synonyms": [
       "ideal",
@@ -988,7 +991,10 @@ export const dataO: VocabularyEntry[] = [
     "word": "Obvious",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Easily perceived or understood; clear, self-evident.",
     "tamilDefinition": "வெளிப்படையான, தெளிவான.",
     "literaryContext": {
@@ -996,8 +1002,8 @@ export const dataO: VocabularyEntry[] = [
       "tamil": "விளக்கியவுடன் புதிருக்கு விடை வெளிப்படையாகத் தெரிந்தது."
     },
     "formalSpeechContext": {
-      "english": "The answer to the riddle was obvious once explained.",
-      "tamil": "விளக்கியவுடன் புதிருக்கு விடை வெளிப்படையாகத் தெரிந்தது."
+      "english": "The economic necessity of renewable transition has become obvious to policymakers.",
+      "tamil": "புதுப்பிக்கத்தக்க ஆற்றல் மாற்றத்தின் பொருளாதார அவசியம் கொள்கை வகுப்பாளர்களுக்குத் தெளிவாகிவிட்டது."
     },
     "synonyms": [
       "clear",
@@ -1015,7 +1021,10 @@ export const dataO: VocabularyEntry[] = [
     "word": "Outcome",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The way a thing turns out; a consequence.",
     "tamilDefinition": "விளைவு, முடிவு.",
     "literaryContext": {
@@ -1023,8 +1032,8 @@ export const dataO: VocabularyEntry[] = [
       "tamil": "தேர்தலின் இறுதி விளைவுக்காக நாங்கள் காத்திருக்கிறோம்."
     },
     "formalSpeechContext": {
-      "english": "We are awaiting the final outcome of the election.",
-      "tamil": "தேர்தலின் இறுதி விளைவுக்காக நாங்கள் காத்திருக்கிறோம்."
+      "english": "The desirable outcome of the peace summit was a binding international disarmament accord.",
+      "tamil": "அமைதி உச்சிமாநாட்டின் விரும்பத்தக்க முடிவு ஒரு கட்டுப்படுத்தும் சர்வதேச ஆயுதக் குறைப்பு ஒப்பந்தமாகும்."
     },
     "synonyms": [
       "result",
@@ -1042,7 +1051,10 @@ export const dataO: VocabularyEntry[] = [
     "word": "Obstacle",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A thing that blocks one way or prevents progress.",
     "tamilDefinition": "தடை, இடையூறு.",
     "literaryContext": {
@@ -1050,8 +1062,8 @@ export const dataO: VocabularyEntry[] = [
       "tamil": "மனஉறுதி அவளுக்கு ஒவ்வொரு தடையையும் கடக்க உதவியது."
     },
     "formalSpeechContext": {
-      "english": "Perseverance helped her overcome every obstacle.",
-      "tamil": "மனஉறுதி அவளுக்கு ஒவ்வொரு தடையையும் கடக்க உதவியது."
+      "english": "Regulatory bureaucracy remains a primary obstacle to small business expansion.",
+      "tamil": "சிறு தொழில் விரிவாக்கத்திற்கு ஒழுங்குமுறை அதிகாரவர்க்கம் ஒரு முதன்மைத் தடையாக உள்ளது."
     },
     "synonyms": [
       "barrier",
@@ -1069,7 +1081,10 @@ export const dataO: VocabularyEntry[] = [
     "word": "Outline",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A general description or summary of something.",
     "tamilDefinition": "சுருக்கக் குறிப்பு, வெளிப்புறக் கோடு.",
     "literaryContext": {
@@ -1077,8 +1092,8 @@ export const dataO: VocabularyEntry[] = [
       "tamil": "அவள் தன் ஆய்வேட்டின் அத்தியாயத்தின் சுருக்கக் குறிப்பைத் தயாரித்தாள்."
     },
     "formalSpeechContext": {
-      "english": "She prepared a brief outline of her thesis chapter.",
-      "tamil": "அவள் தன் ஆய்வேட்டின் அத்தியாயத்தின் சுருக்கக் குறிப்பைத் தயாரித்தாள்."
+      "english": "The Minister presented a comprehensive outline of the proposed healthcare strategy.",
+      "tamil": "முன்மொழியப்பட்ட சுகாதார உத்தியின் விரிவான வரைபடத்தை அமைச்சர் முன்வைத்தார்."
     },
     "synonyms": [
       "summary",
@@ -1096,7 +1111,10 @@ export const dataO: VocabularyEntry[] = [
     "word": "Optimism",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Hopefulness and confidence about the future.",
     "tamilDefinition": "நம்பிக்கை மனப்பான்மை, சுபிட்ச நம்பிக்கை.",
     "literaryContext": {
@@ -1104,18 +1122,29 @@ export const dataO: VocabularyEntry[] = [
       "tamil": "கடினமான காலங்களில் அவளது நம்பிக்கை மனப்பான்மை அணியின் மனஉறுதியை உயர்த்தியது."
     },
     "formalSpeechContext": {
-      "english": "Her optimism kept the team morale high during hard times.",
-      "tamil": "கடினமான காலங்களில் அவளது நம்பிக்கை மனப்பான்மை அணியின் மனஉறுதியை உயர்த்தியது."
+      "english": "Financial indicators reflect cautious optimism regarding second-quarter trade recovery.",
+      "tamil": "நிதி குறிகாட்டிகள் இரண்டாம் காலாண்டு வர்த்தக மீட்சி குறித்த எச்சரிக்கையான நம்பிக்கையைப் பிரதிபலிக்கின்றன."
     },
-    "synonyms": ["hopefulness","confidence","positivity"],
-    "antonyms": ["pessimism","gloom","despair"]
+    "synonyms": [
+      "hopefulness",
+      "confidence",
+      "positivity"
+    ],
+    "antonyms": [
+      "pessimism",
+      "gloom",
+      "despair"
+    ]
   },
   {
     "id": "origin_inter_7",
     "word": "Origin",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The point or place where something begins, arises, or is derived.",
     "tamilDefinition": "தொடக்கப்புள்ளி, தோற்றம்.",
     "literaryContext": {
@@ -1123,18 +1152,29 @@ export const dataO: VocabularyEntry[] = [
       "tamil": "இந்நதி உயர்ந்த பனி சிகரங்களில் தன் தொடக்கப்புள்ளியைக் கொண்டுள்ளது."
     },
     "formalSpeechContext": {
-      "english": "The river has its origin in the high snow peaks.",
-      "tamil": "இந்நதி உயர்ந்த பனி சிகரங்களில் தன் தொடக்கப்புள்ளியைக் கொண்டுள்ளது."
+      "english": "Determining the precise geographic origin of goods is necessary under tariff customs law.",
+      "tamil": "சுங்க வரிச் சட்டத்தின் கீழ் பொருட்களின் துல்லியமான புவியியல் இருப்பிடத்தைக் கண்டறிவது அவசியமாகும்."
     },
-    "synonyms": ["source","beginning","root"],
-    "antonyms": ["end","destination","outcome"]
+    "synonyms": [
+      "source",
+      "beginning",
+      "root"
+    ],
+    "antonyms": [
+      "end",
+      "destination",
+      "outcome"
+    ]
   },
   {
     "id": "overcome_inter_8",
     "word": "Overcome",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Succeed in dealing with a problem or difficulty.",
     "tamilDefinition": "வெற்றி கொள்ளுதல், கடந்து வருதல்.",
     "literaryContext": {
@@ -1142,18 +1182,29 @@ export const dataO: VocabularyEntry[] = [
       "tamil": "மனஉறுதியுடன், அவளால் அனைத்து சிரமங்களையும் கடந்து வர முடிந்தது."
     },
     "formalSpeechContext": {
-      "english": "With determination, she was able to overcome all hardships.",
-      "tamil": "மனஉறுதியுடன், அவளால் அனைத்து சிரமங்களையும் கடந்து வர முடிந்தது."
+      "english": "Through unified international action, global communities can overcome infectious health threats.",
+      "tamil": "ஒருங்கிணைந்த சர்வதேச நடவடிக்கையின் மூலம், உலகளாவிய சமூகங்கள் தொற்றுநோய்களிலிருந்து உருவாகும் சுகாதார அச்சுறுத்தல்களை வெல்ல முடியும்."
     },
-    "synonyms": ["conquer","surmount","master"],
-    "antonyms": ["succumb","fail","surrender"]
+    "synonyms": [
+      "conquer",
+      "surmount",
+      "master"
+    ],
+    "antonyms": [
+      "succumb",
+      "fail",
+      "surrender"
+    ]
   },
   {
     "id": "objective_inter_9",
     "word": "Objective",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A thing aimed at or sought; a goal.",
     "tamilDefinition": "குறிக்கோள், இலக்கு.",
     "literaryContext": {
@@ -1161,18 +1212,29 @@ export const dataO: VocabularyEntry[] = [
       "tamil": "வாழ்க்கைத் தரத்தை மேம்படுத்துவதே நமது முதன்மை குறிக்கோள்."
     },
     "formalSpeechContext": {
-      "english": "Our primary objective is to improve quality of life.",
-      "tamil": "வாழ்க்கைத் தரத்தை மேம்படுத்துவதே நமது முதன்மை குறிக்கோள்."
+      "english": "Our primary strategic objective is reducing carbon emissions by forty percent.",
+      "tamil": "கார்பன் உமிழ்வை நாற்பது சதவீதம் குறைப்பதே நமது முதன்மை உத்திசார்ந்த இலக்காகும்."
     },
-    "synonyms": ["goal","target","aim"],
-    "antonyms": ["randomness","aimlessness","distraction"]
+    "synonyms": [
+      "goal",
+      "target",
+      "aim"
+    ],
+    "antonyms": [
+      "randomness",
+      "aimlessness",
+      "distraction"
+    ]
   },
   {
     "id": "overture_inter_10",
     "word": "Overture",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "An introduction to something more substantial or a proposal.",
     "tamilDefinition": "தொடக்க உரை, முன்மொழிவு.",
     "literaryContext": {
@@ -1180,10 +1242,18 @@ export const dataO: VocabularyEntry[] = [
       "tamil": "அமைதி பேச்சுவார்த்தை ஒரு நட்பான முன்மொழிவுடன் தொடங்கியது."
     },
     "formalSpeechContext": {
-      "english": "Peace negotiations began with a friendly overture.",
-      "tamil": "அமைதி பேச்சுவார்த்தை ஒரு நட்பான முன்மொழிவுடன் தொடங்கியது."
+      "english": "The neighboring state made a diplomatic overture to reopen bilateral trade channels.",
+      "tamil": "இருதரப்பு வர்த்தகப் பாதைகளை மீண்டும் திறக்க அண்டை மாநிலம் ஒரு ராஜதந்திர முன்முயற்சியை மேற்கொண்டது."
     },
-    "synonyms": ["prelude","proposal","introduction"],
-    "antonyms": ["epilogue","conclusion","finale"]
+    "synonyms": [
+      "prelude",
+      "proposal",
+      "introduction"
+    ],
+    "antonyms": [
+      "epilogue",
+      "conclusion",
+      "finale"
+    ]
   }
 ];

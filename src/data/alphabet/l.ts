@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataL: VocabularyEntry[] = [
-{
+  {
     "id": "laconic",
     "word": "Laconic",
     "partOfSpeech": "adjective",
@@ -891,7 +891,10 @@ export const dataL: VocabularyEntry[] = [
     "word": "Logical",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Of or according to the rules of logic or formal reasoning.",
     "tamilDefinition": "தருக்க ரீதியான, நியாயமான.",
     "literaryContext": {
@@ -899,8 +902,8 @@ export const dataL: VocabularyEntry[] = [
       "tamil": "அவரது வாதம் புதிருக்கு ஒரு தருக்க ரீதியான தீர்வை வழங்கியது."
     },
     "formalSpeechContext": {
-      "english": "His argument presented a logical solution to the puzzle.",
-      "tamil": "அவரது வாதம் புதிருக்கு ஒரு தருக்க ரீதியான தீர்வை வழங்கியது."
+      "english": "Policy decisions must be grounded in logical economic reasoning and empirical evidence.",
+      "tamil": "கொள்கை முடிவுகள் தர்க்கரீதியான பொருளாதாரக் காரணம் மற்றும் சோதனையான ஆதாரங்களின் அடிப்படையில் இருக்க வேண்டும்."
     },
     "synonyms": [
       "rational",
@@ -918,7 +921,10 @@ export const dataL: VocabularyEntry[] = [
     "word": "Loyalty",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The quality of being loyal; faithfulness to commitments.",
     "tamilDefinition": "விசுவாசம், விசுவாசத்தன்மை.",
     "literaryContext": {
@@ -926,8 +932,8 @@ export const dataL: VocabularyEntry[] = [
       "tamil": "அவளது அணிக்கு அவளது விசுவாசம் அனைவரின் மரியாதையையும் பெற்றது."
     },
     "formalSpeechContext": {
-      "english": "Her loyalty to her team earned everyone respect.",
-      "tamil": "அவளது அணிக்கு அவளது விசுவாசம் அனைவரின் மரியாதையையும் பெற்றது."
+      "english": "Public servants owe primary loyalty to constitutional governance and the public good.",
+      "tamil": "பொது ஊழியர்கள் முதன்மை விசுவாசத்தை அரசியலமைப்பு ஆட்சிக்கும் பொது நலனுக்கும் செலுத்தக் கடமைப்பட்டுள்ளனர்."
     },
     "synonyms": [
       "fidelity",
@@ -945,7 +951,10 @@ export const dataL: VocabularyEntry[] = [
     "word": "Leisure",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Use of free time for enjoyment.",
     "tamilDefinition": "ஓய்வு நேரம், ஓய்வு.",
     "literaryContext": {
@@ -953,8 +962,8 @@ export const dataL: VocabularyEntry[] = [
       "tamil": "அவர் தனது ஓய்வு நேரத்தில் சதுரங்கம் விளையாடுவதை ரசிக்கிறார்."
     },
     "formalSpeechContext": {
-      "english": "He enjoys playing chess in his leisure hours.",
-      "tamil": "அவர் தனது ஓய்வு நேரத்தில் சதுரங்கம் விளையாடுவதை ரசிக்கிறார்."
+      "english": "Developing public parks promotes health and accessible leisure for urban families.",
+      "tamil": "பொதுப் பூங்காக்களை மேம்படுத்துவது நகர்ப்புற குடும்பங்களுக்கு நல்வாழ்வையும் அணுகக்கூடிய ஓய்வையும் ஊக்குவிக்கிறது."
     },
     "synonyms": [
       "free time",
@@ -972,7 +981,10 @@ export const dataL: VocabularyEntry[] = [
     "word": "Limitless",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Without end or limit; boundless.",
     "tamilDefinition": "எல்லையற்ற, அளவற்ற.",
     "literaryContext": {
@@ -980,8 +992,8 @@ export const dataL: VocabularyEntry[] = [
       "tamil": "மனித கற்பனை எல்லைற்ற சாத்தியங்களைக் கொண்டுள்ளது."
     },
     "formalSpeechContext": {
-      "english": "Human imagination holds limitless possibilities.",
-      "tamil": "மனித கற்பனை எல்லைற்ற சாத்தியங்களைக் கொண்டுள்ளது."
+      "english": "International scientific collaboration offers limitless possibilities for medical breakthroughs.",
+      "tamil": "சர்வதேச அறிவியல் ஒத்துழைப்பு மருத்துவ சாதனைகளுக்கு எல்லையற்ற சாத்தியக்கூறுகளை வழங்குகிறது."
     },
     "synonyms": [
       "boundless",
@@ -999,7 +1011,10 @@ export const dataL: VocabularyEntry[] = [
     "word": "Lucid",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Expressed clearly; easy to understand.",
     "tamilDefinition": "தெளிவான, எளிதில் புரியக்கூடிய.",
     "literaryContext": {
@@ -1007,8 +1022,8 @@ export const dataL: VocabularyEntry[] = [
       "tamil": "ஆசிரியர் சிக்கலான குவாண்டம் இயக்கவியலைத் தெளிவாக விளக்கி கூறினார்."
     },
     "formalSpeechContext": {
-      "english": "The author gave a lucid explanation of complex quantum mechanics.",
-      "tamil": "ஆசிரியர் சிக்கலான குவாண்டம் இயக்கவியலைத் தெளிவாக விளக்கி கூறினார்."
+      "english": "The treasurer presented a lucid financial outline that simplified complex budget figures.",
+      "tamil": "பொருளாளர் சிக்கலான வரவு செலவுத் திட்ட எண்களை எளிதாக்கும் தெளிவான நிதி வரைபடத்தை முன்வைத்தார்."
     },
     "synonyms": [
       "clear",
@@ -1026,7 +1041,10 @@ export const dataL: VocabularyEntry[] = [
     "word": "Liberation",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The act of setting someone free from imprisonment or oppression.",
     "tamilDefinition": "விடுதலை, மீட்சி.",
     "literaryContext": {
@@ -1034,18 +1052,29 @@ export const dataL: VocabularyEntry[] = [
       "tamil": "விடுதலை நாள் நாடு முழுவதும் கொண்டாடப்பட்டது."
     },
     "formalSpeechContext": {
-      "english": "The day of liberation was celebrated across the country.",
-      "tamil": "விடுதலை நாள் நாடு முழுவதும் கொண்டாடப்பட்டது."
+      "english": "Access to universal education is a vital catalyst for economic liberation and empowerment.",
+      "tamil": "உலகளாவிய கல்விக்கான அணுகல் பொருளாதார விடுதலை மற்றும் அதிகாரமளித்தலுக்கான ஒரு முக்கிய வினையூக்கியாகும்."
     },
-    "synonyms": ["freedom","emancipation","release"],
-    "antonyms": ["bondage","slavery","oppression"]
+    "synonyms": [
+      "freedom",
+      "emancipation",
+      "release"
+    ],
+    "antonyms": [
+      "bondage",
+      "slavery",
+      "oppression"
+    ]
   },
   {
     "id": "luminosity_inter_7",
     "word": "Luminosity",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The quality of giving off light; radiant brightness.",
     "tamilDefinition": "ஒளிப்பிரகாசம், பிரகாசிக்கும் தன்மை.",
     "literaryContext": {
@@ -1053,18 +1082,29 @@ export const dataL: VocabularyEntry[] = [
       "tamil": "பௌர்ணமி நிலவின் ஒளிப்பிரகாசம் அவர்களின் இரவு நடைப்பயணத்திற்கு வழிகாட்டியது."
     },
     "formalSpeechContext": {
-      "english": "The luminosity of the full moon guided their night hike.",
-      "tamil": "பௌர்ணமி நிலவின் ஒளிப்பிரகாசம் அவர்களின் இரவு நடைப்பயணத்திற்கு வழிகாட்டியது."
+      "english": "Her leadership brought moral luminosity and clarity to complex ethical debates.",
+      "tamil": "அவரது தலைமைத்துவம் சிக்கலான ஒழுக்க நெறி விவாதங்களுக்கு நேர்மையான வழிகாட்டுதலையும் தெளிவையும் கொண்டு வந்தது."
     },
-    "synonyms": ["brightness","radiance","brilliance"],
-    "antonyms": ["darkness","gloom","dimness"]
+    "synonyms": [
+      "brightness",
+      "radiance",
+      "brilliance"
+    ],
+    "antonyms": [
+      "darkness",
+      "gloom",
+      "dimness"
+    ]
   },
   {
     "id": "legacy_inter_8",
     "word": "Legacy",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Something handed down from an ancestor or predecessor.",
     "tamilDefinition": "பரம்பரைச் சொத்து, வரலாற்றுக்கொடை.",
     "literaryContext": {
@@ -1072,18 +1112,29 @@ export const dataL: VocabularyEntry[] = [
       "tamil": "ஆயிரக்கணக்கானோருக்குக் கல்வி கற்பித்த அறக்கட்டளையே அவரது சிறந்த வரலாற்றுக்கொடையாகும்."
     },
     "formalSpeechContext": {
-      "english": "His greatest legacy was a foundation that educated thousands.",
-      "tamil": "ஆயிரக்கணக்கானோருக்குக் கல்வி கற்பித்த அறக்கட்டளையே அவரது சிறந்த வரலாற்றுக்கொடையாகும்."
+      "english": "The former senator left a lasting legacy of infrastructure investment and educational funding.",
+      "tamil": "முன்னாள் செனட்டர் உள்கட்டமைப்பு முதலீடு மற்றும் கல்வி நிதியுதவியின் நீடித்த பாரம்பரியத்தை விட்டுச் சென்றார்."
     },
-    "synonyms": ["inheritance","bequest","heritage"],
-    "antonyms": ["debt","loss","disgrace"]
+    "synonyms": [
+      "inheritance",
+      "bequest",
+      "heritage"
+    ],
+    "antonyms": [
+      "debt",
+      "loss",
+      "disgrace"
+    ]
   },
   {
     "id": "loftiness_inter_9",
     "word": "Loftiness",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The quality of being noble, elevated, or grand.",
     "tamilDefinition": "உன்னதம், கம்பீரம், உயர் சிந்தனை.",
     "literaryContext": {
@@ -1091,18 +1142,29 @@ export const dataL: VocabularyEntry[] = [
       "tamil": "அவரது லட்சியங்களின் உன்னதம் அவரைச் சுற்றியிருந்த அனைவரையும் ஊக்கப்படுத்தியது."
     },
     "formalSpeechContext": {
-      "english": "The loftiness of his ideals inspired everyone around him.",
-      "tamil": "அவரது லட்சியங்களின் உன்னதம் அவரைச் சுற்றியிருந்த அனைவரையும் ஊக்கப்படுத்தியது."
+      "english": "The loftiness of the nation constitutional ideals inspires democratic movements worldwide.",
+      "tamil": "தேசத்தின் அரசியலமைப்பு லட்சியங்களின் உன்னதம் உலகெங்கிலும் உள்ள ஜனநாயக இயக்கங்களை ஊக்குவிக்கிறது."
     },
-    "synonyms": ["grandeur","sublimity","nobility"],
-    "antonyms": ["baseness","humility","lowness"]
+    "synonyms": [
+      "grandeur",
+      "sublimity",
+      "nobility"
+    ],
+    "antonyms": [
+      "baseness",
+      "humility",
+      "lowness"
+    ]
   },
   {
     "id": "laudable_inter_10",
     "word": "Laudable",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Deserving praise and commendation.",
     "tamilDefinition": "பாராட்டத்தக்க, போற்றத்தக்க.",
     "literaryContext": {
@@ -1110,10 +1172,18 @@ export const dataL: VocabularyEntry[] = [
       "tamil": "சுற்றுச்சூழல் பாதுகாப்பில் அவளது பாராட்டத்தக்க முயற்சிகள் பலனளித்தன."
     },
     "formalSpeechContext": {
-      "english": "Her laudable efforts in environmental conservation bore fruit.",
-      "tamil": "சுற்றுச்சூழல் பாதுகாப்பில் அவளது பாராட்டத்தக்க முயற்சிகள் பலனளித்தன."
+      "english": "The NGO received praise for its laudable efforts in combating rural poverty.",
+      "tamil": "கிராமப்புற வறுமையை எதிர்த்துப் போராடுவதில் மேற்கொண்ட பாராட்டுக்குரிய முயற்சிகளுக்காக அந்த அரசு சாரா நிறுவனம் பாராட்டைப் பெற்றது."
     },
-    "synonyms": ["praiseworthy","commendable","admirable"],
-    "antonyms": ["blameworthy","discreditable","despicable"]
+    "synonyms": [
+      "praiseworthy",
+      "commendable",
+      "admirable"
+    ],
+    "antonyms": [
+      "blameworthy",
+      "discreditable",
+      "despicable"
+    ]
   }
 ];

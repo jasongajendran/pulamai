@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataB: VocabularyEntry[] = [
-{
+  {
     "id": "banter",
     "word": "banter",
     "partOfSpeech": "noun",
@@ -900,7 +900,10 @@ export const dataB: VocabularyEntry[] = [
     "word": "Balance",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "An even distribution of weight or equilibrium.",
     "tamilDefinition": "சமநிலை அல்லது சீரான நிலை.",
     "literaryContext": {
@@ -908,8 +911,8 @@ export const dataB: VocabularyEntry[] = [
       "tamil": "குறுகிய கல் விளிம்பில் செல்லும்போது அவர் தன் சமநிலையைக் காப்பாற்றிக் கொண்டார்."
     },
     "formalSpeechContext": {
-      "english": "He kept his balance while navigating the narrow stone ledge.",
-      "tamil": "குறுகிய கல் விளிம்பில் செல்லும்போது அவர் தன் சமநிலையைக் காப்பாற்றிக் கொண்டார்."
+      "english": "Maintaining a balanced fiscal budget is critical for long-term economic stability.",
+      "tamil": "நீண்டகால பொருளாதார ஸ்திரத்தன்மைக்கு சீரான நிதி வரவு செலவுத் திட்டத்தைப் பராமரிப்பது முக்கியமானது."
     },
     "synonyms": [
       "equilibrium",
@@ -927,7 +930,10 @@ export const dataB: VocabularyEntry[] = [
     "word": "Benefit",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "An advantage or profit gained from something.",
     "tamilDefinition": "நன்மை, பலன் அல்லது ஆதாயம்.",
     "literaryContext": {
@@ -935,8 +941,8 @@ export const dataB: VocabularyEntry[] = [
       "tamil": "அமைதியான தோட்டம் அவளது மன அமைதிக்கு பெரும் நன்மையாக இருந்தது."
     },
     "formalSpeechContext": {
-      "english": "The quiet garden was a great benefit to her mental peace.",
-      "tamil": "அமைதியான தோட்டம் அவளது மன அமைதிக்கு பெரும் நன்மையாக இருந்தது."
+      "english": "Public healthcare investments provide direct health benefits to low-income families.",
+      "tamil": "பொது சுகாதார முதலீடுகள் குறைந்த வருமானம் உள்ள குடும்பங்களுக்கு நேரடி சுகாதார நன்மைகளை வழங்குகின்றன."
     },
     "synonyms": [
       "advantage",
@@ -954,7 +960,10 @@ export const dataB: VocabularyEntry[] = [
     "word": "Brief",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Of short duration or concise in expression.",
     "tamilDefinition": "சுருக்கமான, குறுகிய நேரத்தைக் கொண்ட.",
     "literaryContext": {
@@ -962,8 +971,8 @@ export const dataB: VocabularyEntry[] = [
       "tamil": "பிரியும் முன் அவர்கள் ஒரு சுருக்கமான பார்வையைப் பரிமாறிக் கொண்டனர்."
     },
     "formalSpeechContext": {
-      "english": "They shared a brief glance before parting ways.",
-      "tamil": "பிரியும் முன் அவர்கள் ஒரு சுருக்கமான பார்வையைப் பரிமாறிக் கொண்டனர்."
+      "english": "The Minister delivered a brief official address summarizing the new policy directives.",
+      "tamil": "அமைச்சர் புதிய கொள்கை வழிகாட்டுதல்களை சுருக்கமாகக் கூறும் சுருக்கமான அதிகாரப்பூர்வ உரையை ஆற்றினார்."
     },
     "synonyms": [
       "concise",
@@ -981,7 +990,10 @@ export const dataB: VocabularyEntry[] = [
     "word": "Barrier",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "An obstacle or structure that prevents movement or access.",
     "tamilDefinition": "தடை, தடுத்து நிறுத்தும் சுவர் அல்லது காரணி.",
     "literaryContext": {
@@ -989,8 +1001,8 @@ export const dataB: VocabularyEntry[] = [
       "tamil": "அவர்களது மலரும் நட்பிற்கு மொழி ஒரு தடையாக இருக்கவில்லை."
     },
     "formalSpeechContext": {
-      "english": "Language was no barrier to their blossoming friendship.",
-      "tamil": "அவர்களது மலரும் நட்பிற்கு மொழி ஒரு தடையாக இருக்கவில்லை."
+      "english": "Trade tariffs often act as a significant economic barrier between neighboring nations.",
+      "tamil": "வர்த்தக வரிகள் பெரும்பாலும் அண்டை நாடுகளுக்கு இடையே ஒரு குறிப்பிடத்தக்க பொருளாதாரத் தடையாகச் செயல்படுகின்றன."
     },
     "synonyms": [
       "obstacle",
@@ -1008,7 +1020,10 @@ export const dataB: VocabularyEntry[] = [
     "word": "Broad",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having an ample distance from side to side; wide.",
     "tamilDefinition": "அகலமான, விரிந்த.",
     "literaryContext": {
@@ -1016,8 +1031,8 @@ export const dataB: VocabularyEntry[] = [
       "tamil": "பள்ளத்தாக்கின் மையப்பகுதி வழியே ஒரு அகலமான ஆறு அமைதியாகப் பாய்ந்தது."
     },
     "formalSpeechContext": {
-      "english": "A broad river flowed quietly through the heart of the valley.",
-      "tamil": "பள்ளத்தாக்கின் மையப்பகுதி வழியே ஒரு அகலமான ஆறு அமைதியாகப் பாய்ந்தது."
+      "english": "The proposal received broad cross-party support during parliamentary deliberations.",
+      "tamil": "நாடாளுமன்ற விவாதங்களின் போது இந்த முன்மொழிவுக்கு பரவலான கட்சி ஆதரவு கிடைத்தது."
     },
     "synonyms": [
       "wide",
@@ -1035,7 +1050,10 @@ export const dataB: VocabularyEntry[] = [
     "word": "Benevolent",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Well meaning, kindly, and charitable in spirit.",
     "tamilDefinition": "நன்மை செய்யும் நற்குணம் கொண்ட, இரக்கமுள்ள.",
     "literaryContext": {
@@ -1043,18 +1061,29 @@ export const dataB: VocabularyEntry[] = [
       "tamil": "ஒரு நற்குணமுள்ள ஆட்சியாளர் எந்தவொரு குடிமகனும் பசியால் அவதிப்படாமல் இருப்பதை உறுதி செய்தார்."
     },
     "formalSpeechContext": {
-      "english": "A benevolent ruler ensured that no citizen suffered from hunger.",
-      "tamil": "ஒரு நற்குணமுள்ள ஆட்சியாளர் எந்தவொரு குடிமகனும் பசியால் அவதிப்படாமல் இருப்பதை உறுதி செய்தார்."
+      "english": "The foundation operates as a benevolent institution dedicated to global hunger relief.",
+      "tamil": "இந்த அறக்கட்டளை உலகளாவிய பசி நிவாரணத்திற்கு அர்ப்பணிக்கப்பட்ட ஒரு தொண்டு நிறுவனமாக செயல்படுகிறது."
     },
-    "synonyms": ["kind","charitable","magnanimous"],
-    "antonyms": ["malevolent","cruel","spiteful"]
+    "synonyms": [
+      "kind",
+      "charitable",
+      "magnanimous"
+    ],
+    "antonyms": [
+      "malevolent",
+      "cruel",
+      "spiteful"
+    ]
   },
   {
     "id": "boldness_inter_7",
     "word": "Boldness",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The state or quality of being daring, brave, or confident.",
     "tamilDefinition": "துணிச்சல், அஞ்சாமை, தன்னம்பிக்கை.",
     "literaryContext": {
@@ -1062,18 +1091,29 @@ export const dataB: VocabularyEntry[] = [
       "tamil": "குறிப்பிடத்தக்க துணிச்சலுடன், ஆய்வாளர் வரைபடத்தில் இல்லாத பகுதிக்குள் நுழைந்தார்."
     },
     "formalSpeechContext": {
-      "english": "With remarkable boldness, the explorer ventured into uncharted territory.",
-      "tamil": "குறிப்பிடத்தக்க துணிச்சலுடன், ஆய்வாளர் வரைபடத்தில் இல்லாத பகுதிக்குள் நுழைந்தார்."
+      "english": "Demonstrating strategic boldness in diplomatic negotiations resolved the decade-long conflict.",
+      "tamil": "ராஜதந்திர பேச்சுவார்த்தைகளில் உத்திசார்ந்த துணிச்சலை வெளிப்படுத்தியது தசாப்த கால மோதலை தீர்த்தது."
     },
-    "synonyms": ["courage","audacity","valor"],
-    "antonyms": ["timidity","fear","cowardice"]
+    "synonyms": [
+      "courage",
+      "audacity",
+      "valor"
+    ],
+    "antonyms": [
+      "timidity",
+      "fear",
+      "cowardice"
+    ]
   },
   {
     "id": "brilliancy_inter_8",
     "word": "Brilliancy",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Exceptional intelligence, vivid brightness, or talent.",
     "tamilDefinition": "பிரகாசம், மிகச்சிறந்த அறிவுக்கூர்மை.",
     "literaryContext": {
@@ -1081,18 +1121,29 @@ export const dataB: VocabularyEntry[] = [
       "tamil": "அவரது கணித நிரூபணத்தின் அறிவுக்கூர்மை பேராசிரியர்களை ஆச்சரியப்படுத்தியது."
     },
     "formalSpeechContext": {
-      "english": "The brilliancy of her mathematical proof astounded the professors.",
-      "tamil": "அவரது கணித நிரூபணத்தின் அறிவுக்கூர்மை பேராசிரியர்களை ஆச்சரியப்படுத்தியது."
+      "english": "The academic panel commended the brilliancy of her groundbreaking research paper.",
+      "tamil": "கல்வித்துறை குழு அவரது முன்னோடி ஆராய்ச்சி கட்டுரையின் மிகச்சிறந்த அறிவுக்கூர்மையை பாராட்டியது."
     },
-    "synonyms": ["radiance","genius","splendor"],
-    "antonyms": ["dullness","obscurity","stupidity"]
+    "synonyms": [
+      "radiance",
+      "genius",
+      "splendor"
+    ],
+    "antonyms": [
+      "dullness",
+      "obscurity",
+      "stupidity"
+    ]
   },
   {
     "id": "blossom_inter_9",
     "word": "Blossom",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To develop or flourish successfully into full potential.",
     "tamilDefinition": "மலர்ச்சி அடைதல், செழித்து வளருதல்.",
     "literaryContext": {
@@ -1100,18 +1151,29 @@ export const dataB: VocabularyEntry[] = [
       "tamil": "ஞானமுள்ள வழிகாட்டலின் கீழ், அவளது இயல்பான கவிதைத் திறன் மலரத் தொடங்கியது."
     },
     "formalSpeechContext": {
-      "english": "Under wise mentorship, her innate poetic talent began to blossom.",
-      "tamil": "ஞானமுள்ள வழிகாட்டலின் கீழ், அவளது இயல்பான கவிதைத் திறன் மலரத் தொடங்கியது."
+      "english": "International partnerships allow scientific research and innovation to blossom fully.",
+      "tamil": "சர்வதேச கூட்டாண்மைகள் அறிவியல் ஆராய்ச்சி மற்றும் கண்டுபிடிப்புகள் முழுமையாக மலர அனுமதிக்கின்றன."
     },
-    "synonyms": ["flourish","thrive","bloom"],
-    "antonyms": ["wither","fade","decline"]
+    "synonyms": [
+      "flourish",
+      "thrive",
+      "bloom"
+    ],
+    "antonyms": [
+      "wither",
+      "fade",
+      "decline"
+    ]
   },
   {
     "id": "beacon_inter_10",
     "word": "Beacon",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A guiding or warning signal, light, or inspiring figure.",
     "tamilDefinition": "வழிகாட்டும் ஒளிவிளக்கு, நம்பிக்கை தரும் அடையாளம்.",
     "literaryContext": {
@@ -1119,10 +1181,18 @@ export const dataB: VocabularyEntry[] = [
       "tamil": "அவளது தளராத நேர்மை சமூகத்திற்கு நம்பிக்கையின் வழிகாட்டும் ஒளியாகச் செயல்பட்டது."
     },
     "formalSpeechContext": {
-      "english": "Her unwavering integrity served as a beacon of hope for the community.",
-      "tamil": "அவளது தளராத நேர்மை சமூகத்திற்கு நம்பிக்கையின் வழிகாட்டும் ஒளியாகச் செயல்பட்டது."
+      "english": "Our democratic constitution remains a beacon of liberty and fundamental rights for all citizens.",
+      "tamil": "நமது ஜனநாயக அரசியலமைப்பு அனைத்து குடிமக்களுக்கும் சுதந்திரம் மற்றும் அடிப்படை உரிமைகளின் வழிகாட்டும் ஒளியாக உள்ளது."
     },
-    "synonyms": ["lighthouse","guide","signpost"],
-    "antonyms": ["hazard","obstacle","darkness"]
+    "synonyms": [
+      "lighthouse",
+      "guide",
+      "signpost"
+    ],
+    "antonyms": [
+      "hazard",
+      "obstacle",
+      "darkness"
+    ]
   }
 ];

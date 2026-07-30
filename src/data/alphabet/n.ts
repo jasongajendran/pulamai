@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataN: VocabularyEntry[] = [
-{
+  {
     "id": "nadir",
     "word": "nadir",
     "partOfSpeech": "noun",
@@ -852,7 +852,10 @@ export const dataN: VocabularyEntry[] = [
     "word": "Notable",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Worthy of attention or notice; remarkable.",
     "tamilDefinition": "குறிப்பிடத்தக்க, புகழ்பெற்ற.",
     "literaryContext": {
@@ -860,8 +863,8 @@ export const dataN: VocabularyEntry[] = [
       "tamil": "மாணவர்களின் வருகையில் குறிப்பிடத்தக்க முன்னேற்றம் ஏற்பட்டது."
     },
     "formalSpeechContext": {
-      "english": "There was a notable improvement in student attendance.",
-      "tamil": "மாணவர்களின் வருகையில் குறிப்பிடத்தக்க முன்னேற்றம் ஏற்பட்டது."
+      "english": "The committee achieved a notable reduction in annual administrative expenditure.",
+      "tamil": "ஆண்டு நிர்வாகச் செலவினங்களில் ஒரு குறிப்பிடத்தக்க குறைப்பை குழு அடைந்தது."
     },
     "synonyms": [
       "remarkable",
@@ -879,7 +882,10 @@ export const dataN: VocabularyEntry[] = [
     "word": "Neutral",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Not supporting or helping either side in a conflict.",
     "tamilDefinition": "நடுநிலையான.",
     "literaryContext": {
@@ -887,8 +893,8 @@ export const dataN: VocabularyEntry[] = [
       "tamil": "பேச்சுவார்த்தை முழுவதும் மத்தியஸ்தர் நடுநிலையாக இருந்தார்."
     },
     "formalSpeechContext": {
-      "english": "The mediator remained neutral throughout the negotiation.",
-      "tamil": "பேச்சுவார்த்தை முழுவதும் மத்தியஸ்தர் நடுநிலையாக இருந்தார்."
+      "english": "Maintaining a strictly neutral foreign policy position preserved diplomatic flexibility.",
+      "tamil": "கண்டிப்பான நடுநிலையான வெளியுறவுக் கொள்கை நிலைப்பாட்டைப் பேணுவது ராஜதந்திர நெகிழ்வுத்தன்மையைப் பாதுகாத்தது."
     },
     "synonyms": [
       "impartial",
@@ -906,7 +912,10 @@ export const dataN: VocabularyEntry[] = [
     "word": "Nurture",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Care for and encourage the growth or development of.",
     "tamilDefinition": "வளர்த்தல், பராமரித்தல்.",
     "literaryContext": {
@@ -914,8 +923,8 @@ export const dataN: VocabularyEntry[] = [
       "tamil": "பெற்றோர்கள் தங்கள் குழந்தைகளின் திறமைகளை வளர்க்க பாடுபடுகிறார்கள்."
     },
     "formalSpeechContext": {
-      "english": "Parents work hard to nurture their children talents.",
-      "tamil": "பெற்றோர்கள் தங்கள் குழந்தைகளின் திறமைகளை வளர்க்க பாடுபடுகிறார்கள்."
+      "english": "State-funded research grants help nurture young scientific talent in local universities.",
+      "tamil": "அரசு நிதியளிக்கும் ஆராய்ச்சி மானியங்கள் உள்ளூர் பல்கலைக்கழகங்களில் இளம் அறிவியல் திறமைகளை வளர்க்க உதவுகின்றன."
     },
     "synonyms": [
       "foster",
@@ -933,7 +942,10 @@ export const dataN: VocabularyEntry[] = [
     "word": "Novel",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "New or unusual in an interesting way.",
     "tamilDefinition": "புதிய, விசித்திரமான.",
     "literaryContext": {
@@ -941,8 +953,8 @@ export const dataN: VocabularyEntry[] = [
       "tamil": "குழு சூரிய ஆற்றல் சேமிப்பிற்கு ஒரு புதிய அணுகுமுறையை உருவாக்கியது."
     },
     "formalSpeechContext": {
-      "english": "The team developed a novel approach to solar energy storage.",
-      "tamil": "குழு சூரிய ஆற்றல் சேமிப்பிற்கு ஒரு புதிய அணுகுமுறையை உருவாக்கியது."
+      "english": "The task force proposed a novel legislative framework to regulate artificial intelligence.",
+      "tamil": "செயற்கை நுண்ணறிவை ஒழுங்குபடுத்துவதற்கு பணிக்குழு ஒரு புதிய சட்டக் கட்டமைப்பை முன்மொழிந்தது."
     },
     "synonyms": [
       "innovative",
@@ -960,7 +972,10 @@ export const dataN: VocabularyEntry[] = [
     "word": "Nimble",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Quick and light in movement or action; agile.",
     "tamilDefinition": "சுறுசுறுப்பான, வேகமான.",
     "literaryContext": {
@@ -968,8 +983,8 @@ export const dataN: VocabularyEntry[] = [
       "tamil": "சுறுசுறுப்பான சர்க்காஸ் கலைஞர் மேடையில் சிரமமின்றி நகர்ந்தார்."
     },
     "formalSpeechContext": {
-      "english": "The nimble acrobat glided across the stage effortlessly.",
-      "tamil": "சுறுசுறுப்பான சர்க்காஸ் கலைஞர் மேடையில் சிரமமின்றி நகர்ந்தார்."
+      "english": "Small enterprises must remain nimble to adapt to rapid technological disruptions.",
+      "tamil": "விரைவான தொழில்நுட்ப மாற்றங்களுக்கு ஏற்ப சிறிய நிறுவனங்கள் சுறுசுறுப்பாக இயங்க வேண்டும்."
     },
     "synonyms": [
       "agile",
@@ -987,7 +1002,10 @@ export const dataN: VocabularyEntry[] = [
     "word": "Noble",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having or showing fine personal qualities or high moral principles.",
     "tamilDefinition": "உன்னதமான, உயர்குணமுள்ள.",
     "literaryContext": {
@@ -995,18 +1013,29 @@ export const dataN: VocabularyEntry[] = [
       "tamil": "துன்பத்தில் இருப்பவர்களுக்கு உதவுவது ஒரு உன்னதமான கடமையாகும்."
     },
     "formalSpeechContext": {
-      "english": "Helping those in distress is a noble duty.",
-      "tamil": "துன்பத்தில் இருப்பவர்களுக்கு உதவுவது ஒரு உன்னதமான கடமையாகும்."
+      "english": "Dedicated public service is among the most noble callings in a democratic society.",
+      "tamil": "அர்ப்பணிப்புள்ள பொதுச்சேவை என்பது ஜனநாயக சமூகத்தின் மிகவும் உன்னதமான பணிகளில் ஒன்றாகும்."
     },
-    "synonyms": ["honorable","righteous","virtuous"],
-    "antonyms": ["base","ignoble","dishonorable"]
+    "synonyms": [
+      "honorable",
+      "righteous",
+      "virtuous"
+    ],
+    "antonyms": [
+      "base",
+      "ignoble",
+      "dishonorable"
+    ]
   },
   {
     "id": "novelty_inter_7",
     "word": "Novelty",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The quality of being new, original, or unusual.",
     "tamilDefinition": "புதுமை, புதிய அம்சம்.",
     "literaryContext": {
@@ -1014,18 +1043,29 @@ export const dataN: VocabularyEntry[] = [
       "tamil": "தொழில்நுட்பத்தின் புதுமை பல ஆர்வமுள்ள பார்வையாளர்களை ஈர்த்தது."
     },
     "formalSpeechContext": {
-      "english": "The novelty of the technology attracted many curious visitors.",
-      "tamil": "தொழில்நுட்பத்தின் புதுமை பல ஆர்வமுள்ள பார்வையாளர்களை ஈர்த்தது."
+      "english": "Beyond initial policy novelty, sustainable execution determines long-term social impact.",
+      "tamil": "ஆரம்பகால கொள்கை புதுமைக்கு அப்பால், நிலையான செயல்பாடே நீண்டகால சமூக தாக்கத்தை தீர்மானிக்கிறது."
     },
-    "synonyms": ["originality","newness","freshness"],
-    "antonyms": ["familiarity","staleness","routine"]
+    "synonyms": [
+      "originality",
+      "newness",
+      "freshness"
+    ],
+    "antonyms": [
+      "familiarity",
+      "staleness",
+      "routine"
+    ]
   },
   {
     "id": "nurturance_inter_8",
     "word": "Nurturance",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Provision of care, encouragement, and support.",
     "tamilDefinition": "பராமரிப்பு, ஊக்கம் அளித்தல்.",
     "literaryContext": {
@@ -1033,18 +1073,29 @@ export const dataN: VocabularyEntry[] = [
       "tamil": "அவள் குடும்பத்தின் அன்பான பராமரிப்பு அவளுக்கு நம்பிக்கையை அளித்தது."
     },
     "formalSpeechContext": {
-      "english": "The warm nurturance of her family gave her confidence.",
-      "tamil": "அவள் குடும்பத்தின் அன்பான பராமரிப்பு அவளுக்கு நம்பிக்கையை அளித்தது."
+      "english": "Comprehensive early childhood education provides the nurturance needed for healthy cognitive development.",
+      "tamil": "விரிவான ஆரம்பப் பருவக் கல்வி ஆரோக்கியமான அறிவாற்றல் வளர்ச்சிக்குத் தேவையான பராமரிப்பை வழங்குகிறது."
     },
-    "synonyms": ["care","fostering","nourishment"],
-    "antonyms": ["neglect","abandonment","deprivation"]
+    "synonyms": [
+      "care",
+      "fostering",
+      "nourishment"
+    ],
+    "antonyms": [
+      "neglect",
+      "abandonment",
+      "deprivation"
+    ]
   },
   {
     "id": "navigate_inter_9",
     "word": "Navigate",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To plan and direct the course of a ship or process.",
     "tamilDefinition": "வழிகாட்டிக் கொண்டுசெல்லுதல்.",
     "literaryContext": {
@@ -1052,18 +1103,29 @@ export const dataN: VocabularyEntry[] = [
       "tamil": "ஒரு திறமையான கேப்டன் கொந்தளிப்பான கடலில் வழிகாட்டிக் கொண்டுசெல்ல முடியும்."
     },
     "formalSpeechContext": {
-      "english": "A skilled captain can navigate through rough seas.",
-      "tamil": "ஒரு திறமையான கேப்டன் கொந்தளிப்பான கடலில் வழிகாட்டிக் கொண்டுசெல்ல முடியும்."
+      "english": "Experienced diplomats know how to navigate delicate international treaty disputes.",
+      "tamil": "அனுபவம் வாய்ந்த ராஜதந்திரிகளுக்கு நுட்பமான சர்வதேச ஒப்பந்தத் தகராறுகளை எவ்வாறு கையாள்வது என்பது தெரியும்."
     },
-    "synonyms": ["guide","steer","direct"],
-    "antonyms": ["misguide","get lost","drift"]
+    "synonyms": [
+      "guide",
+      "steer",
+      "direct"
+    ],
+    "antonyms": [
+      "misguide",
+      "get lost",
+      "drift"
+    ]
   },
   {
     "id": "notation_inter_10",
     "word": "Notation",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A system of graphic symbols used to represent items.",
     "tamilDefinition": "குறிப்பீடு, குறியீட்டு முறை.",
     "literaryContext": {
@@ -1071,10 +1133,18 @@ export const dataN: VocabularyEntry[] = [
       "tamil": "இசைக் குறிப்பீடு இசையமைப்பாளர்களை மெல்லிசைகளை எழுத அனுமதிக்கிறது."
     },
     "formalSpeechContext": {
-      "english": "Musical notation allows composers to write down melodies.",
-      "tamil": "இசைக் குறிப்பீடு இசையமைப்பாளர்களை மெல்லிசைகளை எழுத அனுமதிக்கிறது."
+      "english": "Standardized diplomatic notation facilitates clear official communication across governments.",
+      "tamil": "தரப்படுத்தப்பட்ட ராஜதந்திர குறிப்பீடு அரசாங்கங்களுக்கிடையே தெளிவான அதிகாரப்பூர்வ தொடர்பை எளிதாக்குகிறது."
     },
-    "synonyms": ["symbolism","code","representation"],
-    "antonyms": ["prose","text","speech"]
+    "synonyms": [
+      "symbolism",
+      "code",
+      "representation"
+    ],
+    "antonyms": [
+      "prose",
+      "text",
+      "speech"
+    ]
   }
 ];

@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataY: VocabularyEntry[] = [
-{
+  {
     "id": "yahrzeit",
     "word": "Yahrzeit",
     "partOfSpeech": "noun",
@@ -754,7 +754,10 @@ export const dataY: VocabularyEntry[] = [
     "word": "Yield",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To produce or provide a natural, agricultural, or industrial product.",
     "tamilDefinition": "விளைச்சல் அளித்தல், வழிவிடுதல்.",
     "literaryContext": {
@@ -762,8 +765,8 @@ export const dataY: VocabularyEntry[] = [
       "tamil": "வளமான மண் செழிப்பான அறுவடையைத் தரும்."
     },
     "formalSpeechContext": {
-      "english": "Fertile soil will yield a rich harvest.",
-      "tamil": "வளமான மண் செழிப்பான அறுவடையைத் தரும்."
+      "english": "Targeted agricultural technology investments will yield higher crop productivity nationwide.",
+      "tamil": "இலக்கு வைக்கப்பட்ட விவசாய தொழில்நுட்ப முதலீடுகள் நாடு தழுவிய அளவில் அதிக பயிர் உற்பத்தியைத் தரும்."
     },
     "synonyms": [
       "produce",
@@ -781,7 +784,10 @@ export const dataY: VocabularyEntry[] = [
     "word": "Yearn",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To have an intense feeling of longing for something.",
     "tamilDefinition": "ஏங்குதல், வாஞ்சுதல்.",
     "literaryContext": {
@@ -789,8 +795,8 @@ export const dataY: VocabularyEntry[] = [
       "tamil": "வெளிநாட்டில் பல மாதங்களுக்குப் பிறகு பயணி வீட்டிற்குத் திரும்ப ஏங்கினார்."
     },
     "formalSpeechContext": {
-      "english": "The traveler yearned to return home after months abroad.",
-      "tamil": "வெளிநாட்டில் பல மாதங்களுக்குப் பிறகு பயணி வீட்டிற்குத் திரும்ப ஏங்கினார்."
+      "english": "Citizens in conflict zones yearn for lasting peace and political stability.",
+      "tamil": "மோதல் மண்டலங்களில் உள்ள குடிமக்கள் நீடித்த அமைதி மற்றும் அரசியல் ஸ்திரத்தன்மைக்காக ஏங்குகிறார்கள்."
     },
     "synonyms": [
       "long",
@@ -808,7 +814,10 @@ export const dataY: VocabularyEntry[] = [
     "word": "Youthful",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having the qualities of youth; lively and energetic.",
     "tamilDefinition": "இளமையான, சுறுசுறுப்பான.",
     "literaryContext": {
@@ -816,8 +825,8 @@ export const dataY: VocabularyEntry[] = [
       "tamil": "அவளுடைய புன்னகை அவளுக்கு ஒரு இளமையான தோற்றத்தைக் கொடுத்தது."
     },
     "formalSpeechContext": {
-      "english": "Her cheerful smile gave her a youthful appearance.",
-      "tamil": "அவளுடைய புன்னகை அவளுக்கு ஒரு இளமையான தோற்றத்தைக் கொடுத்தது."
+      "english": "A youthful workforce provides vibrant energy and innovation for emerging technical industries.",
+      "tamil": "இளமையான பணியாளர்கள் வளர்ந்து வரும் தொழில்நுட்பத் தொழில்களுக்குத் துடிப்பான ஆற்றலையும் கண்டுபிடிப்புகளையும் வழங்குகிறார்கள்."
     },
     "synonyms": [
       "young",
@@ -835,7 +844,10 @@ export const dataY: VocabularyEntry[] = [
     "word": "Yielding",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Compliant or flexible; giving way under pressure.",
     "tamilDefinition": "இணக்கமான, வளையும்.",
     "literaryContext": {
@@ -843,8 +855,8 @@ export const dataY: VocabularyEntry[] = [
       "tamil": "மெத்தை ஒரு மென்மையான, வளையும் மேற்பரப்பை வழங்கியது."
     },
     "formalSpeechContext": {
-      "english": "The mattress provided a soft, yielding surface.",
-      "tamil": "மெத்தை ஒரு மென்மையான, வளையும் மேற்பரப்பை வழங்கியது."
+      "english": "Diplomats advised against yielding to pressure during critical trade negotiations.",
+      "tamil": "முக்கியமான வர்த்தக பேச்சுவார்த்தைகளின் போது அழுத்தத்திற்கு பணிய வேண்டாம் என்று ராஜதந்திரிகள் அறிவுறுத்தினர்."
     },
     "synonyms": [
       "pliant",
@@ -862,7 +874,10 @@ export const dataY: VocabularyEntry[] = [
     "word": "Yonder",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "At or in that place; over there.",
     "tamilDefinition": "அங்கே இருக்கும், அப்புறம் உள்ள.",
     "literaryContext": {
@@ -870,8 +885,8 @@ export const dataY: VocabularyEntry[] = [
       "tamil": "சூரிய ஒளியில் மின்னும் அங்கே உள்ள மலைகளைப் பாருங்கள்."
     },
     "formalSpeechContext": {
-      "english": "Look at yonder hills glistening in the sunlight.",
-      "tamil": "சூரிய ஒளியில் மின்னும் அங்கே உள்ள மலைகளைப் பாருங்கள்."
+      "english": "Economic analysts look toward yonder horizons of digital financial expansion.",
+      "tamil": "பொருளாதார பகுப்பாய்வாளர்கள் டிஜிட்டல் நிதி விரிவாக்கத்தின் எதிர்கால வாய்ப்புகளை நோக்குகிறார்கள்."
     },
     "synonyms": [
       "distant",
@@ -889,7 +904,10 @@ export const dataY: VocabularyEntry[] = [
     "word": "Yearning",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A feeling of intense longing for something.",
     "tamilDefinition": "ஆழ்ந்த ஏக்கம், பெருவிருப்பம்.",
     "literaryContext": {
@@ -897,18 +915,29 @@ export const dataY: VocabularyEntry[] = [
       "tamil": "சுதந்திரத்திற்கான ஒரு ஆழமான ஏக்கம் கவிதையை ஊக்கப்படுத்தியது."
     },
     "formalSpeechContext": {
-      "english": "A yearning for freedom inspired the poem.",
-      "tamil": "சுதந்திரத்திற்கான ஒரு ஆழமான ஏக்கம் கவிதையை ஊக்கப்படுத்தியது."
+      "english": "The public yearning for governmental transparency led to major legislative audits.",
+      "tamil": "அரசு வெளிப்படைத்தன்மைக்கான பொதுமக்களின் ஏக்கம் முக்கிய சட்ட தணிக்கைகளுக்கு வழிவகுத்தது."
     },
-    "synonyms": ["longing","desire","craving"],
-    "antonyms": ["apathy","indifference","disgust"]
+    "synonyms": [
+      "longing",
+      "desire",
+      "craving"
+    ],
+    "antonyms": [
+      "apathy",
+      "indifference",
+      "disgust"
+    ]
   },
   {
     "id": "yielding_inter_7",
     "word": "Yielding",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Compliant, flexible, or giving way under pressure.",
     "tamilDefinition": "இணங்கிச் செல்லும், வளைந்துகொடுக்கும்.",
     "literaryContext": {
@@ -916,18 +945,29 @@ export const dataY: VocabularyEntry[] = [
       "tamil": "ஒரு மென்மையான வளைந்துகொடுக்கும் மெத்தை நல்ல இரவு தூக்கத்தை அளித்தது."
     },
     "formalSpeechContext": {
-      "english": "A soft and yielding mattress provided a good night sleep.",
-      "tamil": "ஒரு மென்மையான வளைந்துகொடுக்கும் மெத்தை நல்ல இரவு தூக்கத்தை அளித்தது."
+      "english": "Adopting a flexible and yielding posture during mediation smoothed treaty discussions.",
+      "tamil": "மத்தியஸ்தத்தின் போது நெகிழ்வான மற்றும் இணக்கமான நிலைப்பாட்டை ஏற்றுக்கொள்வது ஒப்பந்த விவாதங்களை மென்மையாக்கியது."
     },
-    "synonyms": ["flexible","compliant","pliant"],
-    "antonyms": ["rigid","stubborn","inflexible"]
+    "synonyms": [
+      "flexible",
+      "compliant",
+      "pliant"
+    ],
+    "antonyms": [
+      "rigid",
+      "stubborn",
+      "inflexible"
+    ]
   },
   {
     "id": "yoke_inter_8",
     "word": "Yoke",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To join together or harness for a shared purpose.",
     "tamilDefinition": "இணைத்தல், பூட்டுதல்.",
     "literaryContext": {
@@ -935,18 +975,29 @@ export const dataY: VocabularyEntry[] = [
       "tamil": "இரு அமைப்புகளும் வறுமையை எதிர்த்துப் போராடத் தங்களது முயற்சிகளை இணைத்தன."
     },
     "formalSpeechContext": {
-      "english": "The two organizations yoke their efforts to fight poverty.",
-      "tamil": "இரு அமைப்புகளும் வறுமையை எதிர்த்துப் போராடத் தங்களது முயற்சிகளை இணைத்தன."
+      "english": "Neighboring nations chose to yoke their resources to combat regional environmental degradation.",
+      "tamil": "பிராந்திய சுற்றுச்சூழல் சீர்கேட்டை எதிர்த்துப் போராட அண்டை நாடுகள் தங்களது வளங்களை ஒன்றிணைக்கத் தேர்ந்தெடுத்தன."
     },
-    "synonyms": ["harness","couple","bind"],
-    "antonyms": ["uncouple","release","sever"]
+    "synonyms": [
+      "harness",
+      "couple",
+      "bind"
+    ],
+    "antonyms": [
+      "uncouple",
+      "release",
+      "sever"
+    ]
   },
   {
     "id": "youthful_inter_9",
     "word": "Youthful",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Remaining young, fresh, or energetic.",
     "tamilDefinition": "இளமைத் ததும்பும், புத்துணர்ச்சியுள்ள.",
     "literaryContext": {
@@ -954,18 +1005,29 @@ export const dataY: VocabularyEntry[] = [
       "tamil": "அவளது இளமைத் ததும்பும் உற்சாகம் பட்டறையில் இருந்த அனைவரையும் தொற்றிக்கொண்டது."
     },
     "formalSpeechContext": {
-      "english": "Her youthful enthusiasm infected everyone in the workshop.",
-      "tamil": "அவளது இளமைத் ததும்பும் உற்சாகம் பட்டறையில் இருந்த அனைவரையும் தொற்றிக்கொண்டது."
+      "english": "Encouraging youthful participation in local councils revitalizes civic engagement.",
+      "tamil": "உள்ளூர் மன்றங்களில் இளைஞர்களின் பங்கேற்பை ஊக்குவிப்பது குடிமைப் பங்களிப்பை புதுப்பிக்கிறது."
     },
-    "synonyms": ["vibrant","young","fresh"],
-    "antonyms": ["aged","elderly","weary"]
+    "synonyms": [
+      "vibrant",
+      "young",
+      "fresh"
+    ],
+    "antonyms": [
+      "aged",
+      "elderly",
+      "weary"
+    ]
   },
   {
     "id": "yonder_inter_10",
     "word": "Yonder",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "At or in that place; distant but within sight.",
     "tamilDefinition": "அங்கே இருக்கும், தொலைவில் உள்ள.",
     "literaryContext": {
@@ -973,10 +1035,18 @@ export const dataY: VocabularyEntry[] = [
       "tamil": "அங்கே உள்ள மலையில் இருக்கும் வசதியான குடிசையைப் பாருங்கள்."
     },
     "formalSpeechContext": {
-      "english": "Look at the cozy cottage on yonder hill.",
-      "tamil": "அங்கே உள்ள மலையில் இருக்கும் வசதியான குடிசையைப் பாருங்கள்."
+      "english": "Visionary leaders focus on yonder opportunities presented by sustainable energy reform.",
+      "tamil": "தொலைநோக்கு பார்வை கொண்ட தலைவர்கள் நிலையான எரிசக்தி சீர்திருத்தத்தால் வழங்கப்படும் எதிர்கால வாய்ப்புகளில் கவனம் செலுத்துகிறார்கள்."
     },
-    "synonyms": ["distant","further","farther"],
-    "antonyms": ["nearby","close","here"]
+    "synonyms": [
+      "distant",
+      "further",
+      "farther"
+    ],
+    "antonyms": [
+      "nearby",
+      "close",
+      "here"
+    ]
   }
 ];

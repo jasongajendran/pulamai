@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataG: VocabularyEntry[] = [
-{
+  {
     "id": "gainsay",
     "word": "Gainsay",
     "partOfSpeech": "verb",
@@ -895,7 +895,10 @@ export const dataG: VocabularyEntry[] = [
     "word": "Genuine",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Truly what something is said to be; authentic.",
     "tamilDefinition": "உண்மையான, போலி இல்லாத.",
     "literaryContext": {
@@ -903,8 +906,8 @@ export const dataG: VocabularyEntry[] = [
       "tamil": "அவளது உண்மையான இரக்கம் அனைவரின் இதயத்தையும் நெகிழ வைத்தது."
     },
     "formalSpeechContext": {
-      "english": "Her genuine kindness warmed everyone heart.",
-      "tamil": "அவளது உண்மையான இரக்கம் அனைவரின் இதயத்தையும் நெகிழ வைத்தது."
+      "english": "Building genuine diplomatic relationships requires honesty and mutual respect.",
+      "tamil": "உண்மையான ராஜதந்திர உறவுகளை உருவாக்குவதற்கு நேர்மையும் பரஸ்பர மரியாதையும் தேவைப்படுகிறது."
     },
     "synonyms": [
       "authentic",
@@ -922,7 +925,10 @@ export const dataG: VocabularyEntry[] = [
     "word": "Gentle",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Mild and kindly in manner or character.",
     "tamilDefinition": "மென்மையான, கனிவான.",
     "literaryContext": {
@@ -930,8 +936,8 @@ export const dataG: VocabularyEntry[] = [
       "tamil": "ஒரு மென்மையான தென்றல் வெப்பமான கோடை பிற்பகலைக் குளிரச்செய்தது."
     },
     "formalSpeechContext": {
-      "english": "A gentle breeze cooled the warm summer afternoon.",
-      "tamil": "ஒரு மென்மையான தென்றல் வெப்பமான கோடை பிற்பகலைக் குளிரச்செய்தது."
+      "english": "Policy transitions should be managed with a gentle and calculated approach to avoid market disruption.",
+      "tamil": "சந்தை சீர்குலைவைத் தவிர்க்க கொள்கை மாற்றங்கள் ஒரு மென்மையான மற்றும் கணக்கிடப்பட்ட அணுகுமுறையுடன் நிர்வகிக்கப்பட வேண்டும்."
     },
     "synonyms": [
       "mild",
@@ -949,7 +955,10 @@ export const dataG: VocabularyEntry[] = [
     "word": "Global",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Relating to the whole world; worldwide.",
     "tamilDefinition": "உலகளாவிய, அகில உலக.",
     "literaryContext": {
@@ -957,8 +966,8 @@ export const dataG: VocabularyEntry[] = [
       "tamil": "பருவநிலை மாற்றம் என்பது கூட்டு நடவடிக்கை தேவைப்படும் ஒரு உலகளாவிய சவாலாகும்."
     },
     "formalSpeechContext": {
-      "english": "Climate change is a global challenge requiring collective action.",
-      "tamil": "பருவநிலை மாற்றம் என்பது கூட்டு நடவடிக்கை தேவைப்படும் ஒரு உலகளாவிய சவாலாகும்."
+      "english": "Addressing climate change demands a coordinated global response from all nations.",
+      "tamil": "காலநிலை மாற்றத்தை எதிர்கொள்வதற்கு அனைத்து நாடுகளிடமிருந்தும் ஒருங்கிணைக்கப்பட்ட உலகளாவிய பதில் தேவைப்படுகிறது."
     },
     "synonyms": [
       "worldwide",
@@ -976,7 +985,10 @@ export const dataG: VocabularyEntry[] = [
     "word": "Grasp",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To seize and hold firmly; to comprehend fully.",
     "tamilDefinition": "இறுக்கமாகப் பிடித்தல் அல்லது முழுமையாகப் புரிந்து கொள்ளுதல்.",
     "literaryContext": {
@@ -984,8 +996,8 @@ export const dataG: VocabularyEntry[] = [
       "tamil": "அவரது சொற்பொழிவின் அர்த்தத்தைப் புரிந்து கொள்ள சிறிது நேரம் பிடித்தது."
     },
     "formalSpeechContext": {
-      "english": "It took a moment to grasp the meaning of his lecture.",
-      "tamil": "அவரது சொற்பொழிவின் அர்த்தத்தைப் புரிந்து கொள்ள சிறிது நேரம் பிடித்தது."
+      "english": "Policy makers must possess a firm grasp of macroeconomic principles before implementing monetary reforms.",
+      "tamil": "பணவியல் சீர்திருத்தங்களைச் செயல்படுத்துவதற்கு முன் கொள்கை வகுப்பாளர்கள் பெரிய அளவிலான பொருளாதாரக் கோட்பாடுகளை உறுதியாகப் புரிந்து கொள்ள வேண்டும்."
     },
     "synonyms": [
       "comprehend",
@@ -1003,7 +1015,10 @@ export const dataG: VocabularyEntry[] = [
     "word": "Guidance",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Advice or information aimed at resolving a problem.",
     "tamilDefinition": "வழிகாட்டல், ஆலோசனை.",
     "literaryContext": {
@@ -1011,8 +1026,8 @@ export const dataG: VocabularyEntry[] = [
       "tamil": "மாணவர்கள் தொழில்களைத் தேர்ந்தெடுப்பதற்கு முன் வழிகாட்டிகளிடம் வழிகாட்டல் பெறுகிறார்கள்."
     },
     "formalSpeechContext": {
-      "english": "Students seek guidance from mentors before choosing careers.",
-      "tamil": "மாணவர்கள் தொழில்களைத் தேர்ந்தெடுப்பதற்கு முன் வழிகாட்டிகளிடம் வழிகாட்டல் பெறுகிறார்கள்."
+      "english": "The ministry issued detailed regulatory guidance to ensure compliance across financial institutions.",
+      "tamil": "நிதி நிறுவனங்கள் இணங்குவதை உறுதிசெய்ய அமைச்சகம் விரிவான ஒழுங்குமுறை வழிகாட்டுதலை வெளியிட்டது."
     },
     "synonyms": [
       "advice",
@@ -1030,7 +1045,10 @@ export const dataG: VocabularyEntry[] = [
     "word": "Generosity",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The quality of being kind, bountiful, and generous.",
     "tamilDefinition": "கொடைத்தன்மை, தாராள குணம்.",
     "literaryContext": {
@@ -1038,18 +1056,29 @@ export const dataG: VocabularyEntry[] = [
       "tamil": "ஏழைகளிடம் காட்டிய அவரது கொடைத்தன்மை புகழ்பெற்றதாக இருந்தது."
     },
     "formalSpeechContext": {
-      "english": "His generosity toward the poor was legendary.",
-      "tamil": "ஏழைகளிடம் காட்டிய அவரது கொடைத்தன்மை புகழ்பெற்றதாக இருந்தது."
+      "english": "International financial generosity enabled rapid humanitarian relief in disaster zones.",
+      "tamil": "சர்வதேச நிதித் தாராள குணம் பேரிடர் மண்டலங்களில் விரைவான மனிதநேய நிவாரணத்தை சாத்தியமாக்கியது."
     },
-    "synonyms": ["bounty","altruism","charity"],
-    "antonyms": ["meanness","selfishness","greed"]
+    "synonyms": [
+      "bounty",
+      "altruism",
+      "charity"
+    ],
+    "antonyms": [
+      "meanness",
+      "selfishness",
+      "greed"
+    ]
   },
   {
     "id": "gratitude_inter_7",
     "word": "Gratitude",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The quality of being thankful; readiness to show appreciation.",
     "tamilDefinition": "நன்றி உணர்வு, செய்ந்நன்றி அறிதல்.",
     "literaryContext": {
@@ -1057,18 +1086,29 @@ export const dataG: VocabularyEntry[] = [
       "tamil": "அவள் தன் ஆசிரியர்களுக்கு மனமார்ந்த நன்றியைத் தெரிவித்துக் கொண்டாள்."
     },
     "formalSpeechContext": {
-      "english": "She expressed heartfelt gratitude to her teachers.",
-      "tamil": "அவள் தன் ஆசிரியர்களுக்கு மனமார்ந்த நன்றியைத் தெரிவித்துக் கொண்டாள்."
+      "english": "The council expressed sincere gratitude to healthcare workers for their dedicated service.",
+      "tamil": "சுகாதாரப் பணியாளர்களின் அர்ப்பணிப்பான சேவைக்காக கவுன்சில் தனது மனமார்ந்த நன்றியைத் தெரிவித்துக் கொண்டது."
     },
-    "synonyms": ["thankfulness","appreciation","recognition"],
-    "antonyms": ["ingratitude","unthankfulness","resentment"]
+    "synonyms": [
+      "thankfulness",
+      "appreciation",
+      "recognition"
+    ],
+    "antonyms": [
+      "ingratitude",
+      "unthankfulness",
+      "resentment"
+    ]
   },
   {
     "id": "gallant_inter_8",
     "word": "Gallant",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Brave, heroic, or grandly chivalrous.",
     "tamilDefinition": "வீரமிக்க, தீரமுள்ள, கண்ணியமான.",
     "literaryContext": {
@@ -1076,18 +1116,29 @@ export const dataG: VocabularyEntry[] = [
       "tamil": "வீரமிக்க வீரர்கள் அனைத்து சவால்களுக்கும் இடையே கோட்டையைப் பாதுகாத்தனர்."
     },
     "formalSpeechContext": {
-      "english": "The gallant soldiers defended the fort against all odds.",
-      "tamil": "வீரமிக்க வீரர்கள் அனைத்து சவால்களுக்கும் இடையே கோட்டையைப் பாதுகாத்தனர்."
+      "english": "The parliament honored the gallant efforts of emergency responders during the crisis.",
+      "tamil": "நெருக்கடியின் போது அவசரகால மீட்புப் பணியாளர்களின் வீரமிக்க முயற்சிகளை நாடாளுமன்றம் கௌரவித்தது."
     },
-    "synonyms": ["chivalrous","valiant","heroic"],
-    "antonyms": ["cowardly","fearful","base"]
+    "synonyms": [
+      "chivalrous",
+      "valiant",
+      "heroic"
+    ],
+    "antonyms": [
+      "cowardly",
+      "fearful",
+      "base"
+    ]
   },
   {
     "id": "guarantee_inter_9",
     "word": "Guarantee",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To provide a formal assurance or promise.",
     "tamilDefinition": "உத்தரவாதம் அளித்தல், உறுதிமொழி தருதல்.",
     "literaryContext": {
@@ -1095,18 +1146,29 @@ export const dataG: VocabularyEntry[] = [
       "tamil": "கடின உழைப்பு எப்போதும் உடனடி வெற்றிக்கு உத்தரவாதம் அளிப்பதில்லை, ஆனால் அது நற்பண்பை உருவாக்குகிறது."
     },
     "formalSpeechContext": {
-      "english": "Hard work does not always guarantee immediate success, but it builds character.",
-      "tamil": "கடின உழைப்பு எப்போதும் உடனடி வெற்றிக்கு உத்தரவாதம் அளிப்பதில்லை, ஆனால் அது நற்பண்பை உருவாக்குகிறது."
+      "english": "The new legislation provides a legal guarantee for minimum wage standards.",
+      "tamil": "புதிய சட்டம் குறைந்தபட்ச ஊதியத் தரநிலைகளுக்கு சட்டப்பூர்வ உத்தரவாதத்தை வழங்குகிறது."
     },
-    "synonyms": ["assure","pledge","warrant"],
-    "antonyms": ["jeopardize","endanger","cancel"]
+    "synonyms": [
+      "assure",
+      "pledge",
+      "warrant"
+    ],
+    "antonyms": [
+      "jeopardize",
+      "endanger",
+      "cancel"
+    ]
   },
   {
     "id": "graceful_inter_10",
     "word": "Graceful",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having or showing elegance, poise, or beauty in form.",
     "tamilDefinition": "எழிலான, நேர்த்தியான, அழகிய.",
     "literaryContext": {
@@ -1114,10 +1176,18 @@ export const dataG: VocabularyEntry[] = [
       "tamil": "அன்னப்பறவை எழிலான அசைவுகளுடன் ஏரியின் குறுக்கே மிதந்து சென்றது."
     },
     "formalSpeechContext": {
-      "english": "The swan glided across the lake with graceful movements.",
-      "tamil": "அன்னப்பறவை எழிலான அசைவுகளுடன் ஏரியின் குறுக்கே மிதந்து சென்றது."
+      "english": "The diplomat managed the contentious debate with a graceful and persuasive demeanor.",
+      "tamil": "தூதர் சர்ச்சைக்குரிய விவாதத்தை எழிலான மற்றும் தூண்டுதலான நடத்தையுடன் கையாண்டார்."
     },
-    "synonyms": ["elegant","poised","sublime"],
-    "antonyms": ["clumsy","awkward","ungainly"]
+    "synonyms": [
+      "elegant",
+      "poised",
+      "sublime"
+    ],
+    "antonyms": [
+      "clumsy",
+      "awkward",
+      "ungainly"
+    ]
   }
 ];

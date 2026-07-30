@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataV: VocabularyEntry[] = [
-{
+  {
     "id": "vacillation",
     "word": "vacillation",
     "partOfSpeech": "noun",
@@ -928,7 +928,10 @@ export const dataV: VocabularyEntry[] = [
     "word": "Valid",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having a sound basis in logic or fact; reasonable.",
     "tamilDefinition": "சரியான, செல்லுபடியாகும்.",
     "literaryContext": {
@@ -936,8 +939,8 @@ export const dataV: VocabularyEntry[] = [
       "tamil": "விவாதத்தின் போது அவர் ஒரு சரியான கருத்தை முன்வைத்தார்."
     },
     "formalSpeechContext": {
-      "english": "He raised a valid point during the discussion.",
-      "tamil": "விவாதத்தின் போது அவர் ஒரு சரியான கருத்தை முன்வைத்தார்."
+      "english": "Impartial audits ensure that only valid financial claims receive government reimbursement.",
+      "tamil": "நடுநிலையான தணிக்கைகள் செல்லுபடியாகும் நிதி உரிமைகோரல்கள் மட்டுமே அரசாங்கத் திருப்பியளிப்பைப் பெறுவதை உறுதி செய்கின்றன."
     },
     "synonyms": [
       "legitimate",
@@ -955,7 +958,10 @@ export const dataV: VocabularyEntry[] = [
     "word": "Vibrant",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Full of energy and enthusiasm; bright and striking.",
     "tamilDefinition": "துடிப்பான, பிரகாசமான.",
     "literaryContext": {
@@ -963,8 +969,8 @@ export const dataV: VocabularyEntry[] = [
       "tamil": "நகர சந்தை வண்ணமயமானதாகவும் துடிப்பானதாகவும் இருந்தது."
     },
     "formalSpeechContext": {
-      "english": "The city market was colorful and vibrant.",
-      "tamil": "நகர சந்தை வண்ணமயமானதாகவும் துடிப்பானதாகவும் இருந்தது."
+      "english": "Supporting local arts programs fosters a vibrant cultural landscape in our cities.",
+      "tamil": "உள்ளூர் கலைத் திட்டங்களை ஆதரிப்பது நமது நகரங்களில் ஒரு துடிப்பான கலாச்சார சூழலை வளர்க்கிறது."
     },
     "synonyms": [
       "lively",
@@ -982,7 +988,10 @@ export const dataV: VocabularyEntry[] = [
     "word": "Vital",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Absolutely necessary or important; essential.",
     "tamilDefinition": "மிக முக்கியமான, உயிர்ச்சார்பான.",
     "literaryContext": {
@@ -990,8 +999,8 @@ export const dataV: VocabularyEntry[] = [
       "tamil": "நல்ல ஆரோக்கியத்திற்கு தூய்மையான காற்று மிக முக்கியம்."
     },
     "formalSpeechContext": {
-      "english": "Clean air is vital for good health.",
-      "tamil": "நல்ல ஆரோக்கியத்திற்கு தூய்மையான காற்று மிக முக்கியம்."
+      "english": "Protecting public infrastructure is vital for ensuring national economic security.",
+      "tamil": "பொது உள்கட்டமைப்பைப் பாதுகாப்பது தேசிய பொருளாதாரப் பாதுகாப்பை உறுதி செய்வதற்கு மிக முக்கியமானது."
     },
     "synonyms": [
       "essential",
@@ -1009,7 +1018,10 @@ export const dataV: VocabularyEntry[] = [
     "word": "Versatile",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Able to adapt or be adapted to many different functions.",
     "tamilDefinition": "பல்வேறு பயன்பாடுகளுக்கு ஏற்ற, பன்முகத்தன்மை கொண்ட.",
     "literaryContext": {
@@ -1017,8 +1029,8 @@ export const dataV: VocabularyEntry[] = [
       "tamil": "அவர் நகைச்சுவை மற்றும் நாடகம் இரண்டையும் சிறப்பாக நடிக்கும் ஒரு பன்முக நடிகர்."
     },
     "formalSpeechContext": {
-      "english": "He is a versatile actor who plays both comedy and drama well.",
-      "tamil": "அவர் நகைச்சுவை மற்றும் நாடகம் இரண்டையும் சிறப்பாக நடிக்கும் ஒரு பன்முக நடிகர்."
+      "english": "A versatile workforce adapts seamlessly to technological advancements.",
+      "tamil": "பல்வேறு திறன்கள் கொண்ட பணியாளர்கள் தொழில்நுட்ப முன்னேற்றங்களுக்கு ஏற்ப தடையின்றி மாறுகிறார்கள்."
     },
     "synonyms": [
       "adaptable",
@@ -1036,7 +1048,10 @@ export const dataV: VocabularyEntry[] = [
     "word": "Venture",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A risky or daring journey or undertaking.",
     "tamilDefinition": "துணிச்சலான முயற்சி.",
     "literaryContext": {
@@ -1044,8 +1059,8 @@ export const dataV: VocabularyEntry[] = [
       "tamil": "அவர்களின் புதிய வணிக முயற்சி மிகவும் இலாபகரமானது என்று நிரூபிக்கப்பட்டது."
     },
     "formalSpeechContext": {
-      "english": "Their new business venture proved highly profitable.",
-      "tamil": "அவர்களின் புதிய வணிக முயற்சி மிகவும் இலாபகரமானது என்று நிரூபிக்கப்பட்டது."
+      "english": "The state established a venture capital fund to sponsor clean energy startups.",
+      "tamil": "சுத்தமான எரிசக்தி நிறுவனங்களுக்கு ஆதரவளிக்க மாநில அரசு ஒரு துணிகர மூலதன நிதியை நிறுவியது."
     },
     "synonyms": [
       "undertaking",
@@ -1063,7 +1078,10 @@ export const dataV: VocabularyEntry[] = [
     "word": "Valor",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Great courage in the face of danger, especially in battle.",
     "tamilDefinition": "வீரம், தீரம்.",
     "literaryContext": {
@@ -1071,18 +1089,29 @@ export const dataV: VocabularyEntry[] = [
       "tamil": "வீரர் அசாதாரண தீரத்திற்காகப் பதக்கம் பெற்றார்."
     },
     "formalSpeechContext": {
-      "english": "The soldier received a medal for extraordinary valor.",
-      "tamil": "வீரர் அசாதாரண தீரத்திற்காகப் பதக்கம் பெற்றார்."
+      "english": "The nation honored the extraordinary valor of military personnel in defense of freedom.",
+      "tamil": "சுதந்திரத்தைப் பாதுகாப்பதில் இராணுவப் பணியாளர்களின் அசாதாரண வீரத்தை தேசம் கௌரவித்தது."
     },
-    "synonyms": ["bravery","courage","gallantry"],
-    "antonyms": ["cowardice","fear","timidity"]
+    "synonyms": [
+      "bravery",
+      "courage",
+      "gallantry"
+    ],
+    "antonyms": [
+      "cowardice",
+      "fear",
+      "timidity"
+    ]
   },
   {
     "id": "vitality_inter_7",
     "word": "Vitality",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The state of being strong and active; energy.",
     "tamilDefinition": "உயிர்ச்சக்தி, புத்துணர்ச்சி.",
     "literaryContext": {
@@ -1090,18 +1119,29 @@ export const dataV: VocabularyEntry[] = [
       "tamil": "அவளது மகிழ்ச்சியான சிரிப்பு அறைக்கு புத்துணர்ச்சியை மீட்டெடுத்தது."
     },
     "formalSpeechContext": {
-      "english": "Her cheerful laughter restored vitality to the room.",
-      "tamil": "அவளது மகிழ்ச்சியான சிரிப்பு அறைக்கு புத்துணர்ச்சியை மீட்டெடுத்தது."
+      "english": "Promoting small business growth restores economic vitality to historic town centers.",
+      "tamil": "சிறு தொழில் வளர்ச்சியை ஊக்குவிப்பது வரலாற்றுச் சிறப்புமிக்க நகர மையங்களுக்கு பொருளாதார சுறுசுறுப்பை மீட்கிறது."
     },
-    "synonyms": ["energy","vigor","liveliness"],
-    "antonyms": ["lethargy","weakness","apathy"]
+    "synonyms": [
+      "energy",
+      "vigor",
+      "liveliness"
+    ],
+    "antonyms": [
+      "lethargy",
+      "weakness",
+      "apathy"
+    ]
   },
   {
     "id": "virtuous_inter_8",
     "word": "Virtuous",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having or showing high moral standards.",
     "tamilDefinition": "நற்பண்புகள் கொண்ட, ஒழுக்கமுள்ள.",
     "literaryContext": {
@@ -1109,18 +1149,29 @@ export const dataV: VocabularyEntry[] = [
       "tamil": "ஒரு ஒழுக்கமுள்ள வாழ்க்கை உள் அமைதியையும் மரியாதையையும் தருகிறது."
     },
     "formalSpeechContext": {
-      "english": "A virtuous life brings inner peace and respect.",
-      "tamil": "ஒரு ஒழுக்கமுள்ள வாழ்க்கை உள் அமைதியையும் மரியாதையையும் தருகிறது."
+      "english": "Ethical governance relies on a virtuous public administration committed to integrity.",
+      "tamil": "ஒழுக்கமான ஆட்சி என்பது நேர்மைக்கு அர்ப்பணிக்கப்பட்ட அறநெறி சார்ந்த பொது நிர்வாகத்தை நம்பியுள்ளது."
     },
-    "synonyms": ["righteous","moral","upright"],
-    "antonyms": ["immoral","wicked","sinful"]
+    "synonyms": [
+      "righteous",
+      "moral",
+      "upright"
+    ],
+    "antonyms": [
+      "immoral",
+      "wicked",
+      "sinful"
+    ]
   },
   {
     "id": "versatile_inter_9",
     "word": "Versatile",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Able to adapt or be adapted to many different functions.",
     "tamilDefinition": "பல்முனைத் திறனுள்ள, பல்துறை வல்லமை பெற்ற.",
     "literaryContext": {
@@ -1128,18 +1179,29 @@ export const dataV: VocabularyEntry[] = [
       "tamil": "பல்முனைத் திறனுள்ள நடிகர் நாடகத்திலும் நகைச்சுவையிலும் சிரமமின்றி நடித்தார்."
     },
     "formalSpeechContext": {
-      "english": "The versatile actor performed effortlessly in drama and comedy.",
-      "tamil": "பல்முனைத் திறனுள்ள நடிகர் நாடகத்திலும் நகைச்சுவையிலும் சிரமமின்றி நடித்தார்."
+      "english": "Modern legislative bodies require versatile advisors proficient in technology and law.",
+      "tamil": "நவீன சட்டமன்ற அமைப்புகளுக்கு தொழில்நுட்பம் மற்றும் சட்டத்தில் திறமையான பல்துறை ஆலோசகர்கள் தேவைப்படுகிறார்கள்."
     },
-    "synonyms": ["adaptable","resourceful","flexible"],
-    "antonyms": ["inflexible","limited","rigid"]
+    "synonyms": [
+      "adaptable",
+      "resourceful",
+      "flexible"
+    ],
+    "antonyms": [
+      "inflexible",
+      "limited",
+      "rigid"
+    ]
   },
   {
     "id": "veneration_inter_10",
     "word": "Veneration",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Great respect; reverence.",
     "tamilDefinition": "மிக்க மரியாதை, போற்றுதல்.",
     "literaryContext": {
@@ -1147,10 +1209,18 @@ export const dataV: VocabularyEntry[] = [
       "tamil": "பண்டைய ஆசிரியர் மிகுந்த மரியாதையுடன் போற்றப்பட்டார்."
     },
     "formalSpeechContext": {
-      "english": "The ancient teacher was held in deep veneration.",
-      "tamil": "பண்டைய ஆசிரியர் மிகுந்த மரியாதையுடன் போற்றப்பட்டார்."
+      "english": "Democratic societies maintain deep veneration for the rule of law.",
+      "tamil": "ஜனநாயக சமூகங்கள் சட்டத்தின் ஆட்சியின் மீது ஆழ்ந்த மரியாதையைப் பேணுகின்றன."
     },
-    "synonyms": ["reverence","respect","admiration"],
-    "antonyms": ["disrespect","contempt","scorn"]
+    "synonyms": [
+      "reverence",
+      "respect",
+      "admiration"
+    ],
+    "antonyms": [
+      "disrespect",
+      "contempt",
+      "scorn"
+    ]
   }
 ];

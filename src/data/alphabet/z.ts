@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataZ: VocabularyEntry[] = [
-{
+  {
     "id": "zeal",
     "word": "zeal",
     "partOfSpeech": "noun",
@@ -878,7 +878,10 @@ export const dataZ: VocabularyEntry[] = [
     "word": "Zeal",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Great energy or enthusiasm in pursuit of a cause or objective.",
     "tamilDefinition": "ஆர்வம், வெறி, உற்சாகம்.",
     "literaryContext": {
@@ -886,8 +889,8 @@ export const dataZ: VocabularyEntry[] = [
       "tamil": "அவள் தன் தன்னார்வப் பணியை பாராட்டுக்குரிய ஆர்வத்துடன் அணுகினாள்."
     },
     "formalSpeechContext": {
-      "english": "She approached her volunteer work with admirable zeal.",
-      "tamil": "அவள் தன் தன்னார்வப் பணியை பாராட்டுக்குரிய ஆர்வத்துடன் அணுகினாள்."
+      "english": "The committee pursued public education reform with commendable administrative zeal.",
+      "tamil": "குழு பாராட்டத்தக்க நிர்வாக ஆர்வத்துடன் பொதுக் கல்வி சீர்திருத்ததைத் தொடர்ந்தது."
     },
     "synonyms": [
       "enthusiasm",
@@ -905,7 +908,10 @@ export const dataZ: VocabularyEntry[] = [
     "word": "Zenith",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The time at which something is most powerful or successful.",
     "tamilDefinition": "உச்சகட்டம், சிகரம்.",
     "literaryContext": {
@@ -913,8 +919,8 @@ export const dataZ: VocabularyEntry[] = [
       "tamil": "அவரது கலை வாழ்க்கை 1990களின் பிற்பகுதியில் அதன் உச்சகட்டத்தை அடைந்தது."
     },
     "formalSpeechContext": {
-      "english": "His artistic career reached its zenith in the late 1990s.",
-      "tamil": "அவரது கலை வாழ்க்கை 1990களின் பிற்பகுதியில் அதன் உச்சகட்டத்தை அடைந்தது."
+      "english": "The nation reached the zenith of its industrial output following infrastructure modernization.",
+      "tamil": "உள்கட்டமைப்பு நவீனமயமாக்கலைத் தொடர்ந்து தேசம் தனது தொழில்துறை உற்பத்தியின் உச்சத்தை அடைந்தது."
     },
     "synonyms": [
       "peak",
@@ -932,7 +938,10 @@ export const dataZ: VocabularyEntry[] = [
     "word": "Zealous",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having or showing great energy and passion.",
     "tamilDefinition": "மிகுந்த ஆர்வமும் பற்றும் கொண்ட.",
     "literaryContext": {
@@ -940,8 +949,8 @@ export const dataZ: VocabularyEntry[] = [
       "tamil": "ஆர்வமுள்ள இளம் ஆர்வலர் தூய்மையான பெருங்கடல்களுக்கு ஆதரவைத் திரட்டினார்."
     },
     "formalSpeechContext": {
-      "english": "The zealous young activist rallied support for clean oceans.",
-      "tamil": "ஆர்வமுள்ள இளம் ஆர்வலர் தூய்மையான பெருங்கடல்களுக்கு ஆதரவைத் திரட்டினார்."
+      "english": "Zealous public advocates successfully lobbied for stricter environmental safety regulations.",
+      "tamil": "ஆர்வம்மிக்க பொது ஆதரவாளர்கள் கடுமையான சுற்றுச்சூழல் பாதுகாப்பு விதிமுறைகளுக்காக வெற்றிகரமாக குரல் கொடுத்தனர்."
     },
     "synonyms": [
       "passionate",
@@ -959,7 +968,10 @@ export const dataZ: VocabularyEntry[] = [
     "word": "Zigzag",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A line or course having abrupt alternate right and left turns.",
     "tamilDefinition": "வளைந்து நெளிந்து செல்லும் பாதை.",
     "literaryContext": {
@@ -967,8 +979,8 @@ export const dataZ: VocabularyEntry[] = [
       "tamil": "அந்தப் பாதை மலையின் பக்கவாட்டில் செங்குத்தான வளைந்து நெளிந்து சென்றது."
     },
     "formalSpeechContext": {
-      "english": "The trail took a steep zigzag up the mountainside.",
-      "tamil": "அந்தப் பாதை மலையின் பக்கவாட்டில் செங்குத்தான வளைந்து நெளிந்து சென்றது."
+      "english": "Navigating economic recovery followed a zigzag path of market expansions and corrections.",
+      "tamil": "பொருளாதார மீட்சியைக் கையாள்வது சந்தை விரிவாக்கங்கள் மற்றும் திருத்தங்களின் வளைந்து நெளிந்த பாதையைப் பின்பற்றியது."
     },
     "synonyms": [
       "meander",
@@ -985,7 +997,10 @@ export const dataZ: VocabularyEntry[] = [
     "word": "Zealot",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A person who is fanatical and uncompromising in pursuit of their ideals.",
     "tamilDefinition": "தீவிரமான கொள்கைப் பற்றாளர்.",
     "literaryContext": {
@@ -993,8 +1008,8 @@ export const dataZ: VocabularyEntry[] = [
       "tamil": "அவர் சுற்றுச்சூழல் பாதுகாப்பிற்கான தீவிரக் கொள்கைப் பற்றாளராக இருந்தார்."
     },
     "formalSpeechContext": {
-      "english": "He was a zealot for environmental conservation.",
-      "tamil": "அவர் சுற்றுச்சூழல் பாதுகாப்பிற்கான தீவிரக் கொள்கைப் பற்றாளராக இருந்தார்."
+      "english": "Moderate legislators encouraged balanced debate rather than ideological zealot stances.",
+      "tamil": "மிதமான சட்டமன்ற உறுப்பினர்கள் கருத்தியல் சார்ந்த தீவிர நிலைப்பாடுகளை விட சீரான விவாதத்தை ஊக்குவித்தனர்."
     },
     "synonyms": [
       "fanatic",
@@ -1012,7 +1027,10 @@ export const dataZ: VocabularyEntry[] = [
     "word": "Zeal",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Great energy or enthusiasm in pursuit of a cause.",
     "tamilDefinition": "ஆர்வம், பேராவல், தீவிர விருப்பம்.",
     "literaryContext": {
@@ -1020,18 +1038,29 @@ export const dataZ: VocabularyEntry[] = [
       "tamil": "எழுத்தறிவு விகிதத்தை உயர்த்த அவள் சோர்வற்ற ஆர்வத்துடன் உழைத்தாள்."
     },
     "formalSpeechContext": {
-      "english": "She worked with tireless zeal to improve literacy rates.",
-      "tamil": "எழுத்தறிவு விகிதத்தை உயர்த்த அவள் சோர்வற்ற ஆர்வத்துடன் உழைத்தாள்."
+      "english": "Public servants executed emergency relief measures with tireless dedication and zeal.",
+      "tamil": "பொது ஊழியர்கள் அவசரகால நிவாரண நடவடிக்கைகளை அயராத அர்ப்பணிப்புடனும் ஆர்வத்துடனும் செயல்படுத்தினர்."
     },
-    "synonyms": ["enthusiasm","passion","ardor"],
-    "antonyms": ["apathy","indifference","lethargy"]
+    "synonyms": [
+      "enthusiasm",
+      "passion",
+      "ardor"
+    ],
+    "antonyms": [
+      "apathy",
+      "indifference",
+      "lethargy"
+    ]
   },
   {
     "id": "zenith_inter_7",
     "word": "Zenith",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The time at which something is most powerful or successful.",
     "tamilDefinition": "உச்சக்கட்டம், மேன்மை நிலை.",
     "literaryContext": {
@@ -1039,18 +1068,29 @@ export const dataZ: VocabularyEntry[] = [
       "tamil": "அவர் பரிசை வென்றபோது அவரது தொழில் வாழ்க்கை உச்சக்கட்டத்தை எட்டியது."
     },
     "formalSpeechContext": {
-      "english": "His career reached its zenith when he won the prize.",
-      "tamil": "அவர் பரிசை வென்றபோது அவரது தொழில் வாழ்க்கை உச்சக்கட்டத்தை எட்டியது."
+      "english": "Diplomatic relations between the two countries reached their zenith during the bilateral summit.",
+      "tamil": "இருதரப்பு உச்சிமாநாட்டின் போது இரு நாடுகளுக்கும் இடையிலான ராஜதந்திர உறவுகள் அதன் உச்சத்தை அடைந்தன."
     },
-    "synonyms": ["peak","pinnacle","summit"],
-    "antonyms": ["nadir","bottom","decline"]
+    "synonyms": [
+      "peak",
+      "pinnacle",
+      "summit"
+    ],
+    "antonyms": [
+      "nadir",
+      "bottom",
+      "decline"
+    ]
   },
   {
     "id": "zealous_inter_8",
     "word": "Zealous",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having or showing zeal; passionate.",
     "tamilDefinition": "தீவிர ஆர்வமுள்ள, முனைப்பான.",
     "literaryContext": {
@@ -1058,18 +1098,29 @@ export const dataZ: VocabularyEntry[] = [
       "tamil": "இயற்கைப் பாதுகாப்பிற்கான ஒரு தீவிர ஆர்வமுள்ள ஆதரவாளர் நிகழ்வை ஏற்பாடு செய்தார்."
     },
     "formalSpeechContext": {
-      "english": "A zealous advocate for nature protection organized the event.",
-      "tamil": "இயற்கைப் பாதுகாப்பிற்கான ஒரு தீவிர ஆர்வமுள்ள ஆதரவாளர் நிகழ்வை ஏற்பாடு செய்தார்."
+      "english": "A zealous commitment to judicial independence preserves fundamental constitutional rights.",
+      "tamil": "நீதித்துறை சுதந்திரத்திற்கான தீவிர அர்ப்பணிப்பு அடிப்படை அரசியலமைப்பு உரிமைகளைப் பாதுகாக்கிறது."
     },
-    "synonyms": ["passionate","ardent","fervent"],
-    "antonyms": ["apathetic","indifferent","halfhearted"]
+    "synonyms": [
+      "passionate",
+      "ardent",
+      "fervent"
+    ],
+    "antonyms": [
+      "apathetic",
+      "indifferent",
+      "halfhearted"
+    ]
   },
   {
     "id": "zestful_inter_9",
     "word": "Zestful",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Full of energy, enthusiasm, and vigor.",
     "tamilDefinition": "உற்சாகம் நிறைந்த, சுறுசுறுப்பான.",
     "literaryContext": {
@@ -1077,18 +1128,29 @@ export const dataZ: VocabularyEntry[] = [
       "tamil": "அவர்களின் உற்சாகம் நிறைந்த நடன நிகழ்ச்சி கூட்டத்திற்கு ஆற்றலளித்தது."
     },
     "formalSpeechContext": {
-      "english": "Their zestful dance performance energized the crowd.",
-      "tamil": "அவர்களின் உற்சாகம் நிறைந்த நடன நிகழ்ச்சி கூட்டத்திற்கு ஆற்றலளித்தது."
+      "english": "The council launched a zestful community initiative to promote urban green spaces.",
+      "tamil": "நகர்ப்புற பசுமை இடங்களை ஊக்குவிப்பதற்காக கவுன்சில் ஒரு உற்சாகமான சமூக முயற்சியைத் தொடங்கியது."
     },
-    "synonyms": ["lively","enthusiastic","spirited"],
-    "antonyms": ["dull","lifeless","gloomy"]
+    "synonyms": [
+      "lively",
+      "enthusiastic",
+      "spirited"
+    ],
+    "antonyms": [
+      "dull",
+      "lifeless",
+      "gloomy"
+    ]
   },
   {
     "id": "zephyr_inter_10",
     "word": "Zephyr",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A gentle, mild breeze.",
     "tamilDefinition": "மெல்லிய இதமான தென்றல்.",
     "literaryContext": {
@@ -1096,10 +1158,18 @@ export const dataZ: VocabularyEntry[] = [
       "tamil": "வெப்பமான பிற்பகலில் ஒரு குளிர்ந்த மெல்லிய தென்றல் மரங்களை அசைத்தது."
     },
     "formalSpeechContext": {
-      "english": "A cool zephyr rustled the trees on a warm afternoon.",
-      "tamil": "வெப்பமான பிற்பகலில் ஒரு குளிர்ந்த மெல்லிய தென்றல் மரங்களை அசைத்தது."
+      "english": "Delegates welcomed a zephyr of optimism during diplomatic peace talks.",
+      "tamil": "ராஜதந்திர அமைதி பேச்சுவார்த்தைகளின் போது பிரதிநிதிகள் நம்பிக்கையின் மெல்லிய தென்றலை வரவேற்றனர்."
     },
-    "synonyms": ["breeze","draft","wind"],
-    "antonyms": ["gale","storm","hurricane"]
+    "synonyms": [
+      "breeze",
+      "draft",
+      "wind"
+    ],
+    "antonyms": [
+      "gale",
+      "storm",
+      "hurricane"
+    ]
   }
 ];

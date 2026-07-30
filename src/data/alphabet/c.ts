@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataC: VocabularyEntry[] = [
-{
+  {
     "id": "cacophony",
     "word": "Cacophony",
     "partOfSpeech": "noun",
@@ -1022,7 +1022,10 @@ export const dataC: VocabularyEntry[] = [
     "word": "Candid",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Truthful and straightforward; frank.",
     "tamilDefinition": "நேர்மையான, வெளிப்படையான.",
     "literaryContext": {
@@ -1030,8 +1033,8 @@ export const dataC: VocabularyEntry[] = [
       "tamil": "அவரது வெளிப்படையான கருத்துக்கள் கூட்டத்தில் இருந்த அனைவரையும் ஆச்சரியப்படுத்தின."
     },
     "formalSpeechContext": {
-      "english": "His candid remarks surprised everyone at the meeting.",
-      "tamil": "அவரது வெளிப்படையான கருத்துக்கள் கூட்டத்தில் இருந்த அனைவரையும் ஆச்சரியப்படுத்தின."
+      "english": "The Chief Executive provided a candid assessment of the quarter financial challenges.",
+      "tamil": "தலைமை நிர்வாக அதிகாரி காலாண்டு நிதி சவால்கள் குறித்த வெளிப்படையான மதிப்பீட்டை வழங்கினார்."
     },
     "synonyms": [
       "frank",
@@ -1049,7 +1052,10 @@ export const dataC: VocabularyEntry[] = [
     "word": "Caution",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Care taken to avoid danger or mistakes.",
     "tamilDefinition": "எச்சரிக்கை, கவனம்.",
     "literaryContext": {
@@ -1057,8 +1063,8 @@ export const dataC: VocabularyEntry[] = [
       "tamil": "பனிக்கட்டி சாலைகளில் செல்லும்போது எச்சரிக்கையுடன் செல்லவும்."
     },
     "formalSpeechContext": {
-      "english": "Proceed with caution when driving on icy roads.",
-      "tamil": "பனிக்கட்டி சாலைகளில் செல்லும்போது எச்சரிக்கையுடன் செல்லவும்."
+      "english": "Financial advisors urge extreme caution when investing in volatile market assets.",
+      "tamil": "கொந்தளிப்பான சந்தை சொத்துக்களில் முதலீடு செய்யும் போது நிதி ஆலோசகர்கள் மிகுந்த எச்சரிக்கையை வலியுறுத்துகிறார்கள்."
     },
     "synonyms": [
       "care",
@@ -1076,7 +1082,10 @@ export const dataC: VocabularyEntry[] = [
     "word": "Clarify",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To make a statement or situation less confused and more comprehensible.",
     "tamilDefinition": "தெளிவுபடுத்துதல்.",
     "literaryContext": {
@@ -1084,8 +1093,8 @@ export const dataC: VocabularyEntry[] = [
       "tamil": "ஆசிரியர் சிக்கலான பயிற்சி வழிமுறைகளைத் தெளிவுபடுத்த இடைநிறுத்தினார்."
     },
     "formalSpeechContext": {
-      "english": "The teacher paused to clarify the complex assignment instructions.",
-      "tamil": "ஆசிரியர் சிக்கலான பயிற்சி வழிமுறைகளைத் தெளிவுபடுத்த இடைநிறுத்தினார்."
+      "english": "The spokesperson stepped forward to clarify the government stance on environmental regulations.",
+      "tamil": "சுற்றுச்சூழல் விதிமுறைகள் குறித்த அரசின் நிலைப்பாட்டை தெளிவுபடுத்த செய்தி தொடர்பாளர் முன்வந்தார்."
     },
     "synonyms": [
       "explain",
@@ -1103,7 +1112,10 @@ export const dataC: VocabularyEntry[] = [
     "word": "Compact",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Closely and neatly packed together; dense.",
     "tamilDefinition": "சிறிய, அடர்த்தியான.",
     "literaryContext": {
@@ -1111,8 +1123,8 @@ export const dataC: VocabularyEntry[] = [
       "tamil": "கேமரா பாக்கெட்டில் அடங்கும் அளவுக்கு சிறியதாகவும் அடர்த்தியாகவும் உள்ளது."
     },
     "formalSpeechContext": {
-      "english": "The camera is small and compact enough to fit in a pocket.",
-      "tamil": "கேமரா பாக்கெட்டில் அடங்கும் அளவுக்கு சிறியதாகவும் அடர்த்தியாகவும் உள்ளது."
+      "english": "The two countries signed a historic bilateral compact to enhance regional cybersecurity.",
+      "tamil": "பிராந்திய இணையப் பாதுகாப்பை மேம்படுத்த இரு நாடுகளும் ஒரு வரலாற்றுச் சிறப்புமிக்க இருதரப்பு ஒப்பந்தத்தில் கையெழுத்திட்டன."
     },
     "synonyms": [
       "dense",
@@ -1130,7 +1142,10 @@ export const dataC: VocabularyEntry[] = [
     "word": "Comfort",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A state of physical ease and freedom from pain or constraint.",
     "tamilDefinition": "ஆறுதல், வசதி.",
     "literaryContext": {
@@ -1138,8 +1153,8 @@ export const dataC: VocabularyEntry[] = [
       "tamil": "ஒரு குளிர்ந்த இரவில் சூடான பானம் சிறந்த ஆறுதலைத் தந்தது."
     },
     "formalSpeechContext": {
-      "english": "A warm drink brought great comfort on a cold night.",
-      "tamil": "ஒரு குளிர்ந்த இரவில் சூடான பானம் சிறந்த ஆறுதலைத் தந்தது."
+      "english": "Emergency relief operations aimed to provide medical assistance and physical comfort to flood survivors.",
+      "tamil": "அவசர நிவாரண நடவடிக்கைகள் வெள்ளத்தால் பாதிக்கப்பட்டவர்களுக்கு மருத்துவ உதவியும் உடல்சார்ந்த ஆறுதலையும் வழங்குவதை நோக்கமாகக் கொண்டிருந்தன."
     },
     "synonyms": [
       "solace",
@@ -1157,7 +1172,10 @@ export const dataC: VocabularyEntry[] = [
     "word": "Compassion",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Sympathetic pity and concern for the sufferings of others.",
     "tamilDefinition": "கருணை, மற்றவர்களின் துன்பத்தைக் கண்டு இரங்கும் நற்குணம்.",
     "literaryContext": {
@@ -1165,18 +1183,29 @@ export const dataC: VocabularyEntry[] = [
       "tamil": "அவளது ஆழமான கருணை வீடற்றவர்களுக்கு ஒரு புகலிடத்தை நிறுவத் தூண்டியது."
     },
     "formalSpeechContext": {
-      "english": "Her deep compassion prompted her to establish a shelter for the homeless.",
-      "tamil": "அவளது ஆழமான கருணை வீடற்றவர்களுக்கு ஒரு புகலிடத்தை நிறுவத் தூண்டியது."
+      "english": "Humane governance requires leading with deep compassion toward vulnerable communities.",
+      "tamil": "மனிதநேய ஆட்சிக்கு பாதிக்கப்படக்கூடிய சமூகங்கள் மீது ஆழமான கருணையுடன் வழிநடத்துவது அவசியம்."
     },
-    "synonyms": ["empathy","mercy","sympathy"],
-    "antonyms": ["cruelty","indifference","harshness"]
+    "synonyms": [
+      "empathy",
+      "mercy",
+      "sympathy"
+    ],
+    "antonyms": [
+      "cruelty",
+      "indifference",
+      "harshness"
+    ]
   },
   {
     "id": "cultivate_inter_7",
     "word": "Cultivate",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To try to acquire or develop a virtuous quality or skill.",
     "tamilDefinition": "பயிற்சி மூலம் வளர்த்துக் கொள்ளுதல், பண்படுத்துதல்.",
     "literaryContext": {
@@ -1184,18 +1213,29 @@ export const dataC: VocabularyEntry[] = [
       "tamil": "தினசரி தியானத்தின் மூலம் பொறுமையையும் ஞானத்தையும் வளர்க்க முயன்றார்."
     },
     "formalSpeechContext": {
-      "english": "He sought to cultivate patience and wisdom through daily meditation.",
-      "tamil": "தினசரி தியானத்தின் மூலம் பொறுமையையும் ஞானத்தையும் வளர்க்க முயன்றார்."
+      "english": "Educational institutions must cultivate critical thinking and ethical reasoning in young scholars.",
+      "tamil": "கல்வி நிறுவனங்கள் இளம் அறிஞர்களிடம் விமர்சனச் சிந்தனையையும் ஒழுக்கமான நியாயத்தையும் வளர்க்க வேண்டும்."
     },
-    "synonyms": ["foster","nurture","develop"],
-    "antonyms": ["neglect","destroy","stifle"]
+    "synonyms": [
+      "foster",
+      "nurture",
+      "develop"
+    ],
+    "antonyms": [
+      "neglect",
+      "destroy",
+      "stifle"
+    ]
   },
   {
     "id": "conviction_inter_8",
     "word": "Conviction",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A firmly held belief, principle, or opinion.",
     "tamilDefinition": "உறுதியான நம்பிக்கை, நெஞ்சார்ந்த கொள்கை.",
     "literaryContext": {
@@ -1203,18 +1243,29 @@ export const dataC: VocabularyEntry[] = [
       "tamil": "அங்கிருந்த அனைவரின் மரியாதையையும் பெற்ற அமைதியான உறுதியுடன் அவர் பேசினார்."
     },
     "formalSpeechContext": {
-      "english": "He spoke with quiet conviction that earned the respect of all present.",
-      "tamil": "அங்கிருந்த அனைவரின் மரியாதையையும் பெற்ற அமைதியான உறுதியுடன் அவர் பேசினார்."
+      "english": "She defended human rights with moral conviction during the international summit.",
+      "tamil": "சர்வதேச உச்சிமாநாட்டின் போது அவர் ஒழுக்க நெறி சார்ந்த உறுதியுடன் மனித உரிமைகளைப் பாதுகாத்தார்."
     },
-    "synonyms": ["belief","persuasion","creed"],
-    "antonyms": ["doubt","uncertainty","skepticism"]
+    "synonyms": [
+      "belief",
+      "persuasion",
+      "creed"
+    ],
+    "antonyms": [
+      "doubt",
+      "uncertainty",
+      "skepticism"
+    ]
   },
   {
     "id": "courageous_inter_9",
     "word": "Courageous",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Not deterred by danger or pain; brave and heroic.",
     "tamilDefinition": "தைரியமிக்க, அஞ்சாத வீரம் கொண்ட.",
     "literaryContext": {
@@ -1222,18 +1273,29 @@ export const dataC: VocabularyEntry[] = [
       "tamil": "தைரியமிக்க தீயணைப்பு வீரர் குழந்தையைக் காப்பாற்ற எரியும் கட்டிடத்திற்குள் நுழைந்தார்."
     },
     "formalSpeechContext": {
-      "english": "The courageous firefighter entered the burning building to save the child.",
-      "tamil": "தைரியமிக்க தீயணைப்பு வீரர் குழந்தையைக் காப்பாற்ற எரியும் கட்டிடத்திற்குள் நுழைந்தார்."
+      "english": "It takes courageous leadership to reform outdated institutional structures.",
+      "tamil": "காலாவதியான நிறுவன அமைப்புகளை சீரமைக்க தைரியமான தலைமைத்துவம் தேவை."
     },
-    "synonyms": ["brave","valiant","fearless"],
-    "antonyms": ["cowardly","fearful","timid"]
+    "synonyms": [
+      "brave",
+      "valiant",
+      "fearless"
+    ],
+    "antonyms": [
+      "cowardly",
+      "fearful",
+      "timid"
+    ]
   },
   {
     "id": "coherent_inter_10",
     "word": "Coherent",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Logical, well-structured, and consistent in thought or speech.",
     "tamilDefinition": "சீரான, தருக்கரீதியான தெளிவான கோர்வை கொண்ட.",
     "literaryContext": {
@@ -1241,10 +1303,18 @@ export const dataC: VocabularyEntry[] = [
       "tamil": "இந்தக் கட்டுரை வரலாற்று உண்மைகளால் ஆதரிக்கப்பட்ட ஒரு சீரான வாதத்தை முன்வைத்தது."
     },
     "formalSpeechContext": {
-      "english": "The essay presented a coherent argument supported by historical facts.",
-      "tamil": "இந்தக் கட்டுரை வரலாற்று உண்மைகளால் ஆதரிக்கப்பட்ட ஒரு சீரான வாதத்தை முன்வைத்தது."
+      "english": "The committee articulated a coherent national strategy for digital transformation.",
+      "tamil": "டிஜிட்டல் மாற்றத்திற்கான சீரான தேசிய உத்தியை குழு தெளிவாக எடுத்துரைத்தது."
     },
-    "synonyms": ["logical","consistent","lucid"],
-    "antonyms": ["incoherent","confused","rambling"]
+    "synonyms": [
+      "logical",
+      "consistent",
+      "lucid"
+    ],
+    "antonyms": [
+      "incoherent",
+      "confused",
+      "rambling"
+    ]
   }
 ];

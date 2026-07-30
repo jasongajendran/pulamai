@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataT: VocabularyEntry[] = [
-{
+  {
     "id": "taciturn",
     "word": "Taciturn",
     "partOfSpeech": "adjective",
@@ -954,7 +954,10 @@ export const dataT: VocabularyEntry[] = [
     "word": "Tangible",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Perceptible by touch; clear and definite.",
     "tamilDefinition": "தொட்டுணரக்கூடிய, தெளிவான.",
     "literaryContext": {
@@ -962,8 +965,8 @@ export const dataT: VocabularyEntry[] = [
       "tamil": "முதலீடுகள் ஆறு மாதங்களுக்குள் தெளிவான முடிவுகளைத் தந்தன."
     },
     "formalSpeechContext": {
-      "english": "The investments produced tangible results within six months.",
-      "tamil": "முதலீடுகள் ஆறு மாதங்களுக்குள் தெளிவான முடிவுகளைத் தந்தன."
+      "english": "Effective fiscal policies must yield tangible benefits for working families.",
+      "tamil": "பயனுள்ள நிதிப் கொள்கைகள் உழைக்கும் குடும்பங்களுக்கு புலப்படக்கூடிய நன்மைகளைத் தர வேண்டும்."
     },
     "synonyms": [
       "concrete",
@@ -981,7 +984,10 @@ export const dataT: VocabularyEntry[] = [
     "word": "Thorough",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Complete with regard to every detail; meticulous.",
     "tamilDefinition": "முழுமையான, ஆழமான.",
     "literaryContext": {
@@ -989,8 +995,8 @@ export const dataT: VocabularyEntry[] = [
       "tamil": "போலீசார் குற்றவாளி இடத்தில் முழுமையான விசாரணை நடத்தினர்."
     },
     "formalSpeechContext": {
-      "english": "The police conducted a thorough investigation of the crime scene.",
-      "tamil": "போலீசார் குற்றவாளி இடத்தில் முழுமையான விசாரணை நடத்தினர்."
+      "english": "The parliamentary audit committee conducted a thorough investigation into public spending.",
+      "tamil": "நாடாளுமன்ற தணிக்கைக் குழு பொதுச் செலவினங்கள் குறித்து முழுமையான விசாரணையை நடத்தியது."
     },
     "synonyms": [
       "meticulous",
@@ -1008,7 +1014,10 @@ export const dataT: VocabularyEntry[] = [
     "word": "Transform",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To make a thorough or dramatic change in form or appearance.",
     "tamilDefinition": "மாற்றியமைத்தல், உருமாற்றுதல்.",
     "literaryContext": {
@@ -1016,8 +1025,8 @@ export const dataT: VocabularyEntry[] = [
       "tamil": "கல்வி வாழ்க்கையை மாற்றியமைக்கும் ஆற்றலைக் கொண்டுள்ளது."
     },
     "formalSpeechContext": {
-      "english": "Education has the power to transform lives.",
-      "tamil": "கல்வி வாழ்க்கையை மாற்றியமைக்கும் ஆற்றலைக் கொண்டுள்ளது."
+      "english": "Strategic technology investments will transform regional public transportation networks.",
+      "tamil": "உத்திசார்ந்த தொழில்நுட்ப முதலீடுகள் பிராந்திய பொதுப் போக்குவரத்து வலையமைப்புகளை மாற்றியமைக்கும்."
     },
     "synonyms": [
       "alter",
@@ -1035,7 +1044,10 @@ export const dataT: VocabularyEntry[] = [
     "word": "Tolerant",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Showing willingness to allow the existence of opinions.",
     "tamilDefinition": "சகிப்புத்தன்மை கொண்ட.",
     "literaryContext": {
@@ -1043,8 +1055,8 @@ export const dataT: VocabularyEntry[] = [
       "tamil": "ஒரு நாகரீக சமூகம் பல்வேறு கருத்துக்களை மதிக்கும் மற்றும் சகிப்புத்தன்மையுடன் இருக்கும்."
     },
     "formalSpeechContext": {
-      "english": "A civil society is respectful and tolerant of diverse views.",
-      "tamil": "ஒரு நாகரீக சமூகம் பல்வேறு கருத்துக்களை மதிக்கும் மற்றும் சகிப்புத்தன்மையுடன் இருக்கும்."
+      "english": "Building a tolerant pluralistic society requires respecting diverse cultural viewpoints.",
+      "tamil": "சகிப்புத்தன்மை கொண்ட பன்முக சமூகத்தை உருவாக்க பல்வேறு கலாச்சாரக் கருத்துக்களை மதிப்பீடு செய்ய வேண்டும்."
     },
     "synonyms": [
       "forbearing",
@@ -1062,7 +1074,10 @@ export const dataT: VocabularyEntry[] = [
     "word": "Trend",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A general direction in which something is developing or changing.",
     "tamilDefinition": "போக்கு, புதிய வழிமுறை.",
     "literaryContext": {
@@ -1070,8 +1085,8 @@ export const dataT: VocabularyEntry[] = [
       "tamil": "தொலைதூர வேலையை நோக்கிய ஒரு வளரும் போக்கு உள்ளது."
     },
     "formalSpeechContext": {
-      "english": "There is a growing trend toward remote working.",
-      "tamil": "தொலைதூர வேலையை நோக்கிய ஒரு வளரும் போக்கு உள்ளது."
+      "english": "Market analysts observed a positive upward trend in global trade volume.",
+      "tamil": "சந்தை பகுப்பாய்வாளர்கள் உலகளாவிய வர்த்தக அளவில் நேர்மறையான மேல்நோக்கிய போக்கைக் கண்டறிந்தனர்."
     },
     "synonyms": [
       "tendency",
@@ -1089,7 +1104,10 @@ export const dataT: VocabularyEntry[] = [
     "word": "Tranquility",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The quality or state of being tranquil; calm.",
     "tamilDefinition": "அமைதி, அமைதியான சூழல்.",
     "literaryContext": {
@@ -1097,18 +1115,29 @@ export const dataT: VocabularyEntry[] = [
       "tamil": "பண்டைய கோவில் ஆழமான அமைதியின் சூழலை வீசியது."
     },
     "formalSpeechContext": {
-      "english": "The ancient temple radiated an aura of deep tranquility.",
-      "tamil": "பண்டைய கோவில் ஆழமான அமைதியின் சூழலை வீசியது."
+      "english": "Maintaining regional civic tranquility is essential for attracting economic investment.",
+      "tamil": "பொருளாதார முதலீட்டை ஈர்ப்பதற்கு பிராந்திய குடிமை அமைதியைப் பேணுவது அவசியமாகும்."
     },
-    "synonyms": ["calmness","serenity","peacefulness"],
-    "antonyms": ["chaos","commotion","disturbance"]
+    "synonyms": [
+      "calmness",
+      "serenity",
+      "peacefulness"
+    ],
+    "antonyms": [
+      "chaos",
+      "commotion",
+      "disturbance"
+    ]
   },
   {
     "id": "triumph_inter_7",
     "word": "Triumph",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A great victory or achievement.",
     "tamilDefinition": "பெருவெற்றி, சாதனை.",
     "literaryContext": {
@@ -1116,18 +1145,29 @@ export const dataT: VocabularyEntry[] = [
       "tamil": "இந்தக் கண்டுபிடிப்பு மனித புத்தி கூர்மையின் ஒரு பெருவெற்றியாகும்."
     },
     "formalSpeechContext": {
-      "english": "The invention was a triumph of human ingenuity.",
-      "tamil": "இந்தக் கண்டுபிடிப்பு மனித புத்தி கூர்மையின் ஒரு பெருவெற்றியாகும்."
+      "english": "Passing universal health legislation represented a major triumph for civil rights advocates.",
+      "tamil": "உலகளாவிய சுகாதாரச் சட்டத்தை நிறைவேற்றுவது குடிமை உரிமை ஆதரவாளர்களுக்கு ஒரு பெரிய வெற்றியாகும்."
     },
-    "synonyms": ["victory","success","conquest"],
-    "antonyms": ["defeat","failure","loss"]
+    "synonyms": [
+      "victory",
+      "success",
+      "conquest"
+    ],
+    "antonyms": [
+      "defeat",
+      "failure",
+      "loss"
+    ]
   },
   {
     "id": "tenacity_inter_8",
     "word": "Tenacity",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The quality or fact of being able to grip something firmly.",
     "tamilDefinition": "விடாப்பிடித் தன்மை, மனஉறுதி.",
     "literaryContext": {
@@ -1135,18 +1175,29 @@ export const dataT: VocabularyEntry[] = [
       "tamil": "உண்மையைத் தேடுவதில் அவளது விடாப்பிடித் தன்மை அனைத்து செய்தியாளர்களையும் ஊக்கப்படுத்தியது."
     },
     "formalSpeechContext": {
-      "english": "Her tenacity in pursuing truth inspired all journalists.",
-      "tamil": "உண்மையைத் தேடுவதில் அவளது விடாப்பிடித் தன்மை அனைத்து செய்தியாளர்களையும் ஊக்கப்படுத்தியது."
+      "english": "Achieving long-term diplomatic consensus demands patience and strategic tenacity.",
+      "tamil": "நீண்டகால ராஜதந்திர உடன்பாட்டை அடைவதற்கு பொறுமையும் உத்திசார்ந்த மனஉறுதியும் தேவைப்படுகிறது."
     },
-    "synonyms": ["persistence","determination","grit"],
-    "antonyms": ["weakness","hesitation","surrender"]
+    "synonyms": [
+      "persistence",
+      "determination",
+      "grit"
+    ],
+    "antonyms": [
+      "weakness",
+      "hesitation",
+      "surrender"
+    ]
   },
   {
     "id": "transcend_inter_9",
     "word": "Transcend",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To go beyond or rise above a limit or threshold.",
     "tamilDefinition": "கடந்து செல்லுதல், மேலெழும்புதல்.",
     "literaryContext": {
@@ -1154,18 +1205,29 @@ export const dataT: VocabularyEntry[] = [
       "tamil": "சிறந்த கலை கலாச்சார மற்றும் மொழி எல்லைகளைக் கடந்து செல்கிறது."
     },
     "formalSpeechContext": {
-      "english": "Great art transcends cultural and linguistic boundaries.",
-      "tamil": "சிறந்த கலை கலாச்சார மற்றும் மொழி எல்லைகளைக் கடந்து செல்கிறது."
+      "english": "National security imperatives must transcend partisan political disagreements.",
+      "tamil": "தேசிய பாதுகாப்புத் தேவைகள் கட்சி அரசியல் கருத்து வேறுபாடுகளைக் கடந்து நிற்க வேண்டும்."
     },
-    "synonyms": ["surpass","exceed","outgrow"],
-    "antonyms": ["fail","fall short","succumb"]
+    "synonyms": [
+      "surpass",
+      "exceed",
+      "outgrow"
+    ],
+    "antonyms": [
+      "fail",
+      "fall short",
+      "succumb"
+    ]
   },
   {
     "id": "trustworthy_inter_10",
     "word": "Trustworthy",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Able to be relied on as honest or truthful.",
     "tamilDefinition": "நம்பகத்தன்மை கொண்ட.",
     "literaryContext": {
@@ -1173,10 +1235,18 @@ export const dataT: VocabularyEntry[] = [
       "tamil": "அவள் ஒருபோதும் வாக்குறுதியை மீறாத நம்பகமான தோழி."
     },
     "formalSpeechContext": {
-      "english": "She is a trustworthy friend who never breaks a promise.",
-      "tamil": "அவள் ஒருபோதும் வாக்குறுதியை மீறாத நம்பகமான தோழி."
+      "english": "Establishing a trustworthy judicial system safeguards constitutional democracy.",
+      "tamil": "நம்பகமான நீதித்துறை அமைப்பை நிறுவுவது அரசியலமைப்பு ஜனநாயகத்தைப் பாதுகாக்கிறது."
     },
-    "synonyms": ["reliable","dependable","honest"],
-    "antonyms": ["unreliable","deceitful","treacherous"]
+    "synonyms": [
+      "reliable",
+      "dependable",
+      "honest"
+    ],
+    "antonyms": [
+      "unreliable",
+      "deceitful",
+      "treacherous"
+    ]
   }
 ];

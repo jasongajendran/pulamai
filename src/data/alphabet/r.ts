@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataR: VocabularyEntry[] = [
-{
+  {
     "id": "recalcitrant",
     "word": "recalcitrant",
     "partOfSpeech": "adjective",
@@ -885,7 +885,10 @@ export const dataR: VocabularyEntry[] = [
     "word": "Rational",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Based on or in accordance with reason or logic.",
     "tamilDefinition": "பகுத்தறிவுள்ள, நியாயமான.",
     "literaryContext": {
@@ -893,8 +896,8 @@ export const dataR: VocabularyEntry[] = [
       "tamil": "அமைதியாக இருந்து ஒரு பகுத்தறிவுள்ள முடிவை எடுக்க முயலுங்கள்."
     },
     "formalSpeechContext": {
-      "english": "Stay calm and try to make a rational decision.",
-      "tamil": "அமைதியாக இருந்து ஒரு பகுத்தறிவுள்ள முடிவை எடுக்க முயலுங்கள்."
+      "english": "Monetary policy decisions should reflect rational economic modeling rather than political pressure.",
+      "tamil": "பணவியல் கொள்கை முடிவுகள் அரசியல் அழுத்தத்தை விட பகுத்தறிவுமிக்க பொருளாதார மாடலிங்கை பிரதிபலிக்க வேண்டும்."
     },
     "synonyms": [
       "logical",
@@ -912,7 +915,10 @@ export const dataR: VocabularyEntry[] = [
     "word": "Robust",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Strong and healthy; vigorous.",
     "tamilDefinition": "உறுதியான, வலுவான.",
     "literaryContext": {
@@ -920,8 +926,8 @@ export const dataR: VocabularyEntry[] = [
       "tamil": "நிறுவனம் ஒரு வலுவான பாதுகாப்பு அமைப்பை உருவாக்கியது."
     },
     "formalSpeechContext": {
-      "english": "The company developed a robust security framework.",
-      "tamil": "நிறுவனம் ஒரு வலுவான பாதுகாப்பு அமைப்பை உருவாக்கியது."
+      "english": "A robust public health system is vital for buffering society against pandemic shocks.",
+      "tamil": "பெருந்தொற்று அதிர்ச்சிகளிலிருந்து சமூகத்தைப் பாதுகாக்க ஒரு வலுவான பொது சுகாதார அமைப்பு இன்றியமையாதது."
     },
     "synonyms": [
       "sturdy",
@@ -939,7 +945,10 @@ export const dataR: VocabularyEntry[] = [
     "word": "Reliable",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Consistently good in quality or performance; able to be trusted.",
     "tamilDefinition": "நம்பகமான.",
     "literaryContext": {
@@ -947,8 +956,8 @@ export const dataR: VocabularyEntry[] = [
       "tamil": "அவர் எப்போதும் தன் வார்த்தையைக் காப்பாற்றும் ஒரு நம்பகமான நண்பர்."
     },
     "formalSpeechContext": {
-      "english": "He is a reliable friend who always keeps his word.",
-      "tamil": "அவர் எப்போதும் தன் வார்த்தையைக் காப்பாற்றும் ஒரு நம்பகமான நண்பர்."
+      "english": "Constructing reliable power infrastructure is essential for rural industrial growth.",
+      "tamil": "கிராமப்புற தொழில்துறை வளர்ச்சிக்கு நம்பகமான மின் உள்கட்டமைப்பை அமைப்பது அவசியமாகும்."
     },
     "synonyms": [
       "trustworthy",
@@ -966,7 +975,10 @@ export const dataR: VocabularyEntry[] = [
     "word": "Refine",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To improve by making small changes.",
     "tamilDefinition": "செம்மைப்படுத்துதல், மெருகூட்டுதல்.",
     "literaryContext": {
@@ -974,8 +986,8 @@ export const dataR: VocabularyEntry[] = [
       "tamil": "ஆசிரியர் கையெழுத்துப் பிரதியை மெருகூட்ட பல மாதங்கள் செலவிட்டார்."
     },
     "formalSpeechContext": {
-      "english": "The author spent months refining the manuscript.",
-      "tamil": "ஆசிரியர் கையெழுத்துப் பிரதியை மெருகூட்ட பல மாதங்கள் செலவிட்டார்."
+      "english": "The committee met to refine regulatory guidelines governing consumer data protection.",
+      "tamil": "நுகர்வோர் தரவுப் பாதுகாப்பை நிர்வகிக்கும் ஒழுங்குமுறை வழிகாட்டுதல்களைச் செம்மைப்படுத்த குழு கூடியது."
     },
     "synonyms": [
       "improve",
@@ -993,7 +1005,10 @@ export const dataR: VocabularyEntry[] = [
     "word": "Resilient",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Able to withstand or recover quickly from difficult conditions.",
     "tamilDefinition": "மீண்டு வரக்கூடிய, மனஉறுதி கொண்ட.",
     "literaryContext": {
@@ -1001,8 +1016,8 @@ export const dataR: VocabularyEntry[] = [
       "tamil": "கடுமையான புயலுக்குப் பிறகு உள்ளூர் சமூகம் மனஉறுதியுடன் மீண்டு வந்தது."
     },
     "formalSpeechContext": {
-      "english": "The local community proved resilient after the severe storm.",
-      "tamil": "கடுமையான புயலுக்குப் பிறகு உள்ளூர் சமூகம் மனஉறுதியுடன் மீண்டு வந்தது."
+      "english": "Building resilient supply chains protects national food security during global disruptions.",
+      "tamil": "மீள்தன்மையுள்ள விநியோகச் சங்கிலிகளை உருவாக்குவது உலகளாவிய தடைகளின் போது தேசிய உணவுப் பாதுகாப்பைப் பாதுகாக்கிறது."
     },
     "synonyms": [
       "adaptable",
@@ -1020,7 +1035,10 @@ export const dataR: VocabularyEntry[] = [
     "word": "Radiant",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Sending out light; shining or glowing brightly.",
     "tamilDefinition": "பிரகாசிக்கும், ஒளிவீசும்.",
     "literaryContext": {
@@ -1028,18 +1046,29 @@ export const dataR: VocabularyEntry[] = [
       "tamil": "மணப்பெண் தன் பாரம்பரிய பட்டு உடையில் பிரகாசமாகத் தெரிந்தாள்."
     },
     "formalSpeechContext": {
-      "english": "The bride looked radiant in her traditional silk gown.",
-      "tamil": "மணப்பெண் தன் பாரம்பரிய பட்டு உடையில் பிரகாசமாகத் தெரிந்தாள்."
+      "english": "Renewable solar adoption promises a radiant future for clean regional energy production.",
+      "tamil": "புதுப்பிக்கத்தக்க சூரிய ஆற்றல் பயன்பாடு பிராந்திய சுத்தமான மின் உற்பத்திக்கான பிரகாசமான எதிர்காலத்திற்கு உறுதியளிக்கிறது."
     },
-    "synonyms": ["shining","glowing","luminous"],
-    "antonyms": ["dull","dim","dark"]
+    "synonyms": [
+      "shining",
+      "glowing",
+      "luminous"
+    ],
+    "antonyms": [
+      "dull",
+      "dim",
+      "dark"
+    ]
   },
   {
     "id": "restitution_inter_7",
     "word": "Restitution",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The restoration of something lost or stolen to its owner.",
     "tamilDefinition": "இழப்பீடு வழங்குதல், மீட்டமைத்தல்.",
     "literaryContext": {
@@ -1047,18 +1076,29 @@ export const dataR: VocabularyEntry[] = [
       "tamil": "சேதமடைந்த சொத்திற்கு முழு இழப்பீடு வழங்க நீதிமன்றம் உத்தரவிட்டது."
     },
     "formalSpeechContext": {
-      "english": "The court ordered full restitution for the damaged property.",
-      "tamil": "சேதமடைந்த சொத்திற்கு முழு இழப்பீடு வழங்க நீதிமன்றம் உத்தரவிட்டது."
+      "english": "The court ordered financial restitution for property damages caused by corporate negligence.",
+      "tamil": "நிறுவன அலட்சியத்தால் ஏற்பட்ட சொத்து சேதங்களுக்கு நிதி இழப்பீடு வழங்க நீதிமன்றம் உத்தரவிட்டது."
     },
-    "synonyms": ["compensation","indemnity","repayment"],
-    "antonyms": ["penalty","theft","confiscation"]
+    "synonyms": [
+      "compensation",
+      "indemnity",
+      "repayment"
+    ],
+    "antonyms": [
+      "penalty",
+      "theft",
+      "confiscation"
+    ]
   },
   {
     "id": "revere_inter_8",
     "word": "Revere",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To feel deep respect or admiration for something.",
     "tamilDefinition": "போற்றுதல், வணங்குதல்.",
     "literaryContext": {
@@ -1066,18 +1106,29 @@ export const dataR: VocabularyEntry[] = [
       "tamil": "குடிமக்கள் தங்களது நிறுவனத் தலைவர்களின் நினைவைப் போற்றுகிறார்கள்."
     },
     "formalSpeechContext": {
-      "english": "Citizens revere the memory of their founding leaders.",
-      "tamil": "குடிமக்கள் தங்களது நிறுவனத் தலைவர்களின் நினைவைப் போற்றுகிறார்கள்."
+      "english": "Democratic societies revere fundamental freedoms and individual constitutional liberties.",
+      "tamil": "ஜனநாயக சமூகங்கள் அடிப்படை சுதந்திரங்களையும் தனிநபர் அரசியலமைப்பு உரிமைகளையும் மதிக்கின்றன."
     },
-    "synonyms": ["venerate","honor","respect"],
-    "antonyms": ["despise","scorn","disrespect"]
+    "synonyms": [
+      "venerate",
+      "honor",
+      "respect"
+    ],
+    "antonyms": [
+      "despise",
+      "scorn",
+      "disrespect"
+    ]
   },
   {
     "id": "resolve_inter_9",
     "word": "Resolve",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Firm determination to do something.",
     "tamilDefinition": "உறுதிப்பாடு, மனத்தீர்மானம்.",
     "literaryContext": {
@@ -1085,18 +1136,29 @@ export const dataR: VocabularyEntry[] = [
       "tamil": "பயணத்தை நிறைவு செய்வதற்கான அவரது உறுதிப்பாட்டை எதுவும் குலைக்க முடியவில்லை."
     },
     "formalSpeechContext": {
-      "english": "Nothing could shake his resolve to complete the journey.",
-      "tamil": "பயணத்தை நிறைவு செய்வதற்கான அவரது உறுதிப்பாட்டை எதுவும் குலைக்க முடியவில்லை."
+      "english": "The government reaffirmed its firm resolve to eliminate systemic corruption in public procurement.",
+      "tamil": "பொதுக் கொள்முதலில் உள்ள முறையான ஊழலை ஒழிப்பதற்கான தனது உறுதியான முடிவை அரசு மீண்டும் உறுதிப்படுத்தியது."
     },
-    "synonyms": ["determination","firmness","willpower"],
-    "antonyms": ["indecision","hesitation","vacillation"]
+    "synonyms": [
+      "determination",
+      "firmness",
+      "willpower"
+    ],
+    "antonyms": [
+      "indecision",
+      "hesitation",
+      "vacillation"
+    ]
   },
   {
     "id": "renaissance_inter_10",
     "word": "Renaissance",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A revival of or renewed interest in something.",
     "tamilDefinition": "மறுமலர்ச்சி, புதிய எழுச்சி.",
     "literaryContext": {
@@ -1104,10 +1166,18 @@ export const dataR: VocabularyEntry[] = [
       "tamil": "நகரம் இசை மற்றும் கலையில் ஒரு கலாச்சார மறுமலர்ச்சியை அனுபவித்தது."
     },
     "formalSpeechContext": {
-      "english": "The city experienced a cultural renaissance in music and art.",
-      "tamil": "நகரம் இசை மற்றும் கலையில் ஒரு கலாச்சார மறுமலர்ச்சியை அனுபவித்தது."
+      "english": "Increased funding ignited an academic and artistic renaissance across higher education institutions.",
+      "tamil": "அதிகரிக்கப்பட்ட நிதி ஒதுக்கீடு உயர்கல்வி நிறுவனங்களில் ஒரு கல்வி மற்றும் கலை மறுமலர்ச்சியை மூட்டியது."
     },
-    "synonyms": ["revival","rebirth","resurgence"],
-    "antonyms": ["decline","death","decay"]
+    "synonyms": [
+      "revival",
+      "rebirth",
+      "resurgence"
+    ],
+    "antonyms": [
+      "decline",
+      "death",
+      "decay"
+    ]
   }
 ];

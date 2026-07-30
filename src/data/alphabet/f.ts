@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataF: VocabularyEntry[] = [
-{
+  {
     "id": "facet",
     "word": "Facet",
     "partOfSpeech": "noun",
@@ -899,7 +899,10 @@ export const dataF: VocabularyEntry[] = [
     "word": "Flexible",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Capable of bending easily without breaking.",
     "tamilDefinition": "நெகிழ்வுத்தன்மை கொண்ட, வளையும் தன்மை உடைய.",
     "literaryContext": {
@@ -907,8 +910,8 @@ export const dataF: VocabularyEntry[] = [
       "tamil": "ரப்பர் என்பது பல தயாரிப்புகளில் பயன்படுத்தப்படும் நெகிழ்வான பொருள்."
     },
     "formalSpeechContext": {
-      "english": "Rubber is a flexible material used in many products.",
-      "tamil": "ரப்பர் என்பது பல தயாரிப்புகளில் பயன்படுத்தப்படும் நெகிழ்வான பொருள்."
+      "english": "Labor laws should be flexible enough to accommodate evolving employment models.",
+      "tamil": "வளர்ந்து வரும் வேலைவாய்ப்பு மாதிரிகளுக்கு ஏற்ப தொழிலாளர் சட்டங்கள் நெகிழ்வுத்தன்மையுடன் இருக்க வேண்டும்."
     },
     "synonyms": [
       "adaptable",
@@ -926,7 +929,10 @@ export const dataF: VocabularyEntry[] = [
     "word": "Frequent",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Occurring or done on many occasions with short intervals.",
     "tamilDefinition": "அடிக்கடி நிகழும்.",
     "literaryContext": {
@@ -934,8 +940,8 @@ export const dataF: VocabularyEntry[] = [
       "tamil": "அவர் நூலகத்திற்கு அடிக்கடி பயணம் செய்தார்."
     },
     "formalSpeechContext": {
-      "english": "He made frequent trips to the library.",
-      "tamil": "அவர் நூலகத்திற்கு அடிக்கடி பயணம் செய்தார்."
+      "english": "Frequent public consultations ensure that civic urban planning reflects community needs.",
+      "tamil": "அடிக்கடி நடத்தப்படும் பொது ஆலோசனைகள் நகர திட்டமிடல் சமூகத் தேவைகளைப் பிரதிபலிப்பதை உறுதி செய்கின்றன."
     },
     "synonyms": [
       "recurrent",
@@ -953,7 +959,10 @@ export const dataF: VocabularyEntry[] = [
     "word": "Feature",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A distinctive attribute or aspect of something.",
     "tamilDefinition": "சிறப்பம்சம், அம்சம்.",
     "literaryContext": {
@@ -961,8 +970,8 @@ export const dataF: VocabularyEntry[] = [
       "tamil": "புதிய போனில் மேம்பட்ட கேமரா அம்சம் உள்ளது."
     },
     "formalSpeechContext": {
-      "english": "The new phone includes an advanced camera feature.",
-      "tamil": "புதிய போனில் மேம்பட்ட கேமரா அம்சம் உள்ளது."
+      "english": "Consumer protection is a prominent feature of the newly enacted commerce bill.",
+      "tamil": "நுகர்வோர் பாதுகாப்பு என்பது புதிதாக இயற்றப்பட்ட வர்த்தக மசோதாவின் ஒரு முக்கிய அம்சமாகும்."
     },
     "synonyms": [
       "attribute",
@@ -980,7 +989,10 @@ export const dataF: VocabularyEntry[] = [
     "word": "Formal",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Done in accordance with rules of convention or etiquette.",
     "tamilDefinition": "முறைப்படியான, அதிகாரப்பூர்வ.",
     "literaryContext": {
@@ -988,8 +1000,8 @@ export const dataF: VocabularyEntry[] = [
       "tamil": "அவர் நேர்காணலுக்கு முறைப்படியான உடை அணிந்திருந்தார்."
     },
     "formalSpeechContext": {
-      "english": "He wore a formal suit for the interview.",
-      "tamil": "அவர் நேர்காணலுக்கு முறைப்படியான உடை அணிந்திருந்தார்."
+      "english": "The foreign minister issued a formal statement addressing international trade alliances.",
+      "tamil": "வெளியுறவு அமைச்சர் சர்வதேச வர்த்தக கூட்டணிகள் குறித்து முறையான அறிக்கையை வெளியிட்டார்."
     },
     "synonyms": [
       "official",
@@ -1007,7 +1019,10 @@ export const dataF: VocabularyEntry[] = [
     "word": "Foster",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To encourage or promote the development of something.",
     "tamilDefinition": "வளர்த்தல், ஊக்குவித்தல்.",
     "literaryContext": {
@@ -1015,8 +1030,8 @@ export const dataF: VocabularyEntry[] = [
       "tamil": "ஆசிரியர்கள் இளம் மாணவர்களிடம் படைப்பாற்றலை வளர்ப்பதை நோக்கமாகக் கொண்டுள்ளனர்."
     },
     "formalSpeechContext": {
-      "english": "Teachers aim to foster creativity in young students.",
-      "tamil": "ஆசிரியர்கள் இளம் மாணவர்களிடம் படைப்பாற்றலை வளர்ப்பதை நோக்கமாகக் கொண்டுள்ளனர்."
+      "english": "Governments must foster research partnerships between universities and private industries.",
+      "tamil": "பல்கலைக்கழகங்களுக்கும் தனியார் தொழில்களுக்கும் இடையே ஆராய்ச்சி கூட்டாண்மையை அரசாங்கங்கள் வளர்க்க வேண்டும்."
     },
     "synonyms": [
       "encourage",
@@ -1034,7 +1049,10 @@ export const dataF: VocabularyEntry[] = [
     "word": "Fidelity",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Faithfulness to a person, cause, or belief.",
     "tamilDefinition": "உண்மைத்தன்மை, விசுவாசம், மாறாத உண்மை.",
     "literaryContext": {
@@ -1042,18 +1060,29 @@ export const dataF: VocabularyEntry[] = [
       "tamil": "தன் கொள்கைகளின் மீதான அவளது விசுவாசம் அவளுக்கு பரவலான பாராட்டைப் பெற்றுத் தந்தது."
     },
     "formalSpeechContext": {
-      "english": "Her fidelity to her principles earned her widespread acclaim.",
-      "tamil": "தன் கொள்கைகளின் மீதான அவளது விசுவாசம் அவளுக்கு பரவலான பாராட்டைப் பெற்றுத் தந்தது."
+      "english": "Public officials must maintain strict fidelity to constitutional laws and ethical standards.",
+      "tamil": "பொது அதிகாரிகள் அரசியலமைப்பு சட்டங்கள் மற்றும் ஒழுக்க நெறிமுறைகளுக்கு கண்டிப்பான விசுவாசத்தைப் பேண வேண்டும்."
     },
-    "synonyms": ["faithfulness","loyalty","devotion"],
-    "antonyms": ["treachery","disloyalty","infidelity"]
+    "synonyms": [
+      "faithfulness",
+      "loyalty",
+      "devotion"
+    ],
+    "antonyms": [
+      "treachery",
+      "disloyalty",
+      "infidelity"
+    ]
   },
   {
     "id": "flourish_inter_7",
     "word": "Flourish",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To grow or develop in a healthy or vigorous way.",
     "tamilDefinition": "செழித்து வளருதல், மேன்மையடைதல்.",
     "literaryContext": {
@@ -1061,18 +1090,29 @@ export const dataF: VocabularyEntry[] = [
       "tamil": "அமைதியும் சுதந்திரமும் நிலவும் சூழலில் கலைகளும் அறிவியலும் செழித்து வளர்கின்றன."
     },
     "formalSpeechContext": {
-      "english": "Arts and sciences flourish in an atmosphere of peace and freedom.",
-      "tamil": "அமைதியும் சுதந்திரமும் நிலவும் சூழலில் கலைகளும் அறிவியலும் செழித்து வளர்கின்றன."
+      "english": "Democratic values flourish best in an environment of freedom of expression and judicial independence.",
+      "tamil": "கருத்துச் சுதந்திரம் மற்றும் நீதித்துறை சுதந்திரம் நிலவும் சூழலில் ஜனநாயக மதிப்புகள் சிறப்பாகச் செழித்து வளர்கின்றன."
     },
-    "synonyms": ["thrive","prosper","bloom"],
-    "antonyms": ["wither","decline","fail"]
+    "synonyms": [
+      "thrive",
+      "prosper",
+      "bloom"
+    ],
+    "antonyms": [
+      "wither",
+      "decline",
+      "fail"
+    ]
   },
   {
     "id": "fortitude_inter_8",
     "word": "Fortitude",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Courage and strength in bearing pain or adversity.",
     "tamilDefinition": "மனஉறுதி, துன்பத்தை எதிர்கொள்ளும் தைரியம்.",
     "literaryContext": {
@@ -1080,18 +1120,29 @@ export const dataF: VocabularyEntry[] = [
       "tamil": "அவள் தன் நீண்ட நோயை அமைதியான மனஉறுதியுடன் எதிர்கொண்டாள்."
     },
     "formalSpeechContext": {
-      "english": "She bore her long illness with quiet fortitude.",
-      "tamil": "அவள் தன் நீண்ட நோயை அமைதியான மனஉறுதியுடன் எதிர்கொண்டாள்."
+      "english": "The nation demonstrated remarkable fortitude during the economic downturn.",
+      "tamil": "பொருளாதார வீழ்ச்சியின் போது தேசம் குறிப்பிடத்தக்க மனஉறுதியை வெளிப்படுத்தியது."
     },
-    "synonyms": ["bravery","resilience","grit"],
-    "antonyms": ["cowardice","weakness","timidity"]
+    "synonyms": [
+      "bravery",
+      "resilience",
+      "grit"
+    ],
+    "antonyms": [
+      "cowardice",
+      "weakness",
+      "timidity"
+    ]
   },
   {
     "id": "fundamental_inter_9",
     "word": "Fundamental",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Forming a necessary base or core; of central importance.",
     "tamilDefinition": "அடிப்படையான, முதன்மையான.",
     "literaryContext": {
@@ -1099,18 +1150,29 @@ export const dataF: VocabularyEntry[] = [
       "tamil": "பேச்சு சுதந்திரம் என்பது ஒரு அடிப்படையான மனித உரிமையாகும்."
     },
     "formalSpeechContext": {
-      "english": "Freedom of speech is a fundamental human right.",
-      "tamil": "பேச்சு சுதந்திரம் என்பது ஒரு அடிப்படையான மனித உரிமையாகும்."
+      "english": "Access to clean water and sanitation is a fundamental necessity for public health.",
+      "tamil": "சுத்தமான நீர் மற்றும் சுகாதாரத்தைப் பெறுவது பொது சுகாதாரத்திற்கான ஒரு அடிப்படை தேவையாகும்."
     },
-    "synonyms": ["basic","essential","primary"],
-    "antonyms": ["secondary","auxiliary","superficial"]
+    "synonyms": [
+      "basic",
+      "essential",
+      "primary"
+    ],
+    "antonyms": [
+      "secondary",
+      "auxiliary",
+      "superficial"
+    ]
   },
   {
     "id": "fervent_inter_10",
     "word": "Fervent",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having or displaying a passionate intensity.",
     "tamilDefinition": "ஆர்வமிக்க, தீவிர விருப்பமுள்ள.",
     "literaryContext": {
@@ -1118,10 +1180,18 @@ export const dataF: VocabularyEntry[] = [
       "tamil": "அப்பகுதியில் அமைதிக்காக அவர் ஒரு தீவிர முறையீட்டைச் செய்தார்."
     },
     "formalSpeechContext": {
-      "english": "He made a fervent appeal for peace in the region.",
-      "tamil": "அப்பகுதியில் அமைதிக்காக அவர் ஒரு தீவிர முறையீட்டைச் செய்தார்."
+      "english": "The delegates expressed a fervent commitment to international peace and climate action.",
+      "tamil": "பிரதிநிதிகள் சர்வதேச அமைதி மற்றும் காலநிலை நடவடிக்கை குறித்து தீவிர விருப்பமான அர்ப்பணிப்பை வெளிப்படுத்தினர்."
     },
-    "synonyms": ["passionate","ardent","intense"],
-    "antonyms": ["apathetic","cool","indifferent"]
+    "synonyms": [
+      "passionate",
+      "ardent",
+      "intense"
+    ],
+    "antonyms": [
+      "apathetic",
+      "cool",
+      "indifferent"
+    ]
   }
 ];

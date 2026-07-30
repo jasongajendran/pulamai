@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataM: VocabularyEntry[] = [
-{
+  {
     "id": "malady",
     "word": "Malady",
     "partOfSpeech": "noun",
@@ -984,7 +984,10 @@ export const dataM: VocabularyEntry[] = [
     "word": "Moderate",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Average in amount, intensity, quality, or degree.",
     "tamilDefinition": "மிதமான, அளவான.",
     "literaryContext": {
@@ -992,8 +995,8 @@ export const dataM: VocabularyEntry[] = [
       "tamil": "மருத்துவர் மிதமான தினசரி உடற்பயிற்சியைப் பரிந்துரைத்தார்."
     },
     "formalSpeechContext": {
-      "english": "The doctor recommended moderate daily exercise.",
-      "tamil": "மருத்துவர் மிதமான தினசரி உடற்பயிற்சியைப் பரிந்துரைத்தார்."
+      "english": "Economists recommend a moderate adjustment to central bank interest rates.",
+      "tamil": "மத்திய வங்கியின் வட்டி விகிதங்களில் மிதமான மாற்றத்தை செய்ய பொருளாதார நிபுணர்கள் பரிந்துரைக்கின்றனர்."
     },
     "synonyms": [
       "average",
@@ -1011,7 +1014,10 @@ export const dataM: VocabularyEntry[] = [
     "word": "Motivate",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Provide someone with a reason for doing something.",
     "tamilDefinition": "ஊக்கப்படுத்துதல்.",
     "literaryContext": {
@@ -1019,8 +1025,8 @@ export const dataM: VocabularyEntry[] = [
       "tamil": "ஆசிரியர்களின் பாராட்டு மாணவர்களைச் சிறப்பாகச் செய்ய ஊக்கப்படுத்தும்."
     },
     "formalSpeechContext": {
-      "english": "Praise from teachers can motivate students to perform better.",
-      "tamil": "ஆசிரியர்களின் பாராட்டு மாணவர்களைச் சிறப்பாகச் செய்ய ஊக்கப்படுத்தும்."
+      "english": "Competitive grants motivate research institutions to pursue groundbreaking innovations.",
+      "tamil": "போட்டி மானியங்கள் ஆராய்ச்சி நிறுவனங்களை முன்னோடி கண்டுபிடிப்புகளைத் தொடர ஊக்குவிக்கின்றன."
     },
     "synonyms": [
       "encourage",
@@ -1038,7 +1044,10 @@ export const dataM: VocabularyEntry[] = [
     "word": "Modest",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Unassuming or moderate in the estimation of one abilities.",
     "tamilDefinition": "அடக்கமான, எளிமையான.",
     "literaryContext": {
@@ -1046,8 +1055,8 @@ export const dataM: VocabularyEntry[] = [
       "tamil": "அவள் தன் ஈர்க்கக்கூடிய சாதனைகளைப் பற்றி அடக்கமாகவே இருந்தாள்."
     },
     "formalSpeechContext": {
-      "english": "She remained modest about her impressive achievements.",
-      "tamil": "அவள் தன் ஈர்க்கக்கூடிய சாதனைகளைப் பற்றி அடக்கமாகவே இருந்தாள்."
+      "english": "The proposed tax increase represents a modest step toward fiscal balance.",
+      "tamil": "முன்மொழியப்பட்ட வரி உயர்வு நிதிச் சமநிலையை நோக்கிய ஒரு மிதமான படியைக் குறிக்கிறது."
     },
     "synonyms": [
       "humble",
@@ -1065,7 +1074,10 @@ export const dataM: VocabularyEntry[] = [
     "word": "Mature",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Fully developed physically or mentally.",
     "tamilDefinition": "முதிர்ச்சியடைந்த.",
     "literaryContext": {
@@ -1073,8 +1085,8 @@ export const dataM: VocabularyEntry[] = [
       "tamil": "அவர் அந்தச் சிக்கலான சூழ்நிலையை மிகவும் முதிர்ச்சியடைந்த முறையில் கையாண்டார்."
     },
     "formalSpeechContext": {
-      "english": "He handled the difficult situation in a very mature way.",
-      "tamil": "அவர் அந்தச் சிக்கலான சூழ்நிலையை மிகவும் முதிர்ச்சியடைந்த முறையில் கையாண்டார்."
+      "english": "A mature democracy handles political transitions with constitutional stability and respect.",
+      "tamil": "முதிர்ச்சியடைந்த ஜனநாயகம் அரசியல் மாற்றங்களை அரசியலமைப்பு ஸ்திரத்தன்மை மற்றும் மரியாதையுடன் கையாள்கிறது."
     },
     "synonyms": [
       "grown",
@@ -1092,7 +1104,10 @@ export const dataM: VocabularyEntry[] = [
     "word": "Mutual",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Experienced or expressed by each of two or more parties.",
     "tamilDefinition": "பரஸ்பர, இருதரப்பு.",
     "literaryContext": {
@@ -1100,8 +1115,8 @@ export const dataM: VocabularyEntry[] = [
       "tamil": "ஒரு நட்பு செழிக்க மரியாதை பரஸ்பரமாக இருக்க வேண்டும்."
     },
     "formalSpeechContext": {
-      "english": "Respect must be mutual for a friendship to thrive.",
-      "tamil": "ஒரு நட்பு செழிக்க மரியாதை பரஸ்பரமாக இருக்க வேண்டும்."
+      "english": "Bilateral relations thrive when built upon mutual respect and shared economic goals.",
+      "tamil": "பரஸ்பர மரியாதை மற்றும் பகிரப்பட்ட பொருளாதார இலக்குகளின் மீது கட்டமைக்கப்படும் போது இருதரப்பு உறவுகள் செழிக்கின்றன."
     },
     "synonyms": [
       "reciprocal",
@@ -1119,7 +1134,10 @@ export const dataM: VocabularyEntry[] = [
     "word": "Magnanimous",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Generous or forgiving, especially toward a rival.",
     "tamilDefinition": "பெருந்தன்மையான, பரந்த உள்ளம் கொண்ட.",
     "literaryContext": {
@@ -1127,18 +1145,29 @@ export const dataM: VocabularyEntry[] = [
       "tamil": "வெற்றியில், அவர் தனது எதிரியிடம் பெருந்தன்மையுடன் நடந்துகொண்டார்."
     },
     "formalSpeechContext": {
-      "english": "In victory, he was magnanimous toward his opponent.",
-      "tamil": "வெற்றியில், அவர் தனது எதிரியிடம் பெருந்தன்மையுடன் நடந்துகொண்டார்."
+      "english": "The president made a magnanimous gesture by pardoning political dissidents.",
+      "tamil": "அரசியல் எதிர்ப்பாளர்களுக்கு மன்னிப்பு வழங்கி ஜனாதிபதி பெருந்தன்மையான நடவடிக்கையை மேற்கொண்டார்."
     },
-    "synonyms": ["generous","forgiving","noble"],
-    "antonyms": ["petty","forgiving","mean"]
+    "synonyms": [
+      "generous",
+      "forgiving",
+      "noble"
+    ],
+    "antonyms": [
+      "petty",
+      "forgiving",
+      "mean"
+    ]
   },
   {
     "id": "magnitude_inter_7",
     "word": "Magnitude",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Great size, extent, or importance of something.",
     "tamilDefinition": "அளவு, முக்கியத்துவம்.",
     "literaryContext": {
@@ -1146,18 +1175,29 @@ export const dataM: VocabularyEntry[] = [
       "tamil": "முன்னால் உள்ள சவாலின் உண்மையான முக்கியத்துவத்தை அவர்கள் உணர்ந்தனர்."
     },
     "formalSpeechContext": {
-      "english": "They realized the true magnitude of the challenge ahead.",
-      "tamil": "முன்னால் உள்ள சவாலின் உண்மையான முக்கியத்துவத்தை அவர்கள் உணர்ந்தனர்."
+      "english": "Delegates addressed the vast magnitude of the international humanitarian crisis.",
+      "tamil": "சர்வதேச மனிதநேய நெருக்கடியின் பெரும் அளவை பிரதிநிதிகள் கையாண்டனர்."
     },
-    "synonyms": ["immensity","scale","importance"],
-    "antonyms": ["smallness","insignificance","trivially"]
+    "synonyms": [
+      "immensity",
+      "scale",
+      "importance"
+    ],
+    "antonyms": [
+      "smallness",
+      "insignificance",
+      "trivially"
+    ]
   },
   {
     "id": "manifest_inter_8",
     "word": "Manifest",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To display or show a quality or feeling by one acts.",
     "tamilDefinition": "வெளிப்படுத்துதல், புலப்படுத்துதல்.",
     "literaryContext": {
@@ -1165,18 +1205,29 @@ export const dataM: VocabularyEntry[] = [
       "tamil": "அவளது பக்தி அவளது சுயநலமற்ற செயல்களில் வெளிப்படத் தொடங்கியது."
     },
     "formalSpeechContext": {
-      "english": "Her devotion began to manifest in her selfless deeds.",
-      "tamil": "அவளது பக்தி அவளது சுயநலமற்ற செயல்களில் வெளிப்படத் தொடங்கியது."
+      "english": "Government commitment must manifest in concrete financial and policy reforms.",
+      "tamil": "அரசாங்கத்தின் அர்ப்பணிப்பு உறுதியான நிதி மற்றும் கொள்கை சீர்திருத்தங்களில் வெளிப்பட வேண்டும்."
     },
-    "synonyms": ["display","demonstrate","reveal"],
-    "antonyms": ["conceal","hide","suppress"]
+    "synonyms": [
+      "display",
+      "demonstrate",
+      "reveal"
+    ],
+    "antonyms": [
+      "conceal",
+      "hide",
+      "suppress"
+    ]
   },
   {
     "id": "meridian_inter_9",
     "word": "Meridian",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "A point or period of highest development or prosperity.",
     "tamilDefinition": "உச்சக்கட்டம், மேன்மை நிலை.",
     "literaryContext": {
@@ -1184,18 +1235,29 @@ export const dataM: VocabularyEntry[] = [
       "tamil": "மூன்றாம் நூற்றாண்டில் பேரரசு தன் மேன்மை நிலையை எட்டியது."
     },
     "formalSpeechContext": {
-      "english": "The empire reached its meridian during the third century.",
-      "tamil": "மூன்றாம் நூற்றாண்டில் பேரரசு தன் மேன்மை நிலையை எட்டியது."
+      "english": "The country reached its economic meridian through industrial modernization.",
+      "tamil": "தொழில்துறை நவீனமயமாக்கல் மூலம் நாடு தனது பொருளாதார உச்சக்கட்டத்தை அடைந்தது."
     },
-    "synonyms": ["peak","zenith","pinnacle"],
-    "antonyms": ["nadir","bottom","decline"]
+    "synonyms": [
+      "peak",
+      "zenith",
+      "pinnacle"
+    ],
+    "antonyms": [
+      "nadir",
+      "bottom",
+      "decline"
+    ]
   },
   {
     "id": "mindfulness_inter_10",
     "word": "Mindfulness",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The state or quality of being conscious or aware.",
     "tamilDefinition": "கவனக் கூர்மை, விழிப்புணர்வு.",
     "literaryContext": {
@@ -1203,10 +1265,18 @@ export const dataM: VocabularyEntry[] = [
       "tamil": "விழிப்புணர்வைப் பயிற்சி செய்வது மன அழுத்தத்தைக் குறைத்து கவனத்தை மேம்படுத்துகிறது."
     },
     "formalSpeechContext": {
-      "english": "Practicing mindfulness reduces stress and enhances focus.",
-      "tamil": "விழிப்புணர்வைப் பயிற்சி செய்வது மன அழுத்தத்தைக் குறைத்து கவனத்தை மேம்படுத்துகிறது."
+      "english": "Incorporating mindfulness into corporate policy improves workforce well-being.",
+      "tamil": "நிறுவனக் கொள்கையில் மனநிறைவை சேர்ப்பது பணியாளர்களின் நல்வாழ்வை மேம்படுத்துகிறது."
     },
-    "synonyms": ["awareness","attentiveness","presence"],
-    "antonyms": ["inattention","absentmindedness","distraction"]
+    "synonyms": [
+      "awareness",
+      "attentiveness",
+      "presence"
+    ],
+    "antonyms": [
+      "inattention",
+      "absentmindedness",
+      "distraction"
+    ]
   }
 ];

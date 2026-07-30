@@ -1,7 +1,7 @@
 import { VocabularyEntry } from "../../types";
 
 export const dataW: VocabularyEntry[] = [
-{
+  {
     "id": "wan",
     "word": "wan",
     "partOfSpeech": "adjective",
@@ -887,7 +887,10 @@ export const dataW: VocabularyEntry[] = [
     "word": "Wisdom",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The quality of having experience, knowledge, and good judgment.",
     "tamilDefinition": "ஞானம், விவேகம்.",
     "literaryContext": {
@@ -895,8 +898,8 @@ export const dataW: VocabularyEntry[] = [
       "tamil": "முதிய அறிஞர் தன் ஞானத்தை இளம் மாணவர்களுடன் பகிர்ந்து கொண்டார்."
     },
     "formalSpeechContext": {
-      "english": "The old scholar shared his wisdom with the young students.",
-      "tamil": "முதிய அறிஞர் தன் ஞானத்தை இளம் மாணவர்களுடன் பகிர்ந்து கொண்டார்."
+      "english": "Statecraft requires the wisdom to balance diplomatic caution with strategic action.",
+      "tamil": "அரசியல் கலைக்கு ராஜதந்திர எச்சரிக்கையையும் உத்திசார்ந்த நடவடிக்கையையும் சமநிலைப்படுத்தும் ஞானம் தேவைப்படுகிறது."
     },
     "synonyms": [
       "sagacity",
@@ -914,7 +917,10 @@ export const dataW: VocabularyEntry[] = [
     "word": "Worthy",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having adequate worth or value; deserving.",
     "tamilDefinition": "தகுதியான, மதிப்புள்ள.",
     "literaryContext": {
@@ -922,8 +928,8 @@ export const dataW: VocabularyEntry[] = [
       "tamil": "அந்த தொண்டு நிறுவனம் ஆதரவளிக்கத் தகுதியான ஒன்றாகும்."
     },
     "formalSpeechContext": {
-      "english": "The charity is a worthy cause to support.",
-      "tamil": "அந்த தொண்டு நிறுவனம் ஆதரவளிக்கத் தகுதியான ஒன்றாகும்."
+      "english": "Investing in early childhood nutrition is a policy objective worthy of full state support.",
+      "tamil": "ஆரம்பகால குழந்தை ஊட்டச்சத்தில் முதலீடு செய்வது முழு அரசு ஆதரவிற்கும் தகுதியான ஒரு கொள்கை இலக்காகும்."
     },
     "synonyms": [
       "deserving",
@@ -941,7 +947,10 @@ export const dataW: VocabularyEntry[] = [
     "word": "Widespread",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Found or distributed over a large area or number of people.",
     "tamilDefinition": "பரவலான.",
     "literaryContext": {
@@ -949,8 +958,8 @@ export const dataW: VocabularyEntry[] = [
       "tamil": "பசுமைத் தொழில்நுட்பத்தில் பரவலான ஆர்வம் உள்ளது."
     },
     "formalSpeechContext": {
-      "english": "There is widespread interest in green technology.",
-      "tamil": "பசுமைத் தொழில்நுட்பத்தில் பரவலான ஆர்வம் உள்ளது."
+      "english": "Public education campaigns led to widespread awareness of preventative healthcare.",
+      "tamil": "பொதுக் கல்விப் பிரச்சாரங்கள் தடுப்புச் சுகாதாரம் பற்றிய பரவலான விழிப்புணர்வுக்கு வழிவகுத்தன."
     },
     "synonyms": [
       "extensive",
@@ -968,7 +977,10 @@ export const dataW: VocabularyEntry[] = [
     "word": "Witness",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To see an event, typically a crime or accident, take place.",
     "tamilDefinition": "நேரில் பார்த்தல், சாட்சியாக இருத்தல்.",
     "literaryContext": {
@@ -976,8 +988,8 @@ export const dataW: VocabularyEntry[] = [
       "tamil": "சூரிய கிரகணத்தை நேரில் காண பல மக்கள் கூடியிருந்தனர்."
     },
     "formalSpeechContext": {
-      "english": "Many people gathered to witness the solar eclipse.",
-      "tamil": "சூரிய கிரகணத்தை நேரில் காண பல மக்கள் கூடியிருந்தனர்."
+      "english": "International observers assembled to witness the democratic election process.",
+      "tamil": "ஜனநாயகத் தேர்தல் செயல்முறையைக் காண சர்வதேச பார்வையாளர்கள் திரண்டனர்."
     },
     "synonyms": [
       "observe",
@@ -995,7 +1007,10 @@ export const dataW: VocabularyEntry[] = [
     "word": "Withdraw",
     "partOfSpeech": "verb",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "To remove or take away something from a particular place.",
     "tamilDefinition": "திரும்பப் பெறுதல்.",
     "literaryContext": {
@@ -1003,8 +1018,8 @@ export const dataW: VocabularyEntry[] = [
       "tamil": "கருத்தைக் கேட்ட பிறகு தனது முன்மொழிவைத் திரும்பப் பெற முடிவு செய்தார்."
     },
     "formalSpeechContext": {
-      "english": "He decided to withdraw his proposal after hearing the feedback.",
-      "tamil": "கருத்தைக் கேட்ட பிறகு தனது முன்மொழிவைத் திரும்பப் பெற முடிவு செய்தார்."
+      "english": "The committee voted to withdraw the controversial clause after public opposition.",
+      "tamil": "பொதுமக்களின் எதிர்ப்பிற்குப் பிறகு சர்ச்சைக்குரிய பிரிவை திரும்பப் பெறக் குழு வாக்களித்தது."
     },
     "synonyms": [
       "retract",
@@ -1022,7 +1037,10 @@ export const dataW: VocabularyEntry[] = [
     "word": "Wisdom",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "The quality of having experience, knowledge, and good judgment.",
     "tamilDefinition": "ஞானம், அறிவாற்றல்.",
     "literaryContext": {
@@ -1030,18 +1048,29 @@ export const dataW: VocabularyEntry[] = [
       "tamil": "தன் அறியாமையின் அளவை அறிவதிலேயே உண்மையான ஞானம் உள்ளது."
     },
     "formalSpeechContext": {
-      "english": "True wisdom lies in knowing the extent of one ignorance.",
-      "tamil": "தன் அறியாமையின் அளவை அறிவதிலேயே உண்மையான ஞானம் உள்ளது."
+      "english": "Collective parliamentary wisdom guided the nation through economic crisis.",
+      "tamil": "கூட்டு நாடாளுமன்ற ஞானம் பொருளாதார நெருக்கடியின் போது தேசத்தை வழிநடத்தியது."
     },
-    "synonyms": ["sagacity","insight","discernment"],
-    "antonyms": ["foolishness","ignorance","stupidity"]
+    "synonyms": [
+      "sagacity",
+      "insight",
+      "discernment"
+    ],
+    "antonyms": [
+      "foolishness",
+      "ignorance",
+      "stupidity"
+    ]
   },
   {
     "id": "welcoming_inter_7",
     "word": "Welcoming",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Friendly and encouraging toward new arrivals.",
     "tamilDefinition": "வரவேற்கும் தன்மையுள்ள, உபசரிப்பான.",
     "literaryContext": {
@@ -1049,18 +1078,29 @@ export const dataW: VocabularyEntry[] = [
       "tamil": "வரவேற்கும் புன்னகை புதியவரை இயல்பாக உணரச் செய்தது."
     },
     "formalSpeechContext": {
-      "english": "A welcoming smile made the stranger feel at ease.",
-      "tamil": "வரவேற்கும் புன்னகை புதியவரை இயல்பாக உணரச் செய்தது."
+      "english": "Establishing welcoming trade policies encourages international investment.",
+      "tamil": "வரவேற்கும் வர்த்தகக் கொள்கைகளை நிறுவுவது சர்வதேச முதலீட்டை ஊக்குவிக்கிறது."
     },
-    "synonyms": ["hospitable","friendly","genial"],
-    "antonyms": ["unwelcoming","cold","hostile"]
+    "synonyms": [
+      "hospitable",
+      "friendly",
+      "genial"
+    ],
+    "antonyms": [
+      "unwelcoming",
+      "cold",
+      "hostile"
+    ]
   },
   {
     "id": "worthy_inter_8",
     "word": "Worthy",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Having or showing the qualities that deserve respect.",
     "tamilDefinition": "தகுதியான, மரியாதைக்குரிய.",
     "literaryContext": {
@@ -1068,18 +1108,29 @@ export const dataW: VocabularyEntry[] = [
       "tamil": "ஏழை குழந்தைகளுக்குக் கல்வி கற்பிப்பது ஆதரவிற்குத் தகுதியான ஒரு காரணமாகும்."
     },
     "formalSpeechContext": {
-      "english": "Educating poor children is a cause worthy of support.",
-      "tamil": "ஏழை குழந்தைகளுக்குக் கல்வி கற்பிப்பது ஆதரவிற்குத் தகுதியான ஒரு காரணமாகும்."
+      "english": "Combating climate change is a noble cause worthy of global collaboration.",
+      "tamil": "காலநிலை மாற்றத்தை எதிர்த்துப் போராடுவது உலகளாவிய ஒத்துழைப்பிற்குத் தகுதியான ஒரு உன்னதமான நோக்கமாகும்."
     },
-    "synonyms": ["deserving","meritorious","honorable"],
-    "antonyms": ["unworthy","undeserving","disreputable"]
+    "synonyms": [
+      "deserving",
+      "meritorious",
+      "honorable"
+    ],
+    "antonyms": [
+      "unworthy",
+      "undeserving",
+      "disreputable"
+    ]
   },
   {
     "id": "wholehearted_inter_9",
     "word": "Wholehearted",
     "partOfSpeech": "adjective",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Done with complete commitment and enthusiasm.",
     "tamilDefinition": "முழுமனதான, ஆத்மார்த்தமான.",
     "literaryContext": {
@@ -1087,18 +1138,29 @@ export const dataW: VocabularyEntry[] = [
       "tamil": "இக்கோரிக்கை சமூகத்தின் முழுமனதான ஆதரவைப் பெற்றது."
     },
     "formalSpeechContext": {
-      "english": "The proposal received the wholehearted support of the community.",
-      "tamil": "இக்கோரிக்கை சமூகத்தின் முழுமனதான ஆதரவைப் பெற்றது."
+      "english": "The assembly expressed wholehearted backing for the infrastructure investment bill.",
+      "tamil": "உள்கட்டமைப்பு முதலீட்டு மசோதாவிற்கு சட்டமன்றம் முழுமனதான ஆதரவை வெளிப்படுத்தியது."
     },
-    "synonyms": ["earnest","sincere","complete"],
-    "antonyms": ["halfhearted","insincere","cool"]
+    "synonyms": [
+      "earnest",
+      "sincere",
+      "complete"
+    ],
+    "antonyms": [
+      "halfhearted",
+      "insincere",
+      "cool"
+    ]
   },
   {
     "id": "willpower_inter_10",
     "word": "Willpower",
     "partOfSpeech": "noun",
     "difficulty": "Moderate",
-    "tags": ["Literature", "Formal Speech"],
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
     "englishDefinition": "Control exerted to do something or restrain from impulses.",
     "tamilDefinition": "மனவுறுதி, சுயகட்டுப்பாடு.",
     "literaryContext": {
@@ -1106,10 +1168,18 @@ export const dataW: VocabularyEntry[] = [
       "tamil": "அந்தப் பழக்கத்தைக் கடக்க மிகுந்த மனவுறுதி தேவைப்பட்டது."
     },
     "formalSpeechContext": {
-      "english": "It took great willpower to overcome the habit.",
-      "tamil": "அந்தப் பழக்கத்தைக் கடக்க மிகுந்த மனவுறுதி தேவைப்பட்டது."
+      "english": "Reforming complex tax structures demands strong political willpower from parliament.",
+      "tamil": "சிக்கலான வரி அமைப்புகளைச் சீரமைப்பது நாடாளுமன்றத்தின் வலுவான அரசியல் மனஉறுதியைக் கோருகிறது."
     },
-    "synonyms": ["determination","resolve","self-control"],
-    "antonyms": ["indecision","weakness","spinelessness"]
+    "synonyms": [
+      "determination",
+      "resolve",
+      "self-control"
+    ],
+    "antonyms": [
+      "indecision",
+      "weakness",
+      "spinelessness"
+    ]
   }
 ];
