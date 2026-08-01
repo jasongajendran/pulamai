@@ -1181,5 +1181,122 @@ export const dataW: VocabularyEntry[] = [
       "weakness",
       "spinelessness"
     ]
+  },
+  {
+    "id": "wimp",
+    "word": "Wimp",
+    "partOfSpeech": "noun",
+    "difficulty": "Basic",
+    "tags": [
+      "Ethics & Society"
+    ],
+    "englishDefinition": "A weak or cowardly person (informal).",
+    "tamilDefinition": "பலவீனமானவர் அல்லது கோழை.",
+    "literaryContext": {
+      "english": "He refused to be called a wimp and stepped forward to accept the challenge.",
+      "tamil": "தான் கோழை என்று அழைக்கப்படுவதை மறுத்து, அவர் சவாலை ஏற்க முன்னோக்கி வந்தார்.",
+      "sourceNote": "Youth Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Informal slang such as wimp is avoided in professional speech.",
+      "tamil": "தொழில்முறைப் பேச்சில் கோழை போன்ற முறசாரா வழக்குச் சொற்கள் தவிர்க்கப்படுகின்றன.",
+      "sourceNote": "Linguistics Guide"
+    },
+    "synonyms": [
+      "coward",
+      "weakling"
+    ],
+    "antonyms": [
+      "hero",
+      "brave person"
+    ]
+  },
+  {
+    "id": "wonky",
+    "word": "Wonky",
+    "partOfSpeech": "adj.",
+    "difficulty": "Basic",
+    "tags": [
+      "Arts & Culture"
+    ],
+    "englishDefinition": "Crooked; off-center; unsteady or unreliable (informal).",
+    "tamilDefinition": "கோணலான அல்லது சீரற்ற.",
+    "literaryContext": {
+      "english": "The carpenter adjusted the wonky leg of the handmade wooden table.",
+      "tamil": "தச்சர் கையால் செய்யப்பட்ட மர மேசையின் கோணலான காலைச் சரிசெய்தார்.",
+      "sourceNote": "Village Story"
+    },
+    "formalSpeechContext": {
+      "english": "A wonky sensor gave inaccurate temperature readings.",
+      "tamil": "ஒரு சீரற்ற உணரி துல்லியமற்ற வெப்பநிலை அளவீடுகளைக் கொடுத்தது.",
+      "sourceNote": "Engineering Log"
+    },
+    "synonyms": [
+      "crooked",
+      "unsteady",
+      "skewed"
+    ],
+    "antonyms": [
+      "straight",
+      "steady"
+    ]
+  },
+  {
+    "id": "whim",
+    "word": "Whim",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Literature",
+      "Philosophy"
+    ],
+    "englishDefinition": "A sudden desire or change of mind, especially one that is sudden or unexplained.",
+    "tamilDefinition": "தன்னியல்பான ஆசை அல்லது திடீர் விருப்பம்.",
+    "literaryContext": {
+      "english": "On a whim, she bought a ticket to the coastal town.",
+      "tamil": "ஒரு திடீர் விருப்பத்தால், அவள் கடற்கரை நகரத்திற்கு ஒரு டிக்கெட் வாங்கினாள்.",
+      "sourceNote": "Travel Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "Corporate policy should be based on sound research, not personal whim.",
+      "tamil": "நிறுவனக் கொள்கை தனிப்பட்ட திடீர் விருப்பத்தின் அடிப்படையில் இல்லாமல் ஒலி ஆராய்ச்சியின் அடிப்படையில் இருக்க வேண்டும்.",
+      "sourceNote": "Management Seminar"
+    },
+    "synonyms": [
+      "impulse",
+      "caprice",
+      "fancy"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "whisper",
+    "word": "Whisper",
+    "partOfSpeech": "verb",
+    "difficulty": "Basic",
+    "tags": [
+      "Literature",
+      "Arts & Culture"
+    ],
+    "englishDefinition": "Speak very softly using one's breath rather than one's vocal cords.",
+    "tamilDefinition": "மெதுவாகப் பேசுதல் அல்லது முணுமுணுத்தல்.",
+    "literaryContext": {
+      "english": "The wind seemed to whisper ancient secrets through the pine trees.",
+      "tamil": "பைன் மரங்களின் வழியே காற்று பண்டைய ரகசியங்களை முணுமுணுப்பது போல் இருந்தது.",
+      "sourceNote": "Poetic Description"
+    },
+    "formalSpeechContext": {
+      "english": "Witnesses were asked to speak into the microphone rather than whisper.",
+      "tamil": "சாட்சிகள் முணுமுணுக்காமல் ஒலிபெருக்கியில் பேசுமாறு கேட்டுக்கொள்ளப்பட்டனர்.",
+      "sourceNote": "Hearing Record"
+    },
+    "synonyms": [
+      "murmur",
+      "mutter"
+    ],
+    "antonyms": [
+      "shout",
+      "yell"
+    ]
   }
 ];

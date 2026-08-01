@@ -1348,5 +1348,282 @@ export const dataA: VocabularyEntry[] = [
       "calm",
       "reassure"
     ]
+  },
+  {
+    "id": "accentuate",
+    "word": "Accentuate",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Make more noticeable or prominent.",
+    "tamilDefinition": "வலியுறுத்துதல் அல்லது மேலோங்கச் செய்தல்.",
+    "literaryContext": {
+      "english": "The sunset accentuated the crimson hues of the ancient castle walls.",
+      "tamil": "சூரிய அஸ்தமனம் பண்டைய கோட்டைச் சுவர்களின் சிவப்புக் கோடுகளை மேலோங்கச் செய்தது.",
+      "sourceNote": "Romantic Prose"
+    },
+    "formalSpeechContext": {
+      "english": "The report highlights key metrics to accentuate operational growth.",
+      "tamil": "செயல்பாட்டு வளர்ச்சியை வலியுறுத்துவதற்காக இந்த அறிக்கை முக்கிய அளவீடுகளை முன்னிலைப்படுத்துகிறது.",
+      "sourceNote": "Executive Briefing"
+    },
+    "synonyms": [
+      "emphasize",
+      "highlight",
+      "underscore",
+      "stress"
+    ],
+    "antonyms": [
+      "mask",
+      "play down",
+      "understate"
+    ]
+  },
+  {
+    "id": "acquit",
+    "word": "Acquit",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Free someone from a criminal charge by a verdict of not guilty.",
+    "tamilDefinition": "குற்றமற்றவர் என விடுவித்தல்.",
+    "literaryContext": {
+      "english": "The high tribunal acquitted the general of treason after uncovering hidden letters.",
+      "tamil": "மறைக்கப்பட்ட கடிதங்களைக் கண்டுபிடித்த பிறகு, உயர் தீர்ப்பாயம் தளபதியைத் துரோகக் குற்றச்சாட்டிலிருந்து விடுவித்தது.",
+      "sourceNote": "Historical Memoir"
+    },
+    "formalSpeechContext": {
+      "english": "The jury voted unanimously to acquit the defendant.",
+      "tamil": "பிரதிவாதியை விடுவிக்க நடுவர் மன்றம் ஏகோபித்து வாக்களித்தது.",
+      "sourceNote": "Judicial Report"
+    },
+    "synonyms": [
+      "exonerate",
+      "absolve",
+      "vindicate"
+    ],
+    "antonyms": [
+      "convict",
+      "condemn"
+    ]
+  },
+  {
+    "id": "acrimony",
+    "word": "Acrimony",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Bitterness or ill feeling in speech or action.",
+    "tamilDefinition": "மனக்கசப்பு அல்லது கசப்பான பகைமை.",
+    "literaryContext": {
+      "english": "A long feud ended not with reconciliation, but with quiet acrimony.",
+      "tamil": "நீண்டகாலப் பகை சமரசத்துடன் முடியாமல் அமைதியான மனக்கசப்புடன் முடிந்தது.",
+      "sourceNote": "Literary Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "Both political parties agreed to discuss policy without personal acrimony.",
+      "tamil": "தனிப்பட்ட மனக்கசப்பு இல்லாமல் கொள்கைகளைப் விவாதிக்க இரண்டு அரசியல் கட்சிகளும் ஒப்புக்கொண்டன.",
+      "sourceNote": "Parliamentary Debate"
+    },
+    "synonyms": [
+      "rancor",
+      "bitterness",
+      "animosity"
+    ],
+    "antonyms": [
+      "goodwill",
+      "harmony",
+      "amity"
+    ]
+  },
+  {
+    "id": "adequately",
+    "word": "Adequately",
+    "partOfSpeech": "adv.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Formal Speech",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "To a satisfactory or acceptable extent.",
+    "tamilDefinition": "போதுமான அளவு அல்லது தகுந்த முறையில்.",
+    "literaryContext": {
+      "english": "Words could barely adequately express the awe of standing before the mountain peak.",
+      "tamil": "மலைச்சிகரத்தின் முன் நிற்பதன் வியப்பை சொற்களால் போதுமான அளவு விவரிக்க முடியவில்லை.",
+      "sourceNote": "Travel Prose"
+    },
+    "formalSpeechContext": {
+      "english": "The proposal adequately addresses all security concerns raised by the audit.",
+      "tamil": "தணிக்கையால் எழுப்பப்பட்ட அனைத்து பாதுகாப்பு கவலைகளையும் இந்த முன்மொழிவு போதுமான அளவு கையாள்கிறது.",
+      "sourceNote": "Security Audit"
+    },
+    "synonyms": [
+      "sufficiently",
+      "suitably",
+      "acceptably"
+    ],
+    "antonyms": [
+      "inadequately",
+      "insufficiently"
+    ]
+  },
+  {
+    "id": "albeit",
+    "word": "Albeit",
+    "partOfSpeech": "conjunction",
+    "difficulty": "Literary",
+    "tags": [
+      "Literature",
+      "Poetics & Rhetoric"
+    ],
+    "englishDefinition": "Though; even though.",
+    "tamilDefinition": "இருந்தபோதிலும் அல்லது என்றாலும்.",
+    "literaryContext": {
+      "english": "He smiled at the old memory, albeit with a faint touch of sadness.",
+      "tamil": "சற்று சோகத்தின் சாயலுடன் இருந்தபோதிலும், அவர் பழைய நினைவை எண்ணிப் புன்னகைத்தார்.",
+      "sourceNote": "Reflective Narrative"
+    },
+    "formalSpeechContext": {
+      "english": "Economic growth continued, albeit at a slower pace than anticipated.",
+      "tamil": "எதிர்பார்த்ததை விட மெதுவான வேகத்தில் இருந்தபோதிலும், பொருளாதார வளர்ச்சி தொடர்ந்தது.",
+      "sourceNote": "Economic Outlook"
+    },
+    "synonyms": [
+      "although",
+      "even though",
+      "notwithstanding"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "apartheid",
+    "word": "Apartheid",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Politics",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "A policy or system of segregation or discrimination on grounds of race.",
+    "tamilDefinition": "நிறவெறி அல்லது இனப் பாகுபாட்டுக் கொள்கை.",
+    "literaryContext": {
+      "english": "Poets of the movement wrote fervently against the cruelty of apartheid.",
+      "tamil": "இயக்கத்தின் கவிஞர்கள் நிறவெறியின் கொடூரத்திற்கு எதிராக உணர்ச்சிமிக்க கவிதைகளை எழுதினர்.",
+      "sourceNote": "Political Poetry"
+    },
+    "formalSpeechContext": {
+      "english": "Global sanctions helped accelerate the dismantling of racial apartheid.",
+      "tamil": "உலகளாவிய பொருளாதாரத் தடைகள் இன நிறவெறியை ஒழிப்பதை விரைவுபடுத்த உதவின.",
+      "sourceNote": "International Relations"
+    },
+    "synonyms": [
+      "segregation",
+      "discrimination",
+      "racialism"
+    ],
+    "antonyms": [
+      "integration",
+      "equality"
+    ]
+  },
+  {
+    "id": "appetizing",
+    "word": "Appetizing",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture"
+    ],
+    "englishDefinition": "Appealing or inviting, especially in food.",
+    "tamilDefinition": "பசி தூண்டும் அல்லது சுவையான.",
+    "literaryContext": {
+      "english": "The aroma of roasted spices made the evening meal irresistibly appetizing.",
+      "tamil": "வறுத்த மசாலாப் பொருட்களின் நறுமணம் மாலை உணவை பசி தூண்டுவதாக மாற்றியது.",
+      "sourceNote": "Culinary Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "Visual presentation is key to making culinary dishes look appetizing.",
+      "tamil": "சமையல் உணவுகளைப் பசி தூண்டுவதாகக் காட்டுவதற்கு பார்வை வடிவமைப்பு முக்கியமானது.",
+      "sourceNote": "Hospitality Management"
+    },
+    "synonyms": [
+      "savory",
+      "mouth-watering",
+      "palatable"
+    ],
+    "antonyms": [
+      "unappetizing",
+      "repulsive"
+    ]
+  },
+  {
+    "id": "arbitrary",
+    "word": "Arbitrary",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Politics"
+    ],
+    "englishDefinition": "Based on random choice or personal whim, rather than reason.",
+    "tamilDefinition": "தன்னிச்சையான அல்லது வரம்பற்ற.",
+    "literaryContext": {
+      "english": "The tyrant issued arbitrary decrees that baffled his subjects.",
+      "tamil": "கொடுங்கோலன் தனது குடிமக்களைக் குழப்பும் தன்னிச்சையான கட்டளைகளைப் பிறப்பித்தான்.",
+      "sourceNote": "Historical Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Standardized testing reduces the risk of arbitrary evaluation in admissions.",
+      "tamil": "தரப்படுத்தப்பட்ட தேர்வுகள் சேர்க்கையில் தன்னிச்சையான மதிப்பீட்டின் ஆபத்தைக் குறைக்கின்றன.",
+      "sourceNote": "Educational Policy"
+    },
+    "synonyms": [
+      "capricious",
+      "random",
+      "whimsical"
+    ],
+    "antonyms": [
+      "reasoned",
+      "systematic"
+    ]
+  },
+  {
+    "id": "attic",
+    "word": "Attic",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture",
+      "Literature"
+    ],
+    "englishDefinition": "A space or room just below the roof of a building.",
+    "tamilDefinition": "மாடி அறை அல்லது மேல் தளம்.",
+    "literaryContext": {
+      "english": "Dusty chests of letters lay forgotten in the quiet house attic.",
+      "tamil": "அமைதியான வீட்டின் மாடி அறையில் தூசி படிந்த கடிதப் பெட்டிகள் மறக்கப்பட்டு இருந்தன.",
+      "sourceNote": "Gothic Romance"
+    },
+    "formalSpeechContext": {
+      "english": "Proper insulation of the house attic lowers winter heating costs.",
+      "tamil": "வீட்டின் மாடி அறையைச் சரியாகக் காப்பிடுவது குளிர்கால வெப்பச் செலவைக் குறைக்கிறது.",
+      "sourceNote": "Architectural Design"
+    },
+    "synonyms": [
+      "loft",
+      "garret"
+    ],
+    "antonyms": [
+      "basement",
+      "cellar"
+    ]
   }
 ];

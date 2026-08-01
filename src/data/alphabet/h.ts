@@ -1254,5 +1254,191 @@ export const dataH: VocabularyEntry[] = [
       "inhumanity",
       "barbarity"
     ]
+  },
+  {
+    "id": "harness",
+    "word": "Harness",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Science",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Control and make use of natural resources or power.",
+    "tamilDefinition": "பயன்படுத்துதல் அல்லது கட்டுப்படுத்தி இயக்குதல்.",
+    "literaryContext": {
+      "english": "Ancient engineers learned to harness the power of river currents for irrigation.",
+      "tamil": "பண்டைய பொறியாளர்கள் பாசனத்திற்காக ஆற்று நீரோட்டத்தின் ஆற்றலைப் பயன்படுத்தக் கற்றுக்கொண்டனர்.",
+      "sourceNote": "Historical Treatise"
+    },
+    "formalSpeechContext": {
+      "english": "The nation aims to harness solar and wind energy to achieve carbon neutrality.",
+      "tamil": "கார்பன் நடுநிலையை அடைய சூரிய மற்றும் காற்று ஆற்றலைப் பயன்படுத்த நாடு இலக்கு வைத்துள்ளது.",
+      "sourceNote": "Energy Policy Address"
+    },
+    "synonyms": [
+      "utilize",
+      "exploit",
+      "channel",
+      "employ"
+    ],
+    "antonyms": [
+      "waste",
+      "squander"
+    ]
+  },
+  {
+    "id": "heyday",
+    "word": "Heyday",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture",
+      "Literature"
+    ],
+    "englishDefinition": "The period of a person's or thing's greatest success, popularity, or vigor.",
+    "tamilDefinition": "பொற்காலம் அல்லது உச்சக்கட்டம்.",
+    "literaryContext": {
+      "english": "In the heyday of maritime trade, port cities flourished with wealth.",
+      "tamil": "கடல் வர்த்தகத்தின் பொற்காலத்தில், துறைமுக நகரங்கள் செல்வத்தால் செழித்தோங்கின.",
+      "sourceNote": "Economic History"
+    },
+    "formalSpeechContext": {
+      "english": "Retrospective exhibitions celebrate the artist's creative output during his heyday.",
+      "tamil": "கடந்தகாலக் கண்காட்சிகள் கலைஞரின் பொற்காலத்தில் அவரது ஆக்கப்பூர்வமான படைப்புகளைக் கொண்டாடுகின்றன.",
+      "sourceNote": "Museum Catalog"
+    },
+    "synonyms": [
+      "prime",
+      "peak",
+      "zenith",
+      "golden age"
+    ],
+    "antonyms": [
+      "nadir",
+      "decline"
+    ]
+  },
+  {
+    "id": "horrendous",
+    "word": "Horrendous",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Extremely unpleasant, shocking, or terrifying.",
+    "tamilDefinition": "பயங்கரமான அல்லது கொடூரமான.",
+    "literaryContext": {
+      "english": "The chronicler recorded the horrendous devastation caused by the cyclone.",
+      "tamil": "புயலால் ஏற்பட்ட கொடூரமான பேரழிவை வரலாற்று ஆசிரியர் பதிவு செய்தார்.",
+      "sourceNote": "Historical Chronicle"
+    },
+    "formalSpeechContext": {
+      "english": "Emergency teams responded to the horrendous traffic accident on the highway.",
+      "tamil": "நெடுஞ்சாலையில் நடந்த கொடூரமான போக்குவரத்து விபத்துக்கு அவசரப்படைகள் துரிதமாகச் செயல்பட்டன.",
+      "sourceNote": "Safety Report"
+    },
+    "synonyms": [
+      "dreadful",
+      "appalling",
+      "terrible"
+    ],
+    "antonyms": [
+      "delightful",
+      "wonderful"
+    ]
+  },
+  {
+    "id": "hyperbole",
+    "word": "Hyperbole",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Poetics & Rhetoric"
+    ],
+    "englishDefinition": "Exaggerated statements or claims not meant to be taken literally.",
+    "tamilDefinition": "உயர்வு நவிற்சி அல்லது மிகைப்படுத்தல்.",
+    "literaryContext": {
+      "english": "Classical bards frequently used hyperbole to magnify the deeds of kingly patrons.",
+      "tamil": "அரச புரவலர்களின் செயல்களை மிகைப்படுத்தச் செம்மொழிப் புலவர்கள் அடிக்கடி உயர்வு நவிற்சியைப் பயன்படுத்தினர்.",
+      "sourceNote": "Rhetorical Criticism"
+    },
+    "formalSpeechContext": {
+      "english": "Analysts urged investors to look beyond marketing hyperbole when judging startup valuations.",
+      "tamil": "தொடக்க நிறுவனங்களின் மதிப்பிட்டை மதிப்பிடும் போது சந்தைப்படுத்தல் மிகைப்படுத்தலுக்கு அப்பால் பார்க்க முதலீட்டாளர்களை ஆய்வாளர்கள் கேட்டுக்கொண்டனர்.",
+      "sourceNote": "Venture Capital Briefing"
+    },
+    "synonyms": [
+      "exaggeration",
+      "overstatement",
+      "embellishment"
+    ],
+    "antonyms": [
+      "understatement"
+    ]
+  },
+  {
+    "id": "hypocrisy",
+    "word": "Hypocrisy",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Philosophy"
+    ],
+    "englishDefinition": "The practice of claiming to have moral standards to which one's behavior does not conform.",
+    "tamilDefinition": "போலித்தனம் அல்லது வஞ்சகம்.",
+    "literaryContext": {
+      "english": "The playwright exposed the moral hypocrisy of the high society elites.",
+      "tamil": "நாடக ஆசிரியர் உயர் சமூக பிரபுக்களின் ஒழுக்க போலித்தனத்தை வெளிப்படுத்தினார்.",
+      "sourceNote": "Dramatic Criticism"
+    },
+    "formalSpeechContext": {
+      "english": "Voters expressed outrage at the hypocrisy of politicians ignoring laws they enacted.",
+      "tamil": "தாங்கள் இயற்றிய சட்டங்களைப் புறக்கணிக்கும் அரசியல்வாதிகளின் போலித்தனத்தைக் கண்டு வாக்காளர்கள் ஆத்திரமடைந்தனர்.",
+      "sourceNote": "Political Commentary"
+    },
+    "synonyms": [
+      "duplicity",
+      "insincerity",
+      "deceit"
+    ],
+    "antonyms": [
+      "sincerity",
+      "honesty",
+      "candour"
+    ]
+  },
+  {
+    "id": "hypothetically",
+    "word": "Hypothetically",
+    "partOfSpeech": "adv.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ],
+    "englishDefinition": "By imagining a possibility rather than reality; theoretically.",
+    "tamilDefinition": "கருதுகோள் அடிப்படையில் அல்லது கோட்பாட்டளவில்.",
+    "literaryContext": {
+      "english": "The philosopher pondered how a perfectly just society might hypothetically function.",
+      "tamil": "ஒரு பூரணமான நீதியான சமூகம் கருதுகோள் அடிப்படையில் எவ்வாறு இயங்கக்கூடும் என்று தத்துவஞானி சிந்தித்தார்.",
+      "sourceNote": "Philosophical Dialogue"
+    },
+    "formalSpeechContext": {
+      "english": "Hypothetically, lower interest rates could stimulate capital investment in manufacturing.",
+      "tamil": "கருதுகோள் அடிப்படையில், குறைந்த வட்டி விகிதங்கள் உற்பத்தித்துறையில் மூலதன முதலீட்டைத் தூண்டக்கூடும்.",
+      "sourceNote": "Central Bank Policy Note"
+    },
+    "synonyms": [
+      "theoretically",
+      "speculatively"
+    ],
+    "antonyms": [
+      "factually",
+      "empirically"
+    ]
   }
 ];

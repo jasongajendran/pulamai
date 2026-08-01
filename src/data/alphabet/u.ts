@@ -1196,5 +1196,97 @@ export const dataU: VocabularyEntry[] = [
       "suppression",
       "secrecy"
     ]
+  },
+  {
+    "id": "unscathed",
+    "word": "Unscathed",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Literature",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Without suffering any injury, damage, or harm.",
+    "tamilDefinition": "காயமடையாத அல்லது சேதமடையாத.",
+    "literaryContext": {
+      "english": "Miraculously, the ancient shrine emerged unscathed from the fire.",
+      "tamil": "அதிசயமாக, பண்டைய ஆலயம் தீயிலிருந்து காயமடையாமல் தப்பியது.",
+      "sourceNote": "Temple History"
+    },
+    "formalSpeechContext": {
+      "english": "The driver walked away unscathed thanks to modern vehicle airbags.",
+      "tamil": "நவீன வாகனக் காற்றுப்பைகளுக்கு நன்றி கூறி ஓட்டுநர் காயமடையாமல் தப்பித்துச் சென்றார்.",
+      "sourceNote": "Safety Report"
+    },
+    "synonyms": [
+      "unharmed",
+      "uninjured",
+      "intact"
+    ],
+    "antonyms": [
+      "injured",
+      "damaged"
+    ]
+  },
+  {
+    "id": "underpin",
+    "word": "Underpin",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Support, justify, or form the basis for.",
+    "tamilDefinition": "அடித்தளமாக அமைதல் அல்லது ஆதரித்தல்.",
+    "literaryContext": {
+      "english": "Ethical principles underpin the philosophical narrative of the epic.",
+      "tamil": "நெறிமுறைக் கோட்பாடுகள் காப்பியத்தின் தத்துவப் புனைகதைக்கு அடித்தளமாக அமைகின்றன.",
+      "sourceNote": "Literary Theory"
+    },
+    "formalSpeechContext": {
+      "english": "Robust legal frameworks underpin investor confidence in international markets.",
+      "tamil": "வலுவான சட்டக் கட்டமைப்புகள் சர்வதேச சந்தைகளில் முதலீட்டாளர் நம்பிக்கைக்கு அடித்தளமாக அமைகின்றன.",
+      "sourceNote": "Financial Law Journal"
+    },
+    "synonyms": [
+      "support",
+      "buttress",
+      "substantiate"
+    ],
+    "antonyms": [
+      "undermine"
+    ]
+  },
+  {
+    "id": "untapped",
+    "word": "Untapped",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Formal Speech",
+      "Economics"
+    ],
+    "englishDefinition": "(of a resource) not yet exploited or used.",
+    "tamilDefinition": "பயன்படுத்தப்படாத அல்லது தொடப்படாத.",
+    "literaryContext": {
+      "english": "The remote valley harbored an untapped wealth of rare medicinal flora.",
+      "tamil": "தொலைதூரப் பள்ளத்தாக்கில் அரிதான மூலிகைத் தாவரங்களின் பயன்படுத்தப்படாத செல்வம் இருந்தது.",
+      "sourceNote": "Botanical Prose"
+    },
+    "formalSpeechContext": {
+      "english": "Renewable geothermal energy represents a vast untapped resource.",
+      "tamil": "புதுப்பிக்கத்தக்க புவிவெப்ப ஆற்றல் ஒரு பரந்த பயன்படுத்தப்படாத வளத்தைக் குறிக்கிறது.",
+      "sourceNote": "Energy Report"
+    },
+    "synonyms": [
+      "unexploited",
+      "unused",
+      "raw"
+    ],
+    "antonyms": [
+      "exploited",
+      "utilized"
+    ]
   }
 ];

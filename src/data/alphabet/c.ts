@@ -1316,5 +1316,443 @@ export const dataC: VocabularyEntry[] = [
       "confused",
       "rambling"
     ]
+  },
+  {
+    "id": "chaperone",
+    "word": "Chaperone",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "A person who accompanies and looks after another person or group.",
+    "tamilDefinition": "துணைச் செல்பவர் அல்லது பாதுகாப்பாளர்.",
+    "literaryContext": {
+      "english": "In Victorian times, a young lady could not attend a ball without a chaperone.",
+      "tamil": "விக்டோரியா காலத்தில், ஒரு இளம் பெண் பாதுகாப்பாளர் இல்லாமல் நடனக் விருந்திற்குச் செல்ல முடியாது.",
+      "sourceNote": "Victorian Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Teachers acted as official chaperones during the overseas student exchange program.",
+      "tamil": "வெளிநாட்டு மாணவர் பரிமாற்றத் திட்டத்தின் போது ஆசிரியர்கள் அதிகாரப்பூர்வ பாதுகாப்பாளர்களாகச் செயல்பட்டனர்.",
+      "sourceNote": "School Board Minutes"
+    },
+    "synonyms": [
+      "escort",
+      "guardian",
+      "protector"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "candour",
+    "word": "Candour",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Formal Speech"
+    ],
+    "englishDefinition": "The quality of being open and honest in expression; frankness.",
+    "tamilDefinition": "நேர்மை அல்லது ஒளிவுமறைவற்ற வெளிப்படைத்தன்மை.",
+    "literaryContext": {
+      "english": "Her disarming candour won the trust of even her most skeptical critics.",
+      "tamil": "அவளது நேர்மையான வெளிப்படைத்தன்மை அவளது கடுமையான விமர்சகர்களின் நம்பிக்கையையும் வென்றது.",
+      "sourceNote": "Biographical Sketch"
+    },
+    "formalSpeechContext": {
+      "english": "We appreciate the chief executive's candour regarding recent financial setbacks.",
+      "tamil": "சமீபத்திய நிதிப் பின்னடைவுகள் குறித்து தலைமை நிர்வாகியின் வெளிப்படையான நேர்மையை நாங்கள் பாராட்டுகிறோம்.",
+      "sourceNote": "Shareholder Meeting"
+    },
+    "synonyms": [
+      "frankness",
+      "openness",
+      "honesty",
+      "sincerity"
+    ],
+    "antonyms": [
+      "deceit",
+      "guile",
+      "evasiveness"
+    ]
+  },
+  {
+    "id": "crony",
+    "word": "Crony",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Politics",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "A close friend or companion, often used negatively in political context.",
+    "tamilDefinition": "நெருங்கிய கூட்டாளி அல்லது சுயநல நண்பன்.",
+    "literaryContext": {
+      "english": "The corrupt official surrounded himself with cronies who agreed with every decision.",
+      "tamil": "அவ ஊழல் அதிகாரி தனது ஒவ்வொரு முடிவையும் ஆதரிக்கும் சுயநலக் கூட்டாளிகளால் சூழப்பட்டிருந்தான்.",
+      "sourceNote": "Political Satire"
+    },
+    "formalSpeechContext": {
+      "english": "Anti-corruption agencies warned against crony capitalism and unfair government contracts.",
+      "tamil": "சுயநலக் கூட்டாளி முதலாளித்துவம் மற்றும் நியாயமற்ற அரசு ஒப்பந்தங்களுக்கு எதிராக ஊழல் எதிர்ப்பு அமைப்புகள் எச்சரித்தன.",
+      "sourceNote": "Governance Report"
+    },
+    "synonyms": [
+      "crony",
+      "henchman",
+      "sidekick",
+      "associate"
+    ],
+    "antonyms": [
+      "adversary",
+      "enemy"
+    ]
+  },
+  {
+    "id": "crumple",
+    "word": "Crumple",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture"
+    ],
+    "englishDefinition": "Crush something so that it becomes creased or crumpled.",
+    "tamilDefinition": "நொறுக்குதல் அல்லது சுருக்குதல்.",
+    "literaryContext": {
+      "english": "In frustration, the young scholar crumpled his failed draft and tossed it away.",
+      "tamil": "விரக்தியில், அந்த இளம் அறிஞர் தனது தோல்வியடைந்த வரைவைச் சுருட்டித் தூக்கி எறிந்தார்.",
+      "sourceNote": "Academic Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Impact tests analyze how vehicle frames crumple during collisions to absorb energy.",
+      "tamil": "மோதல்களின் போது ஆற்றலை உறிஞ்சுவதற்கு வாகனக் கூட்டமைப்புகள் எவ்வாறு சுருங்குகின்றன என்பதைப் பாதிப்புச் சோதனைகள் பகுப்பாய்வு செய்கின்றன.",
+      "sourceNote": "Automotive Safety Engineering"
+    },
+    "synonyms": [
+      "crush",
+      "rumple",
+      "crease",
+      "wrinkle"
+    ],
+    "antonyms": [
+      "smooth",
+      "flatten"
+    ]
+  },
+  {
+    "id": "curated",
+    "word": "Curated",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture"
+    ],
+    "englishDefinition": "Selected, organized, and presented using professional knowledge.",
+    "tamilDefinition": "தேர்ந்தெடுத்து ஒழுங்கமைக்கப்பட்ட.",
+    "literaryContext": {
+      "english": "The museum exhibited a finely curated selection of ancient Chola bronze sculptures.",
+      "tamil": "அருங்காட்சியகம் பண்டைய சோழர் வெண்கலச் சிலைகளின் நேர்த்தியாகத் தேர்ந்தெடுக்கப்பட்ட சேகரிப்பைக் காட்சிப்படுத்தியது.",
+      "sourceNote": "Art History Review"
+    },
+    "formalSpeechContext": {
+      "english": "Our digital library offers a curated collection of peer-reviewed scientific journals.",
+      "tamil": "எங்கள் டிஜிட்டல் நூலகம் சக மதிப்பாய்வு செய்யப்பட்ட அறிவியல் இதழ்களின் தேர்ந்தெடுக்கப்பட்ட தொகுப்பை வழங்குகிறது.",
+      "sourceNote": "Academic Portal"
+    },
+    "synonyms": [
+      "selected",
+      "organized",
+      "assembled"
+    ],
+    "antonyms": [
+      "haphazard",
+      "random"
+    ]
+  },
+  {
+    "id": "concurrence",
+    "word": "Concurrence",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Formal Speech",
+      "Law"
+    ],
+    "englishDefinition": "Agreement or consistency in opinion or action; simultaneous occurrence.",
+    "tamilDefinition": "ஒப்புதல் அல்லது ஏகமனதான உடன்பாடு.",
+    "literaryContext": {
+      "english": "The concurrence of celestial events inspired awe among the temple astronomers.",
+      "tamil": "வானியல் நிகழ்வுகளின் ஒரே நேரத்தில் இயைந்தது கோவில் வானியலாளர்களிடையே வியப்பை ஏற்படுத்தியது.",
+      "sourceNote": "Historical Chronicle"
+    },
+    "formalSpeechContext": {
+      "english": "The proposal requires the written concurrence of both governing boards.",
+      "tamil": "இந்த முன்மொழிவுக்கு இரு நிர்வாக வாரியங்களின் எழுத்துப்பூர்வ ஒப்புதல் தேவைப்படுகிறது.",
+      "sourceNote": "Corporate Charter"
+    },
+    "synonyms": [
+      "agreement",
+      "assent",
+      "accord",
+      "coincidence"
+    ],
+    "antonyms": [
+      "dissent",
+      "disagreement"
+    ]
+  },
+  {
+    "id": "cajole",
+    "word": "Cajole",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Poetics & Rhetoric"
+    ],
+    "englishDefinition": "Persuade someone to do something by sustained coaxing or flattery.",
+    "tamilDefinition": "இனிமையாகப் பேசி இணங்க வைத்தல்.",
+    "literaryContext": {
+      "english": "He tried to cajole the stubborn guard into opening the city gates at night.",
+      "tamil": "இரவில் நகர வாயில்களைத் திறக்க பிடிவாதமான காவலாளியை இனிமையாகப் பேசி இணங்க வைக்க முயன்றான்.",
+      "sourceNote": "Adventure Romance"
+    },
+    "formalSpeechContext": {
+      "english": "Diplomats worked tirelessly to cajole both sides back to the negotiating table.",
+      "tamil": "இரு தரப்பினரையும் மீண்டும் பேச்சுவார்த்தை மேசைக்குக் கொண்டுவர இராஜதந்திரிகள் சலிப்பின்றி முயன்றனர்.",
+      "sourceNote": "Peace Process Analysis"
+    },
+    "synonyms": [
+      "coax",
+      "wheedle",
+      "persuade",
+      "flatter"
+    ],
+    "antonyms": [
+      "dissuade",
+      "discourage",
+      "deter"
+    ]
+  },
+  {
+    "id": "complacent",
+    "word": "Complacent",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Philosophy"
+    ],
+    "englishDefinition": "Showing smug or uncritical satisfaction with oneself or accomplishments.",
+    "tamilDefinition": "சுய திருப்தியுடைய அல்லது அலட்சியமான.",
+    "literaryContext": {
+      "english": "The complacent king ignored warnings of approaching armies.",
+      "tamil": "சுய திருப்தி அடைந்த மன்னன் நெருங்கி வரும் படைகளின் எச்சரிக்கைகளைப் புறக்கணித்தான்.",
+      "sourceNote": "Epic Tale"
+    },
+    "formalSpeechContext": {
+      "english": "Industry leaders cannot afford to become complacent in a fast-moving market.",
+      "tamil": "வேகமாக இயங்கும் சந்தையில் தொழில்துறை தலைவர்கள் அலட்சியமாக இருக்க முடியாது.",
+      "sourceNote": "Business Keynote"
+    },
+    "synonyms": [
+      "smug",
+      "self-satisfied",
+      "careless"
+    ],
+    "antonyms": [
+      "vigilant",
+      "concerned",
+      "anxious"
+    ]
+  },
+  {
+    "id": "confer",
+    "word": "Confer",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Formal Speech",
+      "Politics"
+    ],
+    "englishDefinition": "Grant or bestow a title or degree; have discussions.",
+    "tamilDefinition": "வழங்குதல் அல்லது கலந்துரையாடுதல்.",
+    "literaryContext": {
+      "english": "The elders met under the banyan tree to confer on village matters.",
+      "tamil": "கிராம விஷயங்கள் குறித்துக் கலந்துரையாட மூத்தவர்கள் ஆலமரத்தின் கீழ் கூடினர்.",
+      "sourceNote": "Village History"
+    },
+    "formalSpeechContext": {
+      "english": "The university will confer honorary doctorates upon distinguished scholars.",
+      "tamil": "பல்கலைக்கழகம் சிறந்த அறிஞர்களுக்குக் கெளரவ முனைவர் பட்டங்களை வழங்கும்.",
+      "sourceNote": "Convocation Speech"
+    },
+    "synonyms": [
+      "bestow",
+      "grant",
+      "consult",
+      "deliberate"
+    ],
+    "antonyms": [
+      "withhold",
+      "deny"
+    ]
+  },
+  {
+    "id": "conspiracy",
+    "word": "Conspiracy",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Politics",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "A secret plan by a group to do something unlawful or harmful.",
+    "tamilDefinition": "சதித்திட்டம் அல்லது இரகசியத் திட்டம்.",
+    "literaryContext": {
+      "english": "A dark conspiracy threatened the stability of the royal house.",
+      "tamil": "ஒரு இருண்ட சதித்திட்டம் அரச குடும்பத்தின் ஸ்திரத்தன்மைக்கு அச்சுறுத்தலாக அமைந்தது.",
+      "sourceNote": "Historical Drama"
+    },
+    "formalSpeechContext": {
+      "english": "Prosecutors presented evidence of criminal conspiracy to manipulate stock prices.",
+      "tamil": "பங்கு விலைகளைக் கையாள்வதற்கான குற்றச் சதித்திட்டம் பற்றிய ஆதாரங்களை அரசு வழக்கறிஞர்கள் சமர்ப்பித்தனர்.",
+      "sourceNote": "Financial Fraud Trial"
+    },
+    "synonyms": [
+      "plot",
+      "scheme",
+      "collusion",
+      "intrigue"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "contemptuous",
+    "word": "Contemptuous",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Showing contempt; scornful.",
+    "tamilDefinition": "இகழ்ச்சியான அல்லது அலட்சியமான.",
+    "literaryContext": {
+      "english": "She gave a contemptuous laugh at his foolish proposal.",
+      "tamil": "அவனது முட்டாள்தனமான யோசனையைக் கேட்டு அவள் இகழ்ச்சியாகச் சிரித்தாள்.",
+      "sourceNote": "Classic Novel"
+    },
+    "formalSpeechContext": {
+      "english": "The board condemned the executive's contemptuous disregard for corporate policy.",
+      "tamil": "நிறுவனக் கொள்கையை நிர்வாகி இகழ்ச்சியாகப் புறக்கணித்ததை வாரியம் கண்டித்தது.",
+      "sourceNote": "Governance Review"
+    },
+    "synonyms": [
+      "scornful",
+      "disdainful",
+      "derisive"
+    ],
+    "antonyms": [
+      "respectful",
+      "reverent",
+      "admiring"
+    ]
+  },
+  {
+    "id": "contingent",
+    "word": "Contingent",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Formal Speech",
+      "Philosophy"
+    ],
+    "englishDefinition": "Subject to chance; dependent on other circumstances.",
+    "tamilDefinition": "சார்ந்திருக்கும் அல்லது தற்செயலான.",
+    "literaryContext": {
+      "english": "Human joy is often contingent upon unpredictable turns of fate.",
+      "tamil": "மனித மகிழ்ச்சி பெரும்பாலும் விதியின் கணிக்க முடியாத திருப்பங்களைச் சார்ந்திருக்கிறது.",
+      "sourceNote": "Philosophical Essays"
+    },
+    "formalSpeechContext": {
+      "english": "The funding approval is contingent upon completing environmental impact assessments.",
+      "tamil": "சுற்றுச்சூழல் பாதிப்பு மதிப்பீடுகளை முடிப்பதைப் பொறுத்தே நிதி ஒப்புதல் அளிக்கப்படும்.",
+      "sourceNote": "Government Finance Review"
+    },
+    "synonyms": [
+      "dependent",
+      "conditional",
+      "uncertain"
+    ],
+    "antonyms": [
+      "unconditional",
+      "certain"
+    ]
+  },
+  {
+    "id": "convict",
+    "word": "Convict",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Law",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Declare someone to be guilty of a criminal offense by the verdict of a court.",
+    "tamilDefinition": "குற்றவாளி எனத் தீர்ப்பளித்தல்.",
+    "literaryContext": {
+      "english": "The corrupt magistrate moved swiftly to convict innocent political dissidents.",
+      "tamil": "ஊழல் புரிந்த நீதிபதி அப்பாவி அரசியல் எதிர்ப்பாளர்களைக் குற்றவாளி என விரைவாகத் தீர்ப்பளித்தார்.",
+      "sourceNote": "Historical Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "The court had sufficient forensic evidence to convict the perpetrator.",
+      "tamil": "குற்றவாளியைக் குற்றவாளி என நிரூபிக்க நீதிமன்றத்திடம் போதுமான தடயவியல் ஆதாரங்கள் இருந்தன.",
+      "sourceNote": "Legal Report"
+    },
+    "synonyms": [
+      "condemn",
+      "find guilty",
+      "sentence"
+    ],
+    "antonyms": [
+      "acquit",
+      "exonerate"
+    ]
+  },
+  {
+    "id": "credible",
+    "word": "Credible",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Formal Speech",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Able to be believed; convincing.",
+    "tamilDefinition": "நம்பகமான அல்லது ஏற்றுக்கொள்ளக்கூடிய.",
+    "literaryContext": {
+      "english": "His testimony was so credible that the entire jury nodded in agreement.",
+      "tamil": "அவரது சாட்சியம் மிகவும் நம்பகமானதாக இருந்ததால் நடுவர் மன்றம் முழுவதும் தலையசைத்து ஒப்புக்கொண்டது.",
+      "sourceNote": "Courtroom Drama"
+    },
+    "formalSpeechContext": {
+      "english": "The committee requires credible scientific proof before authorizing new medicines.",
+      "tamil": "புதிய மருந்துகளுக்கு அனுமதி அளிப்பதற்கு முன் குழுவுக்கு நம்பகமான அறிவியல் ஆதாரம் தேவைப்படுகிறது.",
+      "sourceNote": "Health Policy Conference"
+    },
+    "synonyms": [
+      "believable",
+      "plausible",
+      "trustworthy"
+    ],
+    "antonyms": [
+      "incredible",
+      "unbelievable",
+      "implausible"
+    ]
   }
 ];

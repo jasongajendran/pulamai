@@ -1146,5 +1146,33 @@ export const dataN: VocabularyEntry[] = [
       "text",
       "speech"
     ]
+  },
+  {
+    "id": "niche",
+    "word": "Niche",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Formal Speech",
+      "Science"
+    ],
+    "englishDefinition": "A comfortable or suitable position in life or employment; specialized segment of market.",
+    "tamilDefinition": "குறிப்பிட்ட சிறப்பிடம் அல்லது தகுந்த இடம்.",
+    "literaryContext": {
+      "english": "The craftsman carved out a unique niche in traditional woodwork.",
+      "tamil": "கைவினைஞர் பாரம்பரிய மரவேலைப்பாடுகளில் ஒரு தனித்துவமான சிறப்பிடத்தை உருவாக்கினார்.",
+      "sourceNote": "Craft Biography"
+    },
+    "formalSpeechContext": {
+      "english": "Startups often succeed by targeting underserved niche markets.",
+      "tamil": "சேவை பெறாத குறிப்பிட்ட சிறு சந்தைகளைக் இலக்காகக் கொண்டு தொடக்க நிறுவனங்கள் பெரும்பாலும் வெற்றி பெறுகின்றன.",
+      "sourceNote": "Market Research"
+    },
+    "synonyms": [
+      "specialty",
+      "position",
+      "segment"
+    ],
+    "antonyms": []
   }
 ];

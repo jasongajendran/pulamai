@@ -1347,5 +1347,435 @@ export const dataE: VocabularyEntry[] = [
       "anxiety",
       "excitement"
     ]
+  },
+  {
+    "id": "enunciate",
+    "word": "Enunciate",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Formal Speech",
+      "Poetics & Rhetoric"
+    ],
+    "englishDefinition": "Say or pronounce clearly; express an idea in clear terms.",
+    "tamilDefinition": "தெளிவாகக் கூறுதல் அல்லது உச்சரித்தல்.",
+    "literaryContext": {
+      "english": "The scholar enunciated each word of the ancient chant with reverence.",
+      "tamil": "அறிஞர் பண்டைய மந்திரத்தின் ஒவ்வொரு சொல்லையும் மரியாதையுடன் தெளிவாக உச்சரித்தார்.",
+      "sourceNote": "Liturgical Analysis"
+    },
+    "formalSpeechContext": {
+      "english": "Leaders must enunciate strategic goals to inspire confidence.",
+      "tamil": "நம்பிக்கையை ஏற்படுத்த தலைவர்கள் மூலோபாய இலக்குகளைத் தெளிவாகக் கூற வேண்டும்.",
+      "sourceNote": "Executive Leadership Address"
+    },
+    "synonyms": [
+      "articulate",
+      "pronounce",
+      "state"
+    ],
+    "antonyms": [
+      "mumble",
+      "slur"
+    ]
+  },
+  {
+    "id": "eccentric",
+    "word": "Eccentric",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture",
+      "Literature"
+    ],
+    "englishDefinition": "Unconventional and slightly strange.",
+    "tamilDefinition": "விசித்திரமான அல்லது இயல்பு மாறிய.",
+    "literaryContext": {
+      "english": "The eccentric painter lived in a tower filled with exotic birds.",
+      "tamil": "விசித்திரமான ஓவியர் விசித்திரமான பறவைகள் நிறைந்த கோபுரத்தில் வசித்து வந்தார்.",
+      "sourceNote": "Gothic Tale"
+    },
+    "formalSpeechContext": {
+      "english": "While his work habits were eccentric, his intellectual contributions were brilliant.",
+      "tamil": "அவரது வேலைப் பழக்கவழக்கங்கள் விசித்திரமானவையாக இருந்தாலும், அவரது அறிவுசார் பங்களிப்புகள் சிறப்பானவையாக இருந்தன.",
+      "sourceNote": "Academic Biography"
+    },
+    "synonyms": [
+      "quirky",
+      "peculiar",
+      "unconventional"
+    ],
+    "antonyms": [
+      "conventional",
+      "normal"
+    ]
+  },
+  {
+    "id": "erratic",
+    "word": "Erratic",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Science",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Not even or regular in pattern; unpredictable.",
+    "tamilDefinition": "ஒழுங்கற்ற அல்லது சீரற்ற.",
+    "literaryContext": {
+      "english": "The boat navigated through erratic monsoon currents with great difficulty.",
+      "tamil": "பருவமழையின் ஒழுங்கற்ற நீரோட்டங்களில் படகு பெரும் சிரமத்துடன் பயணித்தது.",
+      "sourceNote": "Maritime Story"
+    },
+    "formalSpeechContext": {
+      "english": "Erratic financial performance prompted a review of internal controls.",
+      "tamil": "சீரற்ற நிதிச் செயல்பாடு உள் கட்டுப்பாடுகளை மறுபரிசீலனை செய்யத் தூண்டியது.",
+      "sourceNote": "Corporate Governance Audit"
+    },
+    "synonyms": [
+      "unpredictable",
+      "inconsistent",
+      "irregular"
+    ],
+    "antonyms": [
+      "steady",
+      "consistent"
+    ]
+  },
+  {
+    "id": "ethos",
+    "word": "Ethos",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "The characteristic spirit of a culture, era, or community.",
+    "tamilDefinition": "நெறிமுறைகள் அல்லது பண்பாட்டு இயல்பு.",
+    "literaryContext": {
+      "english": "Sangam literature expresses an ethos of courage, honor, and generosity.",
+      "tamil": "சங்க இலக்கியங்கள் வீரம், மானம், கொடை ஆகிய நெறிமுறைகளை வெளிப்படுத்துகின்றன.",
+      "sourceNote": "Tamil Literary History"
+    },
+    "formalSpeechContext": {
+      "english": "Our organizational ethos emphasizes transparency and ethical practice.",
+      "tamil": "எங்கள் நிறுவன நெறிமுறை வெளிப்படைத்தன்மையையும் நெறிமுறைப் பயிற்சியையும் வலியுறுத்துகிறது.",
+      "sourceNote": "Ethics Seminar"
+    },
+    "synonyms": [
+      "character",
+      "spirit",
+      "morals"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "elusive",
+    "word": "Elusive",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Philosophy"
+    ],
+    "englishDefinition": "Difficult to find, catch, or achieve.",
+    "tamilDefinition": "எளிதில் பிடிபடாத அல்லது புரிந்துகொள்ள முடியாத.",
+    "literaryContext": {
+      "english": "Peace remained an elusive dream for the war-torn city.",
+      "tamil": "போரினால் பாதிக்கப்பட்ட நகரத்திற்கு அமைதி என்பது எளிதில் பிடிபடாத கனவாகவே இருந்தது.",
+      "sourceNote": "Historical Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Finding a permanent solution to climate change remains an elusive goal.",
+      "tamil": "பருவநிலை மாற்றத்திற்கு நிரந்தரத் தீர்வு காண்பது எளிதில் பிடிபடாத இலக்காகவே உள்ளது.",
+      "sourceNote": "Environmental Summit"
+    },
+    "synonyms": [
+      "evasive",
+      "subtle",
+      "slippery"
+    ],
+    "antonyms": [
+      "tangible",
+      "accessible"
+    ]
+  },
+  {
+    "id": "embrace",
+    "word": "Embrace",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Literature",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Hold closely in one's arms; accept or support enthusiastically.",
+    "tamilDefinition": "தழுவுதல் அல்லது மகிழ்வோடு ஏற்றுக்கொள்ளுதல்.",
+    "literaryContext": {
+      "english": "The reunited family stepped forward to embrace in tears.",
+      "tamil": "மீண்டும் இணைந்த குடும்பத்தினர் கண்ணீருடன் கட்டியணைத்துத் தழுவினர்.",
+      "sourceNote": "Dramatic Prose"
+    },
+    "formalSpeechContext": {
+      "english": "Businesses must embrace technological innovation to survive.",
+      "tamil": "வணிகங்கள் உயிர்வாழ தொழில்நுட்ப கண்டுபிடிப்புகளை மகிழ்வோடு ஏற்றுக்கொள்ள வேண்டும்.",
+      "sourceNote": "Industry Report"
+    },
+    "synonyms": [
+      "adopt",
+      "welcome",
+      "clasp"
+    ],
+    "antonyms": [
+      "reject",
+      "spurn"
+    ]
+  },
+  {
+    "id": "emulate",
+    "word": "Emulate",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Literature"
+    ],
+    "englishDefinition": "Match or surpass a person or achievement, typically by imitation.",
+    "tamilDefinition": "பின்பற்றுதல் அல்லது நிகராக செயல்படுதல்.",
+    "literaryContext": {
+      "english": "Young poets aspire to emulate the grandeur of epic verse.",
+      "tamil": "இளம் கவிஞர்கள் காப்பியச் செய்யுளின் கம்பீரத்தைப் பின்பற்ற விரும்புகிறார்கள்.",
+      "sourceNote": "Literary Essay"
+    },
+    "formalSpeechContext": {
+      "english": "Developing economies aim to emulate successful renewable energy models.",
+      "tamil": "வளரும் பொருளாதாரங்கள் வெற்றிகரமான புதுப்பிக்கத்தக்க ஆற்றல் மாதிரிகளைப் பின்பற்ற இலக்கு வைக்கின்றன.",
+      "sourceNote": "Energy Policy Forum"
+    },
+    "synonyms": [
+      "imitate",
+      "copy",
+      "mirror"
+    ],
+    "antonyms": [
+      "neglect",
+      "ignore"
+    ]
+  },
+  {
+    "id": "endorse",
+    "word": "Endorse",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Politics",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Declare public approval or support of.",
+    "tamilDefinition": "ஒப்புதல் அளித்தல் அல்லது ஆதரித்தல்.",
+    "literaryContext": {
+      "english": "The respected master chose to endorse the pupil's innovative treatise.",
+      "tamil": "மதிப்பிற்குரிய ஆசான் சீடனின் புதுமையான ஆய்வுக் கட்டுரையை ஆதரிக்கத் தேர்ந்தெடுத்தார்.",
+      "sourceNote": "Academic Biography"
+    },
+    "formalSpeechContext": {
+      "english": "The council voted to endorse the proposed urban development policy.",
+      "tamil": "முன்மொழியப்பட்ட நகர்ப்புற வளர்ச்சிப் கொள்கைக்கு ஒப்புதல் அளிக்க சபை வாக்களித்தது.",
+      "sourceNote": "City Council Record"
+    },
+    "synonyms": [
+      "support",
+      "sanction",
+      "approve"
+    ],
+    "antonyms": [
+      "oppose",
+      "condemn"
+    ]
+  },
+  {
+    "id": "endow",
+    "word": "Endow",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Formal Speech",
+      "Arts & Culture"
+    ],
+    "englishDefinition": "Provide with a quality, ability, or asset; give income or property.",
+    "tamilDefinition": "கொடை கொடுத்தல் அல்லது வழங்குதல்.",
+    "literaryContext": {
+      "english": "Nature endowed the island with lush vegetation and fresh springs.",
+      "tamil": "இயற்கை அந்தத் தீவிற்கு பசுமையான தாவரங்களையும் நன்னீர் ஊற்றுகளையும் கொடையாக வழங்கியது.",
+      "sourceNote": "Nature Writing"
+    },
+    "formalSpeechContext": {
+      "english": "Generous patrons endowed a chair in classical Tamil scholarship.",
+      "tamil": "தாராளக் கொடையாளர்கள் செம்மொழித் தமிழ் ஆய்வில் ஒரு பீடத்திற்கு நிதி வழங்கினர்.",
+      "sourceNote": "University Endowment"
+    },
+    "synonyms": [
+      "bestow",
+      "provide",
+      "furnish"
+    ],
+    "antonyms": [
+      "deprive",
+      "divest"
+    ]
+  },
+  {
+    "id": "ensnared",
+    "word": "Ensnared",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Caught in or as if in a trap or snare.",
+    "tamilDefinition": "சிக்கிய அல்லது கண்ணியில் அகப்பட்ட.",
+    "literaryContext": {
+      "english": "The hero found himself ensnared in a web of palace intrigues.",
+      "tamil": "அரண்மனைச் சதி வலைக்குள் கதாநாயகன் கண்ணியில் அகப்பட்டுக் கொண்டான்.",
+      "sourceNote": "Historical Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Small businesses were ensnared by predatory loan contracts.",
+      "tamil": "சிறு தொழில்கள் கொடூரமான கடன் ஒப்பந்தங்களில் சிக்கிக்கொண்டன.",
+      "sourceNote": "Consumer Protection Report"
+    },
+    "synonyms": [
+      "trapped",
+      "entangled",
+      "enmeshed"
+    ],
+    "antonyms": [
+      "freed",
+      "released"
+    ]
+  },
+  {
+    "id": "ephemeral",
+    "word": "Ephemeral",
+    "partOfSpeech": "adj.",
+    "difficulty": "Literary",
+    "tags": [
+      "Philosophy",
+      "Literature"
+    ],
+    "englishDefinition": "Lasting for a very short time; fleeting.",
+    "tamilDefinition": "குறுகிய கால அல்லது தற்காலிகமான.",
+    "literaryContext": {
+      "english": "Poets often write of the ephemeral nature of morning dew.",
+      "tamil": "காலை பனித்துளியின் தற்காலிக இயல்பு குறித்துக் கவிஞர்கள் அடிக்கடி எழுதுகிறார்கள்.",
+      "sourceNote": "Lyric Poetry"
+    },
+    "formalSpeechContext": {
+      "english": "Popular trends in social media are often ephemeral.",
+      "tamil": "சமூக ஊடகங்களின் புகழ்பெற்ற போக்குகள் பெரும்பாலும் தற்காலிகமானவை.",
+      "sourceNote": "Media Studies"
+    },
+    "synonyms": [
+      "transient",
+      "fleeting",
+      "momentary"
+    ],
+    "antonyms": [
+      "permanent",
+      "enduring"
+    ]
+  },
+  {
+    "id": "essentially",
+    "word": "Essentially",
+    "partOfSpeech": "adv.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Formal Speech",
+      "Philosophy"
+    ],
+    "englishDefinition": "In a fundamental or basic way.",
+    "tamilDefinition": "அடிப்படையில் அல்லது முக்கியமாக.",
+    "literaryContext": {
+      "english": "Despite their differences, both stories are essentially about redemption.",
+      "tamil": "அவற்றின் வேறுபாடுகள் இருந்தபோதிலும், இரண்டு கதைகளும் அடிப்படையில் மீட்பைப் பற்றியதே.",
+      "sourceNote": "Literary Analysis"
+    },
+    "formalSpeechContext": {
+      "english": "The new legislation is essentially a revision of existing labor codes.",
+      "tamil": "புதிய சட்டம் அடிப்படையில் இருக்கும் தொழிலாளர் விதிகளின் திருத்தமாகும்.",
+      "sourceNote": "Legal Brief"
+    },
+    "synonyms": [
+      "fundamentally",
+      "basically",
+      "primarily"
+    ],
+    "antonyms": [
+      "superficially"
+    ]
+  },
+  {
+    "id": "exorbitant",
+    "word": "Exorbitant",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Unreasonably high, especially of a price.",
+    "tamilDefinition": "அதிகப்படியான அல்லது அளவுக்கு மீறிய.",
+    "literaryContext": {
+      "english": "The greedy merchant demanded exorbitant fees for basic supplies.",
+      "tamil": "பேராசை பிடித்த வணிகன் அடிப்படைப் பொருட்களுக்கு அளவுக்கு மீறிய கட்டணங்களைக் கோரினான்.",
+      "sourceNote": "Social Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "Regulators introduced price caps to prevent exorbitant tariffs.",
+      "tamil": "அளவுக்கு மீறிய கட்டணங்களைத் தடுக்க ஒழுங்குமுறை அமைப்புகள் விலை வரம்புகளை அறிமுகப்படுத்தின.",
+      "sourceNote": "Public Utility Hearing"
+    },
+    "synonyms": [
+      "excessive",
+      "extravagant",
+      "unreasonable"
+    ],
+    "antonyms": [
+      "reasonable",
+      "moderate"
+    ]
+  },
+  {
+    "id": "exploitation",
+    "word": "Exploitation",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Politics",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "The action of treating someone unfairly in order to benefit from their work.",
+    "tamilDefinition": "சுரண்டல் அல்லது தவறாகப் பயன்படுத்துதல்.",
+    "literaryContext": {
+      "english": "Novels of the era exposed the economic exploitation of agrarian workers.",
+      "tamil": "அந்தக் காலத்தின் நாவல்கள் விவசாயத் தொழிலாளர்களின் பொருளாதாரச் சுரண்டலை வெளிப்படுத்தின.",
+      "sourceNote": "Social Literature"
+    },
+    "formalSpeechContext": {
+      "english": "International law aims to eliminate child labor exploitation.",
+      "tamil": "குழந்தைத் தொழிலாளர் சுரண்டலை ஒழிப்பதை சர்வதேச சட்டம் இலக்காகக் கொண்டுள்ளது.",
+      "sourceNote": "Human Rights Assembly"
+    },
+    "synonyms": [
+      "abuse",
+      "victimization",
+      "misuse"
+    ],
+    "antonyms": [
+      "protection",
+      "empowerment"
+    ]
   }
 ];

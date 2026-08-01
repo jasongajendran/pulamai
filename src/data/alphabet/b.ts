@@ -1194,5 +1194,152 @@ export const dataB: VocabularyEntry[] = [
       "obstacle",
       "darkness"
     ]
+  },
+  {
+    "id": "blip",
+    "word": "Blip",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Science",
+      "Formal Speech"
+    ],
+    "englishDefinition": "A minor, temporary change or interruption in a status or trend.",
+    "tamilDefinition": "சிறிய தற்காலிக மாற்றம் அல்லது தடங்கல்.",
+    "literaryContext": {
+      "english": "The sudden drop in temperature was just a brief weather blip in the warm spring.",
+      "tamil": "திடீர் வெப்பநிலை வீழ்ச்சி வெதுவெதுப்பான வசந்த காலத்தில் ஒரு சிறிய தற்காலிக மாற்றமே.",
+      "sourceNote": "Meteorological Journal"
+    },
+    "formalSpeechContext": {
+      "english": "Quarterly inflation rose slightly, but analysts consider it a temporary blip.",
+      "tamil": "காலாண்டு பணவீக்கம் சற்று உயர்ந்தது, ஆனால் ஆய்வாளர்கள் அதை ஒரு தற்காலிக மாற்றமாகவே கருதுகிறார்கள்.",
+      "sourceNote": "Economic Briefing"
+    },
+    "synonyms": [
+      "hiccup",
+      "glitch",
+      "deviation"
+    ],
+    "antonyms": [
+      "norm",
+      "trend"
+    ]
+  },
+  {
+    "id": "bickering",
+    "word": "Bickering",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society",
+      "Literature"
+    ],
+    "englishDefinition": "Petty, trivial argument or quarreling.",
+    "tamilDefinition": "சுலபமான அல்லது சிறுசிறு சண்டை.",
+    "literaryContext": {
+      "english": "Constant bickering between the siblings echoed through the courtyard.",
+      "tamil": "சகோதரிகளிடையே ஏற்பட்ட தொடர் சிறுசிறு சண்டை முற்றம் முழுவதும் எதிரொலித்தது.",
+      "sourceNote": "Domestic Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Political bickering stalled the passage of crucial infrastructure legislation.",
+      "tamil": "அரசியல் சிறுசிறு பூசல்கள் முக்கிய உள்கட்டமைப்புச் சட்டத்தை நிறைவேற்றுவதைத் தடுத்து நிறுத்தின.",
+      "sourceNote": "Legislative News"
+    },
+    "synonyms": [
+      "quarreling",
+      "squabbling",
+      "wrangling"
+    ],
+    "antonyms": [
+      "harmony",
+      "accord"
+    ]
+  },
+  {
+    "id": "bogus",
+    "word": "Bogus",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Not genuine or true; fake.",
+    "tamilDefinition": "போலி அல்லது போலித்தனமான.",
+    "literaryContext": {
+      "english": "The charlatan tried to sell bogus elixirs to unsuspecting villagers.",
+      "tamil": "அந்த ஏமாற்றுக்காரன் கிராமவாசிகளுக்குப் போலி மூலிகைகளை விற்க முயன்றான்.",
+      "sourceNote": "Folklore"
+    },
+    "formalSpeechContext": {
+      "english": "Investigators uncovered a network issuing bogus academic diplomas.",
+      "tamil": "போலி கல்விச் சான்றிதழ்களை வழங்கும் வலையமைப்பை புலனாய்வாளர்கள் கண்டுபிடித்தனர்.",
+      "sourceNote": "Crime Report"
+    },
+    "synonyms": [
+      "fake",
+      "spurious",
+      "fraudulent",
+      "counterfeit"
+    ],
+    "antonyms": [
+      "genuine",
+      "authentic",
+      "legitimate"
+    ]
+  },
+  {
+    "id": "booger",
+    "word": "Booger",
+    "partOfSpeech": "noun",
+    "difficulty": "Basic",
+    "tags": [
+      "Arts & Culture"
+    ],
+    "englishDefinition": "Dried nasal mucus (informal).",
+    "tamilDefinition": "மூக்குச் சளி துணுக்கு.",
+    "literaryContext": {
+      "english": "The child giggled after wiping a booger on his sleeve.",
+      "tamil": "குழந்தை தன் சட்டையில் மூக்குச் சளியைத் துடைத்துவிட்டு சிரித்தது.",
+      "sourceNote": "Childrens Story"
+    },
+    "formalSpeechContext": {
+      "english": "Informal vocabulary such as booger is avoided in formal medical writing.",
+      "tamil": "முறையான மருத்துவ எழுத்தில் மூக்குச் சளி போன்ற முறசாராச் சொற்கள் தவிர்க்கப்படுகின்றன.",
+      "sourceNote": "Linguistics Note"
+    },
+    "synonyms": [
+      "nasal mucus",
+      "snot"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "binge-watching",
+    "word": "Binge Watching",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Watching multiple episodes of a television program in rapid succession.",
+    "tamilDefinition": "தொடர்ந்து பல அத்தியாயங்களை ஒரே மூச்சில் பார்த்தல்.",
+    "literaryContext": {
+      "english": "Rainy weekends often lead to long hours of binge watching classic historical dramas.",
+      "tamil": "மழைக்கால வார இறுதிகள் வரலாற்று நாடகங்களை ஒரே மூச்சில் பார்க்கும் நீண்ட மணிநேரங்களுக்கு வழிவகுக்கின்றன.",
+      "sourceNote": "Modern Essay"
+    },
+    "formalSpeechContext": {
+      "english": "Studies show that excessive binge watching can disrupt sleep patterns and physical health.",
+      "tamil": "அதிகமாகத் தொடர்ந்து தொலைக்காட்சி நாடகங்களைப் பார்ப்பது தூக்கத்தையும் உடலாரோக்கியத்தையும் பாதிக்கும் என்று ஆய்வுகள் காட்டுகின்றன.",
+      "sourceNote": "Health Study"
+    },
+    "synonyms": [
+      "marathon viewing",
+      "serial viewing"
+    ],
+    "antonyms": []
   }
 ];

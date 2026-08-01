@@ -1222,5 +1222,129 @@ export const dataV: VocabularyEntry[] = [
       "contempt",
       "scorn"
     ]
+  },
+  {
+    "id": "vehemently",
+    "word": "Vehemently",
+    "partOfSpeech": "adv.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
+    "englishDefinition": "In a forceful, passionate, or intense manner.",
+    "tamilDefinition": "உணர்ச்சிமிக்க வகையில் அல்லது ஆவேசமாக.",
+    "literaryContext": {
+      "english": "She vehemently denied the false accusations levied against her family.",
+      "tamil": "தன் குடும்பத்தின் மீது சுமத்தப்பட்ட பொற்ற குற்றச்சாட்டுகளை அவள் உணர்ச்சிமிக்க வகையில் மறுத்தாள்.",
+      "sourceNote": "Dramatic Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "Delegates vehemently opposed the proposed reduction in environmental funding.",
+      "tamil": "சுற்றுச்சூழல் நிதியைக் குறைக்க முன்மொழியப்பட்டதற்குப் பிரதிநிதிகள் ஆவேசமாக எதிர்ப்பு தெரிவித்தனர்.",
+      "sourceNote": "Parliamentary Debate"
+    },
+    "synonyms": [
+      "passionately",
+      "forcefully",
+      "fervently"
+    ],
+    "antonyms": [
+      "mildly",
+      "calmly"
+    ]
+  },
+  {
+    "id": "veracious",
+    "word": "Veracious",
+    "partOfSpeech": "adj.",
+    "difficulty": "Literary",
+    "tags": [
+      "Philosophy",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Speaking or representing the truth; truthful.",
+    "tamilDefinition": "உண்மையான அல்லது நேர்மையான.",
+    "literaryContext": {
+      "english": "The chronicler was famed for compiling a strictly veracious account of the war.",
+      "tamil": "போரைப் பற்றிய துல்லியமான உண்மையான கணக்கைத் தொகுத்ததற்காக வரலாற்று ஆசிரியர் புகழ்பெற்றார்.",
+      "sourceNote": "Historical Historiography"
+    },
+    "formalSpeechContext": {
+      "english": "A veracious witness testimony clarified the timeline of events.",
+      "tamil": "ஒரு உண்மையான சாட்சியத்தின் வாக்குமூலம் நிகழ்வுகளின் காலவரிசையைத் தெளிவுபடுத்தியது.",
+      "sourceNote": "Legal Proceedings"
+    },
+    "synonyms": [
+      "truthful",
+      "honest",
+      "accurate"
+    ],
+    "antonyms": [
+      "untruthful",
+      "deceitful"
+    ]
+  },
+  {
+    "id": "viable",
+    "word": "Viable",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Science",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Capable of working successfully; feasible.",
+    "tamilDefinition": "சாத்தியமான அல்லது செயல்படுத்தக்கூடிய.",
+    "literaryContext": {
+      "english": "The council debated whether a truce was still a viable option.",
+      "tamil": "போர்நிறுத்தம் இன்னும் ஒரு சாத்தியமான விருப்பமா என்று சபை விவாதித்தது.",
+      "sourceNote": "Historical Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Solar power has become an economically viable alternative to fossil fuels.",
+      "tamil": "சூரிய சக்தி புதைபடிவ எரிபொருட்களுக்குப் பொருளாதார ரீதியாகச் சாத்தியமான மாற்று வழிகளாக மாறியுள்ளது.",
+      "sourceNote": "Energy Economics"
+    },
+    "synonyms": [
+      "feasible",
+      "workable",
+      "practicable"
+    ],
+    "antonyms": [
+      "unviable",
+      "impractical"
+    ]
+  },
+  {
+    "id": "vividly",
+    "word": "Vividly",
+    "partOfSpeech": "adv.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Literature",
+      "Arts & Culture"
+    ],
+    "englishDefinition": "In a way that produces powerful feelings or strong, clear images in the mind.",
+    "tamilDefinition": "தெளிவாக அல்லது மனக்கண் முன் தோன்றும் வகையில்.",
+    "literaryContext": {
+      "english": "The author vividly described the bustling spice markets of ancient Madurai.",
+      "tamil": "பண்டைய மதுரையின் பரபரப்பான நறுமணப் பொருள் சந்தைகளை ஆசிரியர் மனக்கண் முன் தோன்றும் வகையில் விவரித்தார்.",
+      "sourceNote": "Historical Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "The witness vividly recalled the sequence of events during the incident.",
+      "tamil": "சம்பவத்தின் போது நிகழ்ந்த நிகழ்வுகளின் வரிசையைச் சாட்சி தெளிவாக நினைவு கூர்ந்தார்.",
+      "sourceNote": "Court Transcript"
+    },
+    "synonyms": [
+      "graphically",
+      "clearly",
+      "strikingly"
+    ],
+    "antonyms": [
+      "vaguely",
+      "dimly"
+    ]
   }
 ];

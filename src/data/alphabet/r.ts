@@ -1179,5 +1179,644 @@ export const dataR: VocabularyEntry[] = [
       "death",
       "decay"
     ]
+  },
+  {
+    "id": "rendezvous",
+    "word": "Rendezvous",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
+    "englishDefinition": "A meeting at an agreed time and place.",
+    "tamilDefinition": "சந்திப்பிடம் அல்லது ஒப்புக்கொள்ளப்பட்ட சந்திப்பு.",
+    "literaryContext": {
+      "english": "The spy arranged a secret rendezvous in the misty courtyard at midnight.",
+      "tamil": "ஒற்றன் நள்ளிரவில் மூடுபனி நிறைந்த முற்றத்தில் ஒரு இரகசியச் சந்திப்பிற்கு ஏற்பாடு செய்தான்.",
+      "sourceNote": "Espionage Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "Spacecraft completed an automated orbital rendezvous with the space station.",
+      "tamil": "விண்கலம் விண்வெளி நிலையத்துடன் தானியங்கு சுற்றுப்பாதை சந்திப்பை நிறைவு செய்தது.",
+      "sourceNote": "Aerospace Bulletin"
+    },
+    "synonyms": [
+      "meeting",
+      "appointment",
+      "tryst"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "restraint",
+    "word": "Restraint",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Unpassionate or self-controlled behavior.",
+    "tamilDefinition": "சுயக்கட்டுப்பாடு அல்லது கட்டுப்பாடு.",
+    "literaryContext": {
+      "english": "The king showed commendable restraint in forgiving his rebellious nephew.",
+      "tamil": "கிளர்ச்சி செய்த தன் மருமகனை மன்னிப்பதில் மன்னன் பாராட்டத்தக்க சுயக்கட்டுப்பாட்டைக் காட்டினான்.",
+      "sourceNote": "Historical Drama"
+    },
+    "formalSpeechContext": {
+      "english": "Central banks urged fiscal restraint to curb inflationary pressures.",
+      "tamil": "பணவீக்க அழுத்தங்களைக் கட்டுப்படுத்த நிதிக்கட்டுப்பாட்டை மத்திய வங்கிகள் வலியுறுத்தின.",
+      "sourceNote": "Monetary Policy Review"
+    },
+    "synonyms": [
+      "self-control",
+      "moderation",
+      "reserve"
+    ],
+    "antonyms": [
+      "excess",
+      "indulgence"
+    ]
+  },
+  {
+    "id": "redundancy",
+    "word": "Redundancy",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Formal Speech",
+      "Economics"
+    ],
+    "englishDefinition": "The state of being no longer needed or useful; lay-off from a job.",
+    "tamilDefinition": "தேவையற்ற நிலை அல்லது வேலையிழப்பு.",
+    "literaryContext": {
+      "english": "The editor stripped the draft of needless verbal redundancy.",
+      "tamil": "ஆசிரியர் வரைவிலிருந்து தேவையற்ற சொற் தேவையற்ற நிலையை நீக்கினார்.",
+      "sourceNote": "Style Manual"
+    },
+    "formalSpeechContext": {
+      "english": "Corporate restructuring resulted in job redundancy across several departments.",
+      "tamil": "நிறுவன மறுசீரமைப்பு பல துறைகளில் வேலையிழப்புக்கு வழிவகுத்தது.",
+      "sourceNote": "HR Notice"
+    },
+    "synonyms": [
+      "superfluity",
+      "surplus",
+      "repetition"
+    ],
+    "antonyms": [
+      "necessity",
+      "scarcity"
+    ]
+  },
+  {
+    "id": "respite",
+    "word": "Respite",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Philosophy"
+    ],
+    "englishDefinition": "A short period of rest or relief from something difficult or unpleasant.",
+    "tamilDefinition": "குறுகிய கால ஓய்வு அல்லது நிவாரணம்.",
+    "literaryContext": {
+      "english": "The cool evening breeze brought brief respite to the sun-weary travelers.",
+      "tamil": "குளிர்ந்த மாலைக் காற்று வெயிலால் களைப்படைந்த பயணிகளுக்குச் சிறிய ஓய்வைக் கொண்டு வந்தது.",
+      "sourceNote": "Travel Narrative"
+    },
+    "formalSpeechContext": {
+      "english": "Caregivers require scheduled respite to prevent professional burnout.",
+      "tamil": "பராமரிப்பாளர்களுக்குப் பணித்தடை ஏற்படுவதைத் தடுக்கத் திட்டமிடப்பட்ட ஓய்வு தேவைப்படுகிறது.",
+      "sourceNote": "Health Advocacy"
+    },
+    "synonyms": [
+      "break",
+      "pause",
+      "relief",
+      "hiatus"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "raft",
+    "word": "Raft",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society",
+      "Literature"
+    ],
+    "englishDefinition": "A flat buoyant structure used for water transport; a large number or collection.",
+    "tamilDefinition": "பரிசல் அல்லது பெரும்தொகுதி.",
+    "literaryContext": {
+      "english": "Survivors constructed a makeshift wooden raft to cross the raging river.",
+      "tamil": "உயிர் பிழைத்தவர்கள் பொங்கியெழும் ஆற்றைக் கடக்க ஒரு தற்காலிக மரப் பரிசலைக் கட்டினார்கள்.",
+      "sourceNote": "Survival Epic"
+    },
+    "formalSpeechContext": {
+      "english": "The government introduced a raft of new economic reforms.",
+      "tamil": "அரசாங்கம் புதிய பொருளாதார சீர்திருத்தங்களின் பெரும்தொகுதியை அறிமுகப்படுத்தியது.",
+      "sourceNote": "Policy Release"
+    },
+    "synonyms": [
+      "float",
+      "collection",
+      "multitude"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "racketeering",
+    "word": "Racketeering",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Law",
+      "Politics"
+    ],
+    "englishDefinition": "DISHONEST OR ILLEGAL COURSES OF BUSINESS; ORGANIZED CRIME.",
+    "tamilDefinition": "சட்டவிரோதக் கூட்டமைப்புத் தொழில் அல்லது மோசடி.",
+    "literaryContext": {
+      "english": "Undercover agents exposed the city syndicate's racketeering operations.",
+      "tamil": "ரகசிய முகவர்கள் நகர சிண்டிகேட்டின் சட்டவிரோதக் கூட்டமைப்புத் தொழிலை வெளிப்படுத்தினர்.",
+      "sourceNote": "Crime Thriller"
+    },
+    "formalSpeechContext": {
+      "english": "Federal prosecutors indicted suspects on multiple counts of racketeering.",
+      "tamil": "கூட்டாட்சி அரசு வழக்கறிஞர்கள் பல சட்டவிரோத மோசடிக் குற்றச்சாட்டுகளின் கீழ் சந்தேக நபர்கள் மீது குற்றப்பத்திரிகை தாக்கல் செய்தனர்.",
+      "sourceNote": "Justice Department Statement"
+    },
+    "synonyms": [
+      "extortion",
+      "organized crime",
+      "fraud"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "radical",
+    "word": "Radical",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Politics",
+      "Philosophy"
+    ],
+    "englishDefinition": "Affecting the fundamental nature of something; far-reaching or thorough.",
+    "tamilDefinition": "அடிப்படையான அல்லது தீவிரமான.",
+    "literaryContext": {
+      "english": "The philosopher proposed a radical reinterpretation of ancient ethics.",
+      "tamil": "தத்துவஞானி பண்டைய நெறிமுறைகளின் அடிப்படையான மறுவிளக்கத்தை முன்மொழிந்தார்.",
+      "sourceNote": "Philosophical Treatise"
+    },
+    "formalSpeechContext": {
+      "english": "The company announced radical changes to its governance structure.",
+      "tamil": "நிறுவனம் தனது நிர்வாக அமைப்பில் தீவிர மாற்றங்களை அறிவித்தது.",
+      "sourceNote": "Corporate Statement"
+    },
+    "synonyms": [
+      "fundamental",
+      "drastic",
+      "thorough"
+    ],
+    "antonyms": [
+      "superficial",
+      "moderate"
+    ]
+  },
+  {
+    "id": "radically",
+    "word": "Radically",
+    "partOfSpeech": "adv.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Formal Speech",
+      "Philosophy"
+    ],
+    "englishDefinition": "In a thorough or fundamental way.",
+    "tamilDefinition": "அடிப்படை ரீதியாக அல்லது முற்றிலும்.",
+    "literaryContext": {
+      "english": "Technology radically altered the way village bards preserved oral folklore.",
+      "tamil": "தொழில்நுட்பம் கிராமத்துப் புலவர்கள் வாய்மொழி நாட்டுப்புறவியலைப் பாதுகாத்த முறையை முற்றிலும் மாற்றியது.",
+      "sourceNote": "Cultural History"
+    },
+    "formalSpeechContext": {
+      "english": "Renewable energy has radically transformed regional power grids.",
+      "tamil": "புதுப்பிக்கத்தக்க ஆற்றல் பிராந்திய மின் இணைப்புகளை அடிப்படை ரீதியாக மாற்றியுள்ளது.",
+      "sourceNote": "Energy Sector Report"
+    },
+    "synonyms": [
+      "completely",
+      "fundamentally",
+      "thoroughly"
+    ],
+    "antonyms": [
+      "slightly",
+      "marginally"
+    ]
+  },
+  {
+    "id": "rampant",
+    "word": "Rampant",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Politics"
+    ],
+    "englishDefinition": "(especially of something unwelcome) flourishing or spreading unchecked.",
+    "tamilDefinition": "கட்டுப்பாடற்ற அல்லது பரவலாக உள்ள.",
+    "literaryContext": {
+      "english": "Rumors ran rampant through the besieged city streets.",
+      "tamil": "முற்றுகையிடப்பட்ட நகரத் தெருக்களில் வதந்திகள் கட்டுப்பாடின்றி பரவின.",
+      "sourceNote": "Historical Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Authorities instituted strict measures to curb rampant corruption.",
+      "tamil": "கட்டுப்பாடற்ற ஊழலைக் கட்டுப்படுத்த அதிகாரிகள் கடுமையான நடவடிக்கைகளை மேற்கொண்டனர்.",
+      "sourceNote": "Governance Review"
+    },
+    "synonyms": [
+      "unchecked",
+      "uncontrolled",
+      "widespread"
+    ],
+    "antonyms": [
+      "controlled",
+      "restrained"
+    ]
+  },
+  {
+    "id": "ratify",
+    "word": "Ratify",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Politics",
+      "Law"
+    ],
+    "englishDefinition": "Sign or give formal consent to (a treaty, contract, or agreement), making it officially valid.",
+    "tamilDefinition": "அதிகாரப்பூர்வமாக ஒப்புதல் அளித்தல்.",
+    "literaryContext": {
+      "english": "The council assembled at dawn to ratify the historic peace accord.",
+      "tamil": "வரலாற்றுச் சிறப்புமிக்க அமைதி ஒப்பந்தத்திற்கு அதிகாரப்பூர்வமாக ஒப்புதல் அளிக்க சபை விடியற்காலையில் கூடியது.",
+      "sourceNote": "Epic Chronicle"
+    },
+    "formalSpeechContext": {
+      "english": "Parliament voted unanimously to ratify the international trade treaty.",
+      "tamil": "சர்வதேச வர்த்தக ஒப்பந்தத்திற்கு அதிகாரப்பூர்வமாக ஒப்புதல் அளிக்க நாடாளுமன்றம் ஏகோபித்து வாக்களித்தது.",
+      "sourceNote": "Legislative Record"
+    },
+    "synonyms": [
+      "confirm",
+      "sanction",
+      "approve",
+      "endorse"
+    ],
+    "antonyms": [
+      "reject",
+      "nullify",
+      "revoke"
+    ]
+  },
+  {
+    "id": "recuperate",
+    "word": "Recuperate",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture",
+      "Science"
+    ],
+    "englishDefinition": "Recover from illness or exertion.",
+    "tamilDefinition": "உடல்நலம் தேறுதல் அல்லது மீண்டு வருதல்.",
+    "literaryContext": {
+      "english": "The weary knight stayed at the monastery to recuperate after the long campaign.",
+      "tamil": "நீண்ட போர்ப் பயணத்திற்குப் பிறகு உடல்நலம் தேற சோர்வுற்ற வீரன் மடத்திலேயே தங்கியிருந்தான்.",
+      "sourceNote": "Chivalric Romance"
+    },
+    "formalSpeechContext": {
+      "english": "Patients require adequate rest and nutrition to recuperate fully after surgery.",
+      "tamil": "அறுவை சிகிச்சைக்குப் பின் நோயாளிகள் முழுமையாக மீண்டு வர போதிய ஓய்வும் ஊட்டச்சத்தும் தேவை.",
+      "sourceNote": "Medical Guidelines"
+    },
+    "synonyms": [
+      "recover",
+      "heal",
+      "convalesce"
+    ],
+    "antonyms": [
+      "deteriorate",
+      "worsen"
+    ]
+  },
+  {
+    "id": "redress",
+    "word": "Redress",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Law",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Remedy or set right (an undesirable or unfair situation).",
+    "tamilDefinition": "நிவாரணம் அளித்தல் அல்லது சரிசெய்தல்.",
+    "literaryContext": {
+      "english": "The king vowed to redress the grievances of the wronged villagers.",
+      "tamil": "பாதிக்கப்பட்ட கிராமவாசிகளின் குறைகளுக்கு நிவாரணம் அளிப்பதாக மன்னன் சபதம் செய்தான்.",
+      "sourceNote": "Historical Epic"
+    },
+    "formalSpeechContext": {
+      "english": "Citizens filed a petition to redress systemic environmental injustice.",
+      "tamil": "முறையான சுற்றுச்சூழல் அநீதியைச் சரிசெய்யக் குடிமக்கள் மனு தாக்கல் செய்தனர்.",
+      "sourceNote": "Legal Advocacy"
+    },
+    "synonyms": [
+      "remedy",
+      "rectify",
+      "correct",
+      "compensate"
+    ],
+    "antonyms": [
+      "worsen",
+      "aggravate"
+    ]
+  },
+  {
+    "id": "refute",
+    "word": "Refute",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Prove (a statement or theory) to be wrong or false; disprove.",
+    "tamilDefinition": "மறுத்தல் அல்லது பொய்யென நிரூபித்தல்.",
+    "literaryContext": {
+      "english": "The philosopher wrote a cogent essay to refute the skeptics claims.",
+      "tamil": "சந்தேக நபர்களின் குற்றச்சாட்டுகளை மறுக்கத் தத்துவஞானி ஒரு வலிமையான கட்டுரையை எழுதினார்.",
+      "sourceNote": "Philosophical Polemic"
+    },
+    "formalSpeechContext": {
+      "english": "The defense attorney presented evidence that refuted the eyewitness testimony.",
+      "tamil": "நேரில் கண்ட சாட்சியத்தின் சாட்சியத்தை மறுக்கும் ஆதாரங்களை தற்காப்பு வழக்கறிஞர் சமர்ப்பித்தார்.",
+      "sourceNote": "Trial Transcript"
+    },
+    "synonyms": [
+      "disprove",
+      "rebut",
+      "confute"
+    ],
+    "antonyms": [
+      "confirm",
+      "prove",
+      "verify"
+    ]
+  },
+  {
+    "id": "regret",
+    "word": "Regret",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Literature",
+      "Philosophy"
+    ],
+    "englishDefinition": "A feeling of sadness, repentance, or disappointment over something done or lost.",
+    "tamilDefinition": "மனவருத்தம் அல்லது வருத்தம்.",
+    "literaryContext": {
+      "english": "In his twilight years, he looked back on his choices with poignant regret.",
+      "tamil": "தனது அந்திமக் காலத்தில், அவர் தனது தேர்வுகளை ஆழமான வருத்தத்துடன் திரும்பிப் பார்த்தார்.",
+      "sourceNote": "Elegiac Narrative"
+    },
+    "formalSpeechContext": {
+      "english": "The company expressed deep regret for the inconvenience caused by service delays.",
+      "tamil": "சேவை தாமதங்களால் ஏற்பட்ட அசௌகரியத்திற்கு நிறுவனம் ஆழ்ந்த வருத்தத்தை தெரிவித்துக் கொண்டது.",
+      "sourceNote": "Customer Relations Statement"
+    },
+    "synonyms": [
+      "remorse",
+      "repentance",
+      "sorrow"
+    ],
+    "antonyms": [
+      "satisfaction",
+      "contentment"
+    ]
+  },
+  {
+    "id": "repercussion",
+    "word": "Repercussion",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Politics",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "An unintended consequence occurring some time after an event or action.",
+    "tamilDefinition": "பின்விளைவு அல்லது எதிர்வினை.",
+    "literaryContext": {
+      "english": "The assassination had severe geopolitical repercussions across the region.",
+      "tamil": "படுகொலை பிராந்தியம் முழுவதும் கடுமையான புவிசார் அரசியல் பின்விளைவுகளை ஏற்படுத்தியது.",
+      "sourceNote": "Historical Memoir"
+    },
+    "formalSpeechContext": {
+      "english": "Analysts evaluated the long-term economic repercussions of the tariff increase.",
+      "tamil": "வரி உயர்வால் ஏற்படும் நீண்டகால பொருளாதார பின்விளைவுகளை ஆய்வாளர்கள் மதிப்பீடு செய்தனர்.",
+      "sourceNote": "Trade Analysis"
+    },
+    "synonyms": [
+      "consequence",
+      "aftermath",
+      "outcome"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ramifications",
+    "word": "Ramifications",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Formal Speech",
+      "Philosophy"
+    ],
+    "englishDefinition": "A consequence of an action or event, especially when complex or unwelcome.",
+    "tamilDefinition": "சிக்கலான பின்விளைவுகள்.",
+    "literaryContext": {
+      "english": "The betrayal had far-reaching ramifications for the entire dynasty.",
+      "tamil": "துரோகம் முழு வம்சத்திற்கும் வெகுதூர பின்விளைவுகளை ஏற்படுத்தியது.",
+      "sourceNote": "Dynastic History"
+    },
+    "formalSpeechContext": {
+      "english": "Directors assessed the legal and financial ramifications of the merger.",
+      "tamil": "இயக்கினர்கள் இணைப்பு காரணமாக ஏற்படும் சட்ட மற்றும் நிதி பின்விளைவுகளை மதிப்பிட்டனர்.",
+      "sourceNote": "Board Briefing"
+    },
+    "synonyms": [
+      "consequences",
+      "implications",
+      "outcomes"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "resent",
+    "word": "Resent",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society",
+      "Literature"
+    ],
+    "englishDefinition": "Feel bitterness or indignation at (a circumstance, action, or person).",
+    "tamilDefinition": "மனக்கசப்பு அடைதல் அல்லது கோபப்படுதல்.",
+    "literaryContext": {
+      "english": "He began to resent the intruder who occupied his ancestors estate.",
+      "tamil": "தன் முன்னோர்களின் எஸ்டேட்டை ஆக்கிரமித்த அத்துமீறுபவரைக் கண்டு அவன் மனக்கசப்பு அடையத் தொடங்கினான்.",
+      "sourceNote": "Gothic Romance"
+    },
+    "formalSpeechContext": {
+      "english": "Employees resent unfair performance evaluation systems.",
+      "tamil": "ஊழியர்கள் நியாயமற்ற செயல்திறன் மதிப்பீட்டு முறைகளைக் கண்டு கோபமடைகிறார்கள்.",
+      "sourceNote": "Workplace Relations"
+    },
+    "synonyms": [
+      "begrudge",
+      "grudge",
+      "mind"
+    ],
+    "antonyms": [
+      "appreciate",
+      "welcome"
+    ]
+  },
+  {
+    "id": "resentful",
+    "word": "Resentful",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Literature",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Feeling or expressing bitterness or indignation at having been treated unfairly.",
+    "tamilDefinition": "மனக்கசப்புள்ள அல்லது ஆத்திரமடைந்த.",
+    "literaryContext": {
+      "english": "The resentful heir plotted in secret to reclaim his lost inheritance.",
+      "tamil": "மனக்கசப்புள்ள வாரிசு தன் இழந்த பரம்பரைச் சொத்தை மீட்க இரகசியமாகச் சதி செய்தான்.",
+      "sourceNote": "Historical Drama"
+    },
+    "formalSpeechContext": {
+      "english": "Unresolved workplace grievances leave staff feeling resentful.",
+      "tamil": "தீர்க்கப்படாத பணியிடக் குறைகள் ஊழியர்களை மனக்கசப்புடன் இருக்கச் செய்கின்றன.",
+      "sourceNote": "HR Management"
+    },
+    "synonyms": [
+      "bitter",
+      "aggrieved",
+      "indignant"
+    ],
+    "antonyms": [
+      "content",
+      "grateful"
+    ]
+  },
+  {
+    "id": "resentment",
+    "word": "Resentment",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Philosophy"
+    ],
+    "englishDefinition": "Bitter indignation at having been treated unfairly.",
+    "tamilDefinition": "மனக்கசப்பு அல்லது வஞ்சம்.",
+    "literaryContext": {
+      "english": "Years of neglect bred deep resentment between the neighboring clans.",
+      "tamil": "பல வருடப் புறக்கணிப்பு பக்கத்து வம்சங்களிடையே ஆழமான மனக்கசப்பை வளர்த்தது.",
+      "sourceNote": "Clan Saga"
+    },
+    "formalSpeechContext": {
+      "english": "Transparent communication reduces resentment during corporate restructuring.",
+      "tamil": "வெளிப்படையான தொடர்பு நிறுவன மறுசீரமைப்பின் போது மனக்கசப்பைக் குறைக்கிறது.",
+      "sourceNote": "Change Management"
+    },
+    "synonyms": [
+      "bitterness",
+      "rancor",
+      "animosity"
+    ],
+    "antonyms": [
+      "goodwill",
+      "contentment"
+    ]
+  },
+  {
+    "id": "resurgence",
+    "word": "Resurgence",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "History",
+      "Arts & Culture"
+    ],
+    "englishDefinition": "An increase or revival after a period of little activity, popularity, or occurrence.",
+    "tamilDefinition": "மறுமலர்ச்சி அல்லது மீண்டும் எழுச்சி பெறல்.",
+    "literaryContext": {
+      "english": "The decade saw a resurgence of interest in classical Tamil epic poetry.",
+      "tamil": "அந்தத் தசாப்தம் செம்மொழித் தமிழ் காப்பியக் கவிதைகளில் மீண்டும் எழுச்சி பெறுவதைக் கண்டது.",
+      "sourceNote": "Literary Renaissance"
+    },
+    "formalSpeechContext": {
+      "english": "Public health agencies warned of a potential resurgence of infectious diseases.",
+      "tamil": "தொற்றுநோய்களின் சாத்தியமான மறுமலர்ச்சி குறித்துப் பொது சுகாதார அமைப்புகள் எச்சரித்தன.",
+      "sourceNote": "Epidemiology Advisory"
+    },
+    "synonyms": [
+      "revival",
+      "renewal",
+      "rebirth",
+      "resurrection"
+    ],
+    "antonyms": [
+      "decline",
+      "downturn"
+    ]
+  },
+  {
+    "id": "retribution",
+    "word": "Retribution",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Literature"
+    ],
+    "englishDefinition": "Punishment inflicted on someone as vengeance for a wrong or criminal act.",
+    "tamilDefinition": "பழிவாங்கல் அல்லது தக்க தண்டனை.",
+    "literaryContext": {
+      "english": "The tyrant lived in constant fear of divine retribution.",
+      "tamil": "கொடுங்கோலன் தெய்வீகத் தக்க தண்டனையைக் கண்டு தொடர் பயத்தில் வாழ்ந்தான்.",
+      "sourceNote": "Tragic Drama"
+    },
+    "formalSpeechContext": {
+      "english": "Justice systems balance retribution with rehabilitation for offenders.",
+      "tamil": "நீதி அமைப்புகள் குற்றவாளிகளுக்குத் தக்க தண்டனையையும் மறுவாழ்வையும் சமப்படுத்துகின்றன.",
+      "sourceNote": "Penology Forum"
+    },
+    "synonyms": [
+      "vengeance",
+      "revenge",
+      "retaliation"
+    ],
+    "antonyms": [
+      "forgiveness",
+      "mercy"
+    ]
   }
 ];

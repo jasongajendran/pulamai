@@ -1189,5 +1189,65 @@ export const dataG: VocabularyEntry[] = [
       "awkward",
       "ungainly"
     ]
+  },
+  {
+    "id": "grumble",
+    "word": "Grumble",
+    "partOfSpeech": "verb",
+    "difficulty": "Basic",
+    "tags": [
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Complain in a bad-tempered way.",
+    "tamilDefinition": "முணுமுணுத்தல் அல்லது குறை கூறுதல்.",
+    "literaryContext": {
+      "english": "The soldiers began to grumble under their breath about the meager rations.",
+      "tamil": "குறைந்த அளவு உணவைக் குறித்துப் வீரர்கள் மனதுக்குள் முணுமுணுக்கத் தொடங்கினர்.",
+      "sourceNote": "Military Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Employee satisfaction surveys help identify underlying reasons why staff grumble.",
+      "tamil": "ஊழியர் திருப்தி ஆய்வுகள் ஊழியர்கள் குறை கூறுவதற்கான அடிப்படையான காரணங்களைக் கண்டறிய உதவுகின்றன.",
+      "sourceNote": "HR Management"
+    },
+    "synonyms": [
+      "mumble",
+      "gripe",
+      "complain"
+    ],
+    "antonyms": [
+      "praise",
+      "compliment"
+    ]
+  },
+  {
+    "id": "grumpy",
+    "word": "Grumpy",
+    "partOfSpeech": "adj.",
+    "difficulty": "Basic",
+    "tags": [
+      "Arts & Culture"
+    ],
+    "englishDefinition": "Bad-tempered and irritable.",
+    "tamilDefinition": "எரிச்சலடைகிற அல்லது கோபமான.",
+    "literaryContext": {
+      "english": "The grumpy old gatekeeper refused to admit visitors after dusk.",
+      "tamil": "எரிச்சலடையும் பழைய வாயிற்காவலன் அந்திக்குப் பிறகு பார்வையாளர்களை அனுமதிக்க மறுத்துவிட்டான்.",
+      "sourceNote": "Childrens Fantasy"
+    },
+    "formalSpeechContext": {
+      "english": "Lack of rest can make individuals grumpy and reduce productivity.",
+      "tamil": "போதிய ஓய்வின்மை நபர்களை எரிச்சலடையச் செய்து உற்பத்தித் திறனைக் குறைக்கும்.",
+      "sourceNote": "Occupational Health"
+    },
+    "synonyms": [
+      "irritable",
+      "cantankerous",
+      "testy"
+    ],
+    "antonyms": [
+      "cheerful",
+      "amiable"
+    ]
   }
 ];

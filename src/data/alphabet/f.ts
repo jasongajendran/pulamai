@@ -1193,5 +1193,249 @@ export const dataF: VocabularyEntry[] = [
       "cool",
       "indifferent"
     ]
+  },
+  {
+    "id": "foragers",
+    "word": "Foragers",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society",
+      "Science"
+    ],
+    "englishDefinition": "People or animals that search widely for food or supplies.",
+    "tamilDefinition": "உணவு தேடுபவர்கள்.",
+    "literaryContext": {
+      "english": "Early tribal foragers relied on native forest flora for survival.",
+      "tamil": "ஆரம்பகால பழங்குடி உணவு தேடுபவர்கள் வாழ்வதற்குத் தூர்விக் காட்டு தாவரங்களை நம்பியிருந்தனர்.",
+      "sourceNote": "Anthropological Note"
+    },
+    "formalSpeechContext": {
+      "english": "Studies of ancient foragers provide insights into human evolutionary history.",
+      "tamil": "பண்டைய உணவு தேடுபவர்கள் பற்றிய ஆய்வுகள் மனித பரிணாம வரலாற்றைப் பற்றிய நுண்ணறிவுகளை வழங்குகின்றன.",
+      "sourceNote": "Archaeological Symposium"
+    },
+    "synonyms": [
+      "gatherers",
+      "hunters",
+      "scavengers"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "fickle",
+    "word": "Fickle",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Literature",
+      "Philosophy"
+    ],
+    "englishDefinition": "Changing frequently, especially as regards one's loyalties or interests.",
+    "tamilDefinition": "நிலையற்ற அல்லது மாறும் தன்மையுடைய.",
+    "literaryContext": {
+      "english": "The novel depicted the fickle nature of political popularity.",
+      "tamil": "நாவல் அரசியல் புகழின் நிலையற்ற தன்மையை விவரித்தது.",
+      "sourceNote": "Political Satire"
+    },
+    "formalSpeechContext": {
+      "english": "Fickle consumer demand forces retailers to adjust inventory rapidly.",
+      "tamil": "மாறும் நுகர்வோர் தேவை சில்லறை விற்பனையாளர்களை சரக்குகளை விரைவாக மாற்ற நிர்ப்பந்திக்கிறது.",
+      "sourceNote": "Retail Management Review"
+    },
+    "synonyms": [
+      "capricious",
+      "unpredictable",
+      "changeable"
+    ],
+    "antonyms": [
+      "constant",
+      "steadfast"
+    ]
+  },
+  {
+    "id": "fickleness",
+    "word": "Fickleness",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Literature"
+    ],
+    "englishDefinition": "Changeability or inconstancy in affection or purpose.",
+    "tamilDefinition": "நிலையற்ற தன்மை அல்லது மாறும் குணம்.",
+    "literaryContext": {
+      "english": "Poets often bemoaned the fickleness of fortune and fame.",
+      "tamil": "அதிர்ஷ்டம் மற்றும் புகழின் நிலையற்ற தன்மையைக் கவிஞர்கள் அடிக்கடி புலம்பினர்.",
+      "sourceNote": "Renaissance Sonnet"
+    },
+    "formalSpeechContext": {
+      "english": "Analysts warned against making long-term investments based on market fickleness.",
+      "tamil": "சந்தையின் நிலையற்ற தன்மையின் அடிப்படையில் நீண்டகால முதலீடுகளைச் செய்வதற்கு எதிராக ஆய்வாளர்கள் எச்சரித்தனர்.",
+      "sourceNote": "Financial Advisory"
+    },
+    "synonyms": [
+      "inconstancy",
+      "unreliability",
+      "caprice"
+    ],
+    "antonyms": [
+      "constancy",
+      "stability"
+    ]
+  },
+  {
+    "id": "flurry",
+    "word": "Flurry",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture",
+      "Formal Speech"
+    ],
+    "englishDefinition": "A sudden short period of commotion or activity; a light snowfall.",
+    "tamilDefinition": "திடீர் பரபரப்பு அல்லது லேசான பனிப்பொழிவு.",
+    "literaryContext": {
+      "english": "A flurry of autumn leaves swirled across the cobblestone pathway.",
+      "tamil": "கற்கள் பதித்த பாதையில் இலையுதிர்கால இலைகளின் சுழற்சி சுழன்றடித்தது.",
+      "sourceNote": "Poetic Description"
+    },
+    "formalSpeechContext": {
+      "english": "The announcement triggered a flurry of diplomatic correspondence.",
+      "tamil": "இந்த அறிவிப்பு இராஜதந்திரக் கடிதப் பரிமாற்றங்களின் திடீர் பரபரப்பைத் தூண்டியது.",
+      "sourceNote": "Foreign Office Press Release"
+    },
+    "synonyms": [
+      "bustle",
+      "spurt",
+      "fluster"
+    ],
+    "antonyms": [
+      "calm",
+      "stillness"
+    ]
+  },
+  {
+    "id": "flouting",
+    "word": "Flouting",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Politics",
+      "Law"
+    ],
+    "englishDefinition": "Openly disregarding a rule, law, or convention.",
+    "tamilDefinition": "சட்டத்தைப் பகிரங்கமாக மீறுதல்.",
+    "literaryContext": {
+      "english": "The rebellious lord took pride in flouting the royal commands.",
+      "tamil": "அரசனின் கட்டளைகளைப் பகிரங்கமாக மீறுவதில் கிளர்ச்சிப் பிரபு பெருமைப்பட்டான்.",
+      "sourceNote": "Historical Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Companies found flouting environmental regulations will face severe fines.",
+      "tamil": "சுற்றுச்சூழல் விதிகளைப் பகிரங்கமாக மீறும் நிறுவனங்கள் கடுமையான அபராதங்களைச் சந்திக்க நேரிடும்.",
+      "sourceNote": "Environmental Enforcement Report"
+    },
+    "synonyms": [
+      "defying",
+      "violating",
+      "disregarding"
+    ],
+    "antonyms": [
+      "obeying",
+      "observing"
+    ]
+  },
+  {
+    "id": "flaunting",
+    "word": "Flaunting",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Displaying something ostentatiously, especially in order to provoke envy.",
+    "tamilDefinition": "பெருமைக்காக வெளிக்காட்டுதல்.",
+    "literaryContext": {
+      "english": "She was criticized for flaunting her sudden wealth before her neighbors.",
+      "tamil": "தன் திடீர் செல்வத்தைத் பக்கத்து வீட்டாரின் முன் பெருமைக்காக வெளிக்காட்டியதற்காக அவள் விமர்சிக்கப்பட்டாள்.",
+      "sourceNote": "Social Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Ethical codes discourage leaders from flaunting privileges over subordinates.",
+      "tamil": "தலைவர்கள் கீழ்பணிபுரிபவர்களிடம் சலுகைகளைப் பெருமைக்காக வெளிக்காட்டுவதை நெறிமுறை விதிகள் ஊக்குவிப்பதில்லை.",
+      "sourceNote": "Ethics Code"
+    },
+    "synonyms": [
+      "parading",
+      "brandishing",
+      "showcasing"
+    ],
+    "antonyms": [
+      "concealing",
+      "hiding"
+    ]
+  },
+  {
+    "id": "fanatic",
+    "word": "Fanatic",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Politics",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "A person filled with excessive and single-minded zeal for a cause.",
+    "tamilDefinition": "தீவிரவாதி அல்லது வெறியர்.",
+    "literaryContext": {
+      "english": "The general was portrayed as a fanatic obsessed with total conquest.",
+      "tamil": "தளபதி முழுமையான வெற்றியிலேயே வெறி கொண்ட ஒருவராகச் சித்தரிக்கப்பட்டார்.",
+      "sourceNote": "Epic Narrative"
+    },
+    "formalSpeechContext": {
+      "english": "Moderate leaders urged dialogue to counter the influence of political fanatics.",
+      "tamil": "அரசியல் வெறியர்களின் செல்வாக்கை எதிர்கொள்ள மிதமான தலைவர்கள் பேச்சுவார்த்தையை வலியுறுத்தினர்.",
+      "sourceNote": "Peace Conference"
+    },
+    "synonyms": [
+      "zealot",
+      "extremist",
+      "radical"
+    ],
+    "antonyms": [
+      "moderate",
+      "neutral"
+    ]
+  },
+  {
+    "id": "frenzy",
+    "word": "Frenzy",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "A state or period of uncontrolled excitement or wild behavior.",
+    "tamilDefinition": "கட்டுப்பாடற்ற ஆவேசம் அல்லது வெறித்தனம்.",
+    "literaryContext": {
+      "english": "The crowd dissolved into a frenzy of applause as the monarch entered.",
+      "tamil": "மன்னன் நுழைந்ததும் கூட்டம் கைதட்டலின் கட்டுப்பாடற்ற ஆவேசத்தில் மூழ்கியது.",
+      "sourceNote": "Historical Scene"
+    },
+    "formalSpeechContext": {
+      "english": "Speculative frenzy in the stock market often precedes a financial crash.",
+      "tamil": "பங்குச் சந்தையில் ஊக வெறித்தனம் பெரும்பாலும் நிதி வீழ்ச்சிக்கு முன்னதாக ஏற்படுகிறது.",
+      "sourceNote": "Market Analysis"
+    },
+    "synonyms": [
+      "hysteria",
+      "mania",
+      "turmoil"
+    ],
+    "antonyms": [
+      "calm",
+      "tranquility"
+    ]
   }
 ];

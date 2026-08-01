@@ -1127,5 +1127,35 @@ export const dataK: VocabularyEntry[] = [
       "stationary",
       "idle"
     ]
+  },
+  {
+    "id": "kerfuffle",
+    "word": "Kerfuffle",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society"
+    ],
+    "englishDefinition": "A commotion or fuss, especially one caused by conflicting views.",
+    "tamilDefinition": "சிறு குழப்பம் அல்லது சலசலப்பு.",
+    "literaryContext": {
+      "english": "A minor kerfuffle broke out over who should lead the parade.",
+      "tamil": "ஊர்வலத்தை யார் வழிநடத்துவது என்பது குறித்து சிறிய குழப்பம் ஏற்பட்டது.",
+      "sourceNote": "Humorous Tale"
+    },
+    "formalSpeechContext": {
+      "english": "The administrative kerfuffle was resolved after clarification from the director.",
+      "tamil": "இயக்கினரின் விளக்கத்திற்குப் பிறகு நிர்வாகச் சலசலப்பு தீர்க்கப்பட்டது.",
+      "sourceNote": "Corporate Memorandum"
+    },
+    "synonyms": [
+      "fuss",
+      "commotion",
+      "hullabaloo"
+    ],
+    "antonyms": [
+      "peace",
+      "quiet"
+    ]
   }
 ];

@@ -1174,5 +1174,35 @@ export const dataJ: VocabularyEntry[] = [
       "mournful",
       "gloomy"
     ]
+  },
+  {
+    "id": "jitters",
+    "word": "Jitters",
+    "partOfSpeech": "noun",
+    "difficulty": "Basic",
+    "tags": [
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Feelings of extreme nervousness.",
+    "tamilDefinition": "நடுக்கம் அல்லது மிகுந்த பதற்றம்.",
+    "literaryContext": {
+      "english": "She drank a glass of water to calm her pre-stage jitters.",
+      "tamil": "மேடைக்கு ஏறும் முன் தன் பதற்றத்தைத் தணிக்க அவள் ஒரு டம்ளர் தண்ணீர் குடித்தாள்.",
+      "sourceNote": "Theatrical Memoir"
+    },
+    "formalSpeechContext": {
+      "english": "Market jitters led to a temporary decline in tech stocks.",
+      "tamil": "சந்தை பதற்றம் தொழில்நுட்பப் பங்குகளில் தற்காலிக வீழ்ச்சிக்கு வழிவகுத்தது.",
+      "sourceNote": "Market Briefing"
+    },
+    "synonyms": [
+      "nervousness",
+      "anxiety",
+      "butterflies"
+    ],
+    "antonyms": [
+      "calmness",
+      "composure"
+    ]
   }
 ];

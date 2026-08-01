@@ -1242,5 +1242,319 @@ export const dataD: VocabularyEntry[] = [
       "inferiority",
       "similarity"
     ]
+  },
+  {
+    "id": "despise",
+    "word": "Despise",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Feel contempt or a deep repugnance for.",
+    "tamilDefinition": "அருவருத்தல் அல்லது வெறுத்தல்.",
+    "literaryContext": {
+      "english": "He came to despise the hollow flatteries of the royal court.",
+      "tamil": "அரசவையின் வீணான புகழ்ச்சிகளை அவன் வெறுக்கத் தொடங்கினான்.",
+      "sourceNote": "Historical Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "Ethical leaders despise dishonesty and corruption in public life.",
+      "tamil": "நேர்மையான தலைவர்கள் பொது வாழ்க்கையில் நேர்மையின்மையையும் ஊழலையும் வெறுக்கிறார்கள்.",
+      "sourceNote": "Public Administration Lecture"
+    },
+    "synonyms": [
+      "abhor",
+      "loathe",
+      "detest"
+    ],
+    "antonyms": [
+      "admire",
+      "cherish",
+      "respect"
+    ]
+  },
+  {
+    "id": "defiant",
+    "word": "Defiant",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Politics",
+      "Literature"
+    ],
+    "englishDefinition": "Showing defiance; boldly resistant.",
+    "tamilDefinition": "எதிர்த்து நிற்கும் அல்லது அடங்காத.",
+    "literaryContext": {
+      "english": "The defiant hero stood alone against the invading army.",
+      "tamil": "அடங்காத வீரன் படையெடுத்து வந்த படைகளுக்கெதிராகத் தனியாக நிமிர்ந்து நின்றான்.",
+      "sourceNote": "Epic Tale"
+    },
+    "formalSpeechContext": {
+      "english": "The union remained defiant despite threats of legal injunctions.",
+      "tamil": "சட்டப்பூர்வத் தடையுத்தரவு அச்சுறுத்தல்கள் இருந்தபோதிலும் தொழிற்சங்கம் எதிர்த்து நின்றது.",
+      "sourceNote": "Labor Disputes Review"
+    },
+    "synonyms": [
+      "rebellious",
+      "bold",
+      "resisting"
+    ],
+    "antonyms": [
+      "submissive",
+      "obedient"
+    ]
+  },
+  {
+    "id": "discretionary",
+    "word": "Discretionary",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Formal Speech",
+      "Economics"
+    ],
+    "englishDefinition": "Available for use at the discretion of the user.",
+    "tamilDefinition": "தன்னுரிமைக்குட்பட்ட அல்லது விருப்பத்தின்பேரிலான.",
+    "literaryContext": {
+      "english": "The governor was granted discretionary powers during emergencies.",
+      "tamil": "அவசரநிலைகளின் போது ஆளுநருக்குத் தன்னுரிமை அதிகாரங்கள் வழங்கப்பட்டன.",
+      "sourceNote": "Political Chronicle"
+    },
+    "formalSpeechContext": {
+      "english": "Rising inflation reduces discretionary spending for middle-income households.",
+      "tamil": "உயரும் பணவீக்கம் நடுத்தர வருமானக் குடும்பங்களின் விருப்பச் செலவைக் குறைக்கிறது.",
+      "sourceNote": "Economic Survey"
+    },
+    "synonyms": [
+      "optional",
+      "voluntary",
+      "flexible"
+    ],
+    "antonyms": [
+      "mandatory",
+      "compulsory"
+    ]
+  },
+  {
+    "id": "delve",
+    "word": "Delve",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Philosophy"
+    ],
+    "englishDefinition": "Reach inside a receptacle and search for something; investigate thoroughly.",
+    "tamilDefinition": "ஆழ்ந்து ஆராய்தல் அல்லது துருவிப் பார்த்தல்.",
+    "literaryContext": {
+      "english": "Historians delve into ancient palm-leaf manuscripts to reconstruct forgotten eras.",
+      "tamil": "மறக்கப்பட்ட காலகட்டங்களை மறுகட்டமைப்பு செய்ய வரலாற்று ஆசிரியர்கள் பண்டைய ஓலைச்சுவடிகளை ஆழ்ந்து ஆராய்கின்றனர்.",
+      "sourceNote": "Historiography"
+    },
+    "formalSpeechContext": {
+      "english": "The commission will delve into the underlying causes of the systemic failure.",
+      "tamil": "ஆணையம் முறையான தோல்வியின் அடிப்படையான காரணங்களை ஆழ்ந்து ஆராயும்.",
+      "sourceNote": "Inquiry Commission Report"
+    },
+    "synonyms": [
+      "investigate",
+      "explore",
+      "probe",
+      "examine"
+    ],
+    "antonyms": [
+      "glance",
+      "ignore"
+    ]
+  },
+  {
+    "id": "degenerated",
+    "word": "Degenerated",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Science"
+    ],
+    "englishDefinition": "Deteriorated or declined from a former higher state.",
+    "tamilDefinition": "சீர்குலைந்த அல்லது தரம் குறைந்த.",
+    "literaryContext": {
+      "english": "Once a majestic empire, it degenerated into petty warring factions.",
+      "tamil": "ஒரு காலத்தில் கம்பீரமான சாம்ராஜ்யமாக இருந்தது, சிறிய சண்டையிடும் பிரிவுகளாகச் சீர்குலைந்தது.",
+      "sourceNote": "Historical Prose"
+    },
+    "formalSpeechContext": {
+      "english": "Debates degenerated into shouting matches without productive outcomes.",
+      "tamil": "விவாதங்கள் பயனுள்ள முடிவுகள் இல்லாமல் கத்தல் சண்டைகளாகச் சீர்குலைந்தன.",
+      "sourceNote": "Parliamentary Record"
+    },
+    "synonyms": [
+      "deteriorated",
+      "decline",
+      "decayed"
+    ],
+    "antonyms": [
+      "improved",
+      "flourished"
+    ]
+  },
+  {
+    "id": "desolate",
+    "word": "Desolate",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Literature",
+      "Arts & Culture"
+    ],
+    "englishDefinition": "Deserted of people and in a state of bleak and dismal emptiness.",
+    "tamilDefinition": "பாழடைந்த அல்லது வெறிச்சோடிய.",
+    "literaryContext": {
+      "english": "The wind howled across the desolate coastal ruins at dusk.",
+      "tamil": "அந்திப் பொழுதில் வெறிச்சோடிய கடற்கரை இடிபாடுகளில் காற்று ஊளையிட்டது.",
+      "sourceNote": "Gothic Poetry"
+    },
+    "formalSpeechContext": {
+      "english": "Relief programs aimed to rehabilitate desolate regions affected by the drought.",
+      "tamil": "வறட்சியால் பாதிக்கப்பட்ட வெறிச்சோடிய பகுதிகளை மறுவாழ்வு செய்ய நிவாரணத் திட்டங்கள் இலக்கு வைத்தன.",
+      "sourceNote": "Disaster Management Report"
+    },
+    "synonyms": [
+      "barren",
+      "deserted",
+      "bleak",
+      "empty"
+    ],
+    "antonyms": [
+      "populous",
+      "vibrant",
+      "fertile"
+    ]
+  },
+  {
+    "id": "despair",
+    "word": "Despair",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Philosophy",
+      "Literature"
+    ],
+    "englishDefinition": "The complete loss or absence of hope.",
+    "tamilDefinition": "நம்பிக்கையின்மை அல்லது பேரதாங்கம்.",
+    "literaryContext": {
+      "english": "In his deepest despair, a single lantern lit the poet's lonely desk.",
+      "tamil": "அவரது மிக ஆழமான நம்பிக்கையின்மையில், ஒரு ஒற்றை விளக்கு கவிஞரின் தனிமையான மேசையை ஒளிரச் செய்தது.",
+      "sourceNote": "Elegiac Verse"
+    },
+    "formalSpeechContext": {
+      "english": "Counseling services provide vital support to individuals facing despair.",
+      "tamil": "நம்பிக்கையின்மையை எதிர்கொள்ளும் நபர்களுக்கு ஆலோசனை சேவைகள் முக்கிய ஆதரவை வழங்குகின்றன.",
+      "sourceNote": "Mental Health Advocacy"
+    },
+    "synonyms": [
+      "hopelessness",
+      "desperation",
+      "gloom"
+    ],
+    "antonyms": [
+      "hope",
+      "optimism"
+    ]
+  },
+  {
+    "id": "deterioration",
+    "word": "Deterioration",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Science",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "The process of becoming progressively worse.",
+    "tamilDefinition": "சீர்கேடு அல்லது தரம் தாழ்வு.",
+    "literaryContext": {
+      "english": "The gradual deterioration of the ancient temple walls troubled the town elders.",
+      "tamil": "பண்டைய கோவில் சுவர்களின் படிப்படியான சீர்கேடு நகர மூத்தோரைக் கவலையடையச் செய்தது.",
+      "sourceNote": "Heritage Prose"
+    },
+    "formalSpeechContext": {
+      "english": "Doctors monitored the deterioration of air quality in metropolitan centers.",
+      "tamil": "பெருநகர மையங்களில் காற்றின் தரம் சீர்கேடு அடைவதை மருத்துவர்கள் கண்காணித்தனர்.",
+      "sourceNote": "Public Health Brief"
+    },
+    "synonyms": [
+      "decline",
+      "degradation",
+      "decay"
+    ],
+    "antonyms": [
+      "improvement",
+      "restoration"
+    ]
+  },
+  {
+    "id": "devolution",
+    "word": "Devolution",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Politics",
+      "Formal Speech"
+    ],
+    "englishDefinition": "The transfer or delegation of power to a lower level, especially by central government to local administration.",
+    "tamilDefinition": "அதிகாரப் பகிர்வு அல்லது அதிகாரப் பரவலாக்கம்.",
+    "literaryContext": {
+      "english": "The epic described the devolution of royal authority to regional chieftaincies.",
+      "tamil": "காப்பியம் அரச அதிகாரத்தைப் பிராந்திய சிற்றரசர்களுக்குப் பகிர்ந்தளிப்பதை விவரித்தது.",
+      "sourceNote": "Political Epic"
+    },
+    "formalSpeechContext": {
+      "english": "Constitutional reforms favored the devolution of tax policy to provincial councils.",
+      "tamil": "அரசியலமைப்புச் சீர்திருத்தங்கள் வரிப் கொள்கையை மாகாண சபைகளுக்கு அதிகாரப் பகிர்வு செய்வதை ஆதரித்தன.",
+      "sourceNote": "Constitutional Law Assembly"
+    },
+    "synonyms": [
+      "decentralization",
+      "delegation",
+      "transfer"
+    ],
+    "antonyms": [
+      "centralization"
+    ]
+  },
+  {
+    "id": "dominion",
+    "word": "Dominion",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Politics",
+      "Literature"
+    ],
+    "englishDefinition": "Sovereignty or control; territory of a sovereign or government.",
+    "tamilDefinition": "ஆதிக்கம் அல்லது ஆட்சிப் பகுதி.",
+    "literaryContext": {
+      "english": "The emperor expanded his dominion across vast mountain ranges and plains.",
+      "tamil": "பேரரசன் தனது ஆதிக்கத்தை பரந்த மலைத்தொடர்கள் மற்றும் சமவெளிகளில் விரிவுபடுத்தினான்.",
+      "sourceNote": "Historical Epic"
+    },
+    "formalSpeechContext": {
+      "english": "Maritime treaties respect the sovereign dominion of coastal nations over territorial waters.",
+      "tamil": "கடல்சார் ஒப்பந்தங்கள் பிராந்திய நீர்ப்பரப்பில் கடலோர நாடுகளின் இறையாண்மை ஆதிக்கத்தை மதிக்கின்றன.",
+      "sourceNote": "International Maritime Law"
+    },
+    "synonyms": [
+      "sovereignty",
+      "supremacy",
+      "realm",
+      "domain"
+    ],
+    "antonyms": [
+      "subjugation",
+      "servitude"
+    ]
   }
 ];

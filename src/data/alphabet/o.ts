@@ -1255,5 +1255,96 @@ export const dataO: VocabularyEntry[] = [
       "conclusion",
       "finale"
     ]
+  },
+  {
+    "id": "onus",
+    "word": "Onus",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Law",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Used to refer to something that is one's duty or responsibility.",
+    "tamilDefinition": "பொறுப்பு அல்லது சுமை.",
+    "literaryContext": {
+      "english": "The onus of leadership weighed heavily upon the young king.",
+      "tamil": "தலைமையின் பொறுப்பு இளம் மன்னனின் மீது பாரமாக இருந்தது.",
+      "sourceNote": "Historical Prose"
+    },
+    "formalSpeechContext": {
+      "english": "The onus lies on the prosecution to prove guilt beyond reasonable doubt.",
+      "tamil": "நியாயமான சந்தேகத்திற்கு அப்பாற்பட்ட குற்றத்தை நிரூபிக்கும் பொறுப்பு அரசுத் தரப்பிற்கு உண்டு.",
+      "sourceNote": "Legal Practice"
+    },
+    "synonyms": [
+      "burden",
+      "responsibility",
+      "obligation"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "onslaught",
+    "word": "Onslaught",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "A fierce or destructive attack.",
+    "tamilDefinition": "கொடூரமான தாக்குதல் அல்லது திரண்ட தாக்குதல்.",
+    "literaryContext": {
+      "english": "The fortress walls withstood the fierce onslaught of the enemy legions.",
+      "tamil": "பகைவரின் படைகளின் கொடூரமான தாக்குதலைக் கோட்டைச் சுவர்கள் தாங்கி நின்றன.",
+      "sourceNote": "Epic Tale"
+    },
+    "formalSpeechContext": {
+      "english": "Hospitals prepared for an onslaught of seasonal flu cases.",
+      "tamil": "பருவகால காய்ச்சல் வழக்குகளின் திரண்ட தாக்குதலுக்கு மருத்துவமனைகள் தயாராயின.",
+      "sourceNote": "Public Health Advisory"
+    },
+    "synonyms": [
+      "assault",
+      "attack",
+      "barrage"
+    ],
+    "antonyms": [
+      "defense",
+      "protection"
+    ]
+  },
+  {
+    "id": "ostensible",
+    "word": "Ostensible",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Politics"
+    ],
+    "englishDefinition": "Stated or appearing to be true, but not necessarily so.",
+    "tamilDefinition": "வெளிப்படையாகக் கூறப்பட்ட அல்லது தோற்றமளிக்கும்.",
+    "literaryContext": {
+      "english": "His ostensible reason for visiting was business, but he sought his long-lost brother.",
+      "tamil": "அவரது வருகைக்கான வெளிப்படையான காரணம் வியாபாரம், ஆனால் அவர் தனது நீண்டகாலமாகப் பிரிந்த சகோதரனைத் தேடினார்.",
+      "sourceNote": "Mystery Romance"
+    },
+    "formalSpeechContext": {
+      "english": "The ostensible purpose of the conference was policy review, though political alliances were forged.",
+      "tamil": "அரசியல் கூட்டணிகள் உருவாக்கப்பட்ட போதிலும், மாநாட்டின் வெளிப்படையான நோக்கம் கொள்கை மறுபரிசீலனையே ஆகும்.",
+      "sourceNote": "Political Analysis"
+    },
+    "synonyms": [
+      "apparent",
+      "seeming",
+      "surface"
+    ],
+    "antonyms": [
+      "real",
+      "actual",
+      "genuine"
+    ]
   }
 ];

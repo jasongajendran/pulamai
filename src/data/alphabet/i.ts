@@ -1222,5 +1222,378 @@ export const dataI: VocabularyEntry[] = [
       "partial",
       "prejudiced"
     ]
+  },
+  {
+    "id": "iniquitous",
+    "word": "Iniquitous",
+    "partOfSpeech": "adj.",
+    "difficulty": "Literary",
+    "tags": [
+      "Ethics & Society",
+      "Philosophy"
+    ],
+    "englishDefinition": "Grossly unfair and morally wrong.",
+    "tamilDefinition": "அநீதியான அல்லது மிகக் கொடூரமான.",
+    "literaryContext": {
+      "english": "The pamphleteer denounced the iniquitous tax burden imposed on poor peasants.",
+      "tamil": "ஏழை விவசாயிகள் மீது விதிக்கப்பட்ட அநீதியான வரிச் சுமையை அந்தத் துண்டுப்பிரசுர ஆசிரியர் கண்டித்தார்.",
+      "sourceNote": "Political Pamphlet"
+    },
+    "formalSpeechContext": {
+      "english": "Human rights tribunals worked to overturn iniquitous judicial decisions.",
+      "tamil": "மனித உரிமைகள் தீர்ப்பாயங்கள் அநீதியான நீதித்துறை முடிவுகளை ரத்து செய்ய உழைத்தன.",
+      "sourceNote": "Human Rights Tribunal"
+    },
+    "synonyms": [
+      "wicked",
+      "unjust",
+      "heinous"
+    ],
+    "antonyms": [
+      "righteous",
+      "just",
+      "fair"
+    ]
+  },
+  {
+    "id": "insipid",
+    "word": "Insipid",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Arts & Culture",
+      "Literature"
+    ],
+    "englishDefinition": "Lacking flavor, vigor, or interest.",
+    "tamilDefinition": "சுவையற்ற அல்லது சுவாரஸ்யமற்ற.",
+    "literaryContext": {
+      "english": "Critics dismissed the novel as an insipid imitation of classic romantic fiction.",
+      "tamil": "விமர்சகர்கள் அந்த நாவலைச் செம்மொழிக் காதல் புனைகதையின் சுவாரஸ்யமற்ற பிரதிபலிப்பு என நிராகரித்தனர்.",
+      "sourceNote": "Literary Review"
+    },
+    "formalSpeechContext": {
+      "english": "The speech was criticized for offering only insipid platitudes without actionable ideas.",
+      "tamil": "செயல்பாட்டு யோசனைகள் ஏதுமின்றி சுவாரஸ்யமற்ற பொன்மொழிகளை மட்டுமே வழங்கியதற்காக அந்த உரை விமர்சிக்கப்பட்டது.",
+      "sourceNote": "Political Analysis"
+    },
+    "synonyms": [
+      "bland",
+      "tasteless",
+      "dull"
+    ],
+    "antonyms": [
+      "tasty",
+      "piquant",
+      "engaging"
+    ]
+  },
+  {
+    "id": "impromptu",
+    "word": "Impromptu",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Done without being planned or rehearsed.",
+    "tamilDefinition": "முன்னேற்பாடில்லாத அல்லது தன்னிச்சையான.",
+    "literaryContext": {
+      "english": "The musician gave an impromptu performance under the streetlamp.",
+      "tamil": "தெருவிளக்கின் கீழ் இசைக்கலைஞர் முன்னேற்பாடில்லாத ஒரு செயல்திறனை வழங்கினார்.",
+      "sourceNote": "Urban Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "The minister delivered impromptu remarks to reporters outside parliament.",
+      "tamil": "நாடாளுமன்றத்திற்கு வெளியே செய்தியாளர்களிடம் அமைச்சர் முன்னேற்பாடில்லாத கருத்துக்களை வழங்கினார்.",
+      "sourceNote": "Press Briefing"
+    },
+    "synonyms": [
+      "unrehearsed",
+      "extemporaneous",
+      "spontaneous"
+    ],
+    "antonyms": [
+      "rehearsed",
+      "planned"
+    ]
+  },
+  {
+    "id": "imminent",
+    "word": "Imminent",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
+    "englishDefinition": "About to happen.",
+    "tamilDefinition": "உடனடியாக நிகழவிருக்கிற அல்லது நெருங்கிவருகிற.",
+    "literaryContext": {
+      "english": "Dark storm clouds signaled the imminent arrival of the tempest.",
+      "tamil": "இருண்ட புயல் மேகங்கள் புயலின் உடனடி வருகையைச் சிக்னல் செய்தன.",
+      "sourceNote": "Gothic Prose"
+    },
+    "formalSpeechContext": {
+      "english": "Authorities issued evacuation warnings due to the imminent threat of flooding.",
+      "tamil": "வெள்ளத்தின் உடனடி அச்சுறுத்தல் காரணமாக அதிகாரிகள் வெளியேற்ற எச்சரிக்கைகளை விடுத்தனர்.",
+      "sourceNote": "Disaster Advisory"
+    },
+    "synonyms": [
+      "impending",
+      "looming",
+      "approaching"
+    ],
+    "antonyms": [
+      "distant",
+      "remote"
+    ]
+  },
+  {
+    "id": "impending",
+    "word": "Impending",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Be about to happen; threatening to occur soon.",
+    "tamilDefinition": "நெருங்கிவரும் அல்லது வரவிருக்கும்.",
+    "literaryContext": {
+      "english": "A sense of impending doom hung over the besieged fortress.",
+      "tamil": "முற்றுகையிடப்பட்ட கோட்டையின் மீது வரவிருக்கும் பேரழிவின் உணர்வு தொங்கியது.",
+      "sourceNote": "Historical Saga"
+    },
+    "formalSpeechContext": {
+      "english": "Economists debated strategies to cushion the impact of impending policy changes.",
+      "tamil": "வரவிருக்கும் கொள்கை மாற்றங்களின் தாக்கத்தைத் தணிப்பதற்கான உத்திகளைப் பொருளாதார வல்லுநர்கள் விவாதித்தனர்.",
+      "sourceNote": "Financial Summit"
+    },
+    "synonyms": [
+      "imminent",
+      "looming",
+      "approaching"
+    ],
+    "antonyms": [
+      "past",
+      "distant"
+    ]
+  },
+  {
+    "id": "inadvertently",
+    "word": "Inadvertently",
+    "partOfSpeech": "adv.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Formal Speech",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Without intention; accidentally.",
+    "tamilDefinition": "தற்செயலாக அல்லது அறியாமல்.",
+    "literaryContext": {
+      "english": "The messenger inadvertently revealed the secret plan to the enemy spy.",
+      "tamil": "தூதுவன் அறியாமல் இரகசியத் திட்டத்தைப் பகைவனின் ஒற்றனிடம் வெளிப்படுத்தினான்.",
+      "sourceNote": "Historical Tale"
+    },
+    "formalSpeechContext": {
+      "english": "Confidential data was inadvertently published on the public server.",
+      "tamil": "ரகசியத் தரவு தற்செயலாகப் பொதுச் சேவையகத்தில் வெளியிடப்பட்டது.",
+      "sourceNote": "Data Breach Investigation"
+    },
+    "synonyms": [
+      "unintentionally",
+      "accidentally",
+      "unwittingly"
+    ],
+    "antonyms": [
+      "intentionally",
+      "deliberately"
+    ]
+  },
+  {
+    "id": "indignant",
+    "word": "Indignant",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Literature"
+    ],
+    "englishDefinition": "Feeling or showing anger or annoyance at what is perceived as unfair treatment.",
+    "tamilDefinition": "அநீதியால் ஆத்திரமடைந்த அல்லது கோபமுற்ற.",
+    "literaryContext": {
+      "english": "She penned an indignant letter demanding an apology for the slander.",
+      "tamil": "அவதூறுக்கு மன்னிப்பு கோரி அவள் ஆத்திரமடைந்த கடிதத்தை எழுதினாள்.",
+      "sourceNote": "Epistolary Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Citizens were indignant over the sudden increase in essential commodity prices.",
+      "tamil": "அத்தியாவசியப் பொருட்களின் திடீர் விலை உயர்வைக் கண்டு குடிமக்கள் ஆத்திரமடைந்தனர்.",
+      "sourceNote": "Public Protest Coverage"
+    },
+    "synonyms": [
+      "resentful",
+      "aggrieved",
+      "outraged"
+    ],
+    "antonyms": [
+      "pleased",
+      "content"
+    ]
+  },
+  {
+    "id": "inherent",
+    "word": "Inherent",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Existing in something as a permanent, essential, or characteristic attribute.",
+    "tamilDefinition": "இயல்பான அல்லது உள்ளார்ந்த.",
+    "literaryContext": {
+      "english": "The poet reflected on the inherent beauty found within quiet nature.",
+      "tamil": "அமைதியான இயற்கைக்குள் காணப்படும் இயல்பான அழகை கவிஞர் சிந்தித்தார்.",
+      "sourceNote": "Nature Essay"
+    },
+    "formalSpeechContext": {
+      "english": "Financial risk is inherent in any speculative market investment.",
+      "tamil": "எந்தவொரு ஊகச் சந்தை முதலீட்டிலும் நிதி ஆபத்து உள்ளார்ந்த ஒன்றாகும்.",
+      "sourceNote": "Risk Management Framework"
+    },
+    "synonyms": [
+      "intrinsic",
+      "innate",
+      "essential"
+    ],
+    "antonyms": [
+      "extrinsic",
+      "acquired"
+    ]
+  },
+  {
+    "id": "innate",
+    "word": "Innate",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Science"
+    ],
+    "englishDefinition": "Inborn; natural.",
+    "tamilDefinition": "பிறவிப்பயனாக அமைந்த அல்லது இயல்பான.",
+    "literaryContext": {
+      "english": "Her innate talent for storytelling captivated audiences from a young age.",
+      "tamil": "கதை சொல்லும் அவளது பிறவித் திறமை சிறுவயதிலிருந்தே பார்வையாளர்களைக் கவர்ந்தது.",
+      "sourceNote": "Biographical Memoir"
+    },
+    "formalSpeechContext": {
+      "english": "Psychologists study whether linguistic ability is innate or acquired.",
+      "tamil": "மொழித் திறன் பிறவியிலேயே அமைந்ததா அல்லது பெறப்பட்டதா என்பதை உளவியலாளர்கள் ஆராய்கின்றனர்.",
+      "sourceNote": "Cognitive Research Paper"
+    },
+    "synonyms": [
+      "inborn",
+      "natural",
+      "instinctive"
+    ],
+    "antonyms": [
+      "learned",
+      "acquired"
+    ]
+  },
+  {
+    "id": "insolvency",
+    "word": "Insolvency",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Economics",
+      "Formal Speech"
+    ],
+    "englishDefinition": "The state of being unable to pay one's debts.",
+    "tamilDefinition": "கடன் தீர்க்க முடியாத நிலை அல்லது திவால் நிலை.",
+    "literaryContext": {
+      "english": "Mismanagement pushed the noble estate toward financial insolvency.",
+      "tamil": "தவறான நிர்வாகம் அந்தப் பிரபுத்துவ தோட்டத்தை நிதித் திவால் நிலையை நோக்கித் தள்ளியது.",
+      "sourceNote": "Social Novel"
+    },
+    "formalSpeechContext": {
+      "english": "The court appointed a receiver to manage the firm's insolvency proceedings.",
+      "tamil": "நிறுவனத்தின் திவால் நடைமுறைகளை நிர்வகிக்க நீதிமன்றம் ஒரு பெறுநரை நியமித்தது.",
+      "sourceNote": "Bankruptcy Court"
+    },
+    "synonyms": [
+      "bankruptcy",
+      "ruin",
+      "pennilessness"
+    ],
+    "antonyms": [
+      "solvency",
+      "wealth"
+    ]
+  },
+  {
+    "id": "intrigued",
+    "word": "Intrigued",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Literature"
+    ],
+    "englishDefinition": "Aroused the curiosity or interest of; fascinated.",
+    "tamilDefinition": "ஆர்வம் தூண்டப்பட்ட அல்லது வசீகரிக்கப்பட்ட.",
+    "literaryContext": {
+      "english": "The young explorer was intrigued by rumors of a sunken temple.",
+      "tamil": "மூழ்கிய கோவிலைப் பற்றிய வதந்திகளால் இளம் ஆராய்ச்சியாளரின் ஆர்வம் தூண்டப்பட்டது.",
+      "sourceNote": "Adventure Prose"
+    },
+    "formalSpeechContext": {
+      "english": "Investors were intrigued by the potential of the new battery technology.",
+      "tamil": "புதிய பேட்டரி தொழில்நுட்பத்தின் திறனால் முதலீட்டாளர்களின் ஆர்வம் தூண்டப்பட்டது.",
+      "sourceNote": "Tech Conference"
+    },
+    "synonyms": [
+      "fascinated",
+      "curious",
+      "captivated"
+    ],
+    "antonyms": [
+      "bored",
+      "uninterested"
+    ]
+  },
+  {
+    "id": "irrational",
+    "word": "Irrational",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Philosophy",
+      "Science"
+    ],
+    "englishDefinition": "Not logical or reasonable.",
+    "tamilDefinition": "பகுத்தறிவற்ற அல்லது தர்க்கமற்ற.",
+    "literaryContext": {
+      "english": "Fear drove the villagers to make irrational accusations against outsiders.",
+      "tamil": "பயம் கிராமவாசிகளை வெளியாட்களுக்கு எதிராகப் பகுத்தறிவற்ற குற்றச்சாட்டுகளைச் செய்யத் தூண்டியது.",
+      "sourceNote": "Gothic Story"
+    },
+    "formalSpeechContext": {
+      "english": "Behavioral economics analyzes why consumers make irrational financial choices.",
+      "tamil": "நுகர்வோர் ஏன் பகுத்தறிவற்ற நிதித் தேர்வுகளைச் செய்கிறார்கள் என்பதை நடத்தை பொருளாதாரம் பகுப்பாய்வு செய்கிறது.",
+      "sourceNote": "Economic Lecture"
+    },
+    "synonyms": [
+      "illogical",
+      "unreasonable",
+      "baseless"
+    ],
+    "antonyms": [
+      "rational",
+      "logical"
+    ]
   }
 ];

@@ -1074,5 +1074,33 @@ export const dataQ: VocabularyEntry[] = [
       "noise",
       "commotion"
     ]
+  },
+  {
+    "id": "quirk",
+    "word": "Quirk",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture",
+      "Literature"
+    ],
+    "englishDefinition": "A peculiar behavioral habit or strange aspect of personality.",
+    "tamilDefinition": "விசித்திரமான பழக்கம் அல்லது தனித்துவக் குணம்.",
+    "literaryContext": {
+      "english": "Every character in the novel had a endearing quirk that made them memorable.",
+      "tamil": "நாவலின் ஒவ்வொரு கதாபாத்திரத்திற்கும் அவர்களை மறக்க முடியாததாக மாற்றிய ஒரு விசித்திரமான தனித்துவக் குணம் இருந்தது.",
+      "sourceNote": "Literary Review"
+    },
+    "formalSpeechContext": {
+      "english": "An unusual software quirk caused minor delays during data migration.",
+      "tamil": "ஒரு விசித்திரமான மென்பொருள் பிரச்சனை தரவு மாற்றத்தின் போது சிறிய தாமதங்களை ஏற்படுத்தியது.",
+      "sourceNote": "Tech Support Log"
+    },
+    "synonyms": [
+      "idiosyncrasy",
+      "peculiarity",
+      "eccentricity"
+    ],
+    "antonyms": []
   }
 ];

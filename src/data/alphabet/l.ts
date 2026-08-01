@@ -1185,5 +1185,87 @@ export const dataL: VocabularyEntry[] = [
       "discreditable",
       "despicable"
     ]
+  },
+  {
+    "id": "liaise",
+    "word": "Liaise",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Formal Speech",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Cooperate on a matter of mutual concern; act as a link.",
+    "tamilDefinition": "தொடர்பு அலுவலராகச் செயல்படுதல் அல்லது இணைத்தல்.",
+    "literaryContext": {
+      "english": "The envoy was sent to liaise between the two rival kingdoms.",
+      "tamil": "இரண்டு போட்டி ராஜ்யங்களுக்கு இடையே தொடர்பு அலுவலராகச் செயல்படத் தூதுவர் அனுப்பப்பட்டார்.",
+      "sourceNote": "Historical Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "Our team will liaise directly with regional health authorities.",
+      "tamil": "எங்கள் குழு பிராந்திய சுகாதார அதிகாரிகளுடன் நேரடியாகத் தொடர்பு கொள்ளும்.",
+      "sourceNote": "Public Health Report"
+    },
+    "synonyms": [
+      "coordinate",
+      "communicate",
+      "network"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "leverage",
+    "word": "Leverage",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Formal Speech",
+      "Economics"
+    ],
+    "englishDefinition": "Use something to maximum advantage.",
+    "tamilDefinition": "அதிகபட்ச நன்மையைப் பெற பயன்படுத்துதல்.",
+    "literaryContext": {
+      "english": "The general sought to leverage the high ground during the battle.",
+      "tamil": "போரின் போது உயரமான நிலத்தைப் பயன்படுத்தி நன்மையடையத் தளபதி முயன்றான்.",
+      "sourceNote": "Military History"
+    },
+    "formalSpeechContext": {
+      "english": "Companies must leverage digital tools to optimize supply chains.",
+      "tamil": "விநியோகச் சங்கிலிகளை மேம்படுத்த நிறுவனங்கள் டிஜிட்டல் கருவிகளைப் பயன்படுத்த வேண்டும்.",
+      "sourceNote": "Corporate Strategy"
+    },
+    "synonyms": [
+      "utilize",
+      "exploit",
+      "harness"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "limp",
+    "word": "Limp",
+    "partOfSpeech": "verb",
+    "difficulty": "Basic",
+    "tags": [
+      "Literature"
+    ],
+    "englishDefinition": "Walk with difficulty, typically because of a damaged leg or foot.",
+    "tamilDefinition": "நொண்டி நடத்தல்.",
+    "literaryContext": {
+      "english": "The wounded soldier managed to limp back to the encampment.",
+      "tamil": "காயமடைந்த வீரன் முகாமுக்கு நொண்டி நடந்து வர முடிந்தது.",
+      "sourceNote": "War Saga"
+    },
+    "formalSpeechContext": {
+      "english": "The injured athlete was forced to limp off the field.",
+      "tamil": "காயமடைந்த வீராங்கனை மைதானத்தை விட்டு நொண்டி நடந்து செல்ல நிர்ப்பந்திக்கப்பட்டார்.",
+      "sourceNote": "Sports Coverage"
+    },
+    "synonyms": [
+      "hobble",
+      "stumble"
+    ],
+    "antonyms": []
   }
 ];

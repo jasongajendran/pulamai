@@ -1248,5 +1248,215 @@ export const dataT: VocabularyEntry[] = [
       "deceitful",
       "treacherous"
     ]
+  },
+  {
+    "id": "tussle",
+    "word": "Tussle",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society",
+      "Literature"
+    ],
+    "englishDefinition": "A vigorous struggle or scuffle, typically in order to obtain or achieve something.",
+    "tamilDefinition": "போராட்டம் அல்லது மல்யுத்தம்.",
+    "literaryContext": {
+      "english": "A fierce tussle ensued over the stolen royal sword.",
+      "tamil": "திருடப்பட்ட அரச வாளைப் பற்றி ஒரு கடுமையான போராட்டம் நடந்தது.",
+      "sourceNote": "Adventure Novel"
+    },
+    "formalSpeechContext": {
+      "english": "The political tussle over judicial appointments continued for weeks.",
+      "tamil": "நீதித்துறை நியமனங்கள் குறித்த அரசியல் போராட்டம் பல வாரங்கள் நீடித்தது.",
+      "sourceNote": "Legislative News"
+    },
+    "synonyms": [
+      "scuffle",
+      "brawl",
+      "struggle"
+    ],
+    "antonyms": [
+      "agreement"
+    ]
+  },
+  {
+    "id": "tenable",
+    "word": "Tenable",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Able to be maintained or defended against attack or objection.",
+    "tamilDefinition": "தக்கவைக்கக்கூடிய அல்லது தற்காத்துக் கொள்ளக்கூடிய.",
+    "literaryContext": {
+      "english": "The scholar argued that the traditional historical theory was no longer tenable.",
+      "tamil": "பாரம்பரிய வரலாற்று கோட்பாடு இனி தக்கவைக்கக்கூடியது அல்ல என்று அறிஞர் வாதிட்டார்.",
+      "sourceNote": "Academic Essay"
+    },
+    "formalSpeechContext": {
+      "english": "Management concluded that the current pricing model was not tenable long-term.",
+      "tamil": "தற்போதைய விலை மாதிரி நீண்ட காலத்திற்குத் தக்கவைக்கக்கூடியது அல்ல என்று நிர்வாகம் முடிவுக்கு வந்தது.",
+      "sourceNote": "Business Review"
+    },
+    "synonyms": [
+      "defensible",
+      "justifiable",
+      "sound"
+    ],
+    "antonyms": [
+      "untenable",
+      "indefensible"
+    ]
+  },
+  {
+    "id": "tact",
+    "word": "Tact",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Formal Speech",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Skill and sensitivity in dealing with others or with difficult issues.",
+    "tamilDefinition": "சுமுகமாகக் கையாளும் திறன் அல்லது சமயோசிதம்.",
+    "literaryContext": {
+      "english": "The ambassador managed the sensitive dispute with extraordinary diplomatic tact.",
+      "tamil": "தூதர் உணர்திறன் மிக்க தகராறை அழுத்தமான இராஜதந்திர சமயோசிதத்துடன் கையாண்டார்.",
+      "sourceNote": "Diplomatic History"
+    },
+    "formalSpeechContext": {
+      "english": "Handling delicate client complaints requires patience and professional tact.",
+      "tamil": "மென்மையான வாடிக்கையாளர் புகார்களைக் கையாள்வதற்குப் பொறுமையும் தொழில்முறை சமயோசிதமும் தேவை.",
+      "sourceNote": "Customer Relations Training"
+    },
+    "synonyms": [
+      "diplomacy",
+      "discretion",
+      "delicacy"
+    ],
+    "antonyms": [
+      "tactlessness",
+      "clumsiness"
+    ]
+  },
+  {
+    "id": "tantrums",
+    "word": "Tantrums",
+    "partOfSpeech": "noun",
+    "difficulty": "Basic",
+    "tags": [
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Uncontrolled outbursts of anger and frustration, typically in a child.",
+    "tamilDefinition": "அடம்பிடித்தல் அல்லது திடீர் கோப ஆவேசம்.",
+    "literaryContext": {
+      "english": "The spoiled prince threw tantrums whenever his demands were delayed.",
+      "tamil": "தன் கோரிக்கைகள் தாமதமான போதெல்லாம் கெட்டுப்போன இளவரசன் அடம்பிடித்து ஆவேசப்பட்டான்.",
+      "sourceNote": "Court Tale"
+    },
+    "formalSpeechContext": {
+      "english": "Child psychologists offer guidance to parents managing toddler tantrums.",
+      "tamil": "குழந்தை உளவியலாளர்கள் குழந்தைப் பருவ அடம்பிடித்தலை நிர்வகிக்கும் பெற்றோருக்கு வழிகாட்டுதலை வழங்குகிறார்கள்.",
+      "sourceNote": "Parenting Seminar"
+    },
+    "synonyms": [
+      "outbursts",
+      "fits",
+      "meltdowns"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "taunting",
+    "word": "Taunting",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society",
+      "Literature"
+    ],
+    "englishDefinition": "Provoking or challenging someone with insulting remarks.",
+    "tamilDefinition": "ஏளனம் செய்தல் அல்லது கேலி பேசுதல்.",
+    "literaryContext": {
+      "english": "The villain enjoyed taunting the captured hero with dark prophecies.",
+      "tamil": "பிடிபட்ட கதாநாயகனை இருண்ட අනாவாக்கியங்களால் ஏளனம் செய்வதை வில்லன் அனுபவித்தான்.",
+      "sourceNote": "Fantasy Novel"
+    },
+    "formalSpeechContext": {
+      "english": "School policies strictly prohibit taunting and bullying on campus.",
+      "tamil": "வளாகத்தில் ஏளனம் செய்வதையும் கொடுமைப்படுத்துதலையும் பள்ளி விதிகள் கடுமையாகத் தடை செய்கின்றன.",
+      "sourceNote": "Student Conduct Policy"
+    },
+    "synonyms": [
+      "mocking",
+      "jeering",
+      "deriding"
+    ],
+    "antonyms": [
+      "praising",
+      "encouraging"
+    ]
+  },
+  {
+    "id": "thaw",
+    "word": "Thaw",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Science",
+      "Literature"
+    ],
+    "englishDefinition": "Become liquid or soft as a result of warming up; a relaxation of hostility.",
+    "tamilDefinition": "உருகுதல் அல்லது உறவு இயல்புநிலைக்கு திரும்புதல்.",
+    "literaryContext": {
+      "english": "Spring sun began to thaw the frozen mountain streams.",
+      "tamil": "வசந்த கால சூரியன் உறைந்த மலை நீரோடைகளை உருக்கத் தொடங்கியது.",
+      "sourceNote": "Nature Essay"
+    },
+    "formalSpeechContext": {
+      "english": "The summit led to a diplomatic thaw between the two long-standing rivals.",
+      "tamil": "இந்த உச்சிமாநாடு இரு நீண்டகாலப் போட்டியாளர்களிடையே இராஜதந்திர உறவு இயல்புநிலைக்கு திரும்ப வழிவகுத்தது.",
+      "sourceNote": "Foreign Policy Brief"
+    },
+    "synonyms": [
+      "melt",
+      "unfreeze",
+      "soften"
+    ],
+    "antonyms": [
+      "freeze"
+    ]
+  },
+  {
+    "id": "thrifty",
+    "word": "Thrifty",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Using money and other resources carefully and not tastelessly.",
+    "tamilDefinition": "சிக்கனமான அல்லது பார்த்துச் செலவு செய்யும்.",
+    "literaryContext": {
+      "english": "The thrifty housewife managed to save enough for her children education.",
+      "tamil": "சிக்கனமான இல்லத்தரசி தன் குழந்தைகளின் கல்விக்காகப் போதுமான அளவு சேமிக்க முடிந்தது.",
+      "sourceNote": "Social Novel"
+    },
+    "formalSpeechContext": {
+      "english": "Adopting thrifty management practices helped the startup survive economic downturns.",
+      "tamil": "சிக்கனமான நிர்வாக நடைமுறைகளை ஏற்றுக்கொண்டது தொடக்க நிறுவனம் பொருளாதார வீழ்ச்சிகளிலிருந்து உயிர்வாழ உதவியது.",
+      "sourceNote": "Business Case Study"
+    },
+    "synonyms": [
+      "frugal",
+      "economical",
+      "sparing"
+    ],
+    "antonyms": [
+      "extravagant",
+      "wasteful"
+    ]
   }
 ];

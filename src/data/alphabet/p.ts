@@ -1357,5 +1357,491 @@ export const dataP: VocabularyEntry[] = [
       "shallow",
       "trivial"
     ]
+  },
+  {
+    "id": "promiscuous",
+    "word": "Promiscuous",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Demonstrating unselective or indiscriminate behavior.",
+    "tamilDefinition": "விவேகமற்ற அல்லது பாகுபாடற்ற.",
+    "literaryContext": {
+      "english": "The critic warned against the promiscuous use of technical jargon.",
+      "tamil": "தொழில்நுட்பச் சொற்களை விவேகமற்றுப் பயன்படுத்துவதற்கு எதிராக விமர்சகர் எச்சரித்தார்.",
+      "sourceNote": "Literary Criticism"
+    },
+    "formalSpeechContext": {
+      "english": "Promiscuous sharing of sensitive passwords endangers organizational cybersecurity.",
+      "tamil": "ரகசியக் கடவுச்சொற்களை விவேகமற்றுப் பகிர்வது நிறுவன இணையப் பாதுகாப்பிற்கு ஆபத்தை விளைவிக்கும்.",
+      "sourceNote": "IT Security Audit"
+    },
+    "synonyms": [
+      "indiscriminate",
+      "unselective",
+      "haphazard"
+    ],
+    "antonyms": [
+      "selective",
+      "discriminating"
+    ]
+  },
+  {
+    "id": "perpetuating",
+    "word": "Perpetuating",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Politics"
+    ],
+    "englishDefinition": "Making something (typically an undesirable situation) continue indefinitely.",
+    "tamilDefinition": "தொடரச் செய்தல் அல்லது நிலைநிறுத்துதல்.",
+    "literaryContext": {
+      "english": "Old grudges were responsible for perpetuating the feud between the families.",
+      "tamil": "குடும்பங்களுக்கிடையேயான பகையைத் தொடரச் செய்வதற்குப் பழைய வஞ்சகங்களே காரணமாயிருந்தன.",
+      "sourceNote": "Dramatic Saga"
+    },
+    "formalSpeechContext": {
+      "english": "Policies must avoid perpetuating economic inequality across generations.",
+      "tamil": "தலைமுறைகளுக்கிடையே பொருளாதார சமத்துவமின்மையைத் தொடரச் செய்வதை கொள்கைகள் தவிர்க்க வேண்டும்.",
+      "sourceNote": "Social Policy Debate"
+    },
+    "synonyms": [
+      "perpetuating",
+      "prolonging",
+      "sustaining"
+    ],
+    "antonyms": [
+      "halting",
+      "ending"
+    ]
+  },
+  {
+    "id": "peckish",
+    "word": "Peckish",
+    "partOfSpeech": "adj.",
+    "difficulty": "Basic",
+    "tags": [
+      "Arts & Culture"
+    ],
+    "englishDefinition": "Slightly hungry (informal).",
+    "tamilDefinition": "சற்று பசியுள்ள.",
+    "literaryContext": {
+      "english": "Feeling peckish, he stopped by the village bakery for a warm pastry.",
+      "tamil": "சற்று பசியாக உணர்ந்ததால், வெதுவெதுப்பான தின்பண்டத்திற்காகக் கிராமத்து ரொட்டிச் கடைக்கு நின்றான்.",
+      "sourceNote": "Light Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "Informal expressions like peckish are common in conversational dialogue.",
+      "tamil": "உரையாடல்களில் சற்று பசியுள்ள போன்ற முறசாரா வெளிப்பாடுகள் பொதுவானவை.",
+      "sourceNote": "Linguistics Essay"
+    },
+    "synonyms": [
+      "hungry",
+      "nibbly"
+    ],
+    "antonyms": [
+      "full",
+      "satiated"
+    ]
+  },
+  {
+    "id": "pruney-fingers",
+    "word": "Pruney Fingers",
+    "partOfSpeech": "phrase",
+    "difficulty": "Basic",
+    "tags": [
+      "Science",
+      "Arts & Culture"
+    ],
+    "englishDefinition": "Wrinkled skin on fingers resulting from prolonged immersion in water.",
+    "tamilDefinition": "நீரில் ஊறிக் சுருங்கிய விரல்கள்.",
+    "literaryContext": {
+      "english": "After bathing in the river for hours, the children showed off their pruney fingers.",
+      "tamil": "ஆற்றில் பல மணி நேரம் குளித்த பிறகு, குழந்தைகள் நீரில் ஊறிச் சுருங்கிய தங்கள் விரல்களைக் காட்டினர்.",
+      "sourceNote": "Childhood Tale"
+    },
+    "formalSpeechContext": {
+      "english": "Research indicates that pruney fingers improve grip on wet objects.",
+      "tamil": "நீரில் ஊறிச் சுருங்கிய விரல்கள் ஈரமான பொருட்களைப் பிடிக்கும் பிடியை மேம்படுத்துகின்றன என்று ஆராய்ச்சி காட்டுகிறது.",
+      "sourceNote": "Dermatology Study"
+    },
+    "synonyms": [
+      "wrinkled fingers",
+      "water-logged skin"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "paranormal",
+    "word": "Paranormal",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Literature",
+      "Arts & Culture"
+    ],
+    "englishDefinition": "Denoting events or phenomena that are beyond the scope of normal scientific understanding.",
+    "tamilDefinition": "இயற்கைக்கு அப்பாற்பட்ட அல்லது விசித்திரமான.",
+    "literaryContext": {
+      "english": "Stories of paranormal occurrences surrounded the ancient haunted estate.",
+      "tamil": "பண்டைய பேய் பிடித்த எஸ்டேட்டைப் பற்றி இயற்கைக்கு அப்பாற்பட்ட நிகழ்வுகளின் கதைகள் சூழ்ந்திருந்தன.",
+      "sourceNote": "Gothic Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "Scientists investigate claims of paranormal activity using empirical sensors.",
+      "tamil": "அறிவியல் அறிஞர்கள் இயற்கைக்கு அப்பாற்பட்ட செயல்பாடுகளின் கோரிக்கைகளை உணரிகள கொண்டு ஆராய்கின்றனர்.",
+      "sourceNote": "Scientific Inquiry"
+    },
+    "synonyms": [
+      "supernatural",
+      "uncanny",
+      "mysterious"
+    ],
+    "antonyms": [
+      "normal",
+      "natural"
+    ]
+  },
+  {
+    "id": "permeate",
+    "word": "Permeate",
+    "partOfSpeech": "verb",
+    "difficulty": "Advanced",
+    "tags": [
+      "Science",
+      "Literature"
+    ],
+    "englishDefinition": "Spread throughout something; pervade.",
+    "tamilDefinition": "ஊடுருவுதல் அல்லது முழுவதும் பரவுதல்.",
+    "literaryContext": {
+      "english": "The scent of jasmine began to permeate the quiet night air.",
+      "tamil": "மல்லிகையின் நறுமணம் அமைதியான இரவு காற்றில் முழுவதும் பரவத் தொடங்கியது.",
+      "sourceNote": "Lyric Prose"
+    },
+    "formalSpeechContext": {
+      "english": "A culture of safety must permeate every operational level of the factory.",
+      "tamil": "பாதுகாப்புப் பண்பாடு தொழிற்சாலையின் ஒவ்வொரு செயல்பாட்டு நிலையிலும் ஊடுருவ வேண்டும்.",
+      "sourceNote": "Industrial Safety Briefing"
+    },
+    "synonyms": [
+      "pervade",
+      "infuse",
+      "saturate"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "pertinent",
+    "word": "Pertinent",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Formal Speech",
+      "Law"
+    ],
+    "englishDefinition": "Relevant or applicable to a particular matter.",
+    "tamilDefinition": "பொருத்தமான அல்லது தொடர்புடைய.",
+    "literaryContext": {
+      "english": "The scholar raised several pertinent questions regarding the manuscript's date.",
+      "tamil": "கையெழுத்துப் பிரதியின் தேதியைக் குறித்து அறிஞர் பல பொருத்தமான கேள்விகளை எழுப்பினார்.",
+      "sourceNote": "Academic Critique"
+    },
+    "formalSpeechContext": {
+      "english": "Counsel presented all pertinent documents to the presiding magistrate.",
+      "tamil": "வழக்கறிஞர் அனைத்துத் தொடர்புடைய ஆவணங்களையும் தலைமை நீதிபதியிடம் சமர்ப்பித்தார்.",
+      "sourceNote": "Court Record"
+    },
+    "synonyms": [
+      "relevant",
+      "apposite",
+      "applicable"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "inappropriate"
+    ]
+  },
+  {
+    "id": "persuade",
+    "word": "Persuade",
+    "partOfSpeech": "verb",
+    "difficulty": "Moderate",
+    "tags": [
+      "Poetics & Rhetoric",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Cause someone to do or believe something through reasoning or argument.",
+    "tamilDefinition": "இணங்கச் செய்தல் அல்லது வற்புறுத்துதல்.",
+    "literaryContext": {
+      "english": "Her impassioned speech persuaded the elders to grant asylum.",
+      "tamil": "அவளது உணர்ச்சிமிக்க பேச்சு மூத்தோரை புகலிடம் அளிக்க இணங்கச் செய்தது.",
+      "sourceNote": "Epic Drama"
+    },
+    "formalSpeechContext": {
+      "english": "Diplomats worked to persuade member states to ratify the treaty.",
+      "tamil": "ஒப்பந்தத்தை உறுதிப்படுத்த உறுப்பு நாடுகளை இணங்கச் செய்ய இராஜதந்திரிகள் உழைத்தனர்.",
+      "sourceNote": "Global Assembly"
+    },
+    "synonyms": [
+      "convince",
+      "induce",
+      "sway"
+    ],
+    "antonyms": [
+      "dissuade",
+      "deter"
+    ]
+  },
+  {
+    "id": "plagiarism",
+    "word": "Plagiarism",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Formal Speech"
+    ],
+    "englishDefinition": "The practice of taking someone else's work or ideas and passing them off as one's own.",
+    "tamilDefinition": "எழுத்துத் திருட்டு அல்லது கருத்துத் திருட்டு.",
+    "literaryContext": {
+      "english": "The academy revoked the prize following allegations of literary plagiarism.",
+      "tamil": "இலக்கிய எழுத்துத் திருட்டு குற்றச்சாட்டுகளைத் தொடர்ந்து அகாடமி பரிசைத் திரும்பப் பெற்றது.",
+      "sourceNote": "Literary News"
+    },
+    "formalSpeechContext": {
+      "english": "Universities enforce strict anti-plagiarism software to ensure academic integrity.",
+      "tamil": "கல்வி நேர்மையை உறுதிப்படுத்த பல்கலைக்கழகங்கள் கடுமையான எழுத்துத் திருட்டு எதிர்ப்பு மென்பொருளைப் பயன்படுத்துகின்றன.",
+      "sourceNote": "Academic Policy"
+    },
+    "synonyms": [
+      "copying",
+      "piracy",
+      "theft"
+    ],
+    "antonyms": [
+      "originality"
+    ]
+  },
+  {
+    "id": "plausible",
+    "word": "Plausible",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Philosophy",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Seeming reasonable or probable.",
+    "tamilDefinition": "நம்பத்தகுந்த அல்லது சாத்தியமான.",
+    "literaryContext": {
+      "english": "The detective offered a plausible explanation for the locked-room mystery.",
+      "tamil": "பூட்டப்பட்ட அறை புதிர்க்குத் துப்பறிவாளர் நம்பத்தகுந்த விளக்கத்தை அளித்தார்.",
+      "sourceNote": "Detective Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "Researchers presented a plausible hypothesis supported by experimental data.",
+      "tamil": "ஆராய்ச்சியாளர்கள் பரிசோதனைத் தரவுகளால் ஆதரிக்கப்பட்ட நம்பத்தகுந்த அனுமானத்தைச் சமர்ப்பித்தனர்.",
+      "sourceNote": "Scientific Symposium"
+    },
+    "synonyms": [
+      "credible",
+      "believable",
+      "feasible"
+    ],
+    "antonyms": [
+      "implausible",
+      "unbelievable"
+    ]
+  },
+  {
+    "id": "poised",
+    "word": "Poised",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Arts & Culture",
+      "Literature"
+    ],
+    "englishDefinition": "Having a composed and self-assured manner; gracefully balanced.",
+    "tamilDefinition": "நிதானமான அல்லது தயார் நிலையிலுள்ள.",
+    "literaryContext": {
+      "english": "Poised and calm, the young queen addressed the assembled throng.",
+      "tamil": "நிதானமாகவும் அமைதியாகவும் இருந்த இளம் அரசி கூடியிருந்த திரளின் முன் உரையாற்றினாள்.",
+      "sourceNote": "Historical Novel"
+    },
+    "formalSpeechContext": {
+      "english": "The company is poised to launch its flagship product in overseas markets.",
+      "tamil": "நிறுவனம் தனது முதன்மைப் பொருளை வெளிநாட்டுச் சந்தைகளில் அறிமுகப்படுத்தத் தயார் நிலையில் உள்ளது.",
+      "sourceNote": "Business Update"
+    },
+    "synonyms": [
+      "composed",
+      "collected",
+      "ready"
+    ],
+    "antonyms": [
+      "flustered",
+      "unprepared"
+    ]
+  },
+  {
+    "id": "precarious",
+    "word": "Precarious",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Philosophy"
+    ],
+    "englishDefinition": "Not securely held or in position; dangerously likely to fall or collapse.",
+    "tamilDefinition": "அபாயகரமான அல்லது பாதுகாப்பற்ற.",
+    "literaryContext": {
+      "english": "The cabin clung to a precarious ledge overlooking the gorge.",
+      "tamil": "பள்ளத்தாக்கைப் பார்க்கும் பாதுகாப்பற்ற விளிம்பில் அந்த வீடு ஒட்டிக்கொண்டிருந்தது.",
+      "sourceNote": "Mountain Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "Economic recovery remains precarious due to rising geopolitical tensions.",
+      "tamil": "புவிசார் அரசியல் பதட்டங்கள் காரணமாகப் பொருளாதார மீட்சி பாதுகாப்பற்றதாகவே உள்ளது.",
+      "sourceNote": "Global Economic Report"
+    },
+    "synonyms": [
+      "insecure",
+      "risky",
+      "unstable"
+    ],
+    "antonyms": [
+      "secure",
+      "stable",
+      "safe"
+    ]
+  },
+  {
+    "id": "prejudice",
+    "word": "Prejudice",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Ethics & Society",
+      "Philosophy"
+    ],
+    "englishDefinition": "Preconceived opinion that is not based on reason or actual experience.",
+    "tamilDefinition": "முன்பகை அல்லது பாகுபாடு கொண்ட மனப்பான்மை.",
+    "literaryContext": {
+      "english": "Classic novels often critique how societal prejudice blinds people to virtue.",
+      "tamil": "சமூக முன்பகை எவ்வாறு மக்களை நற்பண்புகளுக்குக் குருடாக்குகிறது என்பதைப் செம்மொழி நாவல்கள் அடிக்கடி விமர்சிக்கின்றன.",
+      "sourceNote": "Literary Analysis"
+    },
+    "formalSpeechContext": {
+      "english": "Anti-discrimination laws aim to eliminate prejudice in housing and hiring.",
+      "tamil": "வீட்டுவசதி மற்றும் வேலைவாய்ப்பில் முன்பகையை ஒழிப்பதை பாகுபாட்டிற்கு எதிரான சட்டங்கள் இலக்காகக் கொண்டுள்ளன.",
+      "sourceNote": "Civil Rights Hearing"
+    },
+    "synonyms": [
+      "bias",
+      "partiality",
+      "bigotry"
+    ],
+    "antonyms": [
+      "fairness",
+      "impartiality"
+    ]
+  },
+  {
+    "id": "prevalent",
+    "word": "Prevalent",
+    "partOfSpeech": "adj.",
+    "difficulty": "Advanced",
+    "tags": [
+      "Ethics & Society",
+      "Formal Speech"
+    ],
+    "englishDefinition": "Widespread in a particular area or at a particular time.",
+    "tamilDefinition": "பரவலாக உள்ள அல்லது வழக்கில் உள்ள.",
+    "literaryContext": {
+      "english": "Lamentation poems were prevalent during times of drought.",
+      "tamil": "வறட்சிக் காலங்களில் புலம்பல் கவிதைகள் பரவலாக இருந்தன.",
+      "sourceNote": "Poetic History"
+    },
+    "formalSpeechContext": {
+      "english": "Cardiovascular diseases are prevalent in urban populations with sedentary lifestyles.",
+      "tamil": "உட்கார்ந்த வாழ்க்கை முறை கொண்ட நகர்ப்புற மக்களிடம் இருதய நோய்கள் பரவலாக உள்ளன.",
+      "sourceNote": "Epidemiology Study"
+    },
+    "synonyms": [
+      "widespread",
+      "common",
+      "pervasive"
+    ],
+    "antonyms": [
+      "rare",
+      "uncommon"
+    ]
+  },
+  {
+    "id": "progressive",
+    "word": "Progressive",
+    "partOfSpeech": "adj.",
+    "difficulty": "Moderate",
+    "tags": [
+      "Politics",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "Happening or developing gradually or in stages; favoring social reform.",
+    "tamilDefinition": "முற்போக்கான அல்லது படிப்படியான.",
+    "literaryContext": {
+      "english": "The poet was celebrated for his progressive ideas on universal literacy.",
+      "tamil": "அனைவருக்குமான எழுத்தறிவு பற்றிய தனது முற்போக்கான கருத்துக்களுக்காகக் கவிஞர் பாராட்டப்பட்டார்.",
+      "sourceNote": "Poetic Biography"
+    },
+    "formalSpeechContext": {
+      "english": "The state introduced a progressive taxation system to reduce income disparity.",
+      "tamil": "வருமான ஏற்றத்தாழ்வைக் குறைக்க மாநிலம் முற்போக்கு வரி விதிப்பு முறையை அறிமுகப்படுத்தியது.",
+      "sourceNote": "Fiscal Reform Paper"
+    },
+    "synonyms": [
+      "forward-looking",
+      "reformist",
+      "gradual"
+    ],
+    "antonyms": [
+      "regressive",
+      "conservative"
+    ]
+  },
+  {
+    "id": "prattling",
+    "word": "Prattling",
+    "partOfSpeech": "noun",
+    "difficulty": "Moderate",
+    "tags": [
+      "Arts & Culture",
+      "Literature"
+    ],
+    "englishDefinition": "Foolish or inconsequential talk.",
+    "tamilDefinition": "வீண் பேச்சு அல்லது மழலை பேச்சு.",
+    "literaryContext": {
+      "english": "The prattling of the young children brought warmth to the quiet hearth.",
+      "tamil": "சிறு குழந்தைகளின் மழலை பேச்சு அமைதியான அடுப்படிக்கு இதமளித்தது.",
+      "sourceNote": "Domestic Fiction"
+    },
+    "formalSpeechContext": {
+      "english": "The chairman dismissed the critic's comments as unhelpful prattling.",
+      "tamil": "விமர்சகரின் கருத்துக்களைத் தலைவத் உதவியற்ற வீண் பேச்சு என நிராகரித்தார்.",
+      "sourceNote": "Assembly Record"
+    },
+    "synonyms": [
+      "chatter",
+      "babble",
+      "gabble"
+    ],
+    "antonyms": [
+      "silence",
+      "wisdom"
+    ]
   }
 ];

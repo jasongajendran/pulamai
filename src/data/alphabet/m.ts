@@ -1278,5 +1278,36 @@ export const dataM: VocabularyEntry[] = [
       "absentmindedness",
       "distraction"
     ]
+  },
+  {
+    "id": "melee",
+    "word": "Melee",
+    "partOfSpeech": "noun",
+    "difficulty": "Advanced",
+    "tags": [
+      "Literature",
+      "Ethics & Society"
+    ],
+    "englishDefinition": "A confused fight, scuffle, or brawl.",
+    "tamilDefinition": "குழப்பமான சண்டை அல்லது கூச்சல் குழப்பம்.",
+    "literaryContext": {
+      "english": "The hero was separated from his companions in the chaotic melee.",
+      "tamil": "குழப்பமான சண்டையில் கதாநாயகன் தன் தோழர்களிடமிருந்து பிரிந்தான்.",
+      "sourceNote": "Fantasy Epic"
+    },
+    "formalSpeechContext": {
+      "english": "Police stepped in to quell the melee outside the stadium.",
+      "tamil": "அரங்கத்திற்கு வெளியே நடந்த கூச்சல் குழப்பத்தைத் தணிக்கக் காவல்துறையினர் தலையிட்டனர்.",
+      "sourceNote": "Security Briefing"
+    },
+    "synonyms": [
+      "scuffle",
+      "brawl",
+      "commotion"
+    ],
+    "antonyms": [
+      "peace",
+      "order"
+    ]
   }
 ];
