@@ -1046,36 +1046,6 @@ export const dataB: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "benevolent_inter_6",
-    "word": "Benevolent",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Well meaning, kindly, and charitable in spirit.",
-    "tamilDefinition": "நன்மை செய்யும் நற்குணம் கொண்ட, இரக்கமுள்ள.",
-    "literaryContext": {
-      "english": "A benevolent ruler ensured that no citizen suffered from hunger.",
-      "tamil": "ஒரு நற்குணமுள்ள ஆட்சியாளர் எந்தவொரு குடிமகனும் பசியால் அவதிப்படாமல் இருப்பதை உறுதி செய்தார்."
-    },
-    "formalSpeechContext": {
-      "english": "The foundation operates as a benevolent institution dedicated to global hunger relief.",
-      "tamil": "இந்த அறக்கட்டளை உலகளாவிய பசி நிவாரணத்திற்கு அர்ப்பணிக்கப்பட்ட ஒரு தொண்டு நிறுவனமாக செயல்படுகிறது."
-    },
-    "synonyms": [
-      "kind",
-      "charitable",
-      "magnanimous"
-    ],
-    "antonyms": [
-      "malevolent",
-      "cruel",
-      "spiteful"
-    ]
-  },
-  {
     "id": "boldness_inter_7",
     "word": "Boldness",
     "partOfSpeech": "noun",

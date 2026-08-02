@@ -988,37 +988,6 @@ export const dataA: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "articulate_2",
-    "word": "Articulate",
-    "partOfSpeech": "verb",
-    "difficulty": "Moderate",
-    "tags": [
-      "Formal Speech",
-      "Poetics & Rhetoric"
-    ],
-    "englishDefinition": "Express (an idea or feeling) fluently and coherently.",
-    "tamilDefinition": "தெளிவாக எடுத்துரைத்தல்; ஒரு கருத்தை அல்லது உணர்வை சரளமாகவும் கோர்வையாகவும் வெளிப்படுத்துதல்.",
-    "literaryContext": {
-      "english": "She struggled to articulate the deep sorrow that weighed heavily upon her heart.",
-      "tamil": "தன் இதயத்தை அழுத்திக் கொண்டிருந்த ஆழ்ந்த துயரத்தைத் தெளிவாக எடுத்துரைக்க அவள் போராடினாள்.",
-      "sourceNote": "Literary Character Study"
-    },
-    "formalSpeechContext": {
-      "english": "The spokesperson was able to articulate the company's vision with great clarity.",
-      "tamil": "நிறுவனத்தின் தொலைநோக்குப் பார்வையை செய்தித் தொடர்பாளர் மிகுந்த தெளிவுடன் எடுத்துரைத்தார்.",
-      "sourceNote": "Corporate Speech"
-    },
-    "synonyms": [
-      "express",
-      "enunciate",
-      "vocalize"
-    ],
-    "antonyms": [
-      "mumble",
-      "obscure"
-    ]
-  },
-  {
     "id": "allusion",
     "word": "Allusion",
     "partOfSpeech": "noun",

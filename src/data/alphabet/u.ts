@@ -958,36 +958,6 @@ export const dataU: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "ultimate_inter_3",
-    "word": "Ultimate",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Being or happening at the end of a process; final.",
-    "tamilDefinition": "இறுதி, உச்சகட்ட.",
-    "literaryContext": {
-      "english": "Our ultimate goal is to achieve sustainable growth.",
-      "tamil": "எங்களின் இறுதி இலக்கு நிலையான வளர்ச்சியை அடைவதாகும்."
-    },
-    "formalSpeechContext": {
-      "english": "The ultimate objective of economic diplomacy is sustainable global prosperity.",
-      "tamil": "பொருளாதார ராஜதந்திரத்தின் இறுதி நோக்கம் நிலையான உலகளாவிய செழிப்பாகும்."
-    },
-    "synonyms": [
-      "final",
-      "supreme",
-      "conclusive"
-    ],
-    "antonyms": [
-      "initial",
-      "first",
-      "beginning"
-    ]
-  },
-  {
     "id": "universal_inter_4",
     "word": "Universal",
     "partOfSpeech": "adjective",
@@ -1078,36 +1048,6 @@ export const dataU: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "ultimate_inter_7",
-    "word": "Ultimate",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Being or happening at the end of a process; final.",
-    "tamilDefinition": "இறுதியான, மிக உயர்ந்த.",
-    "literaryContext": {
-      "english": "Truth is the ultimate goal of philosophical inquiry.",
-      "tamil": "உண்மையே தத்துவ விசாரணையின் மிக உயர்ந்த இலக்காகும்."
-    },
-    "formalSpeechContext": {
-      "english": "Ensuring citizen well-being remains the ultimate mandate of public governance.",
-      "tamil": "குடிமக்களின் நல்வாழ்வை உறுதி செய்வதே பொது ஆட்சியின் இறுதிப் பணியாகும்."
-    },
-    "synonyms": [
-      "final",
-      "supreme",
-      "ultimate"
-    ],
-    "antonyms": [
-      "initial",
-      "beginning",
-      "minor"
-    ]
-  },
-  {
     "id": "uplift_inter_8",
     "word": "Uplift",
     "partOfSpeech": "verb",
@@ -1135,36 +1075,6 @@ export const dataU: VocabularyEntry[] = [
       "depress",
       "degrade",
       "discourage"
-    ]
-  },
-  {
-    "id": "unanimous_inter_9",
-    "word": "Unanimous",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Fully in agreement by two or more people.",
-    "tamilDefinition": "ஏகமனதான, ஒருமித்த கருத்துள்ள.",
-    "literaryContext": {
-      "english": "The committee reached a unanimous decision on the policy.",
-      "tamil": "குழு கொள்கை குறித்து ஏகமனதான முடிவை எட்டியது."
-    },
-    "formalSpeechContext": {
-      "english": "The parliament passed the disaster relief funding bill with a unanimous vote.",
-      "tamil": "பேரிடர் நிவாரண நிதி மசோதாவை நாடாளுமன்றம் ஏகமனதாக நிறைவேற்றியது."
-    },
-    "synonyms": [
-      "united",
-      "concordant",
-      "agreed"
-    ],
-    "antonyms": [
-      "divided",
-      "disputed",
-      "conflicting"
     ]
   },
   {

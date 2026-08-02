@@ -987,68 +987,6 @@ export const dataE: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "empirical_2",
-    "word": "Empirical",
-    "partOfSpeech": "adj.",
-    "difficulty": "Moderate",
-    "tags": [
-      "Science",
-      "Philosophy"
-    ],
-    "englishDefinition": "Based on, concerned with, or verifiable by observation or experience rather than theory or pure logic.",
-    "tamilDefinition": "அனுபவபூர்வமான அல்லது செய்முறை அடிப்படையிலான.",
-    "literaryContext": {
-      "english": "The philosopher argued that empirical evidence is the only reliable source of human knowledge.",
-      "tamil": "அனுபவபூர்வமான சான்றுகள் மட்டுமே மனித அறிவின் ஒரே நம்பகமான ஆதாரம் என்று அந்தத் தத்துவவாதி வாதிட்டார்.",
-      "sourceNote": "Philosophical Treatise"
-    },
-    "formalSpeechContext": {
-      "english": "The new drug was approved only after extensive empirical studies demonstrated its safety.",
-      "tamil": "விரிவான செய்முறை ஆய்வுகள் அதன் பாதுகாப்பை நிரூபித்த பின்னரே புதிய மருந்துக்கு ஒப்புதல் அளிக்கப்பட்டது.",
-      "sourceNote": "Medical Conference"
-    },
-    "synonyms": [
-      "observational",
-      "experiential",
-      "practical"
-    ],
-    "antonyms": [
-      "theoretical",
-      "hypothetical"
-    ]
-  },
-  {
-    "id": "epistle_2",
-    "word": "Epistle",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Biblical Studies",
-      "Literature"
-    ],
-    "englishDefinition": "A letter, especially a formal or didactic one; a book of the New Testament in the form of a letter from an Apostle.",
-    "tamilDefinition": "நிருபம் அல்லது திருமுகம்; ஒரு முறையான கடிதம், குறிப்பாக வேதாகமத்தில் உள்ள அப்போஸ்தலர்களின் கடிதங்கள்.",
-    "literaryContext": {
-      "english": "He penned a lengthy epistle to his beloved, detailing his travels across the continent.",
-      "tamil": "கண்டம் முழுவதுமான தனது பயணங்களை விவரித்து, அவர் தனது காதலிக்கு ஒரு நீண்ட கடிதத்தை எழுதினார்.",
-      "sourceNote": "Historical Romance"
-    },
-    "formalSpeechContext": {
-      "english": "In this course, we will critically analyze the theological arguments presented in Paul's epistle to the Romans.",
-      "tamil": "இப்பாடநெறியில், ரோமர்களுக்கு எழுதிய பவுலின் நிருபத்தில் முன்வைக்கப்பட்டுள்ள இறையியல் வாதங்களை நாம் விமர்சன ரீதியாக ஆராய்வோம்.",
-      "sourceNote": "Theology Lecture"
-    },
-    "synonyms": [
-      "formal letter",
-      "missive",
-      "communication"
-    ],
-    "antonyms": [
-      "verbal message",
-      "oral tradition"
-    ]
-  },
-  {
     "id": "essential_inter_1",
     "word": "Essential",
     "partOfSpeech": "adjective",
@@ -1169,66 +1107,6 @@ export const dataE: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "empathy_inter_5",
-    "word": "Empathy",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "The ability to understand and share the feelings of another.",
-    "tamilDefinition": "சக மனிதரின் உணர்வுகளைப் புரிந்து கொள்ளும் திறன்.",
-    "literaryContext": {
-      "english": "Showing empathy helps build strong relationships.",
-      "tamil": "அனுதாபத்தைக் காட்டுவது வலுவான உறவுகளை உருவாக்க உதவுகிறது."
-    },
-    "formalSpeechContext": {
-      "english": "Effective community leadership demands profound empathy toward public concerns.",
-      "tamil": "பயனுள்ள சமூக தலைமைத்துவத்திற்கு பொதுமக்களின் கவலைகள் குறித்து ஆழ்ந்த அனுதாபம் தேவைப்படுகிறது."
-    },
-    "synonyms": [
-      "compassion",
-      "understanding",
-      "sympathy"
-    ],
-    "antonyms": [
-      "apathy",
-      "indifference",
-      "callousness"
-    ]
-  },
-  {
-    "id": "eloquent_inter_6",
-    "word": "Eloquent",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Fluent, persuasive, and expressive in speaking or writing.",
-    "tamilDefinition": "சொல்லாற்றல் மிக்க, கம்பீரமான பேச்சாற்றல் கொண்ட.",
-    "literaryContext": {
-      "english": "An eloquent orator moved the crowd to tears with his passionate plea.",
-      "tamil": "ஒரு கம்பீரமான பேச்சாளர் தன் உணர்ச்சிமிக்க வேண்டுகோளால் கூட்டத்தினரை கண்ணீர் சிந்த வைத்தார்."
-    },
-    "formalSpeechContext": {
-      "english": "The keynote speaker offered an eloquent defense of universal human rights.",
-      "tamil": "முக்கிய பேச்சாளர் உலகளாவிய மனித உரிமைகளுக்கு ஆதரவாக கம்பீரமான உரையை வழங்கினார்."
-    },
-    "synonyms": [
-      "articulate",
-      "persuasive",
-      "expressive"
-    ],
-    "antonyms": [
-      "inarticulate",
-      "mute",
-      "unpersuasive"
-    ]
-  },
-  {
     "id": "endurance_inter_7",
     "word": "Endurance",
     "partOfSpeech": "noun",
@@ -1316,36 +1194,6 @@ export const dataE: VocabularyEntry[] = [
       "inactivity",
       "idleness",
       "apathy"
-    ]
-  },
-  {
-    "id": "equanimity_inter_10",
-    "word": "Equanimity",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Mental calmness, composure, and evenness of temper in crisis.",
-    "tamilDefinition": "மன அமைதி, சமநிலை மனப்பான்மை, பதற்றமின்மை.",
-    "literaryContext": {
-      "english": "He accepted both victory and defeat with unwavering equanimity.",
-      "tamil": "அவர் வெற்றியையும் தோல்வியையும் தளராத சமநிலை மனப்பான்மையுடன் ஏற்றுக்கொண்டார்."
-    },
-    "formalSpeechContext": {
-      "english": "The crisis manager maintained admirable equanimity during emergency proceedings.",
-      "tamil": "அவசரகால நடவடிக்கைகளின் போது அவசரகால மேலாளர் போற்றத்தக்க மன அமைதியைப் பேணினார்."
-    },
-    "synonyms": [
-      "composure",
-      "serenity",
-      "calmness"
-    ],
-    "antonyms": [
-      "agitation",
-      "anxiety",
-      "excitement"
     ]
   },
   {

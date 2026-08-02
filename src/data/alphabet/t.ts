@@ -950,66 +950,6 @@ export const dataT: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "tangible_inter_1",
-    "word": "Tangible",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Perceptible by touch; clear and definite.",
-    "tamilDefinition": "தொட்டுணரக்கூடிய, தெளிவான.",
-    "literaryContext": {
-      "english": "The investments produced tangible results within six months.",
-      "tamil": "முதலீடுகள் ஆறு மாதங்களுக்குள் தெளிவான முடிவுகளைத் தந்தன."
-    },
-    "formalSpeechContext": {
-      "english": "Effective fiscal policies must yield tangible benefits for working families.",
-      "tamil": "பயனுள்ள நிதிப் கொள்கைகள் உழைக்கும் குடும்பங்களுக்கு புலப்படக்கூடிய நன்மைகளைத் தர வேண்டும்."
-    },
-    "synonyms": [
-      "concrete",
-      "palpable",
-      "real"
-    ],
-    "antonyms": [
-      "intangible",
-      "abstract",
-      "unreal"
-    ]
-  },
-  {
-    "id": "thorough_inter_2",
-    "word": "Thorough",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Complete with regard to every detail; meticulous.",
-    "tamilDefinition": "முழுமையான, ஆழமான.",
-    "literaryContext": {
-      "english": "The police conducted a thorough investigation of the crime scene.",
-      "tamil": "போலீசார் குற்றவாளி இடத்தில் முழுமையான விசாரணை நடத்தினர்."
-    },
-    "formalSpeechContext": {
-      "english": "The parliamentary audit committee conducted a thorough investigation into public spending.",
-      "tamil": "நாடாளுமன்ற தணிக்கைக் குழு பொதுச் செலவினங்கள் குறித்து முழுமையான விசாரணையை நடத்தியது."
-    },
-    "synonyms": [
-      "meticulous",
-      "exhaustive",
-      "detailed"
-    ],
-    "antonyms": [
-      "superficial",
-      "careless",
-      "hasty"
-    ]
-  },
-  {
     "id": "transform_inter_3",
     "word": "Transform",
     "partOfSpeech": "verb",
@@ -1037,36 +977,6 @@ export const dataT: VocabularyEntry[] = [
       "preserve",
       "maintain",
       "keep"
-    ]
-  },
-  {
-    "id": "tolerant_inter_4",
-    "word": "Tolerant",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Showing willingness to allow the existence of opinions.",
-    "tamilDefinition": "சகிப்புத்தன்மை கொண்ட.",
-    "literaryContext": {
-      "english": "A civil society is respectful and tolerant of diverse views.",
-      "tamil": "ஒரு நாகரீக சமூகம் பல்வேறு கருத்துக்களை மதிக்கும் மற்றும் சகிப்புத்தன்மையுடன் இருக்கும்."
-    },
-    "formalSpeechContext": {
-      "english": "Building a tolerant pluralistic society requires respecting diverse cultural viewpoints.",
-      "tamil": "சகிப்புத்தன்மை கொண்ட பன்முக சமூகத்தை உருவாக்க பல்வேறு கலாச்சாரக் கருத்துக்களை மதிப்பீடு செய்ய வேண்டும்."
-    },
-    "synonyms": [
-      "forbearing",
-      "broad-minded",
-      "patient"
-    ],
-    "antonyms": [
-      "intolerant",
-      "prejudiced",
-      "narrow-minded"
     ]
   },
   {
@@ -1100,36 +1010,6 @@ export const dataT: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "tranquility_inter_6",
-    "word": "Tranquility",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "The quality or state of being tranquil; calm.",
-    "tamilDefinition": "அமைதி, அமைதியான சூழல்.",
-    "literaryContext": {
-      "english": "The ancient temple radiated an aura of deep tranquility.",
-      "tamil": "பண்டைய கோவில் ஆழமான அமைதியின் சூழலை வீசியது."
-    },
-    "formalSpeechContext": {
-      "english": "Maintaining regional civic tranquility is essential for attracting economic investment.",
-      "tamil": "பொருளாதார முதலீட்டை ஈர்ப்பதற்கு பிராந்திய குடிமை அமைதியைப் பேணுவது அவசியமாகும்."
-    },
-    "synonyms": [
-      "calmness",
-      "serenity",
-      "peacefulness"
-    ],
-    "antonyms": [
-      "chaos",
-      "commotion",
-      "disturbance"
-    ]
-  },
-  {
     "id": "triumph_inter_7",
     "word": "Triumph",
     "partOfSpeech": "noun",
@@ -1157,36 +1037,6 @@ export const dataT: VocabularyEntry[] = [
       "defeat",
       "failure",
       "loss"
-    ]
-  },
-  {
-    "id": "tenacity_inter_8",
-    "word": "Tenacity",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "The quality or fact of being able to grip something firmly.",
-    "tamilDefinition": "விடாப்பிடித் தன்மை, மனஉறுதி.",
-    "literaryContext": {
-      "english": "Her tenacity in pursuing truth inspired all journalists.",
-      "tamil": "உண்மையைத் தேடுவதில் அவளது விடாப்பிடித் தன்மை அனைத்து செய்தியாளர்களையும் ஊக்கப்படுத்தியது."
-    },
-    "formalSpeechContext": {
-      "english": "Achieving long-term diplomatic consensus demands patience and strategic tenacity.",
-      "tamil": "நீண்டகால ராஜதந்திர உடன்பாட்டை அடைவதற்கு பொறுமையும் உத்திசார்ந்த மனஉறுதியும் தேவைப்படுகிறது."
-    },
-    "synonyms": [
-      "persistence",
-      "determination",
-      "grit"
-    ],
-    "antonyms": [
-      "weakness",
-      "hesitation",
-      "surrender"
     ]
   },
   {

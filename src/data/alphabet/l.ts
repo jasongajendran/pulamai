@@ -947,36 +947,6 @@ export const dataL: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "leisure_inter_3",
-    "word": "Leisure",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Use of free time for enjoyment.",
-    "tamilDefinition": "ஓய்வு நேரம், ஓய்வு.",
-    "literaryContext": {
-      "english": "He enjoys playing chess in his leisure hours.",
-      "tamil": "அவர் தனது ஓய்வு நேரத்தில் சதுரங்கம் விளையாடுவதை ரசிக்கிறார்."
-    },
-    "formalSpeechContext": {
-      "english": "Developing public parks promotes health and accessible leisure for urban families.",
-      "tamil": "பொதுப் பூங்காக்களை மேம்படுத்துவது நகர்ப்புற குடும்பங்களுக்கு நல்வாழ்வையும் அணுகக்கூடிய ஓய்வையும் ஊக்குவிக்கிறது."
-    },
-    "synonyms": [
-      "free time",
-      "recreation",
-      "relaxation"
-    ],
-    "antonyms": [
-      "work",
-      "labor",
-      "drudgery"
-    ]
-  },
-  {
     "id": "limitless_inter_4",
     "word": "Limitless",
     "partOfSpeech": "adjective",
@@ -1004,36 +974,6 @@ export const dataL: VocabularyEntry[] = [
       "limited",
       "restricted",
       "finite"
-    ]
-  },
-  {
-    "id": "lucid_inter_5",
-    "word": "Lucid",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Expressed clearly; easy to understand.",
-    "tamilDefinition": "தெளிவான, எளிதில் புரியக்கூடிய.",
-    "literaryContext": {
-      "english": "The author gave a lucid explanation of complex quantum mechanics.",
-      "tamil": "ஆசிரியர் சிக்கலான குவாண்டம் இயக்கவியலைத் தெளிவாக விளக்கி கூறினார்."
-    },
-    "formalSpeechContext": {
-      "english": "The treasurer presented a lucid financial outline that simplified complex budget figures.",
-      "tamil": "பொருளாளர் சிக்கலான வரவு செலவுத் திட்ட எண்களை எளிதாக்கும் தெளிவான நிதி வரைபடத்தை முன்வைத்தார்."
-    },
-    "synonyms": [
-      "clear",
-      "intelligible",
-      "comprehensible"
-    ],
-    "antonyms": [
-      "confusing",
-      "unclear",
-      "obscure"
     ]
   },
   {
@@ -1097,36 +1037,6 @@ export const dataL: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "legacy_inter_8",
-    "word": "Legacy",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Something handed down from an ancestor or predecessor.",
-    "tamilDefinition": "பரம்பரைச் சொத்து, வரலாற்றுக்கொடை.",
-    "literaryContext": {
-      "english": "His greatest legacy was a foundation that educated thousands.",
-      "tamil": "ஆயிரக்கணக்கானோருக்குக் கல்வி கற்பித்த அறக்கட்டளையே அவரது சிறந்த வரலாற்றுக்கொடையாகும்."
-    },
-    "formalSpeechContext": {
-      "english": "The former senator left a lasting legacy of infrastructure investment and educational funding.",
-      "tamil": "முன்னாள் செனட்டர் உள்கட்டமைப்பு முதலீடு மற்றும் கல்வி நிதியுதவியின் நீடித்த பாரம்பரியத்தை விட்டுச் சென்றார்."
-    },
-    "synonyms": [
-      "inheritance",
-      "bequest",
-      "heritage"
-    ],
-    "antonyms": [
-      "debt",
-      "loss",
-      "disgrace"
-    ]
-  },
-  {
     "id": "loftiness_inter_9",
     "word": "Loftiness",
     "partOfSpeech": "noun",
@@ -1154,36 +1064,6 @@ export const dataL: VocabularyEntry[] = [
       "baseness",
       "humility",
       "lowness"
-    ]
-  },
-  {
-    "id": "laudable_inter_10",
-    "word": "Laudable",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Deserving praise and commendation.",
-    "tamilDefinition": "பாராட்டத்தக்க, போற்றத்தக்க.",
-    "literaryContext": {
-      "english": "Her laudable efforts in environmental conservation bore fruit.",
-      "tamil": "சுற்றுச்சூழல் பாதுகாப்பில் அவளது பாராட்டத்தக்க முயற்சிகள் பலனளித்தன."
-    },
-    "formalSpeechContext": {
-      "english": "The NGO received praise for its laudable efforts in combating rural poverty.",
-      "tamil": "கிராமப்புற வறுமையை எதிர்த்துப் போராடுவதில் மேற்கொண்ட பாராட்டுக்குரிய முயற்சிகளுக்காக அந்த அரசு சாரா நிறுவனம் பாராட்டைப் பெற்றது."
-    },
-    "synonyms": [
-      "praiseworthy",
-      "commendable",
-      "admirable"
-    ],
-    "antonyms": [
-      "blameworthy",
-      "discreditable",
-      "despicable"
     ]
   },
   {

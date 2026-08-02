@@ -1151,36 +1151,6 @@ export const dataR: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "renaissance_inter_10",
-    "word": "Renaissance",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "A revival of or renewed interest in something.",
-    "tamilDefinition": "மறுமலர்ச்சி, புதிய எழுச்சி.",
-    "literaryContext": {
-      "english": "The city experienced a cultural renaissance in music and art.",
-      "tamil": "நகரம் இசை மற்றும் கலையில் ஒரு கலாச்சார மறுமலர்ச்சியை அனுபவித்தது."
-    },
-    "formalSpeechContext": {
-      "english": "Increased funding ignited an academic and artistic renaissance across higher education institutions.",
-      "tamil": "அதிகரிக்கப்பட்ட நிதி ஒதுக்கீடு உயர்கல்வி நிறுவனங்களில் ஒரு கல்வி மற்றும் கலை மறுமலர்ச்சியை மூட்டியது."
-    },
-    "synonyms": [
-      "revival",
-      "rebirth",
-      "resurgence"
-    ],
-    "antonyms": [
-      "decline",
-      "death",
-      "decay"
-    ]
-  },
-  {
     "id": "rendezvous",
     "word": "Rendezvous",
     "partOfSpeech": "noun",

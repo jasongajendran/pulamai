@@ -997,37 +997,6 @@ export const dataP: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "parable_2",
-    "word": "Parable",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Biblical Studies",
-      "Literature"
-    ],
-    "englishDefinition": "A simple story used to illustrate a moral or spiritual lesson, as told by Jesus in the Gospels.",
-    "tamilDefinition": "உவமைக்கதை; தார்மீக அல்லது ஆன்மீகப் பாடங்களை விளக்குவதற்குப் பயன்படுத்தப்படும் எளிய கதை.",
-    "literaryContext": {
-      "english": "The master teacher often used a short parable to convey profound truths to the common people.",
-      "tamil": "தலைசிறந்த போதகர் பெரும்பாலும் சாமானிய மக்களுக்கு ஆழ்ந்த உண்மைகளைத் தெரிவிக்க ஒரு குறுகிய உவமைக்கதையைப் பயன்படுத்தினார்.",
-      "sourceNote": "Theological Study"
-    },
-    "formalSpeechContext": {
-      "english": "Let us reflect on the parable of the sower and its relevance to our own spiritual growth.",
-      "tamil": "விதைப்பவனின் உவமைக்கதையையும், அது நமது சொந்த ஆன்மீக வளர்ச்சிக்கு எவ்வாறு பொருந்துகிறது என்பதையும் நாம் சிந்திப்போம்.",
-      "sourceNote": "Sunday Sermon"
-    },
-    "synonyms": [
-      "allegory",
-      "fable",
-      "moral tale"
-    ],
-    "antonyms": [
-      "historical fact",
-      "literal record"
-    ]
-  },
-  {
     "id": "policy",
     "word": "Policy",
     "partOfSpeech": "noun",
@@ -1206,36 +1175,6 @@ export const dataP: VocabularyEntry[] = [
       "past",
       "former",
       "previous"
-    ]
-  },
-  {
-    "id": "perseverance_inter_6",
-    "word": "Perseverance",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Persistence in doing something despite difficulty or delay.",
-    "tamilDefinition": "விடாமுயற்சி, தளராத மனம்.",
-    "literaryContext": {
-      "english": "His perseverance led to a monumental scientific breakthrough.",
-      "tamil": "அவரது விடாமுயற்சி ஒரு மாபெரும் அறிவியல் திருப்புமுனைக்கு வழிவகுத்தது."
-    },
-    "formalSpeechContext": {
-      "english": "Scientific discovery is built upon years of methodical perseverance and rigorous peer review.",
-      "tamil": "அறிவியல் கண்டுபிடிப்பானது பல வருட முறையான விடாமுயற்சி மற்றும் கடுமையான மதிப்புரைகளின் மீது கட்டமைக்கப்பட்டுள்ளது."
-    },
-    "synonyms": [
-      "persistence",
-      "tenacity",
-      "dedication"
-    ],
-    "antonyms": [
-      "apathy",
-      "surrender",
-      "laziness"
     ]
   },
   {

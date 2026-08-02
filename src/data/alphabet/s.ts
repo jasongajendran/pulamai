@@ -960,37 +960,6 @@ export const dataS: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "scripture_2",
-    "word": "Scripture",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Biblical Studies",
-      "Theology & Religion"
-    ],
-    "englishDefinition": "The sacred writings of Christianity or another religion.",
-    "tamilDefinition": "வேதநூல் அல்லது திருமுறை; கிறிஸ்தவத்தின் அல்லது பிற மதத்தின் புனித எழுத்துக்கள்.",
-    "literaryContext": {
-      "english": "The scholar spent his life translating ancient scripture into modern languages.",
-      "tamil": "பண்டைய வேதநூல்களை நவீன மொழிகளில் மொழிபெயர்ப்பதிலேயே அந்த அறிஞர் தன் வாழ்நாளைக் கழித்தார்.",
-      "sourceNote": "Historical Biography"
-    },
-    "formalSpeechContext": {
-      "english": "Our understanding of these events is heavily influenced by the texts found in scripture.",
-      "tamil": "இந்த நிகழ்வுகளைப் பற்றிய நமது புரிதல் வேதத்தில் உள்ள உரைகளால் பெரிதும் பாதிக்கப்பட்டுள்ளது.",
-      "sourceNote": "Theology Lecture"
-    },
-    "synonyms": [
-      "sacred text",
-      "holy writing",
-      "gospel"
-    ],
-    "antonyms": [
-      "secular writing",
-      "profane literature"
-    ]
-  },
-  {
     "id": "subtle_inter_1",
     "word": "Subtle",
     "partOfSpeech": "adjective",

@@ -936,36 +936,6 @@ export const dataJ: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "journey_inter_3",
-    "word": "Journey",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "An act of traveling from one place to another.",
-    "tamilDefinition": "பயணம்.",
-    "literaryContext": {
-      "english": "The long journey across the mountains took three days.",
-      "tamil": "மலைகள் வழியேயான நீண்ட பயணம் மூன்று நாட்கள் பிடித்தது."
-    },
-    "formalSpeechContext": {
-      "english": "The nation journey toward digital governance requires continuous legislative adaptation.",
-      "tamil": "டிஜிட்டல் ஆட்சியை நோக்கிய தேசத்தின் பயணம் தொடர்ச்சியான சட்டத் தழுவலைக் கோருகிறது."
-    },
-    "synonyms": [
-      "trip",
-      "expedition",
-      "voyage"
-    ],
-    "antonyms": [
-      "stagnation",
-      "stay",
-      "halt"
-    ]
-  },
-  {
     "id": "judgment_inter_4",
     "word": "Judgment",
     "partOfSpeech": "noun",
@@ -993,36 +963,6 @@ export const dataJ: VocabularyEntry[] = [
       "indecision",
       "ignorance",
       "foolishness"
-    ]
-  },
-  {
-    "id": "joyful_inter_5",
-    "word": "Joyful",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Feeling, expressing, or causing great pleasure and happiness.",
-    "tamilDefinition": "மகிழ்ச்சியான, உவகை தரும்.",
-    "literaryContext": {
-      "english": "The wedding was a joyful celebration for the entire village.",
-      "tamil": "திருமணம் கிராமம் முழுவதற்கும் ஒரு மகிழ்ச்சியான கொண்டாட்டமாக இருந்தது."
-    },
-    "formalSpeechContext": {
-      "english": "The peaceful resolution of treaty negotiations was a joyful milestone for both nations.",
-      "tamil": "ஒப்பந்த பேச்சுவார்த்தைகளின் அமைதியான முடிவு இரு நாடுகளுக்கும் ஒரு மகிழ்ச்சியான மைல்கல்லாக இருந்தது."
-    },
-    "synonyms": [
-      "delighted",
-      "cheerful",
-      "ecstatic"
-    ],
-    "antonyms": [
-      "sad",
-      "miserable",
-      "sorrowful"
     ]
   },
   {
@@ -1083,96 +1023,6 @@ export const dataJ: VocabularyEntry[] = [
       "illegal",
       "extrajudicial",
       "arbitrary"
-    ]
-  },
-  {
-    "id": "judicious_inter_8",
-    "word": "Judicious",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Having, showing, or done with good judgment or wisdom.",
-    "tamilDefinition": "அறிவுப்பூர்வமான, சிந்தித்துச் செயல்படும்.",
-    "literaryContext": {
-      "english": "A judicious choice of words averted a heated argument.",
-      "tamil": "வார்த்தைகளின் அறிவுப்பூர்வமான தேர்வு ஒரு காரசாரமான விவாதத்தைத் தவிர்த்தது."
-    },
-    "formalSpeechContext": {
-      "english": "Judicious allocation of state reserves cushioned the economy against global inflation.",
-      "tamil": "மாநில இருப்புகளின் விவேகமான ஒதுக்கீடு உலகளாவிய பணவீக்கத்திலிருந்து பொருளாதாரத்தைப் பாதுகாத்தது."
-    },
-    "synonyms": [
-      "prudent",
-      "wise",
-      "sensible"
-    ],
-    "antonyms": [
-      "foolish",
-      "imprudent",
-      "rash"
-    ]
-  },
-  {
-    "id": "juxtapose_inter_9",
-    "word": "Juxtapose",
-    "partOfSpeech": "verb",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "To place or deal with close together for contrasting effect.",
-    "tamilDefinition": "ஒப்பிடுவதற்காக அருகருகே வைத்தல்.",
-    "literaryContext": {
-      "english": "The exhibition juxtaposed modern paintings with ancient sculptures.",
-      "tamil": "கண்காட்சி நவீன ஓவியங்களை பண்டைய சிற்பங்களுடன் ஒப்பிடுவதற்காக அருகருகே வைத்தது."
-    },
-    "formalSpeechContext": {
-      "english": "Analysts juxtapose economic statistics from last decade with current financial trends.",
-      "tamil": "பகுப்பாய்வாளர்கள் கடந்த தசாப்தத்தின் பொருளாதார புள்ளிவிவரங்களை தற்போதைய நிதிப்போக்குகளுடன் ஒப்பிட்டுக் காட்டுகிறார்கள்."
-    },
-    "synonyms": [
-      "compare",
-      "contrast",
-      "collocate"
-    ],
-    "antonyms": [
-      "separate",
-      "isolate",
-      "disconnect"
-    ]
-  },
-  {
-    "id": "jubilant_inter_10",
-    "word": "Jubilant",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Feeling or expressing great happiness and triumph.",
-    "tamilDefinition": "மிக்க மகிழ்ச்சியடைந்த, வெற்றிக்களிப்புள்ள.",
-    "literaryContext": {
-      "english": "The jubilant crowd cheered as the team lifted the trophy.",
-      "tamil": "அணி கோப்பையை உயர்த்தியபோது வெற்றிக்களிப்புள்ள கூட்டம் ஆரவாரம் செய்தது."
-    },
-    "formalSpeechContext": {
-      "english": "The parliament floor was jubilant after passing the healthcare expansion bill.",
-      "tamil": "சுகாதார விரிவாக்க மசோதாவை நிறைவேற்றிய பிறகு நாடாளுமன்றத் தளம் மகிழ்ச்சியில் திளைத்தது."
-    },
-    "synonyms": [
-      "exultant",
-      "overjoyed",
-      "elated"
-    ],
-    "antonyms": [
-      "despondent",
-      "mournful",
-      "gloomy"
     ]
   },
   {

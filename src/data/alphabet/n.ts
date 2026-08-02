@@ -818,66 +818,6 @@ export const dataN: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "narrative_2",
-    "word": "Narrative",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature"
-    ],
-    "englishDefinition": "A spoken or written account of connected events; a story.",
-    "tamilDefinition": "கதைசொல்லல் அல்லது விவரிப்பு; ஒன்றோடொன்று தொடர்புடைய நிகழ்வுகளின் தொகுப்பு.",
-    "literaryContext": {
-      "english": "The author weaves a compelling narrative that keeps the reader engaged.",
-      "tamil": "ஆசிரியர் ஒரு ஈர்க்கக்கூடிய கதையை பின்னுகிறார், இது வாசகரை ஈடுபாட்டுடன் வைத்திருக்கிறது.",
-      "sourceNote": "Literary Review"
-    },
-    "formalSpeechContext": {
-      "english": "We must carefully construct a narrative that highlights our company's journey.",
-      "tamil": "நமது நிறுவனத்தின் பயணத்தை சிறப்பித்துக் காட்டும் ஒரு விவரிப்பை நாம் கவனமாக உருவாக்க வேண்டும்.",
-      "sourceNote": "Business Strategy Meeting"
-    },
-    "synonyms": [
-      "account",
-      "story",
-      "chronicle"
-    ],
-    "antonyms": [
-      "disconnected data",
-      "raw log"
-    ]
-  },
-  {
-    "id": "notable_inter_1",
-    "word": "Notable",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Worthy of attention or notice; remarkable.",
-    "tamilDefinition": "குறிப்பிடத்தக்க, புகழ்பெற்ற.",
-    "literaryContext": {
-      "english": "There was a notable improvement in student attendance.",
-      "tamil": "மாணவர்களின் வருகையில் குறிப்பிடத்தக்க முன்னேற்றம் ஏற்பட்டது."
-    },
-    "formalSpeechContext": {
-      "english": "The committee achieved a notable reduction in annual administrative expenditure.",
-      "tamil": "ஆண்டு நிர்வாகச் செலவினங்களில் ஒரு குறிப்பிடத்தக்க குறைப்பை குழு அடைந்தது."
-    },
-    "synonyms": [
-      "remarkable",
-      "striking",
-      "significant"
-    ],
-    "antonyms": [
-      "unremarkable",
-      "insignificant",
-      "ordinary"
-    ]
-  },
-  {
     "id": "neutral_inter_2",
     "word": "Neutral",
     "partOfSpeech": "adjective",

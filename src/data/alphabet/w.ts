@@ -883,36 +883,6 @@ export const dataW: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "wisdom_inter_1",
-    "word": "Wisdom",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "The quality of having experience, knowledge, and good judgment.",
-    "tamilDefinition": "ஞானம், விவேகம்.",
-    "literaryContext": {
-      "english": "The old scholar shared his wisdom with the young students.",
-      "tamil": "முதிய அறிஞர் தன் ஞானத்தை இளம் மாணவர்களுடன் பகிர்ந்து கொண்டார்."
-    },
-    "formalSpeechContext": {
-      "english": "Statecraft requires the wisdom to balance diplomatic caution with strategic action.",
-      "tamil": "அரசியல் கலைக்கு ராஜதந்திர எச்சரிக்கையையும் உத்திசார்ந்த நடவடிக்கையையும் சமநிலைப்படுத்தும் ஞானம் தேவைப்படுகிறது."
-    },
-    "synonyms": [
-      "sagacity",
-      "discernment",
-      "insight"
-    ],
-    "antonyms": [
-      "folly",
-      "foolishness",
-      "ignorance"
-    ]
-  },
-  {
     "id": "worthy_inter_2",
     "word": "Worthy",
     "partOfSpeech": "adjective",
@@ -1033,36 +1003,6 @@ export const dataW: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "wisdom_inter_6",
-    "word": "Wisdom",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "The quality of having experience, knowledge, and good judgment.",
-    "tamilDefinition": "ஞானம், அறிவாற்றல்.",
-    "literaryContext": {
-      "english": "True wisdom lies in knowing the extent of one ignorance.",
-      "tamil": "தன் அறியாமையின் அளவை அறிவதிலேயே உண்மையான ஞானம் உள்ளது."
-    },
-    "formalSpeechContext": {
-      "english": "Collective parliamentary wisdom guided the nation through economic crisis.",
-      "tamil": "கூட்டு நாடாளுமன்ற ஞானம் பொருளாதார நெருக்கடியின் போது தேசத்தை வழிநடத்தியது."
-    },
-    "synonyms": [
-      "sagacity",
-      "insight",
-      "discernment"
-    ],
-    "antonyms": [
-      "foolishness",
-      "ignorance",
-      "stupidity"
-    ]
-  },
-  {
     "id": "welcoming_inter_7",
     "word": "Welcoming",
     "partOfSpeech": "adjective",
@@ -1090,36 +1030,6 @@ export const dataW: VocabularyEntry[] = [
       "unwelcoming",
       "cold",
       "hostile"
-    ]
-  },
-  {
-    "id": "worthy_inter_8",
-    "word": "Worthy",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Having or showing the qualities that deserve respect.",
-    "tamilDefinition": "தகுதியான, மரியாதைக்குரிய.",
-    "literaryContext": {
-      "english": "Educating poor children is a cause worthy of support.",
-      "tamil": "ஏழை குழந்தைகளுக்குக் கல்வி கற்பிப்பது ஆதரவிற்குத் தகுதியான ஒரு காரணமாகும்."
-    },
-    "formalSpeechContext": {
-      "english": "Combating climate change is a noble cause worthy of global collaboration.",
-      "tamil": "காலநிலை மாற்றத்தை எதிர்த்துப் போராடுவது உலகளாவிய ஒத்துழைப்பிற்குத் தகுதியான ஒரு உன்னதமான நோக்கமாகும்."
-    },
-    "synonyms": [
-      "deserving",
-      "meritorious",
-      "honorable"
-    ],
-    "antonyms": [
-      "unworthy",
-      "undeserving",
-      "disreputable"
     ]
   },
   {

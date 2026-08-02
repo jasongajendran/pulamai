@@ -1045,36 +1045,6 @@ export const dataF: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "fidelity_inter_6",
-    "word": "Fidelity",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Faithfulness to a person, cause, or belief.",
-    "tamilDefinition": "உண்மைத்தன்மை, விசுவாசம், மாறாத உண்மை.",
-    "literaryContext": {
-      "english": "Her fidelity to her principles earned her widespread acclaim.",
-      "tamil": "தன் கொள்கைகளின் மீதான அவளது விசுவாசம் அவளுக்கு பரவலான பாராட்டைப் பெற்றுத் தந்தது."
-    },
-    "formalSpeechContext": {
-      "english": "Public officials must maintain strict fidelity to constitutional laws and ethical standards.",
-      "tamil": "பொது அதிகாரிகள் அரசியலமைப்பு சட்டங்கள் மற்றும் ஒழுக்க நெறிமுறைகளுக்கு கண்டிப்பான விசுவாசத்தைப் பேண வேண்டும்."
-    },
-    "synonyms": [
-      "faithfulness",
-      "loyalty",
-      "devotion"
-    ],
-    "antonyms": [
-      "treachery",
-      "disloyalty",
-      "infidelity"
-    ]
-  },
-  {
     "id": "flourish_inter_7",
     "word": "Flourish",
     "partOfSpeech": "verb",
@@ -1102,36 +1072,6 @@ export const dataF: VocabularyEntry[] = [
       "wither",
       "decline",
       "fail"
-    ]
-  },
-  {
-    "id": "fortitude_inter_8",
-    "word": "Fortitude",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Courage and strength in bearing pain or adversity.",
-    "tamilDefinition": "மனஉறுதி, துன்பத்தை எதிர்கொள்ளும் தைரியம்.",
-    "literaryContext": {
-      "english": "She bore her long illness with quiet fortitude.",
-      "tamil": "அவள் தன் நீண்ட நோயை அமைதியான மனஉறுதியுடன் எதிர்கொண்டாள்."
-    },
-    "formalSpeechContext": {
-      "english": "The nation demonstrated remarkable fortitude during the economic downturn.",
-      "tamil": "பொருளாதார வீழ்ச்சியின் போது தேசம் குறிப்பிடத்தக்க மனஉறுதியை வெளிப்படுத்தியது."
-    },
-    "synonyms": [
-      "bravery",
-      "resilience",
-      "grit"
-    ],
-    "antonyms": [
-      "cowardice",
-      "weakness",
-      "timidity"
     ]
   },
   {

@@ -925,38 +925,6 @@ export const dataC: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "consensus_2",
-    "word": "Consensus",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Politics",
-      "Ethics & Society"
-    ],
-    "englishDefinition": "A general agreement.",
-    "tamilDefinition": "ஒருமித்த கருத்து அல்லது பொது ஒப்புதல்.",
-    "literaryContext": {
-      "english": "After hours of heated debate, a fragile consensus finally emerged among the council members.",
-      "tamil": "மணிக்கணக்கான காரசாரமான விவாதத்திற்குப் பிறகு, சபை உறுப்பினர்களிடையே இறுதியாக ஒரு பலவீனமான ஒருமித்த கருத்து உருவானது.",
-      "sourceNote": "Historical Drama"
-    },
-    "formalSpeechContext": {
-      "english": "We must build a broad consensus before implementing these far-reaching educational reforms.",
-      "tamil": "இந்த விரிவான கல்விச் சீர்திருத்தங்களைச் செயல்படுத்துவதற்கு முன் நாம் பரந்த ஒருமித்த கருத்தை உருவாக்க வேண்டும்.",
-      "sourceNote": "Policy Briefing"
-    },
-    "synonyms": [
-      "agreement",
-      "harmony",
-      "unanimity"
-    ],
-    "antonyms": [
-      "disagreement",
-      "conflict",
-      "discord"
-    ]
-  },
-  {
     "id": "civic",
     "word": "Civic",
     "partOfSpeech": "adj.",
@@ -1015,36 +983,6 @@ export const dataC: VocabularyEntry[] = [
     "antonyms": [
       "concrete object",
       "physical reality"
-    ]
-  },
-  {
-    "id": "candid_inter_1",
-    "word": "Candid",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Truthful and straightforward; frank.",
-    "tamilDefinition": "நேர்மையான, வெளிப்படையான.",
-    "literaryContext": {
-      "english": "His candid remarks surprised everyone at the meeting.",
-      "tamil": "அவரது வெளிப்படையான கருத்துக்கள் கூட்டத்தில் இருந்த அனைவரையும் ஆச்சரியப்படுத்தின."
-    },
-    "formalSpeechContext": {
-      "english": "The Chief Executive provided a candid assessment of the quarter financial challenges.",
-      "tamil": "தலைமை நிர்வாக அதிகாரி காலாண்டு நிதி சவால்கள் குறித்த வெளிப்படையான மதிப்பீட்டை வழங்கினார்."
-    },
-    "synonyms": [
-      "frank",
-      "honest",
-      "direct"
-    ],
-    "antonyms": [
-      "evasive",
-      "deceitful",
-      "insincere"
     ]
   },
   {
@@ -1165,36 +1103,6 @@ export const dataC: VocabularyEntry[] = [
       "discomfort",
       "distress",
       "pain"
-    ]
-  },
-  {
-    "id": "compassion_inter_6",
-    "word": "Compassion",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Sympathetic pity and concern for the sufferings of others.",
-    "tamilDefinition": "கருணை, மற்றவர்களின் துன்பத்தைக் கண்டு இரங்கும் நற்குணம்.",
-    "literaryContext": {
-      "english": "Her deep compassion prompted her to establish a shelter for the homeless.",
-      "tamil": "அவளது ஆழமான கருணை வீடற்றவர்களுக்கு ஒரு புகலிடத்தை நிறுவத் தூண்டியது."
-    },
-    "formalSpeechContext": {
-      "english": "Humane governance requires leading with deep compassion toward vulnerable communities.",
-      "tamil": "மனிதநேய ஆட்சிக்கு பாதிக்கப்படக்கூடிய சமூகங்கள் மீது ஆழமான கருணையுடன் வழிநடத்துவது அவசியம்."
-    },
-    "synonyms": [
-      "empathy",
-      "mercy",
-      "sympathy"
-    ],
-    "antonyms": [
-      "cruelty",
-      "indifference",
-      "harshness"
     ]
   },
   {

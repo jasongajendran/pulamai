@@ -1074,66 +1074,6 @@ export const dataI: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "integrity_inter_6",
-    "word": "Integrity",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "The quality of being honest and having strong moral principles.",
-    "tamilDefinition": "நேர்மை, நாணயம், ஒழுக்க நெறி.",
-    "literaryContext": {
-      "english": "A leader of true integrity cannot be corrupted.",
-      "tamil": "உண்மையான நேர்மையுள்ள தலைவரை ஊழல் செய்ய முடியாது."
-    },
-    "formalSpeechContext": {
-      "english": "Public institutions must uphold strict financial integrity and ethical standards.",
-      "tamil": "பொது நிறுவனங்கள் கடுமையான நிதி நேர்மையையும் ஒழுக்க நெறிமுறைத் தரங்களையும் பேண வேண்டும்."
-    },
-    "synonyms": [
-      "honesty",
-      "uprightness",
-      "probity"
-    ],
-    "antonyms": [
-      "dishonesty",
-      "corruption",
-      "deceit"
-    ]
-  },
-  {
-    "id": "illuminate_inter_7",
-    "word": "Illuminate",
-    "partOfSpeech": "verb",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "To help clarify or explain something clearly; to light up.",
-    "tamilDefinition": "விளக்குதல், ஒளிமயமாக்குதல்.",
-    "literaryContext": {
-      "english": "The professor lecture served to illuminate the difficult topic.",
-      "tamil": "பேராசிரியரின் சொற்பொழிவு அந்தச் சிக்கலான தலைப்பை விளக்க உதவியது."
-    },
-    "formalSpeechContext": {
-      "english": "Empirical research serves to illuminate the underlying causes of social inequality.",
-      "tamil": "ஆராய்ச்சி சோதனைகள் சமூக சமத்துவமின்மையின் அடிப்படை காரணங்களை தெளிவுபடுத்த உதவுகின்றன."
-    },
-    "synonyms": [
-      "clarify",
-      "enlighten",
-      "brighten"
-    ],
-    "antonyms": [
-      "obscure",
-      "darken",
-      "confuse"
-    ]
-  },
-  {
     "id": "innovation_inter_8",
     "word": "Innovation",
     "partOfSpeech": "noun",
@@ -1191,36 +1131,6 @@ export const dataI: VocabularyEntry[] = [
       "expendable",
       "unnecessary",
       "optional"
-    ]
-  },
-  {
-    "id": "impartial_inter_10",
-    "word": "Impartial",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Treating all rivals or disputants equally; unbiased.",
-    "tamilDefinition": "நடுநிலையான, பட்சபாதமற்ற.",
-    "literaryContext": {
-      "english": "An impartial judge ensures a fair trial for everyone.",
-      "tamil": "ஒரு நடுநிலையான நீதிபதி அனைவருக்கும் நியாயமான விசாரணையை உறுதிசெய்கிறார்."
-    },
-    "formalSpeechContext": {
-      "english": "An impartial judiciary is essential for administering equal justice under the law.",
-      "tamil": "சட்டத்தின் கீழ் சமமான நீதியை வழங்குவதற்கு நடுநிலையான நீதித்துறை அவசியமாகும்."
-    },
-    "synonyms": [
-      "unbiased",
-      "fair",
-      "neutral"
-    ],
-    "antonyms": [
-      "biased",
-      "partial",
-      "prejudiced"
     ]
   },
   {

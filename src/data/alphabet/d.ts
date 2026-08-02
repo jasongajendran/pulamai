@@ -913,37 +913,6 @@ export const dataD: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "doctrine_2",
-    "word": "Doctrine",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Theology & Religion",
-      "Politics"
-    ],
-    "englishDefinition": "A belief or set of beliefs held and taught by a Church, political party, or other group.",
-    "tamilDefinition": "கோட்பாடு அல்லது சித்தாந்தம்; ஒரு மதத்தாலோ அல்லது அரசியல் கட்சியாலோ கற்பிக்கப்படும் நம்பிக்கைகள்.",
-    "literaryContext": {
-      "english": "The strict adherence to ancient doctrine often stifled free thought in the community.",
-      "tamil": "பண்டைய கோட்பாடுகளைக் கடுமையாகப் பின்பற்றியமை பெரும்பாலும் அந்தச் சமூகத்தில் சுதந்திரமான சிந்தனையை முடக்கியது.",
-      "sourceNote": "Historical Commentary"
-    },
-    "formalSpeechContext": {
-      "english": "The founding members established a clear doctrine to guide the organization's future endeavors.",
-      "tamil": "நிறுவனத்தின் எதிர்கால முயற்சிகளை வழிநடத்துவதற்கு அதன் நிறுவன உறுப்பினர்கள் ஒரு தெளிவான கோட்பாட்டை உருவாக்கினர்.",
-      "sourceNote": "Organizational Charter"
-    },
-    "synonyms": [
-      "dogma",
-      "tenet",
-      "creed"
-    ],
-    "antonyms": [
-      "heresy",
-      "skepticism"
-    ]
-  },
-  {
     "id": "durable_inter_1",
     "word": "Durable",
     "partOfSpeech": "adjective",

@@ -894,68 +894,6 @@ export const dataH: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "hypothesis_2",
-    "word": "Hypothesis",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Science",
-      "Philosophy"
-    ],
-    "englishDefinition": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
-    "tamilDefinition": "கருதுகோள்; மேலதிக ஆய்விற்கான தொடக்கப் புள்ளியாக அமையும் ஒரு உத்தேச விளக்கம்.",
-    "literaryContext": {
-      "english": "The detective formed a bold hypothesis regarding the true identity of the culprit.",
-      "tamil": "குற்றவாளியின் உண்மையான அடையாளம் குறித்து துப்பறிவாளர் ஒரு துணிச்சலான கருதுகோளை உருவாக்கினார்.",
-      "sourceNote": "Mystery Fiction"
-    },
-    "formalSpeechContext": {
-      "english": "Our initial hypothesis was disproven by the results of the comprehensive study.",
-      "tamil": "விரிவான ஆய்வின் முடிவுகளால் எங்களது ஆரம்பக் கருதுகோள் தவறானது என நிரூபிக்கப்பட்டது.",
-      "sourceNote": "Scientific Presentation"
-    },
-    "synonyms": [
-      "theory",
-      "supposition",
-      "postulate"
-    ],
-    "antonyms": [
-      "fact",
-      "proof"
-    ]
-  },
-  {
-    "id": "heritage_2",
-    "word": "Heritage",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Arts & Culture",
-      "Ethics & Society"
-    ],
-    "englishDefinition": "Property that is or may be inherited; an inheritance; valued objects and qualities passed down from previous generations.",
-    "tamilDefinition": "பாரம்பரியம் அல்லது மரபுச்செல்வம்; முந்தைய தலைமுறையினரிடமிருந்து பெறப்பட்ட மதிப்புமிக்க பண்புகள் மற்றும் பொருட்கள்.",
-    "literaryContext": {
-      "english": "The old ruins stand as a silent testament to the rich heritage of the region.",
-      "tamil": "பழைய இடிபாடுகள் இப்பகுதியின் வளமான பாரம்பரியத்திற்கு மௌன சாட்சியாக நிற்கின்றன.",
-      "sourceNote": "Travelogue"
-    },
-    "formalSpeechContext": {
-      "english": "It is our collective duty to preserve this cultural heritage for future generations.",
-      "tamil": "இந்த கலாச்சாரப் பாரம்பரியத்தை எதிர்கால சந்ததியினருக்காகப் பாதுகாப்பது நமது கூட்டுப் பொறுப்பாகும்.",
-      "sourceNote": "UNESCO Address"
-    },
-    "synonyms": [
-      "legacy",
-      "inheritance",
-      "tradition"
-    ],
-    "antonyms": [
-      "divestment",
-      "disinheritance"
-    ]
-  },
-  {
     "id": "humble_inter_1",
     "word": "Humble",
     "partOfSpeech": "adjective",
@@ -983,66 +921,6 @@ export const dataH: VocabularyEntry[] = [
       "arrogant",
       "proud",
       "boastful"
-    ]
-  },
-  {
-    "id": "harmony_inter_2",
-    "word": "Harmony",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Agreement or concord; pleasant musical sound.",
-    "tamilDefinition": "இணக்கம், சீரான இசை அல்லது உறவு.",
-    "literaryContext": {
-      "english": "Living in harmony with nature brings peace.",
-      "tamil": "இயற்கையோடு இணக்கமாக வாழ்வது அமைதியைத் தருகிறது."
-    },
-    "formalSpeechContext": {
-      "english": "Promoting social harmony requires protecting cultural diversity and minority rights.",
-      "tamil": "சமூக நல்லிணக்கத்தை மேம்படுத்துவதற்கு கலாச்சார பன்முகத்தன்மை மற்றும் சிறுபான்மையினரின் உரிமைகளைப் பாதுகாப்பது அவசியம்."
-    },
-    "synonyms": [
-      "concord",
-      "unity",
-      "agreement"
-    ],
-    "antonyms": [
-      "discord",
-      "conflict",
-      "friction"
-    ]
-  },
-  {
-    "id": "hazard_inter_3",
-    "word": "Hazard",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "A danger or risk.",
-    "tamilDefinition": "ஆபத்து, இடர்.",
-    "literaryContext": {
-      "english": "Icy roads present a serious hazard to drivers.",
-      "tamil": "பனிக்கட்டி சாலைகள் ஓட்டுநர்களுக்கு கடுமையான ஆபத்தை விளைவிக்கின்றன."
-    },
-    "formalSpeechContext": {
-      "english": "Strict industrial safety protocols minimize environmental hazards in chemical plants.",
-      "tamil": "கண்டிப்பான தொழில்துறை பாதுகாப்பு நெறிமுறைகள் இரசாயன ஆலைகளில் சுற்றுச்சூழல் ஆபத்துக்களைக் குறைக்கின்றன."
-    },
-    "synonyms": [
-      "danger",
-      "risk",
-      "peril"
-    ],
-    "antonyms": [
-      "safety",
-      "security",
-      "protection"
     ]
   },
   {
@@ -1106,36 +984,6 @@ export const dataH: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "heritage_inter_6",
-    "word": "Heritage",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Valued traditions, culture, or property inherited from ancestors.",
-    "tamilDefinition": "பாரம்பரியம், மரபுச் சொத்து.",
-    "literaryContext": {
-      "english": "The monument is a proud symbol of our cultural heritage.",
-      "tamil": "இந்த நினைவுச் சின்னம் நமது கலாச்சார பாரம்பரியத்தின் பெருமைமிக்க அடையாளமாகும்."
-    },
-    "formalSpeechContext": {
-      "english": "Preserving national heritage sites fosters cultural pride and boosts international tourism.",
-      "tamil": "தேசிய பாரம்பரிய இடங்களைப் பாதுகாப்பது கலாச்சார பெருமையை வளர்ப்பதுடன் சர்வதேச சுற்றுலாவையும் ஊக்குவிக்கிறது."
-    },
-    "synonyms": [
-      "legacy",
-      "tradition",
-      "ancestry"
-    ],
-    "antonyms": [
-      "poverty",
-      "forgetfulness",
-      "destruction"
-    ]
-  },
-  {
     "id": "horizon_inter_7",
     "word": "Horizon",
     "partOfSpeech": "noun",
@@ -1163,66 +1011,6 @@ export const dataH: VocabularyEntry[] = [
       "limitation",
       "center",
       "interior"
-    ]
-  },
-  {
-    "id": "heroic_inter_8",
-    "word": "Heroic",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Having the extraordinary courage or characteristics of a hero.",
-    "tamilDefinition": "வீர காவியமான, தீரமிக்க.",
-    "literaryContext": {
-      "english": "His heroic actions saved many lives during the flood.",
-      "tamil": "வெள்ளத்தின் போது அவரது தீரமிக்க செயல்கள் பல உயிர்களைக் காப்பாற்றின."
-    },
-    "formalSpeechContext": {
-      "english": "Parliament recognized the heroic contributions of frontline emergency personnel.",
-      "tamil": "முன்னணி அவசரகாலப் பணியாளர்களின் வீரமிக்க பங்களிப்பை நாடாளுமன்றம் அங்கீகரித்தது."
-    },
-    "synonyms": [
-      "valiant",
-      "courageous",
-      "intrepid"
-    ],
-    "antonyms": [
-      "cowardly",
-      "timid",
-      "fearful"
-    ]
-  },
-  {
-    "id": "hospitality_inter_9",
-    "word": "Hospitality",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "The friendly and generous reception and entertainment of guests.",
-    "tamilDefinition": "விருந்தோம்பல், உபசரிப்பு.",
-    "literaryContext": {
-      "english": "The villagers welcomed the travelers with warm hospitality.",
-      "tamil": "கிராம மக்கள் பயணிகளை வெதுவெதுப்பான விருந்தோம்பலுடன் வரவேற்றனர்."
-    },
-    "formalSpeechContext": {
-      "english": "The international summit showcased the nation warmth and traditional hospitality.",
-      "tamil": "சர்வதேச உச்சிமாநாடு நாட்டின் அன்பையும் பாரம்பரிய உபசரிப்பையும் வெளிப்படுத்தியது."
-    },
-    "synonyms": [
-      "welcoming",
-      "warmth",
-      "friendliness"
-    ],
-    "antonyms": [
-      "hostility",
-      "unfriendliness",
-      "rejection"
     ]
   },
   {

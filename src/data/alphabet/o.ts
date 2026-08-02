@@ -895,37 +895,6 @@ export const dataO: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "observation_2",
-    "word": "Observation",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Science",
-      "Philosophy"
-    ],
-    "englishDefinition": "The action or process of observing something or someone carefully or in order to gain information.",
-    "tamilDefinition": "உற்றுநோக்கல் அல்லது கவனிப்பு; தகவலைப் பெறுவதற்காக ஒன்றைக் கவனமாகப் பார்க்கும் செயல்.",
-    "literaryContext": {
-      "english": "Through keen observation of nature, the author found inspiration for his stories.",
-      "tamil": "இயற்கையைக் கூர்மையாக உற்றுநோக்கியதன் மூலம், ஆசிரியர் தனது கதைகளுக்கான உத்வேகத்தைக் கண்டார்.",
-      "sourceNote": "Author's Memoir"
-    },
-    "formalSpeechContext": {
-      "english": "Scientific observation is the first step in formulating a valid hypothesis.",
-      "tamil": "விஞ்ஞான ரீதியான உற்றுநோக்கலே சரியான கருதுகோளை உருவாக்குவதற்கான முதல் படியாகும்.",
-      "sourceNote": "Science Symposium"
-    },
-    "synonyms": [
-      "scrutiny",
-      "monitoring",
-      "examination"
-    ],
-    "antonyms": [
-      "disregard",
-      "inattention"
-    ]
-  },
-  {
     "id": "orator",
     "word": "Orator",
     "partOfSpeech": "noun",
@@ -1047,36 +1016,6 @@ export const dataO: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "obstacle_inter_4",
-    "word": "Obstacle",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "A thing that blocks one way or prevents progress.",
-    "tamilDefinition": "தடை, இடையூறு.",
-    "literaryContext": {
-      "english": "Perseverance helped her overcome every obstacle.",
-      "tamil": "மனஉறுதி அவளுக்கு ஒவ்வொரு தடையையும் கடக்க உதவியது."
-    },
-    "formalSpeechContext": {
-      "english": "Regulatory bureaucracy remains a primary obstacle to small business expansion.",
-      "tamil": "சிறு தொழில் விரிவாக்கத்திற்கு ஒழுங்குமுறை அதிகாரவர்க்கம் ஒரு முதன்மைத் தடையாக உள்ளது."
-    },
-    "synonyms": [
-      "barrier",
-      "hurdle",
-      "impediment"
-    ],
-    "antonyms": [
-      "advantage",
-      "aid",
-      "assistance"
-    ]
-  },
-  {
     "id": "outline_inter_5",
     "word": "Outline",
     "partOfSpeech": "noun",
@@ -1194,36 +1133,6 @@ export const dataO: VocabularyEntry[] = [
       "succumb",
       "fail",
       "surrender"
-    ]
-  },
-  {
-    "id": "objective_inter_9",
-    "word": "Objective",
-    "partOfSpeech": "noun",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "A thing aimed at or sought; a goal.",
-    "tamilDefinition": "குறிக்கோள், இலக்கு.",
-    "literaryContext": {
-      "english": "Our primary objective is to improve quality of life.",
-      "tamil": "வாழ்க்கைத் தரத்தை மேம்படுத்துவதே நமது முதன்மை குறிக்கோள்."
-    },
-    "formalSpeechContext": {
-      "english": "Our primary strategic objective is reducing carbon emissions by forty percent.",
-      "tamil": "கார்பன் உமிழ்வை நாற்பது சதவீதம் குறைப்பதே நமது முதன்மை உத்திசார்ந்த இலக்காகும்."
-    },
-    "synonyms": [
-      "goal",
-      "target",
-      "aim"
-    ],
-    "antonyms": [
-      "randomness",
-      "aimlessness",
-      "distraction"
     ]
   },
   {

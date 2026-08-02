@@ -1010,36 +1010,6 @@ export const dataM: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "motivate_inter_2",
-    "word": "Motivate",
-    "partOfSpeech": "verb",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Provide someone with a reason for doing something.",
-    "tamilDefinition": "ஊக்கப்படுத்துதல்.",
-    "literaryContext": {
-      "english": "Praise from teachers can motivate students to perform better.",
-      "tamil": "ஆசிரியர்களின் பாராட்டு மாணவர்களைச் சிறப்பாகச் செய்ய ஊக்கப்படுத்தும்."
-    },
-    "formalSpeechContext": {
-      "english": "Competitive grants motivate research institutions to pursue groundbreaking innovations.",
-      "tamil": "போட்டி மானியங்கள் ஆராய்ச்சி நிறுவனங்களை முன்னோடி கண்டுபிடிப்புகளைத் தொடர ஊக்குவிக்கின்றன."
-    },
-    "synonyms": [
-      "encourage",
-      "inspire",
-      "stimulate"
-    ],
-    "antonyms": [
-      "discourage",
-      "deter",
-      "dissuade"
-    ]
-  },
-  {
     "id": "modest_inter_3",
     "word": "Modest",
     "partOfSpeech": "adjective",

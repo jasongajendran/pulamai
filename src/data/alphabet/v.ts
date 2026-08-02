@@ -954,36 +954,6 @@ export const dataV: VocabularyEntry[] = [
     ]
   },
   {
-    "id": "vibrant_inter_2",
-    "word": "Vibrant",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Full of energy and enthusiasm; bright and striking.",
-    "tamilDefinition": "துடிப்பான, பிரகாசமான.",
-    "literaryContext": {
-      "english": "The city market was colorful and vibrant.",
-      "tamil": "நகர சந்தை வண்ணமயமானதாகவும் துடிப்பானதாகவும் இருந்தது."
-    },
-    "formalSpeechContext": {
-      "english": "Supporting local arts programs fosters a vibrant cultural landscape in our cities.",
-      "tamil": "உள்ளூர் கலைத் திட்டங்களை ஆதரிப்பது நமது நகரங்களில் ஒரு துடிப்பான கலாச்சார சூழலை வளர்க்கிறது."
-    },
-    "synonyms": [
-      "lively",
-      "energetic",
-      "brilliant"
-    ],
-    "antonyms": [
-      "dull",
-      "lifeless",
-      "drab"
-    ]
-  },
-  {
     "id": "vital_inter_3",
     "word": "Vital",
     "partOfSpeech": "adjective",
@@ -1011,36 +981,6 @@ export const dataV: VocabularyEntry[] = [
       "unimportant",
       "trivial",
       "minor"
-    ]
-  },
-  {
-    "id": "versatile_inter_4",
-    "word": "Versatile",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Able to adapt or be adapted to many different functions.",
-    "tamilDefinition": "பல்வேறு பயன்பாடுகளுக்கு ஏற்ற, பன்முகத்தன்மை கொண்ட.",
-    "literaryContext": {
-      "english": "He is a versatile actor who plays both comedy and drama well.",
-      "tamil": "அவர் நகைச்சுவை மற்றும் நாடகம் இரண்டையும் சிறப்பாக நடிக்கும் ஒரு பன்முக நடிகர்."
-    },
-    "formalSpeechContext": {
-      "english": "A versatile workforce adapts seamlessly to technological advancements.",
-      "tamil": "பல்வேறு திறன்கள் கொண்ட பணியாளர்கள் தொழில்நுட்ப முன்னேற்றங்களுக்கு ஏற்ப தடையின்றி மாறுகிறார்கள்."
-    },
-    "synonyms": [
-      "adaptable",
-      "flexible",
-      "all-around"
-    ],
-    "antonyms": [
-      "inflexible",
-      "limited",
-      "rigid"
     ]
   },
   {
@@ -1161,36 +1101,6 @@ export const dataV: VocabularyEntry[] = [
       "immoral",
       "wicked",
       "sinful"
-    ]
-  },
-  {
-    "id": "versatile_inter_9",
-    "word": "Versatile",
-    "partOfSpeech": "adjective",
-    "difficulty": "Moderate",
-    "tags": [
-      "Literature",
-      "Formal Speech"
-    ],
-    "englishDefinition": "Able to adapt or be adapted to many different functions.",
-    "tamilDefinition": "பல்முனைத் திறனுள்ள, பல்துறை வல்லமை பெற்ற.",
-    "literaryContext": {
-      "english": "The versatile actor performed effortlessly in drama and comedy.",
-      "tamil": "பல்முனைத் திறனுள்ள நடிகர் நாடகத்திலும் நகைச்சுவையிலும் சிரமமின்றி நடித்தார்."
-    },
-    "formalSpeechContext": {
-      "english": "Modern legislative bodies require versatile advisors proficient in technology and law.",
-      "tamil": "நவீன சட்டமன்ற அமைப்புகளுக்கு தொழில்நுட்பம் மற்றும் சட்டத்தில் திறமையான பல்துறை ஆலோசகர்கள் தேவைப்படுகிறார்கள்."
-    },
-    "synonyms": [
-      "adaptable",
-      "resourceful",
-      "flexible"
-    ],
-    "antonyms": [
-      "inflexible",
-      "limited",
-      "rigid"
     ]
   },
   {
